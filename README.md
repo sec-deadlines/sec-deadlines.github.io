@@ -46,7 +46,7 @@ Deadline field can contain:
 
 1. Simplest option: a date and time in ISO format. Example: `"2017-08-19 23:59"`.
 2. If a deadline is rolling, you can use template date, just substitute year with `%y`, or month with `%m`. Example: `"%y-%m-15 23:59"` means there is a deadline on the 15th day of every month, every year. `"2017-%m-15"` means a deadline on 15th day of every month, but only in 2017, i.e. `"2018-01-15"` is not a part of this template.
-2. A list of (1) or (2). Example of two rolling deadlines, one in the end of May every year, and second in the end of January:
+2. A list of (1) or (2). Example of two rolling deadlines, one in the end of May every year, and second in the end of February:
   ```
   - "%y-05-31 23:59"
   - "%y-02-28 23:59"
