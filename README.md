@@ -25,6 +25,8 @@ Example record:
 
 Descriptions of the fields:
 
+| Field name    | Description                                                 |
+|---------------|-------------------------------------------------------------|
 | `name`\*      | Short conference name, without year                         |
 | `year`\*      | Year the conference is happening                            |
 | `description` | Description, or long name                                   |
@@ -56,8 +58,10 @@ On the page, all deadlines are displayed in viewer's local time (that's a featur
 
 ### Timezones
 
-Timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), these are un-ambiguous. Here are example of some common timezones:
+Timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), these are un-ambiguous. Here are tz codes for some common timezones:
 
+| Common name                   | tz                                                                 |
+|-------------------------------|--------------------------------------------------------------------|
 | UTC                           | `Etc/UTC`                                                          |
 | America Pacific Time          | `America/Los_Angeles`                                              |
 | Pacific Standard Time (UTC-8) | `Etc/GMT+8` (Yes, sign is inverted. I know.)                       |
