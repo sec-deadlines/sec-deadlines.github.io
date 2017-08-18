@@ -1,0 +1,7 @@
+---
+- name: Security
+  tag: SEC
+- name: Privacy
+  tag: PRIV
+- name: Crypto
+  tag: CRYPTO

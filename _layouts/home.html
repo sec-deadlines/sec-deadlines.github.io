@@ -1,0 +1,230 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
+    <link rel="stylesheet" type="text/css" href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}" media="screen,projection">
+    <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ "/static/js/jquery.countdown.min.js" | prepend:site.baseurl }}"></script>
+    <script src="{{ "/static/js/moment.min.js" | prepend:site.baseurl }}"></script>
+    <script src="{{ "/static/js/moment-timezone-with-data.min.js" | prepend:site.baseurl }}"></script>
+    <script src="{{ "/static/js/store.min.js" | prepend:site.baseurl }}"></script>
+
+  </head>
+  <body>
+    <div class="top-strip"></div>
+    <div class="container">
+      <div class="page-header">
+        <div class="row">
+          <div class="col-xs-12 col-sm-8">
+            <h1>
+              {{ site.title }}<br>
+              <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+              <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+            </h1>
+          </div>
+          <div class="col-xs-12">
+            {{ site.description }}
+            To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-xs-12">
+            <!-- <div class="well"> -->
+              <form class="form-inline">
+                <div class="form-group">
+                  {% for type in site.data.types %}
+                  <div class="checkbox">
+                    <label>
+                      <input type="checkbox" id="{{ type.sub }}-checkbox" class=""> {{ type.name }}
+                    </label>
+                  </div>
+                  {% endfor %}
+                </div>
+              </form>
+            <!-- </div> -->
+          </div>
+        </div>
+      </div>
+      <div class="conf-container">
+        {% for conf in site.data.conferences %}
+        <div id="{{ conf.name | append: conf.year | slugify }}" class="conf {% for sub in conf.sub %} {{sub}} {% endfor %}">
+          <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
+                <div class="meta">
+                  {{ conf.description }}<br>
+                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-6">
+                <span class="timer"></span>
+                <div class="deadline">
+                  <div>Deadline:
+                    <span class="deadline-time"></span>
+                    <div class="meta">
+                      {{ conf.comment }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+          <hr>
+        </div>
+        {% endfor %}
+      </div>
+      <footer>
+        Maintained by @<a href="//twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>.
+      </footer>
+    </div>
+    <script type="text/javascript" charset="utf-8">
+    $(function() {
+      deadlineByConf = {};
+
+      {% for conf in site.data.conferences %}
+      {% assign conf_id = conf.name | append: conf.year | slugify %}
+      {% if conf.deadline == "TBA" %}
+      $('#{{ conf_id }} .timer').html("TBA");
+      $('#{{ conf_id }} .deadline-time').html("TBA");
+      deadlineByConf["{{ conf_id }}"] = moment();
+
+      {% else %}
+      var rawDeadlines = {{ conf.deadline | jsonify }} || [];
+      if (rawDeadlines.constructor !== Array) {
+        rawDeadlines = [rawDeadlines];
+      }
+      var parsedDeadlines = [];
+      while (rawDeadlines.length > 0) {
+        var rawDeadline = rawDeadlines.pop();
+        // check if deadline is template
+        if (rawDeadline.indexOf('%m') >= 0) {
+          for (var m = 1; m <= 12; m++) {
+            rawDeadlines.push(rawDeadline.replace('%m', m < 10 ? '0' + m : m));
+          }
+        } else if (rawDeadline.indexOf('%y') >= 0) {
+          year = parseInt(moment().year());
+          rawDeadlines.push(rawDeadline.replace('%y', year));
+          rawDeadlines.push(rawDeadline.replace('%y', year + 1));
+        } else {
+          // adjust date according to deadline timezone
+          {% if conf.timezone %}
+          var deadline = moment.tz(rawDeadline, "{{ conf.timezone }}");
+          {% else %}
+          var deadline = moment(rawDeadline + "-12:00");
+          {% endif %}
+          parsedDeadlines.push(deadline);
+        }
+      }
+
+      // check which deadline is closest
+      var confDeadline = parsedDeadlines[0];
+      var today = moment();
+      for (var i = 1; i < parsedDeadlines.length; i++) {
+        deadlineCandidate = parsedDeadlines[i];
+          if ((today.diff(deadlineCandidate) < 0 && today.diff(deadlineCandidate) > today.diff(confDeadline))) {
+          confDeadline = deadlineCandidate;
+        }
+      }
+
+      // render countdown timer
+      if (confDeadline) {
+
+        $('#{{ conf_id }} .timer').countdown(confDeadline.toDate(), function(event) {
+          var today = moment();
+          if (today.diff(confDeadline) <= 0) {
+            $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
+          }
+        });
+
+        // check if date has passed, add 'past' class to it
+        if (today.diff(confDeadline) > 0) {
+          $('#{{ conf_id }}').addClass('past');
+        }
+
+        $('#{{ conf_id }} .deadline-time').html(confDeadline.local().format('D MMM YYYY, h:mm:ss a'));
+
+        deadlineByConf["{{ conf_id }}"] = confDeadline;
+      }
+      {% endif %}
+      {% endfor %}
+
+      // Reorder list
+      confs = $('.conf');
+      confs.detach().sort(function(a, b) {
+        return deadlineByConf[a.id] < deadlineByConf[b.id];
+      });
+      $('.conf-container').append(confs);
+
+      // Set checkboxes
+      var conf_type_data = {{ site.data.types | jsonify }};
+      var all_subs = [];
+      var toggle_status = {};
+      for (var i = 0; i < conf_type_data.length; i++) {
+        all_subs[i] = conf_type_data[i]['sub'];
+        toggle_status[all_subs[i]] = false;
+      }
+      var subs = store.get('{{ site.domain }}');
+      if (subs === undefined) {
+        subs = all_subs;
+      }
+      for (var i = 0; i < subs.length; i++) {
+        $('#' + subs[i] + '-checkbox').prop('checked', true);
+        toggle_status[subs[i]] = true;
+      }
+      store.set('{{ site.domain }}', subs);
+
+      function update_conf_list() {
+        confs.each(function(i, conf) {
+          var conf = $(conf);
+          var show = false;
+          for (var i = 0; i < all_subs.length; i++) {
+            if(conf.hasClass(all_subs[i])) {
+              show = show | toggle_status[all_subs[i]];
+            }
+          }
+          if (show) {
+            conf.show();
+          } else {
+            conf.hide()
+          }
+        });
+      }
+      update_conf_list();
+
+      // Event handler on checkbox change
+      $('form :checkbox').change(function(e) {
+        var checked = $(this).is(':checked');
+        var sub = $(this).prop('id').slice(0, -9);
+        toggle_status[sub] = checked;
+
+        if (checked == true) {
+          if (subs.indexOf(sub) < 0)
+            subs.push(sub);
+        }
+        else {
+          var idx = subs.indexOf(sub);
+          if (idx >= 0)
+            subs.splice(idx, 1);
+        }
+        store.set('{{ site.domain }}', subs);
+
+        update_conf_list();
+      });
+    });
+
+    <!-- Google analytics -->
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.ga_id }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
