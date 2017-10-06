@@ -1,6 +1,6 @@
 ---
 - name: S&P (Oakland)
-  year: 2019
+  year: 2018
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2018/
   deadline: "%y-%m-01 15:00"
