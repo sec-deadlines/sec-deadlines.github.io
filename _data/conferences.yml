@@ -188,3 +188,12 @@
   date: April 16-20
   place: San Francisco, CA, USA
   tags: CRYPTO
+
+- name: ACNS
+  description: International Conference on Applied Cryptography and Network Security
+  year: 2018
+  link: https://www.cosic.esat.kuleuven.be/events/acns2018/
+  deadline: "2018-01-26 23:59"
+  date: July 3-5
+  place: Leuven, BE
+  tags: [CRYPTO, SEC]
