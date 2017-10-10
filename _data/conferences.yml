@@ -197,3 +197,12 @@
   date: July 3-5
   place: Leuven, BE
   tags: [CRYPTO, SEC]
+
+- name: DPRIVE
+  description: DNS Privacy Workshop
+  year: 2018
+  link: https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-dnspriv/
+  deadline: "2017-12-08 23:59"
+  date: February 18
+  place: San Diego, CA, USA
+  tags: PRIV
