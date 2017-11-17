@@ -21,8 +21,8 @@
   description: Usenix Security Symposium
   year: 2018
   link: https://www.usenix.org/conference/usenixsecurity18
-  deadline: "2018-02-08 4:59"
-  timezone: Etc/UTC-8
+  deadline: "2018-02-08 16:59"
+  timezone: America/Los_Angeles
   date: "August 15-17"
   place: Baltimore, MD, USA
   tags: [SEC, PRIV]
