@@ -207,3 +207,12 @@
   date: February 18
   place: San Diego, CA, USA
   tags: PRIV
+
+- name: eCrime 2018
+  description: 13th Symposium on Electronic Crime Research
+  year: 2018
+  link: https://apwg.org/apwg-events/ecrime2018/cfp
+  deadline: "2018-03-02 23:59"
+  date: May 15-17
+  place: San Diego, CA, USA
+  tags: SEC
