@@ -1,4 +1,14 @@
 ---
+- name: CCS
+  description: ACM Conference on Computer and Communications Security
+  year: 2018
+  link: https://www.sigsac.org/ccs/CCS2018/
+  deadline: "2018-05-08 20:59"
+  timezone: Etc/GMT+7
+  date: "Oct 15 - Oct 19"
+  place: Toronto, Canada
+  tags: [SEC, PRIV]
+
 - name: S&P (Oakland)
   year: 2018
   description: IEEE Symposium on Security and Privacy
