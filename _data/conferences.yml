@@ -37,16 +37,6 @@
   place: Baltimore, MD, USA
   tags: [SEC, PRIV]
 
-- name: CCS
-  description: ACM Conference on Computer and Communications Security
-  year: 2017
-  link: https://www.sigsac.org/ccs/CCS2017
-  deadline: "2017-05-19 20:59"
-  timezone: Etc/GMT+7
-  date: "Oct 30 - Nov 3"
-  place: Dallas, USA
-  tags: [SEC, PRIV]
-
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2018
@@ -94,17 +84,17 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2017
-  link: https://www.ntnu.edu/esorics2017
-  deadline: "2017-05-22 23:59"
+  year: 2018
+  link: https://esorics2018.upc.edu/
+  deadline: "2018-04-18 11:59"
   timezone: Pacific/Samoa
   date: September 11-13
-  place: Oslo, Norway
+  place: Barcelona, Spain
   tags: [SEC, PRIV]
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2017
+  year: 2018
   link: https://www.acsac.org/
   deadline: "2017-06-08 23:59"
   timezone: America/New_York
@@ -114,22 +104,22 @@
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2017
-  link: https://www.iacr.org/workshops/tcc2017/
-  deadline: "2017-05-24 21:00"
+  year: 2018
+  link: https://www.iacr.org/workshops/tcc
+  deadline: False
   timezone: Etc/GMT+4
-  date: November 12-15
-  place: Baltimore, MD, USA
+  date: November
+  place: Goa, India
   tags: CRYPTO
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
-  year: 2017
-  link: https://asiacrypt.iacr.org/2017
-  deadline: "2017-05-19 02:00"
+  year: 2018
+  link: https://asiacrypt.iacr.org/2018
+  deadline: "2018-05-11 02:00"
   timezone: Etc/UTC
   date: December 3-17
-  place: Hong Kong, China
+  place: Brisbane, Australia
   tags: CRYPTO
 
 - name: FC
@@ -144,12 +134,12 @@
 
 - name: IMC
   description: Internet Measurement Conference
-  year: 2017
-  link: http://conferences.sigcomm.org/imc/2017
-  deadline: "2017-05-11 17:00"
+  year: 2018
+  link: http://conferences.sigcomm.org/imc/2018
+  deadline: "2018-05-18 17:00"
   timezone: America/Los_Angeles
-  date: November 1-3
-  place: London, UK
+  date: October 31 – November 2
+  place: Boston, MA, USA
   tags: SEC
 
 - name: RAID
@@ -173,11 +163,11 @@
 
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2017
-  link: http://csf2017.tecnico.ulisboa.pt/
-  deadline: "2017-02-17 23:59"
-  date: August 22-25
-  place: Santa Barbara, CA, USA
+  year: 2018
+  link: https://www.cs.ox.ac.uk/conferences/csf2018/
+  deadline: "2018-01-30 23:59"
+  date: July 9-12
+  place: Oxford, UK
   tags: [SEC, PRIV]
 
 - name: PKC
