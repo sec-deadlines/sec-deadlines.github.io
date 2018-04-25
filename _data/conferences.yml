@@ -104,9 +104,9 @@
   description: Theory of Cryptography Conference
   year: 2018
   link: https://www.iacr.org/workshops/tcc
-  deadline: False
-  timezone: Etc/GMT+4
-  date: November
+  deadline: "2018-05-17 22:00" 
+  timezone: Etc/UTC
+  date: November 11-14
   place: Goa, India
   tags: CRYPTO
 
