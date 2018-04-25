@@ -4,7 +4,6 @@
   year: 2018
   link: https://www.sigsac.org/ccs/CCS2018/
   deadline: "2018-05-08 23:59"
-  timezone: Etc/GMT+7
   date: "Oct 15 - Oct 19"
   place: Toronto, Canada
   tags: [SEC, PRIV]
@@ -87,7 +86,6 @@
   year: 2018
   link: https://esorics2018.upc.edu/
   deadline: "2018-04-24 23:59"
-  timezone: Pacific/Samoa
   date: September 11-13
   place: Barcelona, Spain
   tags: [SEC, PRIV]
