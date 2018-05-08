@@ -9,7 +9,7 @@
   tags: [SEC, PRIV]
 
 - name: S&P (Oakland)
-  year: 2018
+  year: 2019
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2018/
   deadline: "%y-%m-01 15:00"
@@ -206,7 +206,7 @@
   place: San Diego, CA, USA
   tags: PRIV
 
-- name: eCrime 2018
+- name: eCrime
   description: 13th Symposium on Electronic Crime Research
   year: 2018
   link: https://apwg.org/apwg-events/ecrime2018/cfp
