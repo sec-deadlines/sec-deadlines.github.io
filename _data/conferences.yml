@@ -1,12 +1,23 @@
 ---
-- name: PerCom
-  description: IEEE International Conference on Pervasive Computing and Communication
+- name: percom
+  description: ieee international conference on pervasive computing and communication
   year: 2019
   link: http://www.percom.org/
   deadline: "2018-09-14 23:59"
   date: "March 11 - March 15"
   place: Kyoto, Japan
   tags: [SEC, PRIV]
+
+- name: WPES
+  description: Workshop on Privacy in the Electronic Society
+  year: 2018
+  link: http://www.wpes.tech
+  deadline: "2018-07-25 23:59"
+  comment: Collocated with ACM CCS
+  date: "October 15"
+  place: Toronto, Canada
+  timezone: Etc/GMT+11
+  tags: [PRIV]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
