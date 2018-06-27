@@ -93,11 +93,11 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2018
-  link: https://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2018
-  deadline: "2017-08-11 23:59"
-  timezone: Etc/GMT+4
-  date: February 18-21
+  year: 2019
+  link: https://www.ndss-symposium.org/ndss2019/
+  deadline: "2018-08-07 23:59"
+  timezone: Etc/GMT-4
+  date: February 24-27
   place: San Diego, CA, USA
   tags: SEC
 
