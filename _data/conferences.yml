@@ -1,6 +1,26 @@
 ---
-- name: percom
-  description: ieee international conference on pervasive computing and communication
+- name: Eurocrypt
+  description: European Cryptology Conference
+  year: 2019
+  link: https://eurocrypt.iacr.org/2019/
+  deadline: "2018-10-04 11:59"
+  timezone: Europe/Zurich
+  date: May 19 - May 23
+  place: Darmstadt, Germany
+  tags: CRYPTO
+
+- name: FC
+  description: Financial Cryptography and Data Security
+  year: 2019
+  link: http://fc19.ifca.ai/
+  deadline: "2018-09-18 23:59"
+  timezone: Etc/GMT+11
+  date: "Feb 18 - 22"
+  place: St. Kitts
+  tags: CRYPTO
+
+- name: PerCom
+  description: IEEE International Conference on Pervasive Computing and Communication
   year: 2019
   link: http://www.percom.org/
   deadline: "2018-09-14 23:59"
@@ -71,6 +91,16 @@
   place: Barcelona, Spain
   tags: PRIV
 
+- name: RAID
+  description: International Symposium on Recent Advances in Intrusion Detection
+  year: 2018
+  link: https://www.raid2018.org/
+  deadline: "2018-04-03 07:59"
+  timezone: America/New_York
+  date: September 10-12
+  place: Heraklion, Crete, Greece 
+  tags: SEC
+
 - name: Crypto
   description: International Cryptology Conference
   year: 2018
@@ -79,16 +109,6 @@
   timezone: Etc/UTC
   date: August 20-24
   place: Santa Barbara, CA, USA
-  tags: CRYPTO
-
-- name: Eurocrypt
-  description: European Cryptology Conference
-  year: 2018
-  link: https://eurocrypt.iacr.org/2018/
-  deadline: "2017-09-19 21:59"
-  timezone: Etc/UTC
-  date: Apr 29 - May 3
-  place: Tel Aviv, Israel
   tags: CRYPTO
 
 - name: NDSS
@@ -140,15 +160,6 @@
   place: Brisbane, Australia
   tags: CRYPTO
 
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2018
-  link: http://fc18.ifca.ai/
-  deadline: "2017-09-15 23:59"
-  timezone: Etc/GMT+11
-  date: "Feb 26 - Mar 2"
-  place: Curaçao
-  tags: CRYPTO
 
 - name: IMC
   description: Internet Measurement Conference
@@ -158,16 +169,6 @@
   timezone: America/Los_Angeles
   date: October 31 – November 2
   place: Boston, MA, USA
-  tags: SEC
-
-- name: RAID
-  description: International Symposium on Recent Advances in Intrusion Detection
-  year: 2017
-  link: https://www.raid2017.org/
-  deadline: "2017-03-29 12:00"
-  timezone: America/Adak
-  date: September 18-20
-  place: Atlanta, GA, USA
   tags: SEC
 
 - name: DSN
