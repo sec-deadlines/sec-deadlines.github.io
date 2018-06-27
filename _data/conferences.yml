@@ -1,4 +1,14 @@
 ---
+- name: CT-RSA
+  description: RSA Conference Cryptographers’ Track
+  year: 2019
+  link: http://www.venus.dti.ne.jp/matsui/index.html
+  deadline: "2018-09-14 23:59"
+  timezone: Etc/GMT
+  date: March 4-8
+  place: San Francisco, CA, USA
+  tags: CRYPTO
+
 - name: Eurocrypt
   description: European Cryptology Conference
   year: 2019
@@ -197,16 +207,6 @@
   timezone: Etc/UTC
   date: March 25-28
   place: Rio De Janeiro, Brazil
-  tags: CRYPTO
-
-- name: CT-RSA
-  description: RSA Conference Cryptographers’ Track
-  year: 2018
-  link: https://www.cosic.esat.kuleuven.be/ct-rsa2018/
-  deadline: "2017-10-01 11:59"
-  timezone: Etc/GMT
-  date: April 16-20
-  place: San Francisco, CA, USA
   tags: CRYPTO
 
 - name: ACNS
