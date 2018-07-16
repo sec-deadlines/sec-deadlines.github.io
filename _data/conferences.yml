@@ -1,4 +1,14 @@
 ---
+- name: EuroS&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2019
+  link: https://www.ieee-security.org/TC/EuroSP2019/
+  deadline: "2018-11-13 23:59"
+  comment: Abstract Registration until 2018-10-15
+  date: "June 17 - June 19"
+  place: Stockholm, Sweden
+  tags: [SEC, PRIV]
+  
 - name: CT-RSA
   description: RSA Conference Cryptographers’ Track
   year: 2019
