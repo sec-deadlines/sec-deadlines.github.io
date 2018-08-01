@@ -1,4 +1,64 @@
 ---
+- name: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2019
+  link: https://www.ieee-security.org/TC/EuroSP2019/
+  deadline: "2018-11-13 23:59"
+  comment: Voluntary Abstract Registration until 2018-10-15
+  date: "June 17 - June 19"
+  place: Stockholm, Sweden
+  tags: [SEC, PRIV]
+  
+- name: CT-RSA
+  description: RSA Conference Cryptographers’ Track
+  year: 2019
+  link: http://www.venus.dti.ne.jp/matsui/index.html
+  deadline: "2018-09-14 23:59"
+  timezone: Etc/GMT
+  date: March 4-8
+  place: San Francisco, CA, USA
+  tags: CRYPTO
+
+- name: Eurocrypt
+  description: European Cryptology Conference
+  year: 2019
+  link: https://eurocrypt.iacr.org/2019/
+  deadline: "2018-10-04 11:59"
+  timezone: Europe/Zurich
+  date: May 19 - May 23
+  place: Darmstadt, Germany
+  tags: CRYPTO
+
+- name: FC
+  description: Financial Cryptography and Data Security
+  year: 2019
+  link: http://fc19.ifca.ai/
+  deadline: "2018-09-18 23:59"
+  timezone: Etc/GMT+11
+  date: "Feb 18 - 22"
+  place: St. Kitts
+  tags: CRYPTO
+
+- name: PerCom
+  description: IEEE International Conference on Pervasive Computing and Communication
+  year: 2019
+  link: http://www.percom.org/
+  deadline: "2018-09-14 23:59"
+  date: "March 11 - March 15"
+  place: Kyoto, Japan
+  tags: [SEC, PRIV]
+
+- name: WPES
+  description: Workshop on Privacy in the Electronic Society
+  year: 2018
+  link: http://www.wpes.tech
+  deadline: "2018-07-25 23:59"
+  comment: Collocated with ACM CCS
+  date: "October 15"
+  place: Toronto, Canada
+  timezone: Etc/GMT+11
+  tags: [PRIV]
+
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2018
@@ -51,6 +111,16 @@
   place: Barcelona, Spain
   tags: PRIV
 
+- name: RAID
+  description: International Symposium on Recent Advances in Intrusion Detection
+  year: 2018
+  link: https://www.raid2018.org/
+  deadline: "2018-04-03 07:59"
+  timezone: America/New_York
+  date: September 10-12
+  place: Heraklion, Crete, Greece 
+  tags: SEC
+
 - name: Crypto
   description: International Cryptology Conference
   year: 2018
@@ -61,23 +131,13 @@
   place: Santa Barbara, CA, USA
   tags: CRYPTO
 
-- name: Eurocrypt
-  description: European Cryptology Conference
-  year: 2018
-  link: https://eurocrypt.iacr.org/2018/
-  deadline: "2017-09-19 21:59"
-  timezone: Etc/UTC
-  date: Apr 29 - May 3
-  place: Tel Aviv, Israel
-  tags: CRYPTO
-
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2018
-  link: https://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2018
-  deadline: "2017-08-11 23:59"
-  timezone: Etc/GMT+4
-  date: February 18-21
+  year: 2019
+  link: https://www.ndss-symposium.org/ndss2019/
+  deadline: "2018-08-07 23:59"
+  timezone: America/New_York
+  date: February 24-27
   place: San Diego, CA, USA
   tags: SEC
 
@@ -120,15 +180,6 @@
   place: Brisbane, Australia
   tags: CRYPTO
 
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2018
-  link: http://fc18.ifca.ai/
-  deadline: "2017-09-15 23:59"
-  timezone: Etc/GMT+11
-  date: "Feb 26 - Mar 2"
-  place: Curaçao
-  tags: CRYPTO
 
 - name: IMC
   description: Internet Measurement Conference
@@ -138,16 +189,6 @@
   timezone: America/Los_Angeles
   date: October 31 – November 2
   place: Boston, MA, USA
-  tags: SEC
-
-- name: RAID
-  description: International Symposium on Recent Advances in Intrusion Detection
-  year: 2017
-  link: https://www.raid2017.org/
-  deadline: "2017-03-29 12:00"
-  timezone: America/Adak
-  date: September 18-20
-  place: Atlanta, GA, USA
   tags: SEC
 
 - name: DSN
@@ -176,16 +217,6 @@
   timezone: Etc/UTC
   date: March 25-28
   place: Rio De Janeiro, Brazil
-  tags: CRYPTO
-
-- name: CT-RSA
-  description: RSA Conference Cryptographers’ Track
-  year: 2018
-  link: https://www.cosic.esat.kuleuven.be/ct-rsa2018/
-  deadline: "2017-10-01 11:59"
-  timezone: Etc/GMT
-  date: April 16-20
-  place: San Francisco, CA, USA
   tags: CRYPTO
 
 - name: ACNS
