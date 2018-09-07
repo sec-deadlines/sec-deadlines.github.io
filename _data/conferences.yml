@@ -1,72 +1,6 @@
 ---
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2019
-  link: https://www.ieee-security.org/TC/EuroSP2019/
-  deadline: "2018-11-13 23:59"
-  comment: Voluntary Abstract Registration until 2018-10-15
-  date: "June 17 - June 19"
-  place: Stockholm, Sweden
-  tags: [SEC, PRIV]
-  
-- name: CT-RSA
-  description: RSA Conference Cryptographers’ Track
-  year: 2019
-  link: http://www.venus.dti.ne.jp/matsui/index.html
-  deadline: "2018-09-14 23:59"
-  timezone: Etc/GMT
-  date: March 4-8
-  place: San Francisco, CA, USA
-  tags: CRYPTO
 
-- name: Eurocrypt
-  description: European Cryptology Conference
-  year: 2019
-  link: https://eurocrypt.iacr.org/2019/
-  deadline: "2018-10-04 11:59"
-  timezone: Europe/Zurich
-  date: May 19 - May 23
-  place: Darmstadt, Germany
-  tags: CRYPTO
-
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2019
-  link: http://fc19.ifca.ai/
-  deadline: "2018-09-18 23:59"
-  timezone: Etc/GMT+11
-  date: "Feb 18 - 22"
-  place: St. Kitts
-  tags: CRYPTO
-
-- name: PerCom
-  description: IEEE International Conference on Pervasive Computing and Communication
-  year: 2019
-  link: http://www.percom.org/
-  deadline: "2018-09-14 23:59"
-  date: "March 11 - March 15"
-  place: Kyoto, Japan
-  tags: [SEC, PRIV]
-
-- name: WPES
-  description: Workshop on Privacy in the Electronic Society
-  year: 2018
-  link: http://www.wpes.tech
-  deadline: "2018-07-25 23:59"
-  comment: Collocated with ACM CCS
-  date: "October 15"
-  place: Toronto, Canada
-  timezone: Etc/GMT+11
-  tags: [PRIV]
-
-- name: CCS
-  description: ACM Conference on Computer and Communications Security
-  year: 2018
-  link: https://www.sigsac.org/ccs/CCS2018/
-  deadline: "2018-05-08 23:59"
-  date: "Oct 15 - Oct 19"
-  place: Toronto, Canada
-  tags: [SEC, PRIV]
+# Security and Privacy
 
 - name: S&P (Oakland)
   year: 2019
@@ -76,14 +10,24 @@
   timezone: Etc/GMT+7
   comment: Rolling deadline every month
   tags: [SEC, PRIV]
-
+  
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
+  year: 2019
+  link: https://www.ieee-security.org/TC/EuroSP2019/
+  deadline: "2018-11-13 23:59"
+  comment: Voluntary Abstract Registration until 2018-10-15
+  date: "June 17 - June 19"
+  place: Stockholm, Sweden
+  tags: [SEC, PRIV]
+
+- name: CCS
+  description: ACM Conference on Computer and Communications Security
   year: 2018
-  link: http://www.ieee-security.org/TC/EuroSP2018/
-  deadline: "2017-08-15 23:59"
-  date: April 24-26
-  place: London, UK
+  link: https://www.sigsac.org/ccs/CCS2018/
+  deadline: "2018-05-08 23:59"
+  date: "Oct 15 - Oct 19"
+  place: Toronto, Canada
   tags: [SEC, PRIV]
 
 - name: Usenix
@@ -100,41 +44,6 @@
   date: "August 14-16"
   place: Santa Clara, CA, USA
   tags: [SEC, PRIV]
-
-- name: PETS
-  description: Privacy Enhancing Technologies Symposium
-  year: 2018
-  link: https://petsymposium.org
-  deadline:
-    - "%y-05-31 23:59"
-    - "%y-08-31 23:59"
-    - "%y-11-30 23:59"
-    - "%y-02-28 23:59"
-  comment: Rolling deadline every quarter
-  timezone: Etc/GMT+11
-  date: July 24-27
-  place: Barcelona, Spain
-  tags: PRIV
-
-- name: RAID
-  description: International Symposium on Recent Advances in Intrusion Detection
-  year: 2018
-  link: https://www.raid2018.org/
-  deadline: "2018-04-03 07:59"
-  timezone: America/New_York
-  date: September 10-12
-  place: Heraklion, Crete, Greece 
-  tags: SEC
-
-- name: Crypto
-  description: International Cryptology Conference
-  year: 2018
-  link: https://www.iacr.org/conferences
-  deadline: "2018-02-13 22:00"
-  timezone: Etc/UTC
-  date: August 20-24
-  place: Santa Barbara, CA, USA
-  tags: CRYPTO
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -155,24 +64,55 @@
   place: Barcelona, Spain
   tags: [SEC, PRIV]
 
-- name: ACSAC
-  description: Annual Computer Security Applications Conference
-  year: 2018
-  link: https://www.acsac.org/
-  deadline: "2017-06-08 23:59"
-  timezone: America/New_York
-  date: December 4-8
-  place: San Juan, Puerto Rico, USA
-  tags: SEC
+# Privacy
 
-- name: TCC
-  description: Theory of Cryptography Conference
+- name: WPES
+  description: Workshop on Privacy in the Electronic Society
   year: 2018
-  link: https://www.iacr.org/workshops/tcc
-  deadline: "2018-05-17 22:00" 
+  link: http://www.wpes.tech
+  deadline: "2018-07-25 23:59"
+  comment: Collocated with ACM CCS
+  date: "October 15"
+  place: Toronto, Canada
+  timezone: Etc/GMT+11
+  tags: [PRIV]
+
+- name: PETS
+  description: Privacy Enhancing Technologies Symposium
+  year: 2019
+  link: https://petsymposium.org
+  deadline:
+    - "%y-05-31 23:59"
+    - "%y-08-31 23:59"
+    - "%y-11-30 23:59"
+    - "%y-02-28 23:59"
+  comment: Rolling deadline every quarter
+  timezone: Etc/GMT+11
+  date: July 16-20
+  place: Stockholm, Sweden
+  tags: PRIV
+
+# Crypto
+
+- name: Crypto
+  description: International Cryptology Conference
+  year: 2019
+  link: https://www.iacr.org/conferences
+  # deadline: "2018-02-13 22:00"
+  deadline: TBA
   timezone: Etc/UTC
-  date: November 11-14
-  place: Goa, India
+  date: August
+  place: Santa Barbara, CA, USA
+  tags: CRYPTO
+
+- name: Eurocrypt
+  description: European Cryptology Conference
+  year: 2019
+  link: https://eurocrypt.iacr.org/2019/
+  deadline: "2018-10-04 11:59"
+  timezone: Europe/Zurich
+  date: May 19 - May 23
+  place: Darmstadt, Germany
   tags: CRYPTO
 
 - name: Asiacrypt
@@ -185,6 +125,85 @@
   place: Brisbane, Australia
   tags: CRYPTO
 
+- name: FC
+  description: Financial Cryptography and Data Security
+  year: 2019
+  link: http://fc19.ifca.ai/
+  deadline: "2018-09-18 23:59"
+  timezone: Etc/GMT+11
+  date: "Feb 18 - 22"
+  place: St. Kitts
+  tags: CRYPTO
+
+- name: TCC
+  description: Theory of Cryptography Conference
+  year: 2018
+  link: https://www.iacr.org/workshops/tcc
+  deadline: "2018-05-17 22:00" 
+  timezone: Etc/UTC
+  date: November 11-14
+  place: Goa, India
+  tags: CRYPTO
+
+- name: CSF
+  description: IEEE Computer Security Foundations Symposium
+  year: 2018
+  link: https://www.cs.ox.ac.uk/conferences/csf2018/
+  deadline: "2018-01-30 23:59"
+  date: July 9-12
+  place: Oxford, UK
+  tags: [SEC, PRIV]
+
+- name: PKC
+  description: International Conference on Practice and Theory of Public Key Cryptography
+  year: 2019
+  link: https://pkc.iacr.org/2019/
+  deadline: "2018-10-12 23:59"
+  timezone: Etc/UTC
+  date: April 14-17
+  place: Beijing, China
+  tags: CRYPTO
+
+- name: CT-RSA
+  description: RSA Conference Cryptographers’ Track
+  year: 2019
+  link: http://www.venus.dti.ne.jp/matsui/index.html
+  deadline: "2018-09-14 23:59"
+  timezone: Etc/GMT
+  date: March 4-8
+  place: San Francisco, CA, USA
+  tags: CRYPTO
+
+# Networks and systems, applications
+
+- name: PerCom
+  description: IEEE International Conference on Pervasive Computing and Communication
+  year: 2019
+  link: http://www.percom.org/
+  deadline: "2018-09-14 23:59"
+  date: "March 11 - March 15"
+  place: Kyoto, Japan
+  tags: [SEC, PRIV]
+
+- name: RAID
+  description: International Symposium on Recent Advances in Intrusion Detection
+  year: 2018
+  link: https://www.raid2018.org/
+  deadline: "2018-04-03 07:59"
+  timezone: America/New_York
+  date: September 10-12
+  place: Heraklion, Crete, Greece 
+  tags: SEC
+
+- name: ACSAC
+  description: Annual Computer Security Applications Conference
+  year: 2018
+  link: https://www.acsac.org/
+  deadline: "2017-06-08 23:59"
+  timezone: America/New_York
+  date: December 4-8
+  place: San Juan, Puerto Rico, USA
+  tags: SEC
 
 - name: IMC
   description: Internet Measurement Conference
@@ -205,32 +224,13 @@
   place: Luxembourg
   tags: SEC
 
-- name: CSF
-  description: IEEE Computer Security Foundations Symposium
-  year: 2018
-  link: https://www.cs.ox.ac.uk/conferences/csf2018/
-  deadline: "2018-01-30 23:59"
-  date: July 9-12
-  place: Oxford, UK
-  tags: [SEC, PRIV]
-
-- name: PKC
-  description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2018
-  link: https://pkc.iacr.org/2018/
-  deadline: "2017-10-07 09:59"
-  timezone: Etc/UTC
-  date: March 25-28
-  place: Rio De Janeiro, Brazil
-  tags: CRYPTO
-
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2018
   link: https://www.cosic.esat.kuleuven.be/events/acns2018/
   deadline: "2018-01-26 23:59"
   date: July 3-5
-  place: Leuven, BE
+  place: Leuven, Belgium
   tags: [CRYPTO, SEC]
 
 - name: DPRIVE
