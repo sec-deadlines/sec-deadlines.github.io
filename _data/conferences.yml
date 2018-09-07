@@ -88,12 +88,17 @@
 
 - name: Usenix
   description: Usenix Security Symposium
-  year: 2018
-  link: https://www.usenix.org/conference/usenixsecurity18
-  deadline: "2018-02-08 16:59"
+  year: 2019
+  link: https://www.usenix.org/conference/usenixsecurity19
+  deadline:
+    - "%y-11-15 23:59"
+    - "%y-02-15 23:59"
+    - "%y-05-15 23:59"
+    - "%y-08-15 23:59"
+  comment: Rolling deadline every quarter
   timezone: America/Los_Angeles
-  date: "August 15-17"
-  place: Baltimore, MD, USA
+  date: "August 14-16"
+  place: Santa Clara, CA, USA
   tags: [SEC, PRIV]
 
 - name: PETS
