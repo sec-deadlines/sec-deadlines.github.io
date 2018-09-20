@@ -217,11 +217,11 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2018
-  link: https://dsn2018.uni.lu/
-  deadline: "2017-11-27 23:59"
+  year: 2019
+  link: https://dsn.org/
+  deadline: "2018-11-30 23:59"
   date: TBA
-  place: Luxembourg
+  place: Portland, Oregon
   tags: SEC
 
 - name: ACNS
@@ -232,15 +232,6 @@
   date: July 3-5
   place: Leuven, Belgium
   tags: [CRYPTO, SEC]
-
-- name: DPRIVE
-  description: DNS Privacy Workshop
-  year: 2018
-  link: https://www.ndss-symposium.org/ndss2018/cfp-ndss2018-dnspriv/
-  deadline: "2017-12-08 23:59"
-  date: February 18
-  place: San Diego, CA, USA
-  tags: PRIV
 
 - name: eCrime
   description: 13th Symposium on Electronic Crime Research
