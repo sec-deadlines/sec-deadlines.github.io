@@ -193,6 +193,15 @@
   place: Atlanta, US
   tags: [SEC, CRYPTO]
 
+- name: COSADE
+  description: International Workshop on Constructive Side-Channel Analysis and Secure Design
+  year: 2019
+  link: http://cosade.org/
+  deadline: "2018-12-01 23:59"
+  date: April 3-5
+  place: Darmstadt, Germany
+  tags: [SEC, CRYPTO]
+
 # Networks and systems, applications
 
 - name: PerCom
