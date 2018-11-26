@@ -27,7 +27,7 @@
   link: https://www.sigsac.org/ccs/CCS2018/
   deadline: "2018-05-08 23:59"
   deadline:
-    - "%y-01-15 23:59"
+    - "%y-01-31 23:59"
     - "%y-05-15 23:59"
     - "%y-09-15 23:59"
   comment: Rolling deadline every 4 months
@@ -152,11 +152,12 @@
 
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2018
-  link: https://www.cs.ox.ac.uk/conferences/csf2018/
-  deadline: "2018-01-30 23:59"
-  date: July 9-12
-  place: Oxford, UK
+  year: 2019
+  link: https://web.stevens.edu/csf2019/
+  deadline: "2019-02-26 23:59"
+  comment: Abstracts due 2019-02-22
+  date: June 25-28
+  place: Hoboken, NJ, USA 
   tags: [SEC, PRIV]
 
 - name: PKC
