@@ -10,7 +10,7 @@
   timezone: Etc/GMT+7
   comment: Rolling deadline every month
   tags: [SEC, PRIV]
-  
+
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2019
@@ -27,7 +27,7 @@
   link: https://www.sigsac.org/ccs/CCS2018/
   deadline: "2018-05-08 23:59"
   deadline:
-    - "%y-01-31 23:59"
+    - "%y-02-15 23:59"
     - "%y-05-15 23:59"
     - "%y-09-15 23:59"
   comment: Rolling deadline every 4 months
@@ -40,10 +40,10 @@
   year: 2019
   link: https://www.usenix.org/conference/usenixsecurity19
   deadline:
-    - "%y-11-15 23:59"
     - "%y-02-15 23:59"
     - "%y-05-15 23:59"
     - "%y-08-15 23:59"
+    - "%y-11-15 23:59"
   comment: Rolling deadline every quarter
   timezone: America/Los_Angeles
   date: "August 14-16"
@@ -144,7 +144,7 @@
   description: Theory of Cryptography Conference
   year: 2018
   link: https://www.iacr.org/workshops/tcc
-  deadline: "2018-05-17 22:00" 
+  deadline: "2018-05-17 22:00"
   timezone: Etc/UTC
   date: November 11-14
   place: Goa, India
@@ -157,7 +157,7 @@
   deadline: "2019-02-26 23:59"
   comment: Abstracts due 2019-02-22
   date: June 25-28
-  place: Hoboken, NJ, USA 
+  place: Hoboken, NJ, USA
   tags: [SEC, PRIV]
 
 - name: PKC
@@ -179,7 +179,7 @@
   date: March 4-8
   place: San Francisco, CA, USA
   tags: CRYPTO
-  
+
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
   year: 2019
@@ -212,7 +212,7 @@
   deadline: "2018-04-03 07:59"
   timezone: America/New_York
   date: September 10-12
-  place: Heraklion, Crete, Greece 
+  place: Heraklion, Crete, Greece
   tags: SEC
 
 - name: ACSAC
@@ -261,4 +261,3 @@
   date: May 15-17
   place: San Diego, CA, USA
   tags: SEC
-
