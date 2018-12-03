@@ -69,6 +69,14 @@
   place: Barcelona, Spain
   tags: [SEC, PRIV]
 
+- name: WiSec
+  description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
+  year: 2019
+  link: https://wisec19.fiu.edu
+  deadline: "2019-01-25 23:59"
+  date: May 15-17
+  place: Miami, Fl, USA
+  tags: [SEC, PRIV]
 # Privacy
 
 - name: WPES
