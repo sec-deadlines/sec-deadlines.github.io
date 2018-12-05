@@ -24,14 +24,14 @@
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2019
-  link: https://www.sigsac.org/ccs/CCS2018/
+  link: https://www.sigsac.org/ccs/CCS2019/
   deadline: "2018-05-08 23:59"
   deadline:
     - "%y-02-05 23:59"
     - "%y-05-15 23:59"
     - "%y-09-15 23:59"
   comment: Rolling deadline every 4 months
-  date: "TBA"
+  date: "November 11-15"
   place: London, UK
   tags: [SEC, PRIV]
 
