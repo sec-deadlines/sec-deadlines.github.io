@@ -232,6 +232,16 @@
   date: December 4-8
   place: San Juan, Puerto Rico, USA
   tags: SEC
+  
+  - name: ARES
+  description: International Conference on Availability, Reliability and Security
+  year: 2019
+  link: https://www.ares-conference.eu/conference-2019/cfp2019/
+  deadline: "2019-03-15 23:59"
+  timezone: America/New_York
+  date: August 26-29
+  place: University of Kent, Canterbury, UK
+  tags: SEC
 
 - name: IMC
   description: Internet Measurement Conference
