@@ -1,7 +1,6 @@
 ---
 
 # Security and Privacy
-
 - name: S&P (Oakland)
   year: 2019
   description: IEEE Symposium on Security and Privacy
@@ -9,6 +8,15 @@
   deadline: "%y-%m-01 15:00"
   timezone: Etc/GMT+7
   comment: Rolling deadline every month
+  tags: [SEC, PRIV]
+  
+- name: Safethings 
+  year: 2019
+  description: IEEE Workshop on the Internet of Safe Things (co-located with Oakland)
+  link: https://www.ieee-security.org/TC/SPW2019/SafeThings/
+  deadline: "2019-01-23 23:59"
+  date: "May 20 - May 22 19"
+  place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
 - name: Euro S&P
