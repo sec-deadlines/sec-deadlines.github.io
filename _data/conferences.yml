@@ -117,10 +117,9 @@
 - name: Crypto
   description: International Cryptology Conference
   year: 2019
-  link: https://www.iacr.org/conferences
-  # deadline: "2018-02-13 22:00"
-  deadline: TBA
-  timezone: Etc/UTC
+  link: https://crypto.iacr.org/2019/
+  deadline: "2019-02-13 16:00"
+  timezone: Etc/GMT+5
   date: August
   place: Santa Barbara, CA, USA
   tags: CRYPTO
