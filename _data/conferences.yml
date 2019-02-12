@@ -294,3 +294,12 @@
   date: "September 25-27"
   place: McLean, VA, USA
   tags: [SEC, PRIV]
+  
+- name: ISC
+  description: The Information Security Conference
+  year: 2019
+  link: https://isc2019.cs.stonybrook.edu/
+  deadline: "2019-04-05 23:59"
+  date: "September 16-18"
+  place: New York, USA
+  tags: [SEC, INFOR]
