@@ -154,6 +154,15 @@
   place: St. Kitts
   tags: CRYPTO
 
+- name: AFT
+  description: ACM Comference on Advances in Financial Technologies
+  year: 2019
+  link: https://aft.acm.org/
+  deadline: "2019-05-24"
+  date: "Oct 21 – 23"
+  place: Zurich, Switzerland
+  tags: [SEC, PRIV, CRYPTO]
+
 - name: TCC
   description: Theory of Cryptography Conference
   year: 2018
