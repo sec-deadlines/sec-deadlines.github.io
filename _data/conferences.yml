@@ -312,3 +312,12 @@
   date: "September 16-18"
   place: New York, USA
   tags: [SEC, INFOR]
+  
+- name: CryptoValley
+  description: CryptoValley Conference on Blockchain Technologies
+  year: 2019
+  link: http://www.cryptovalleyconference.com/technology-call-for-papers
+  deadline: "2019-04-15 23:59"
+  date: "June 24-26"
+  place: Zug, Switzerland
+  tags: [SEC, PRIV, CRYPTO]
