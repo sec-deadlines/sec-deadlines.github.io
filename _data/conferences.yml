@@ -328,7 +328,8 @@
   description: CryptoValley Conference on Blockchain Technologies
   year: 2019
   link: http://www.cryptovalleyconference.com/technology-call-for-papers
-  deadline: "2019-04-15 23:59"
+  deadline: "2019-04-14 23:00"
+  timezone: Europe/London
   date: "June 24-26"
   place: Zug, Switzerland
   tags: [SEC, PRIV, CRYPTO]
