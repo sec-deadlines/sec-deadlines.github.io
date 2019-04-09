@@ -84,6 +84,8 @@
   date: May 15-17
   place: Miami, Fl, USA
   tags: [SEC, PRIV]
+  
+
 # Privacy
 
 - name: WPES
@@ -238,15 +240,24 @@
   place: Heraklion, Crete, Greece
   tags: SEC
 
+# - name: ACSAC
+#   description: Annual Computer Security Applications Conference
+#   year: 2018
+#   link: https://www.acsac.org/
+#   deadline: "2017-06-08 23:59"
+#   timezone: America/New_York
+#   date: December 4-8
+#   place: San Juan, Puerto Rico, USA
+#   tags: SEC
+  
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2018
-  link: https://www.acsac.org/
-  deadline: "2017-06-08 23:59"
-  timezone: America/New_York
-  date: December 4-8
+  year: 2019
+  link: https://www.acsac.org/2019/
+  deadline: "2019-06-08 23:59"
+  date: Dec 9-13
   place: San Juan, Puerto Rico, USA
-  tags: SEC
+  tags: [SEC]
 
 - name: IMC
   description: Internet Measurement Conference
