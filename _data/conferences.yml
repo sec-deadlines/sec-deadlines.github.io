@@ -1,5 +1,14 @@
 ---
-# Security and Privacy
+# Security and Privacy\
+- name: ICML S&P
+  year: 2019
+  description: ICML Workshop on Security & Privacy of Machine Learning
+  link: https://icml2019workshop.github.io/
+  deadline: "2019-05-10 23:59"
+  date: June, 2019
+  place: Long Beach, CA, USA
+  tags: [SEC, PRIV]
+
 - name: S&P (Oakland)
   year: 2019
   description: IEEE Symposium on Security and Privacy
