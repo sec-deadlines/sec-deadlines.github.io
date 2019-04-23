@@ -84,7 +84,7 @@
   date: May 15-17
   place: Miami, Fl, USA
   tags: [SEC, PRIV]
-  
+
 
 # Privacy
 
@@ -249,7 +249,7 @@
 #   date: December 4-8
 #   place: San Juan, Puerto Rico, USA
 #   tags: SEC
-  
+
 - name: ACSAC
   description: Annual Computer Security Applications Conference
   year: 2019
@@ -314,7 +314,7 @@
   date: "September 25-27"
   place: McLean, VA, USA
   tags: [SEC, PRIV]
-  
+
 - name: ISC
   description: The Information Security Conference
   year: 2019
@@ -323,7 +323,7 @@
   date: "September 16-18"
   place: New York, USA
   tags: [SEC, INFOR]
-  
+
 - name: CVCBT
   description: CryptoValley Conference on Blockchain Technologies
   year: 2019
@@ -333,3 +333,23 @@
   date: "June 24-26"
   place: Zug, Switzerland
   tags: [SEC, PRIV, CRYPTO]
+
+- name: PODC
+  description: Principles of Distributed Computing
+  year: 2019
+  link: https://www.podc.org/podc2019/call-for-papers/
+  deadline: "2019-02-18 23:59"
+  date: "July 29 - August 2"
+  place: Toronto, Canada
+  tags: [SEC, CRYPTO]
+
+- name: NSDI
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  year: 2020
+  link: https://www.usenix.org/conference/nsdi20/call-for-papers
+  deadline: "2019-09-19 20:59"
+  timezone: Etc/GMT+7
+  comment: Abstracts due 2019-09-12 20:59
+  date: "February 25 - February 27"
+  place: Santa Clara, USA
+  tags: [SEC, CRYPTO]
