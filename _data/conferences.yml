@@ -232,12 +232,12 @@
 
 - name: RAID
   description: International Symposium on Recent Advances in Intrusion Detection
-  year: 2018
+  year: 2019
   link: https://www.raid2018.org/
-  deadline: "2018-04-03 07:59"
-  timezone: America/New_York
-  date: September 10-12
-  place: Heraklion, Crete, Greece
+  deadline: "2019-04-02 23:59"
+  timezone: ETC/UTC-12
+  date: September 23-25
+  place: Beijing, China
   tags: SEC
 
 # - name: ACSAC
