@@ -271,10 +271,10 @@
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2018
-  link: https://www.cosic.esat.kuleuven.be/events/acns2018/
-  deadline: "2018-01-26 23:59"
-  date: July 3-5
-  place: Leuven, Belgium
+  link: https://www.acns19.com/
+  deadline: "2018-01-29 23:59"
+  date: June 5-7
+  place: Bogotá, Colombia
   tags: [CRYPTO, SEC]
 
 - name: eCrime
