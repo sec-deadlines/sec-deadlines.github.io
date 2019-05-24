@@ -1,9 +1,10 @@
 ---
 # Security and Privacy
-- name: S&P (Oakland)
-  year: 2019
+- name: S&P (San Francisco)
+  year: 2020
+  date: "May 18 – 20 2020"
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2019/
+  link: https://www.ieee-security.org/TC/SP2020/index.html
   deadline: "%y-%m-01 15:00"
   timezone: Etc/GMT+7
   comment: Rolling deadline every month
