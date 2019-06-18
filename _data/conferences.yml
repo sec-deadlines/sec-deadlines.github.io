@@ -10,6 +10,16 @@
   comment: Rolling deadline every month
   tags: [SEC, PRIV]
 
+- name: SecDev
+  year: 2019
+  description: IEEE Secure Development Conference
+  link: https://secdev.ieee.org/
+  deadline: "2019-07-10 23:59"
+  comment: Now soliciting Practitioner Submissions, Posters, and Tool Demos
+  date: "September 25-27"
+  place: McLean, VA, USA
+  tags: [SEC, PRIV]
+  
 - name: SafeThings
   year: 2019
   description: IEEE Workshop on the Internet of Safe Things (co-located with Oakland)
