@@ -70,11 +70,12 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2018
-  link: https://esorics2018.upc.edu/
-  deadline: "2018-04-24 23:59"
-  date: September 11-13
-  place: Barcelona, Spain
+  year: 2019
+  link: https://esorics2019.uni.lu/
+  deadline: "2019-04-29 23:59"
+  timezone: Etc/UTC-11
+  date: September 23-27
+  place: Luxembourg
   tags: [SEC, PRIV]
 
 - name: WiSec
@@ -233,24 +234,13 @@
 
 - name: RAID
   description: International Symposium on Recent Advances in Intrusion Detection
-  year: 2018
-  link: https://www.raid2018.org/
-  deadline: "2018-04-03 07:59"
-  timezone: America/New_York
-  date: September 10-12
-  place: Heraklion, Crete, Greece
+  year: 2019
+  link: https://www.raid-2019.org/
+  deadline: "2019-04-02 23:59"
+  date: September 23-25
+  place: Beijing, China
   tags: SEC
 
-# - name: ACSAC
-#   description: Annual Computer Security Applications Conference
-#   year: 2018
-#   link: https://www.acsac.org/
-#   deadline: "2017-06-08 23:59"
-#   timezone: America/New_York
-#   date: December 4-8
-#   place: San Juan, Puerto Rico, USA
-#   tags: SEC
-  
 - name: ACSAC
   description: Annual Computer Security Applications Conference
   year: 2019
@@ -282,10 +272,10 @@
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2018
-  link: https://www.cosic.esat.kuleuven.be/events/acns2018/
-  deadline: "2018-01-26 23:59"
-  date: July 3-5
-  place: Leuven, Belgium
+  link: https://www.acns19.com/
+  deadline: "2018-01-29 23:59"
+  date: June 5-7
+  place: Bogotá, Colombia
   tags: [CRYPTO, SEC]
 
 - name: eCrime
