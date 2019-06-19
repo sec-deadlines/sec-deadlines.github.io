@@ -48,12 +48,12 @@
   year: 2019
   link: https://www.usenix.org/conference/usenixsecurity19
   deadline:
-    - "%y-02-15 23:59"
-    - "%y-05-15 23:59"
-    - "%y-08-15 23:59"
-    - "%y-11-15 23:59"
+    - "%y-08-23 19:59"
+    - "%y-11-15 19:59"
+    - "%y-02-15 19:59"
+    - "%y-05-15 19:59"
   comment: Rolling deadline every quarter
-  timezone: America/Los_Angeles
+  timezone: America/New_York
   date: "August 14-16"
   place: Santa Clara, CA, USA
   tags: [SEC, PRIV]
@@ -86,7 +86,7 @@
   date: May 15-17
   place: Miami, Fl, USA
   tags: [SEC, PRIV]
-  
+
 
 # Privacy
 
@@ -305,7 +305,7 @@
   date: "September 25-27"
   place: McLean, VA, USA
   tags: [SEC, PRIV]
-  
+
 - name: ISC
   description: The Information Security Conference
   year: 2019
@@ -314,7 +314,7 @@
   date: "September 16-18"
   place: New York, USA
   tags: [SEC, INFOR]
-  
+
 - name: CVCBT
   description: CryptoValley Conference on Blockchain Technologies
   year: 2019
