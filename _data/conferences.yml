@@ -1,5 +1,14 @@
 ---
 # Security and Privacy
+- name: TAPS (Duke University)
+  year: 2019
+  date: "October 18 2019"
+  description: Triangle Area Privacy and Security Day
+  link: https://www2.cs.duke.edu/projects/taps/
+  deadline: "2019-10-17 23:59"
+  timezone: Etc/GMT+7
+  tags: [SEC, PRIV]
+
 - name: S&P (San Francisco)
   year: 2020
   date: "May 18 – 20 2020"
