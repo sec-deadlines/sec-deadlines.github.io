@@ -275,9 +275,9 @@
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
   year: 2020
-  link: https://dsn.org/
+  link: https://dsn2020.webs.upv.es/
   deadline: "2019-12-03 23:59"
-  date: TBA
+  date: June 29 - July 2
   place: Valencia, Spain
   tags: SEC
 
