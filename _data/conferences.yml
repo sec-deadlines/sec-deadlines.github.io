@@ -31,16 +31,14 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2019
-  link: https://www.sigsac.org/ccs/CCS2019/
-  deadline: "2018-05-08 23:59"
+  year: 2020
+  link: https://www.sigsac.org/ccs/CCS2020/
   deadline:
-    - "%y-02-05 23:59"
-    - "%y-05-15 23:59"
-    - "%y-09-15 23:59"
-  comment: Rolling deadline every 4 months
-  date: "November 11-15"
-  place: London, UK
+    - "%y-01-20 23:59"
+    - "%y-05-04 23:59"
+  comment: 2 review cycles
+  date: "November 9-13"
+  place: Orlando, FL, USA
   tags: [SEC, PRIV]
 
 - name: AsiaCCS
@@ -54,8 +52,8 @@
 
 - name: Usenix
   description: Usenix Security Symposium
-  year: 2019
-  link: https://www.usenix.org/conference/usenixsecurity19
+  year: 2020
+  link: https://www.usenix.org/conference/usenixsecurity20
   deadline:
     - "%y-08-23 19:59"
     - "%y-11-15 19:59"
@@ -63,8 +61,8 @@
     - "%y-05-15 19:59"
   comment: Rolling deadline every quarter
   timezone: America/New_York
-  date: "August 14-16"
-  place: Santa Clara, CA, USA
+  date: "August 12-14"
+  place: Boston, MA, USA
   tags: [SEC, PRIV]
 
 - name: NDSS
@@ -97,6 +95,15 @@
   place: Linz, Austria
   tags: [SEC, PRIV]
 
+- name: SOUPS
+  description: Usenix Symposium on Usable Security and Privacy
+  year: 2020
+  link: https://www.usenix.org/conference/soups2020
+  deadline: "2020-02-20 23:59"
+  comment: Collocated with Usenix Security
+  date: August 9–11
+  place: Boston, MA, USA
+  tags: [SEC, PRIV]
 
 # Privacy
 
