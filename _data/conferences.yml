@@ -334,12 +334,12 @@
   place: New York, USA
   tags: [SEC, INFOR]
 
-- name: CVCBT
+- name: CVC
   description: CryptoValley Conference on Blockchain Technologies
-  year: 2019
+  year: 2020
   link: http://www.cryptovalleyconference.com/technology-call-for-papers
-  deadline: "2019-04-15 23:59"
-  timezone: Europe/Zurich
-  date: "June 24-26"
-  place: Zug, Switzerland
+  deadline: "2020-04-03 16:00"
+  timezone: Etc/GMT+1
+  date: "June 11-12"
+  place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CRYPTO]
