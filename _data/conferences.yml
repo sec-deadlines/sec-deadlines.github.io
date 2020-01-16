@@ -132,6 +132,18 @@
   date: July 14-18
   place: Montréal, Canada
   tags: PRIV
+  
+- name: IFIPSC
+  description: IFIP Summer School on Privacy and Identity Management
+  year: 2020
+  link: https://ifip-summerschool.org/
+  deadline:
+    - "2020-05-01 23:59"
+  comment: held in cooperation with the IACR
+  timezone: Etc/GMT+1
+  date: August 17-21
+  place: Brno, Czech Republic
+  tags: PRIV
 
 # Crypto
 
