@@ -239,6 +239,18 @@
   date: August 25-28
   place: Atlanta, US
   tags: [SEC, CRYPTO]
+  
+- name: CANS
+  description: International Conference on Cryptology and Network Security
+  year: 2020
+  link: https://cans2020.at/
+  deadline:
+    - "2020-06-21 23:59"
+  comment: 
+  timezone: Etc/GMT+1
+  date: December 14-16
+  place: Vienna, Austria
+  tags: [SEC, CRYPTO]
 
 # Networks and systems, applications
 
