@@ -1,13 +1,17 @@
 ---
 # Security and Privacy
 - name: S&P (San Francisco)
-  year: 2020
-  date: "May 18 – 20 2020"
+  year: 2021
+  date: "May 23 – 27 2021"
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2020/index.html
-  deadline: "%y-%m-01 15:00"
+  link: https://www.ieee-security.org/TC/SP2021/
+  deadline:
+    - "2020-03-05 23:59"
+    - "2020-06-04 23:59"
+    - "2020-09-03 23:59"
+    - "2020-12-03 23:59"
   timezone: Etc/GMT+7
-  comment: Rolling deadline every month
+  place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
 - name: SafeThings
