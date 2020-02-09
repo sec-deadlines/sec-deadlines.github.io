@@ -137,6 +137,16 @@
   place: Montréal, Canada
   tags: PRIV
 
+- name: MoneroKon
+  description: Monero Konferenco
+  year: 2020
+  link: https://monerokon.com/cfp/
+  deadline: "2020-04-01 23:59"
+  date: "June 13-14"
+  place: Berlin, Germany
+  timezone: Etc/GMT-1
+  tags: [PRIV, CRYPTO]
+
 # Crypto
 
 - name: Crypto
