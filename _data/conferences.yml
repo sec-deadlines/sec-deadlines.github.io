@@ -14,15 +14,6 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
-- name: SafeThings
-  year: 2019
-  description: IEEE Workshop on the Internet of Safe Things (co-located with Oakland)
-  link: https://www.ieee-security.org/TC/SPW2019/SafeThings/
-  deadline: "2019-01-23 23:59"
-  date: "May 20 - May 22 19"
-  place: San Francisco, California, USA
-  tags: [SEC, PRIV]
-
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2020
@@ -130,7 +121,7 @@
     - "%y-05-31 23:59"
     - "%y-08-31 23:59"
     - "%y-11-30 23:59"
-    - "%y-02-29 23:59"
+    - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
   date: July 14-18
@@ -180,7 +171,7 @@
   tags: CRYPTO
 
 - name: AFT
-  description: ACM Comference on Advances in Financial Technologies
+  description: ACM Conference on Advances in Financial Technologies
   year: 2019
   link: https://aft.acm.org/
   deadline: "2019-05-24 23:59"
@@ -246,15 +237,6 @@
 
 # Networks and systems, applications
 
-- name: PerCom
-  description: IEEE International Conference on Pervasive Computing and Communication
-  year: 2020
-  link: http://www.percom.org/
-  deadline: "2019-09-20 23:59"
-  date: "March 23-27"
-  place: Austin, TX, USA
-  tags: [SEC, PRIV]
-
 - name: RAID
   description: International Symposium on Recent Advances in Intrusion Detection
   year: 2019
@@ -300,25 +282,6 @@
   date: June 22-25
   place: Rome, Italy
   tags: [CRYPTO, SEC]
-
-- name: eCrime
-  description: Symposium on Electronic Crime Research
-  year: 2019
-  link: https://apwg.org/apwg-events/ecrime2019/cfp
-  deadline: "2019-08-30 23:59"
-  date: November 13-15
-  place: Pittsburgh, PA, USA
-  tags: SEC
-
-- name: DIMVA
-  description: Conference on Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2019
-  link: https://www.dimva2019.org/
-  deadline: "2019-02-18 23:59"
-  timezone: Etc/UTC
-  date: June 19-20
-  place: Gothenburg, Sweden
-  tags: SEC
 
 - name: SecDev
   year: 2019
