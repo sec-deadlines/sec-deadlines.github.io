@@ -73,12 +73,12 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2019
-  link: https://esorics2019.uni.lu/
-  deadline: "2019-04-29 23:59"
-  timezone: Etc/UTC-11
+  year: 2020
+  link: http://esorics2020.sccs.surrey.ac.uk
+  deadline: "2020-04-03 23:59"
+  comment: Title and abstract deadline on April 3
   date: September 23-27
-  place: Luxembourg
+  place: Surrey, UK 
   tags: [SEC, PRIV]
 
 - name: WiSec
@@ -132,11 +132,11 @@
 
 - name: Crypto
   description: International Cryptology Conference
-  year: 2019
-  link: https://crypto.iacr.org/2019/
-  deadline: "2019-02-13 16:00"
+  year: 2020
+  link: https://crypto.iacr.org/2020
+  deadline: "2020-02-11 16:00"
   timezone: Etc/GMT+5
-  date: August
+  date: August 16-20
   place: Santa Barbara, CA, USA
   tags: CRYPTO
 
@@ -172,21 +172,20 @@
 
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2019
+  year: 2020
   link: https://aft.acm.org/
-  deadline: "2019-05-24 23:59"
+  deadline: "2020-06-04 23:59"
   date: "Oct 21 – 23"
-  place: Zurich, Switzerland
+  place: New York City, USA
   tags: [SEC, PRIV, CRYPTO]
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2019
+  year: 2020
   link: https://www.iacr.org/workshops/tcc
-  deadline: "2019-05-29 22:59"
-  timezone: Etc/UTC
-  date: December 1-5
-  place: Nuremberg, Germany
+  deadline: TBA
+  date: November
+  place: Durham, NC, USA
   tags: CRYPTO
 
 - name: CSF
@@ -284,29 +283,31 @@
   tags: [CRYPTO, SEC]
 
 - name: SecDev
-  year: 2019
+  year: 2020
   description: IEEE Secure Development Conference
   link: https://secdev.ieee.org/
-  deadline: "2019-04-22 23:59"
-  date: "September 25-27"
-  place: McLean, VA, USA
+  deadline: "2020-05-25 23:59"
+  date: "September 18-30"
+  place: Atlanta, GA, USA
   tags: [SEC, PRIV]
 
 - name: ISC
   description: The Information Security Conference
-  year: 2019
-  link: https://isc2019.cs.stonybrook.edu/
-  deadline: "2019-04-05 23:59"
+  year: 2020
+  link: https://isc2020.petra.ac.id/
+  deadline: "2020-05-28 23:59"
+  timezone: Etc/UTC
   date: "September 16-18"
   place: New York, USA
   tags: [SEC, INFOR]
 
 - name: CVCBT
   description: CryptoValley Conference on Blockchain Technologies
-  year: 2019
+  year: 2020
   link: http://www.cryptovalleyconference.com/technology-call-for-papers
-  deadline: "2019-04-15 23:59"
+  deadline: "2020-04-03 16:00"
   timezone: Europe/Zurich
   date: "June 24-26"
-  place: Zug, Switzerland
+  place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CRYPTO]
+
