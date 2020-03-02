@@ -192,10 +192,12 @@
   description: IEEE Computer Security Foundations Symposium
   year: 2020
   link: https://www.ieee-security.org/TC/CSF2020/
-  deadline: "2019-09-16 23:59"
   deadline:
     - "%y-02-07 23:59"
-  comment: Rolling deadline three times per year
+    - "%y-04-17 23:59"
+    - "%y-10-04 23:59"
+    - "%y-12-13 23:59"
+  comment: Rolling deadline every quarter
   date: June 22-26
   place: Boston, MA, USA
   tags: [SEC, PRIV]
@@ -229,7 +231,7 @@
     - "%y-10-15 23:59"
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
-  comment: Rolling deadline every 3 months
+  comment: Rolling deadline every quarter
   date: August 25-28
   place: Atlanta, US
   tags: [SEC, CRYPTO]
