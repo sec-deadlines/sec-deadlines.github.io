@@ -100,6 +100,16 @@
   place: Boston, MA, USA
   tags: [SEC, PRIV]
 
+- name: EuroUSEC
+  description: IEEE European Symposium on Security and Privacy
+  year: 2020
+  link: https://eusec20.cs.uchicago.edu/
+  deadline: "2020-03-16 23:59"
+  comment: Collocated with Symposium on Usable Privacy and Security
+  date: September 7–11
+  place: Genova, Italy
+  tags: [SEC, PRIV]
+
 # Privacy
 
 - name: WPES
