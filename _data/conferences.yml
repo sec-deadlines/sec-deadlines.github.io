@@ -239,21 +239,21 @@
 # Networks and systems, applications
 
 - name: RAID
-  description: International Symposium on Recent Advances in Intrusion Detection
-  year: 2019
-  link: https://www.raid-2019.org/
-  deadline: "2019-04-02 23:59"
-  date: September 23-25
-  place: Beijing, China
+  description: International Symposium on Research in Attacks, Intrusions and Defenses
+  year: 2020
+  link: https://www.raid2020.org/
+  deadline: "2020-03-24 23:59"
+  date: Octover 14-16
+  place: Donostia/San Sebastian, Spain
   tags: SEC
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2019
-  link: https://www.acsac.org/2019/
-  deadline: "2019-06-08 23:59"
-  date: Dec 9-13
-  place: San Juan, Puerto Rico, USA
+  year: 2020
+  link: https://www.acsac.org/2020/
+  deadline: "2019-06-12 23:59"
+  date: Dec 7-11
+  place: Austin, TX, USA
   tags: [SEC]
 
 - name: IMC
