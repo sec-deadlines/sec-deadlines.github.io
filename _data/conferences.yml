@@ -236,6 +236,16 @@
   place: Atlanta, US
   tags: [SEC, CRYPTO]
 
+- name: SCN
+  description: Conference on Security and Cryptography for Networks
+  year: 2020
+  link: https://scn.unisa.it/
+  deadline: "2020-04-19 23:59"
+  timezone: Etc/GMT
+  date: September 14-16
+  place: Amalfi, Italy
+  tags: [SEC, CRYPTO]
+
 # Networks and systems, applications
 
 - name: RAID
