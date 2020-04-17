@@ -62,12 +62,12 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2020
-  link: https://www.ndss-symposium.org/ndss2020/
+  year: 2021
+  link: https://www.ndss-symposium.org/ndss-2021/
   deadline:
-    - "%y-06-14 23:59"
-    - "%y-09-13 23:59"
-  date: February 23-26
+    - "%y-04-30 23:59"
+    - "%y-07-17 23:59"
+  date: February 21-24
   place: San Diego, CA, USA
   tags: SEC
 
