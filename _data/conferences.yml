@@ -62,12 +62,12 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2020
-  link: https://www.ndss-symposium.org/ndss2020/
+  year: 2021
+  link: https://www.ndss-symposium.org/ndss-2021/
   deadline:
-    - "%y-06-14 23:59"
-    - "%y-09-13 23:59"
-  date: February 23-26
+    - "%y-04-30 23:59"
+    - "%y-07-17 23:59"
+  date: February 21-24
   place: San Diego, CA, USA
   tags: SEC
 
@@ -251,19 +251,20 @@
   description: Annual Computer Security Applications Conference
   year: 2020
   link: https://www.acsac.org/2020/
-  deadline: "2019-06-12 23:59"
+  deadline: "2020-06-12 23:59"
   date: Dec 7-11
   place: Austin, TX, USA
   tags: [SEC]
 
 - name: IMC
   description: Internet Measurement Conference
-  year: 2019
-  link: http://conferences.sigcomm.org/imc/2019
-  deadline: "2019-05-06 17:00"
+  year: 2020
+  link: https://conferences.sigcomm.org/imc/2020/
+  deadline: "2020-05-26 23:59"
+  comment: Title and abstract deadline on May 19th
   timezone: America/Los_Angeles
-  date: October 21-23
-  place: Amsterdam, The Netherlands
+  date: October 27-29
+  place: Pittsburgh, PA, USA
   tags: SEC
 
 - name: DSN
