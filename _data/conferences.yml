@@ -1,6 +1,6 @@
 ---
 # Security and Privacy
-- name: S&P (San Francisco)
+- name: S&P (Oakland)
   year: 2021
   date: "May 23 – 27 2021"
   description: IEEE Symposium on Security and Privacy
@@ -10,7 +10,6 @@
     - "2020-06-04 23:59"
     - "2020-09-03 23:59"
     - "2020-12-03 23:59"
-  timezone: Etc/GMT+7
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
