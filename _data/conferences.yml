@@ -48,16 +48,13 @@
 - name: Usenix
   description: Usenix Security Symposium
   year: 2020
-  link: https://www.usenix.org/conference/usenixsecurity20
   deadline:
-    - "%y-08-23 19:59"
-    - "%y-11-15 19:59"
-    - "%y-02-15 19:59"
-    - "%y-05-15 19:59"
-  comment: Rolling deadline every quarter
-  timezone: America/New_York
-  date: "August 12-14"
-  place: Boston, MA, USA
+    - "%y-06-11 11:59"
+    - "%y-10-15 11:59"
+    - "%y-02-04 11:59"
+  comment: Rolling deadline every four months.
+  date: "August 11-13"
+  place: Vancouver, BC, Canada.
   tags: [SEC, PRIV]
 
 - name: NDSS
@@ -78,7 +75,7 @@
   deadline: "2020-04-24 23:59"
   comment: Title and abstract deadline on April 17
   date: September 23-27
-  place: Surrey, UK 
+  place: Surrey, UK
   tags: [SEC, PRIV]
 
 - name: WiSec
@@ -313,4 +310,3 @@
   date: "June 24-26"
   place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CRYPTO]
-
