@@ -46,7 +46,8 @@
 
 - name: Usenix
   description: Usenix Security Symposium
-  year: 2020
+  year: 2021
+  link: https://www.usenix.org/conference/usenixsecurity21
   deadline:
     - "%y-06-11 11:59"
     - "%y-10-15 11:59"
