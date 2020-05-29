@@ -49,9 +49,9 @@
   year: 2021
   link: https://www.usenix.org/conference/usenixsecurity21
   deadline:
-    - "%y-06-11 11:59"
-    - "%y-10-15 11:59"
-    - "%y-02-04 11:59"
+    - "%y-06-11 23:59"
+    - "%y-10-15 23:59"
+    - "%y-02-04 23:59"
   comment: Rolling deadline every four months.
   date: "August 11-13"
   place: Vancouver, BC, Canada.
