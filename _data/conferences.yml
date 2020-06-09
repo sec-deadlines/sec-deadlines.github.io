@@ -49,6 +49,7 @@
   year: 2021
   link: https://www.usenix.org/conference/usenixsecurity21
   deadline:
+    - "2020-06-18 23:59"
     - "%y-06-11 23:59"
     - "%y-10-15 23:59"
     - "%y-02-04 23:59"
