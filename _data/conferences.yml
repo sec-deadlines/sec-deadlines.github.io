@@ -102,12 +102,12 @@
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
-  year: 2019
-  link: http://www.wpes.tech
-  deadline: "2019-07-15 23:59"
+  year: 2020
+  link: https://www.wpes.tech/2020/
+  deadline: "2020-07-23 23:59"
   comment: Collocated with ACM CCS
-  date: "November 11"
-  place: London, UK
+  date: "November 9"
+  place: Orlando, USA
   timezone: Etc/GMT+11
   tags: [PRIV]
 
