@@ -37,12 +37,15 @@
 
 - name: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
-  year: 2020
-  link: https://asiaccs2020.cs.nthu.edu.tw/
-  deadline: "2019-12-10 23:59"
-  date: "June 1-5"
-  place: Taipei, Taiwan
+  year: 2021
+  link: https://asiaccs2021.comp.polyu.edu.hk
+  deadline:
+    - "2020-08-21 23:59"
+    - "2020-12-11 23:59"
+  date: "June 7- June 11"
+  place: Hong Kong, China
   tags: [SEC, PRIV]
+  timezone: "Etc/GMT+12"
 
 - name: Usenix
   description: Usenix Security Symposium
