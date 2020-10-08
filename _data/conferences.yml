@@ -15,12 +15,11 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2020
-  link: https://www.ieee-security.org/TC/EuroSP2020/
-  deadline: "2019-11-20 23:59"
-  comment: Voluntary Abstract Registration until 2019-10-22
-  date: "June 16 - June 18"
-  place: Genova, Italy
+  year: 2021
+  link: https://www.ieee-security.org/TC/EuroSP2021/
+  deadline: "2020-11-05 23:59"
+  date: "September 7 - 11"
+  place: Vienna, Austria
   tags: [SEC, PRIV]
 
 - name: CCS
