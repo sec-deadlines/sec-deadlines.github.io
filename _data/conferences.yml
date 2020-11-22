@@ -1,5 +1,15 @@
 ---
 # Security and Privacy
+- name: AutoSec
+  year: 2021
+  date: "February 21 2021"
+  description: International Workshop on Automotive and Autonomous Vehicle Security
+  link: https://www.ndss-symposium.org/ndss2021/cfp-autosec-workshop/
+  deadline:
+    - "2021-01-04 23:59"
+  place: Online
+  tags: [SEC]
+  
 - name: S&P (Oakland)
   year: 2021
   date: "May 23 – 27 2021"
