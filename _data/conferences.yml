@@ -25,14 +25,14 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2020
-  link: https://www.sigsac.org/ccs/CCS2020/
+  year: 2021
+  link: https://www.sigsac.org/ccs/CCS2021/
   deadline:
     - "%y-01-20 23:59"
-    - "%y-05-04 23:59"
+    - "%y-05-06 23:59"
   comment: 2 review cycles
-  date: "November 9-13"
-  place: Orlando, FL, USA
+  date: "November 14-19"
+  place: Seoul, South Korea
   tags: [SEC, PRIV]
 
 - name: AsiaCCS
