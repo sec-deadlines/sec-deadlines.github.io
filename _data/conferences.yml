@@ -184,8 +184,8 @@
   description: Theory of Cryptography Conference
   year: 2020
   link: https://www.iacr.org/workshops/tcc
-  deadline: TBA
-  date: November
+  deadline: "2020-05-26 23:59"
+  date: "November 16-19"
   place: Durham, NC, USA
   tags: CRYPTO
 
