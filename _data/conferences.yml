@@ -27,8 +27,8 @@
   year: 2021
   link: https://www.sigsac.org/ccs/CCS2021/
   deadline:
-    - "%y-01-20 23:59"
-    - "%y-05-06 23:59"
+    - "2021-01-20 23:59"
+    - "2021-05-06 23:59"
   comment: 2 review cycles
   date: "November 14-19"
   place: Seoul, South Korea
@@ -53,10 +53,9 @@
   link: https://www.usenix.org/conference/usenixsecurity21
   deadline:
     - "2020-06-18 23:59"
-    - "%y-06-11 23:59"
-    - "%y-10-15 23:59"
-    - "%y-02-04 23:59"
-  comment: Rolling deadline every four months.
+    - "2020-10-15 23:59"
+    - "2021-02-04 23:59"
+  comment: 3 review cycles
   date: "August 11-13"
   place: Vancouver, BC, Canada.
   tags: [SEC, PRIV]
@@ -66,8 +65,8 @@
   year: 2021
   link: https://www.ndss-symposium.org/ndss-2021/
   deadline:
-    - "%y-04-30 23:59"
-    - "%y-07-31 23:59"
+    - "2020-04-30 23:59"
+    - "2020-07-31 23:59"
   date: February 21-24
   place: San Diego, CA, USA
   tags: SEC
@@ -116,7 +115,7 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2020
+  year: 2021
   link: https://petsymposium.org
   deadline:
     - "%y-05-31 23:59"
@@ -125,8 +124,8 @@
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
-  date: July 14-18
-  place: Montréal, Canada
+  date: July 12-16
+  place: Virtual
   tags: PRIV
 
 # Crypto
@@ -191,16 +190,15 @@
 
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2020
-  link: https://www.ieee-security.org/TC/CSF2020/
+  year: 2021
+  link: https://www.ieee-security.org/TC/CSF2021/
   deadline:
-    - "%y-02-07 23:59"
-    - "%y-04-17 23:59"
-    - "%y-10-04 23:59"
-    - "%y-12-13 23:59"
+    - "2020-05-08 23:59"
+    - "2020-10-02 23:59"
+    - "2021-02-08 23:59"
   comment: Rolling deadline every quarter
-  date: June 22-26
-  place: Boston, MA, USA
+  date: June 21-25
+  place: Dubrovnik, Croatia
   tags: [SEC, PRIV]
 
 - name: PKC
@@ -225,7 +223,7 @@
 
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2019
+  year: 2021
   link: https://ches.iacr.org/
   deadline:
     - "%y-07-15 23:59"
@@ -233,8 +231,8 @@
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: August 25-28
-  place: Atlanta, US
+  date: September 12-15
+  place: Beijing, China
   tags: [SEC, CRYPTO]
 
 # Networks and systems, applications
