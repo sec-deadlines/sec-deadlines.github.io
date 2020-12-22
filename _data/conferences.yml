@@ -41,6 +41,7 @@
   deadline:
     - "2020-08-21 23:59"
     - "2020-12-11 23:59"
+  comment: 2 review cycles
   date: "June 7- June 11"
   place: Hong Kong, China
   tags: [SEC, PRIV]
@@ -269,11 +270,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2020
-  link: https://dsn2020.webs.upv.es/
-  deadline: "2019-12-03 23:59"
-  date: June 29 - July 2
-  place: Valencia, Spain
+  year: 2021
+  link: http://dsn2021.ntu.edu.tw/
+  deadline: "2020-12-11 23:59"
+  comment: Title and abstract deadline on Dec 4th
+  date: June 21-24
+  place: Taipei, Taiwan
   tags: SEC
 
 - name: ACNS
