@@ -94,12 +94,12 @@
 
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
-  year: 2020
-  link: https://www.usenix.org/conference/soups2020
-  deadline: "2020-02-20 23:59"
-  comment: Collocated with Usenix Security
-  date: August 9–11
-  place: Boston, MA, USA
+  year: 2021
+  link: https://www.usenix.org/conference/soups2021
+  deadline: "2021-02-25 23:59"
+  comment: Collocated with Usenix Security; Paper registration due Feb 18 AoE.
+  date: August 8–10
+  place: Vancouver, Canada.
   tags: [SEC, PRIV]
 
 # Privacy
