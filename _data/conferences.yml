@@ -87,10 +87,10 @@
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
   year: 2020
-  link: https://wisec2020.ins.jku.at/
-  deadline: "2020-03-13 23:59"
-  date: July 8-10
-  place: Linz, Austria
+  link: https://sites.nyuad.nyu.edu/wisec21/
+  deadline: "2021-03-18 23:59"
+  date: June 28 - July 1
+  place: Virtual, Abu Dhabi, UAE
   tags: [SEC, PRIV]
 
 - name: SOUPS
