@@ -83,6 +83,16 @@
   date: October 4-8
   place: Darmstadt, Germany
   tags: [SEC, PRIV]
+    
+- name: CANS
+  description: Cryptology and Network Security
+  year: 2021
+  link: https://cans2021.at/call-for-papers/
+  deadline: "2021-06-01 23:59"
+  timezone: Etc/GMT-1
+  date: December 13-15
+  place: Vienna, Austria
+  tags: [SEC, PRIV]
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
