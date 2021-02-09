@@ -1,16 +1,15 @@
 ---
 # Security and Privacy
 - name: S&P (Oakland)
-  year: 2021
-  date: "May 23 – 27 2021"
+  year: 2022
+  date: "May 22 – 26 2022"
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2021/
-  comment: Rolling deadline every quarter
+  link: https://www.ieee-security.org/TC/SP2022/
+  comment: Rolling deadline 
   deadline:
-    - "%y-03-05 23:59"
-    - "%y-06-04 23:59"
-    - "%y-09-03 23:59"
-    - "%y-12-03 23:59"
+    - "%y-06-08 23:59"
+    - "%y-10-12 23:59"
+    - "%y-02-01 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
