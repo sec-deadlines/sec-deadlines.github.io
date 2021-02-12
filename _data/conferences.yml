@@ -5,11 +5,11 @@
   date: "May 22 – 26 2022"
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2022/
-  comment: Rolling deadline 
+  comment: Three deadlines
   deadline:
-    - "%y-06-08 23:59"
-    - "%y-10-12 23:59"
-    - "%y-02-01 23:59"
+    - "2021-04-15 23:59"
+    - "2021-08-19 23:59"
+    - "2021-12-02 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
