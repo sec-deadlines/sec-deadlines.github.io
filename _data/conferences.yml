@@ -49,15 +49,15 @@
 
 - name: Usenix
   description: Usenix Security Symposium
-  year: 2021
-  link: https://www.usenix.org/conference/usenixsecurity21
+  year: 2022
+  link: https://www.usenix.org/conference/usenixsecurity22
   deadline:
-    - "2020-06-18 23:59"
-    - "2020-10-15 23:59"
-    - "2021-02-04 23:59"
+    - "2021-06-08 23:59"
+    - "2021-10-12 23:59"
+    - "2022-02-01 23:59"
   comment: 3 review cycles
-  date: "August 11-13"
-  place: Vancouver, BC, Canada.
+  date: "August 10-12"
+  place: Boston, MA, USA.
   tags: [SEC, PRIV]
 
 - name: NDSS
