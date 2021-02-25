@@ -112,6 +112,15 @@
   place: Vancouver, Canada.
   tags: [SEC, PRIV]
 
+- name: FC 2021
+  description: Financial Cryptography and Data Security 2021
+  year: 2021
+  link: https://fc21.ifca.ai/index.php
+  deadline: "2020-09-17 23:59"
+  date: March 1-5
+  place: Virtual
+  tags: [SEC, PRIV, CRYPTO]
+
 # Privacy
 
 - name: WPES
