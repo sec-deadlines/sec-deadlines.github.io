@@ -180,17 +180,7 @@
   date: December 8-12
   place: Kobe, Japan
   tags: CRYPTO
-
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2020
-  link: http://fc20.ifca.ai/
-  deadline: "2019-09-23 23:59"
-  timezone: Etc/GMT+11
-  date: "Feb 10 - 14"
-  place: Kota Kinabalu, Sabah, Malaysia
-  tags: CRYPTO
-
+  
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
   year: 2020
@@ -260,10 +250,10 @@
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2020
-  link: https://www.raid2020.org/
-  deadline: "2020-04-07 23:59"
-  date: October 14-16
+  year: 2021
+  link: https://www.raid2021.org
+  deadline: "2021-03-26 23:59"
+  date: October 6-8
   place: Donostia/San Sebastian, Spain
   tags: SEC
 
