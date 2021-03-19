@@ -333,3 +333,12 @@
   date: August 23-26
   place: Online Event
   tags: [SEC, PRIV]
+
+- name: Hardwear.io USA 
+description: Hardwear.io Security Trainings & Conference USA 2021
+year: 2021
+link: https://hardwear.io/usa-2021/
+deadline: "2021-05-15 23:59"
+date: July 05-10
+place: Online
+tags: [SEC, PRIV, CRYPTO]
