@@ -333,3 +333,12 @@
   date: August 23-26
   place: Online Event
   tags: [SEC, PRIV]
+  
+- name: IEEE S&B
+  description: IEEE Security & Privacy on the Blockchain
+  year: 2021
+  link: https://ieeesb.org/
+  deadline: "2021-05-14 23:59"
+  date: September 7-11
+  place: Online Event
+  tags: [SEC, PRIV]  
