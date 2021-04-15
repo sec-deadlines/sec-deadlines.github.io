@@ -342,3 +342,13 @@
   date: September 7-11
   place: Online Event
   tags: [SEC, PRIV]  
+
+- name: NSPW
+  description: New Security Paradigms Workshop
+  year: 2021
+  link: https://www.nspw.org/2021/
+  deadline: "2021-05-21 23:59"
+  timezone: Etc/UTC-11
+  date: October 25-28
+  place: New Hampshire, USA
+  tags: [SEC, PRIV]
