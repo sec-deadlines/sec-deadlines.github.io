@@ -269,10 +269,9 @@
 - name: IMC
   description: Internet Measurement Conference
   year: 2021
-  link: https://conferences.sigcomm.org/imc/2020/
+  link: https://conferences.sigcomm.org/imc/2021/
   deadline: "2021-05-26 23:59"
   comment: Title and abstract deadline on May 19th
-  timezone: America/Los_Angeles
   date: November 2-4
   place: Virtual
   tags: SEC
