@@ -259,22 +259,22 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2020
-  link: https://www.acsac.org/2020/
-  deadline: "2020-06-12 23:59"
-  date: Dec 7-11
+  year: 2021
+  link: https://www.acsac.org/2021/
+  deadline: "2021-06-23 23:59"
+  date: Dec 6-10
   place: Austin, TX, USA
   tags: [SEC]
 
 - name: IMC
   description: Internet Measurement Conference
-  year: 2020
+  year: 2021
   link: https://conferences.sigcomm.org/imc/2020/
-  deadline: "2020-05-26 23:59"
+  deadline: "2021-05-26 23:59"
   comment: Title and abstract deadline on May 19th
   timezone: America/Los_Angeles
-  date: October 27-29
-  place: Pittsburgh, PA, USA
+  date: November 2-4
+  place: Virtual
   tags: SEC
 
 - name: DSN
