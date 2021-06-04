@@ -139,14 +139,30 @@
   year: 2021
   link: https://petsymposium.org
   deadline:
-    - "%y-05-31 23:59"
-    - "%y-08-31 23:59"
-    - "%y-11-30 23:59"
-    - "%y-02-28 23:59"
+    - "2020-05-31 23:59"
+    - "2020-08-31 23:59"
+    - "2020-11-30 23:59"
+    - "2021-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
   date: July 12-16
   place: Virtual
+  tags: PRIV
+  
+
+- name: PETS
+  description: Privacy Enhancing Technologies Symposium
+  year: 2022
+  link: https://petsymposium.org
+  deadline:
+    - "2021-05-31 23:59"
+    - "2021-08-31 23:59"
+    - "2021-11-30 23:59"
+    - "2022-02-28 23:59"
+  comment: Rolling deadline every quarter
+  timezone: Etc/GMT+11
+  date: July 18-23
+  place: Sydney, Australia
   tags: PRIV
 
 # Crypto
