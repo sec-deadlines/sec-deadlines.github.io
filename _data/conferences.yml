@@ -246,6 +246,15 @@
   place: Beijing, China
   tags: [SEC, CRYPTO]
 
+- name: SAC
+  description: Conference on Selected Areas in Cryptography
+  year: 2021
+  link: https://www.sacworkshop.org/
+  deadline: "2021-06-30 23:59"
+  date: September 29 - October 1
+  place: Online Event
+  tags: [SEC, PRIV]
+
 # Networks and systems, applications
 
 - name: RAID
