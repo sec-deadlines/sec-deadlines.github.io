@@ -121,6 +121,16 @@
   place: Virtual
   tags: [SEC, PRIV, CRYPTO]
 
+- name: NordSec
+  description: Nordic Conference on Secure IT Systems
+  year: 2021
+  link: https://events.tuni.fi/nordsec2021/
+  deadline: "2021-08-23 23:59"
+  timezone: Europe/Helsinki
+  date: November 29-30
+  place: Virtual
+  tags: [SEC, PRIV, CRYPTO]
+
 # Privacy
 
 - name: WPES
