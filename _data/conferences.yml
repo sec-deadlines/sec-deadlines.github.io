@@ -13,6 +13,17 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
+
+- name: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2022
+  link: https://www.ieee-security.org/TC/EuroSP2022/
+  deadline: "2021-09-22 23:59"
+  date: "June 6 - 10"
+  place: Genova, Italy
+  tags: [SEC, PRIV]
+
+
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2021
