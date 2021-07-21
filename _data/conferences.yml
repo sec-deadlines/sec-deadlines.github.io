@@ -23,16 +23,6 @@
   place: Genova, Italy
   tags: [SEC, PRIV]
 
-
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2021
-  link: https://www.ieee-security.org/TC/EuroSP2021/
-  deadline: "2020-11-05 23:59"
-  date: "September 7 - 11"
-  place: Vienna, Austria
-  tags: [SEC, PRIV]
-
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2021
