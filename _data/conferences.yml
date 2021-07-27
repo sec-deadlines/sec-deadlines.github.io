@@ -297,12 +297,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2021
-  link: http://dsn2021.ntu.edu.tw/
-  deadline: "2020-12-11 23:59"
-  comment: Title and abstract deadline on Dec 4th
-  date: June 21-24
-  place: Taipei, Taiwan
+  year: 2022
+  link: https://dsn2022.github.io/
+  deadline: "2021-12-10 23:59"
+  comment: Title and abstract deadline on Dec 3rd
+  date: June 27-30
+  place: Baltimore, MD, USA
   tags: SEC
 
 - name: ACNS
