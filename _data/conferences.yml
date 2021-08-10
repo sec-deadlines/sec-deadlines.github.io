@@ -114,11 +114,11 @@
 
 - name: FC
   description: Financial Cryptography and Data Security
-  year: 2021
-  link: https://fc21.ifca.ai/index.php
-  deadline: "2020-09-17 23:59"
-  date: March 1-5
-  place: Virtual
+  year: 2022
+  link: https://fc22.ifca.ai/
+  deadline: "2021-09-09 23:59"
+  date: February 14-18
+  place: Grenada
   tags: [SEC, PRIV, CRYPTO]
 
 - name: NordSec
