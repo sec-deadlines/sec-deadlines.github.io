@@ -13,6 +13,14 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
 
+ - name: ICICS
+  year: 2022
+  date: "Sept 05 – 08 2022"
+  description: The 24th International Conference on Information and Communications Security
+  link: https://icics2022.cyber.kent.ac.uk/index.php
+  deadline: "2022-03-21 23:59"
+  place: University of Kent, Canterbury, UK
+  tags: [SEC, PRIV]
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
