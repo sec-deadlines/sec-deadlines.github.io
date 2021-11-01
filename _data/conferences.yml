@@ -12,8 +12,8 @@
     - "2021-12-02 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
-
- - name: ICICS
+  
+- name: ICICS
   year: 2022
   date: "Sept 05 – 08 2022"
   description: The 24th International Conference on Information and Communications Security
