@@ -224,7 +224,8 @@
   deadline:
     - "2021-05-14 23:59"
     - "2021-10-01 23:59"
-    - "2022-02-05 23:59"
+    - "2022-02-04 23:59"
+  timezone: Etc/UTC-12
   comment: 3 deadlines
   date: August 2022
   place: Haifa, Israel
