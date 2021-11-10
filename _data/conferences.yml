@@ -1,4 +1,13 @@
 ---
+- name: MobiSys
+  year: 2022
+  data: TBD
+  description: ACM International Conference on Mobile Systems, Applications, and Services
+  link: https://www.sigmobile.org/mobisys/2022/
+  deadline: "2021-12-20 23:59"
+  place: TBD
+  tags: [PRIV]
+
 # Security and Privacy
 - name: S&P (Oakland)
   year: 2022
