@@ -315,10 +315,12 @@
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
-  year: 2020
-  link: https://sites.google.com/di.uniroma1.it/ACNS2020
-  deadline: "2020-01-20 23:59"
-  date: June 22-25
+  year: 2022
+  link: https://sites.google.com/di.uniroma1.it/acns2022
+  deadline: 
+    - "2021-09-03 23:59"
+    - "2022-01-14 23:59"
+  date: June 20-23
   place: Rome, Italy
   tags: [CRYPTO, SEC]
 
