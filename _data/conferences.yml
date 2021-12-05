@@ -103,11 +103,11 @@
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
-  year: 2021
-  link: https://sites.nyuad.nyu.edu/wisec21/
-  deadline: "2021-03-25 23:59"
-  date: June 28 - July 1
-  place: Virtual, Abu Dhabi, UAE
+  year: 2022
+  link: https://wisec2022.cs.utsa.edu/
+  deadline: "2022-02-02 23:59"
+  date: May 16 - May 19
+  place: San Antonio, Texas, USA
   tags: [SEC, PRIV]
 
 - name: SOUPS
