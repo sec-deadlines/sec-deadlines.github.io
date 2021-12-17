@@ -126,12 +126,12 @@
 
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
-  year: 2021
-  link: https://www.usenix.org/conference/soups2021
-  deadline: "2021-02-25 23:59"
-  comment: Collocated with Usenix Security; Paper registration due Feb 18 AoE.
-  date: August 8–10
-  place: Vancouver, Canada.
+  year: 2022
+  link: https://www.usenix.org/conference/soups2022
+  deadline: "2022-02-17 23:59"
+  comment: Collocated with Usenix Security; Paper registration due Feb 11 AoE.
+  date: August 7–9
+  place: Boston, USA.
   tags: [SEC, PRIV]
 
 - name: FC
