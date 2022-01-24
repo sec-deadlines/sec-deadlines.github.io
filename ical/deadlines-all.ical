@@ -1,0 +1,19 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://sec-deadlines.github.io
+METHOD:PUBLISH{% for conf in site.data.conferences %}{% assign num_deadlines = conf.deadline.size %}{% assign range_end = conf.deadline.size | minus: 1 %}{% for i in (0..range_end) %}{% assign deadline = conf.deadline[i] %}{% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+BEGIN:VEVENT
+UID:{{ conf_id }}@sec-deadlines.github.io
+SUMMARY:{{conf.name}} {{conf.year}} Deadline{% if num_deadlines >= 2 %} ({{ i | plus: 1 }} / {{ num_deadlines }}){% endif %}
+DESCRIPTION:Deadline for {{conf.name}} {{conf.year}} {{conf.date}} {{conf.place}}\n{{ conf.description }}\n{{conf.comment}}\n{{conf.link}}
+URL:{{conf.link}}
+LOCATION:{{conf.place}}
+CLASS:PUBLIC
+DTSTART:{{ deadline | date: "%Y%m%dT%H%M"}}00Z
+DTSTAMP:{{ deadline | date: "%Y%m%dT%H%M"}}00Z
+DTEND:{{ deadline | date: "%Y%m%dT%H%M"}}59Z
+END:VEVENT{% endfor %}{% endfor %}
+END:VCALENDAR
