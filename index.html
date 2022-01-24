@@ -52,7 +52,12 @@
       </div>
       <div class="conf-container">
         {% for conf in site.data.conferences %}
-        <div id="{{ conf.name | append: conf.year | slugify }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %}">
+        {% assign num_deadlines = conf.deadline.size %}
+        {% assign range_end = conf.deadline.size | minus: 1 %}
+        {% for i in (0..range_end) %}
+        {% assign deadline = conf.deadline[i] %}
+        {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+        <div id="{{ conf_id }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %}">
           <div class="row">
               <div class="col-xs-12 col-sm-6">
                 <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
@@ -64,8 +69,16 @@
               <div class="col-xs-12 col-sm-6">
                 <span class="timer"></span>
                 <div class="deadline">
-                  <div>Deadline:
-                    <span class="deadline-time"></span>
+                  <div>
+                      {% if num_deadlines >=2 %}
+                      {% if conf.comment %}<br />{% endif %}
+                      Deadline ({{ i | plus: 1 }} / {{ num_deadlines }}):
+                      {% else %}
+                      Deadline:
+                      {% endif %}
+                    <span class="deadline-time">
+                      {{ deadline }}
+                    </span>
                     <div class="meta">
                       {{ conf.comment }}
                     </div>
@@ -75,6 +88,7 @@
           </div>
           <hr>
         </div>
+        {% endfor %}
         {% endfor %}
       </div>
       <footer>
