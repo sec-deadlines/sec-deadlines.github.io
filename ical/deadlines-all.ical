@@ -14,6 +14,6 @@ LOCATION:{{conf.place}}
 CLASS:PUBLIC
 DTSTAMP:{{ "now" | date: "%Y%m%dT%H%M%s" }}Z
 DTSTART;TZID={%if conf.timezone %}{{conf.timezone}}{% else %}Etc/GMT+12{% endif %}:{{ deadline | date: "%Y%m%dT%H%M"}}00
-DTEND:{{ deadline | date: "%Y%m%dT%H%M"}}59
+DTEND;TZID={%if conf.timezone %}{{conf.timezone}}{% else %}Etc/GMT+12{% endif %}:{{ deadline | date: "%Y%m%dT%H%M"}}59
 END:VEVENT{% endfor %}{% endfor %}
 END:VCALENDAR
