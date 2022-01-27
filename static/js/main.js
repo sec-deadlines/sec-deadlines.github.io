@@ -19,33 +19,24 @@ $(function() {
   var parsedDeadlines = [];
   while (rawDeadlines.length > 0) {
     var rawDeadline = rawDeadlines.pop();
-    // check if date is template
-    if (rawDeadline.indexOf('%m') >= 0) {
-      for (var m = 1; m <= 12; m++) {
-        rawDeadlines.push(rawDeadline.replace('%m', m < 10 ? '0' + m : m));
-      }
-    } else if (rawDeadline.indexOf('%y') >= 0) {
-      year = parseInt(moment().year());
-      rawDeadlines.push(rawDeadline.replace('%y', year));
-      rawDeadlines.push(rawDeadline.replace('%y', year + 1));
+    // deal with year template in deadline
+    year = {{ conf.year }};
+    rawDeadline = rawDeadline.replace('%y', year).replace('%Y', year - 1);
+    // adjust date according to deadline timezone
+    {% if conf.timezone %}
+    var deadline = moment.tz(rawDeadline, "{{ conf.timezone }}");
+    {% else %}
+    var deadline = moment.tz(rawDeadline, "Etc/GMT+12"); // Anywhere on Earth
+    {% endif %}
 
-    } else {
-      // adjust date according to deadline timezone
-      {% if conf.timezone %}
-      var deadline = moment.tz(rawDeadline, "{{ conf.timezone }}");
-      {% else %}
-      var deadline = moment.tz(rawDeadline, "Etc/GMT+12"); // Anywhere on Earth
-      {% endif %}
-
-      // post-process date
-      if (deadline.minutes() === 0) {
-        deadline.subtract(1, 'seconds');
-      }
-      if (deadline.minutes() === 59) {
-        deadline.seconds(59);
-      }
-      parsedDeadlines.push(deadline);
+    // post-process date
+    if (deadline.minutes() === 0) {
+      deadline.subtract(1, 'seconds');
     }
+    if (deadline.minutes() === 59) {
+      deadline.seconds(59);
+    }
+    parsedDeadlines.push(deadline);
   }
   // due to pop before; we need to reverse such that the i index later matches
   // the right parsed deadline

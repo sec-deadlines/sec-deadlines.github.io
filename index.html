@@ -55,7 +55,9 @@
         {% assign num_deadlines = conf.deadline.size %}
         {% assign range_end = conf.deadline.size | minus: 1 %}
         {% for i in (0..range_end) %}
-        {% assign deadline = conf.deadline[i] %}
+        {% assign year = conf.year %}
+        {% assign prevyear = conf.year | minus: 1 %}
+        {% assign deadline = conf.deadline[i] | replace: '%y', year | replace: '%Y', prevyear %}
         {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
         <div id="{{ conf_id }}" class="conf {% for tag in conf.tags %} {{tag}} {% endfor %}">
           <div class="row">

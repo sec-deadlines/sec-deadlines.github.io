@@ -1,4 +1,5 @@
 ---
+
 # Security and Privacy
 - name: S&P (Oakland)
   year: 2023
@@ -165,9 +166,9 @@
   year: 2022
   link: https://petsymposium.org
   deadline:
-    - "%y-05-31 23:59"
-    - "%y-08-31 23:59"
-    - "%y-11-30 23:59"
+    - "%Y-05-31 23:59"
+    - "%Y-08-31 23:59"
+    - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
@@ -246,11 +247,11 @@
 
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2021
+  year: 2022
   link: https://ches.iacr.org/
   deadline:
-    - "%y-07-15 23:59"
-    - "%y-10-15 23:59"
+    - "%Y-07-15 23:59"
+    - "%Y-10-15 23:59"
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
