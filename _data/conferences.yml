@@ -153,6 +153,15 @@
   place: Virtual
   tags: [SEC, PRIV, CRYPTO]
 
+- name: SSR
+  description: Security Standardisation Research Conference
+  year: 2022
+  link: https://ssr2022.com/
+  deadline: "2022-03-04 23:59"
+  date: "June 06, 2022"
+  place: Genoa, Italy
+  tags: [SEC, PRIV, CRYPTO]
+
 # Privacy
 
 - name: WPES
