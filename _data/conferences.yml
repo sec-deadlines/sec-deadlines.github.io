@@ -152,7 +152,7 @@
   description: Security Standardisation Research Conference
   year: 2022
   link: https://ssr2022.com/
-  deadline: "2022-03-04 23:59"
+  deadline: ["2022-03-04 23:59"]
   date: "June 06, 2022"
   place: Genoa, Italy
   tags: [SEC, PRIV, CRYPTO]
@@ -189,7 +189,7 @@
   description: Location Privacy Workshop
   year: 2022
   link: http://security.ucc.ie/lpw22/
-  deadline: "%y-03-04 23:59"
+  deadline: ["2022-03-04 23:59"]
   comment: Co-located with Euro S&P 2022
   timezone: Etc/GMT+11
   date: June 10
