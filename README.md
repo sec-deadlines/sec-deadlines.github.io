@@ -31,7 +31,7 @@ Descriptions of the fields:
 | `year`\*      | Year the conference is happening                            |
 | `description` | Description, or long name                                   |
 | `link`\*      | URL to the conference home page                             |
-| `deadline`\*  | Deadline, or list of deadlines. (Gory details below)        |
+| `deadline`\*  | A list of deadlines. (Gory details below)                   |
 | `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
@@ -44,11 +44,16 @@ Fields marked with asterisk (\*) are required.
 
 The *deadline* field can contain:
 
-1. The simplest option: a date and time in ISO format. Example: `"2017-08-19 23:59"`.
-2. If a deadline is rolling, you can use a template date, just substitute the year with `%y`, or month with `%m`. Example: `"%y-%m-15 23:59"` means there is a deadline on the 15th day of every month, every year. `"2017-%m-15"` means a deadline on 15th day of every month, but only in 2017, i.e. `"2018-01-15"` is not a part of this template.
-2. A list of (1) or (2). Example of two rolling deadlines, with one in the end of May every year, and the second in the end of February:
+1. The simplest option: a date and time in ISO format. Example: `["2017-08-19 23:59"]` (Note that you need to wrap even a single deadline in a list).
+2. If a deadline is rolling, you can use a template date, just substitute the
+   year with `%y` and the year before the conference with `%Y`. Example:
+   `["%y-01-15 23:59"]` means there is a deadline on the 15th January in the
+   same year as the conference.
+2. A list of (1) or (2). Example of two rolling deadlines, with one in the end
+   of October in the year prior to the conference year, and the second in the
+   end of February in the same year as the conference:
   ```
-  - "%y-05-31 23:59"
+  - "%Y-10-31 23:59"
   - "%y-02-28 23:59"
   ```
 
