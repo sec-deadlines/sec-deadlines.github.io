@@ -77,40 +77,20 @@ $(function() {
   {% endfor %}
 
   // Reorder list
-  confs = $('.conf');
-  confs.detach().sort(function(a, b) {
-    var today = moment();
-    var a = deadlineByConf[a.id];
-    var b = deadlineByConf[b.id];
-    var diff1 = today.diff(a)
-    var diff2 = today.diff(b)
-    if (a == null && b == null) {
-      return 0;
-    }
-    if (a == null && diff2 > 0) {
+  var today = moment();
+  var confs = $('.conf').detach();
+  confs.sort(function(a, b) {
+    var aDeadline = deadlineByConf[a.id];
+    var bDeadline = deadlineByConf[b.id];
+    var aDiff = today.diff(aDeadline);
+    var bDiff = today.diff(bDeadline);
+    if (aDiff < 0 && bDiff > 0) {
       return -1;
     }
-    if (a == null && diff2 < 0) {
-      return +1;
+    if (aDiff > 0 && bDiff < 0) {
+      return 1;
     }
-    if (b == null && diff1 > 0) {
-      return +1;
-    }
-    if (b == null && diff1 < 0) {
-      return -1;
-    }
-    if (diff1 < 0 && diff2 > 0) {
-      return -1;
-    }
-    if (diff1 > 0 && diff2 < 0) {
-      return +1;
-    }
-    if (diff1 < 0 && diff2 < 0) {
-      return -1 ? diff1 < diff2 : +1;
-    }
-    if (diff1 > 0 && diff2 > 0) {
-      return -1 ? a < b : +1;
-    }
+    return bDiff - aDiff;
   });
   $('.conf-container').append(confs);
 
