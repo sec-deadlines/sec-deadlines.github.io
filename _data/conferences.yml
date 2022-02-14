@@ -30,6 +30,15 @@
   date: "June 6 - 10"
   place: Genova, Italy
   tags: [SEC, PRIV]
+  
+- name: RuhrSec Day 2022
+  description: Annual English speaking non-profit IT security conference
+  year: 2022
+  link: https://www.ruhrsec.de/2022/
+  deadline: "2022-03-21 23:59"
+  date: "May 5"
+  place: Bochum, Germany
+  tags: [SEC, PRIV, CRYPTO]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
