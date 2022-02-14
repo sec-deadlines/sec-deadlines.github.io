@@ -1,6 +1,15 @@
 ---
 
 # Security and Privacy
+- name: Hardwear.io Trainings & Conference USA
+  description: Welcome to the Call for Papers of the 4th edition of Hardwear.io USA
+  year: 2022
+  link: https://hardwear.io/usa-2022/
+  deadline: "2022-03-01 23:59"
+  date: June 05-09
+  place: Santa Clara, USA
+  tags: [SEC] [hardware security]
+  
 - name: S&P (Oakland)
   year: 2023
   date: "May 22 – 26 2023"
