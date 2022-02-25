@@ -407,3 +407,13 @@
   date: June 20-23
   place: Rome, Italy
   tags: [SEC, PRIV]
+
+- name: SECPID
+  description: Workshop on Security, Privacy, and Identity Management in the Cloud
+  year: 2022
+  link: https://www.ares-conference.eu/secpid-2022/
+  deadline: ["2022-04-20 23:59"]
+  timezone: Etc/UTC
+  date: August 23-26
+  place: Vienna, Austria
+  tags: [SEC, PRIV, CRYPTO]
