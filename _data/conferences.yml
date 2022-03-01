@@ -417,3 +417,13 @@
   date: August 23-26
   place: Vienna, Austria
   tags: [SEC, PRIV, CRYPTO]
+  
+- name: SciSec 
+  description: International Conference on Science of Cyber Security
+  year: 2022
+  link: https://scisec.org/
+  deadline: "2022-04-25 23:59"
+  date: April 25  
+  place: Matsue city, Japan
+  tags: [SEC, PRIV]
+  
