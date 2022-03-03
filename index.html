@@ -29,6 +29,15 @@
             {{ site.description }}
             <p>To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
             <p>Last update: {{ site.time | date: "%-d %B %Y" }}
+            <div>
+                <p>
+                    Deadlines as iCal: 
+                    <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>; 
+                    <a href="{{site.baseurl}}/ical/deadlines-sec.ical">security</a>; 
+                    <a href="{{site.baseurl}}/ical/deadlines-priv.ical">privacy</a>; 
+                    <a href="{{site.baseurl}}/ical/deadlines-crypto.ical">crypto</a>
+                </p>
+            </div>
           </div>
         </div>
         <hr>

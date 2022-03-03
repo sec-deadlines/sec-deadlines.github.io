@@ -1,0 +1,20 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR{% assign tyear = 'now' | date: '%Y' %}{% assign tmonth = 'now' | date: '%m' %}
+VERSION:2.0
+PRODID:https://sec-deadlines.github.io
+METHOD:PUBLISH{% assign conferences = site.data.conferences |
+where_exp:"conf","conf.tags contains 'SEC'" %}{% for conf in conferences %}{% assign num_deadlines = conf.deadline.size %}{% assign range_end = conf.deadline.size | minus: 1 %}{% for i in (0..range_end) %}{% assign deadline = conf.deadline[i] | replace: '%y', tyear %}{% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+BEGIN:VEVENT
+UID:{{ conf_id }}@sec-deadlines.github.io
+SUMMARY:{{conf.name}} {{conf.year}} Deadline{% if num_deadlines >= 2 %} ({{ i | plus: 1 }} / {{ num_deadlines }}){% endif %}
+DESCRIPTION:Deadline for {{conf.name}} {{conf.year}} {{conf.date}} {{conf.place}}\n{{ conf.description }}\n{{conf.comment}}\n{{conf.link}}
+URL:{{conf.link}}
+LOCATION:{{conf.place}}
+CLASS:PUBLIC
+DTSTAMP:{{ "now" | date: "%Y%m%dT%H%M%s" }}Z
+DTSTART;TZID={%if conf.timezone %}{{conf.timezone}}{% else %}Etc/GMT+12{% endif %}:{{ deadline | date: "%Y%m%dT%H%M"}}00
+DTEND;TZID={%if conf.timezone %}{{conf.timezone}}{% else %}Etc/GMT+12{% endif %}:{{ deadline | date: "%Y%m%dT%H%M"}}59
+END:VEVENT{% endfor %}{% endfor %}
+END:VCALENDAR
