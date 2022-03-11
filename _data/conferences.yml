@@ -437,3 +437,12 @@
   place: Matsue city, Japan
   tags: [SEC]
   
+- name: NEHWS
+  description: New England Hardware Security Day
+  year: 2022
+  link: http://vernam.wpi.edu/nehws22/
+  deadline: "2022-03-24 23:59"
+  timezone: "EST5EDT"
+  date: April 1
+  place: Amherst, MA
+  tags: [SEC, PRIV, CRYPTO]
