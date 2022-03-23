@@ -239,20 +239,20 @@
   
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2020
-  link: https://aft.acm.org/
-  deadline: ["2020-06-04 23:59"]
-  date: "Oct 21 – 23"
-  place: New York City, USA
+  year: 2022
+  link: https://aft.acm.org/aft22/
+  deadline: ["2022-05-05 23:59"]
+  date: "September 19–21"
+  place: Cambridge, MA, USA
   tags: [SEC, PRIV, CRYPTO]
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2020
-  link: https://www.iacr.org/workshops/tcc
-  deadline: ["2020-05-26 23:59"]
-  date: "November 16-19"
-  place: Durham, NC, USA
+  year: 2022
+  link: https://tcc.iacr.org/2022/
+  deadline: ["2022-05-24 23:59"]
+  date: "November 7-10"
+  place: Chicago, USA
   tags: CRYPTO
 
 - name: PKC
