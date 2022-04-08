@@ -12,6 +12,15 @@
     - "2022-12-02 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV]
+
+- name: IEEE SecDev
+  year: 2022
+  date: "Oct 18 – 20 2022"
+  description: IEEE Secure Development Conference
+  link: https://secdev.ieee.org/2022/home/
+  deadline: ["2022-06-03 23:59"]
+  place: Georgia Tech Conference Center. Atlanta, GA
+  tags: [SEC, PRIV]
   
 - name: ICICS
   year: 2022
