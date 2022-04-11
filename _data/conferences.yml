@@ -352,11 +352,11 @@
 # Others, less frequently updated
 
 - name: SecDev
-  year: 2020
+  year: 2022
   description: IEEE Secure Development Conference
-  link: https://secdev.ieee.org/
-  deadline: ["2020-05-25 23:59"]
-  date: "September 18-30"
+  link: https://secdev.ieee.org/2022/home/
+  deadline: ["2022-06-03 23:59"]
+  date: "October 18-20"
   place: Atlanta, GA, USA
   tags: [SEC, PRIV]
 
