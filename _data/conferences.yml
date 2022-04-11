@@ -90,14 +90,14 @@
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2022
-  link: https://www.ieee-security.org/TC/CSF2022
+  year: 2023
+  link: https://www.ieee-security.org/TC/CSF2023/
   deadline:
-    - "2021-05-14 23:59"
-    - "2021-10-01 23:59"
-    - "2022-02-04 23:59"
-  date: August 2022
-  place: Haifa, Israel
+    - "2022-05-13 23:59"
+    - "2022-09-30 23:59"
+    - "2023-02-03 23:59"
+  date: TBA
+  place: Dubrovnik, Croatia
   tags: [SEC, PRIV]
     
 - name: CANS
