@@ -437,3 +437,12 @@
   place: Matsue city, Japan
   tags: [SEC]
   
+- name: AsianHOST
+  description: Asian Hardware Oriented Security and Trust Symposium
+  year: 2022
+  link: http://asianhost.org/2022
+  deadline: ["2022-07-25 23:59"]
+  date: December 15-17 
+  place: Singapore
+  tags: [SEC]
+  
