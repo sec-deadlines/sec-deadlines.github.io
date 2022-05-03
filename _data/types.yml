@@ -5,3 +5,8 @@
   tag: PRIV
 - name: Crypto
   tag: CRYPTO
+- name: Conference
+  tag: CONF
+- name: Workshop
+  tag: SHOP
+  
