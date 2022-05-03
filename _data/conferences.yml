@@ -182,8 +182,8 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2022
-  link: https://petsymposium.org
+  year: 2023
+  link: https://www.petsymposium.org/cfp23.php
   deadline:
     - "%Y-05-31 23:59"
     - "%Y-08-31 23:59"
@@ -191,8 +191,8 @@
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
-  date: July 18-23
-  place: Sydney, Australia
+  date: July 10-14
+  place: Lausanne, Switzerland
   tags: PRIV
   
 - name: LPW
