@@ -44,13 +44,13 @@
 
 - name: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
-  year: 2022
-  link: https://asiaccs2022.conferenceservice.jp/
+  year: 2023
+  link: https://asiaccs2023.org/
   deadline:
-    - "2021-07-30 23:59"
-    - "2021-11-19 23:59"
-  date: "May 30 - June 3"
-  place: Nagasaki, Japan
+    - "2022-07-28 23:59"
+    - "2022-11-02 23:59"
+  date: "June 5 - June 9"
+  place: Melbourne, Australia
   tags: [SEC, PRIV, CONF]
 
 - name: Usenix
@@ -182,8 +182,8 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2022
-  link: https://petsymposium.org
+  year: 2023
+  link: https://www.petsymposium.org/cfp23.php
   deadline:
     - "%Y-05-31 23:59"
     - "%Y-08-31 23:59"
@@ -191,10 +191,10 @@
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
-  date: July 18-23
-  place: Sydney, Australia
+  date: July 10-14
+  place: Lausanne, Switzerland
   tags: [PRIV, CONF]
-  
+
 - name: LPW
   description: Location Privacy Workshop
   year: 2022
@@ -441,7 +441,8 @@
   description: Workshop on Security, Privacy, and Identity Management in the Cloud
   year: 2022
   link: https://www.ares-conference.eu/secpid-2022/
-  deadline: ["2022-04-20 23:59"]
+  deadline: ["2022-05-15 23:59"]
+  comment: Extended deadline
   timezone: Etc/UTC
   date: August 23-26
   place: Vienna, Austria
