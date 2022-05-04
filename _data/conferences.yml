@@ -11,7 +11,7 @@
     - "2022-08-19 23:59"
     - "2022-12-02 23:59"
   place: San Francisco, California, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
   
 - name: ICICS
   year: 2022
@@ -20,7 +20,7 @@
   link: https://icics2022.cyber.kent.ac.uk/index.php
   deadline: ["2022-03-21 23:59"]
   place: University of Kent, Canterbury, UK
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
@@ -29,7 +29,7 @@
   deadline: ["2021-09-22 23:59"]
   date: "June 6 - 10"
   place: Genova, Italy
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -40,7 +40,7 @@
     - "2022-05-02 23:59"
   date: "November 14-19"
   place: Los Angeles, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
@@ -51,7 +51,7 @@
     - "2022-11-02 23:59"
   date: "June 5 - June 9"
   place: Melbourne, Australia
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: Usenix
   description: Usenix Security Symposium
@@ -63,7 +63,7 @@
     - "2022-02-01 23:59"
   date: "August 10-12"
   place: Boston, MA, USA.
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -74,7 +74,7 @@
     - "2022-07-29 23:59"
   date: "To be confirmed"
   place: San Diego, CA, USA
-  tags: SEC
+  tags: [SEC, CONF]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
@@ -86,7 +86,7 @@
   comment: Title and abstract deadline on Jan 25 / May 22
   date: September 26-30
   place: Copenhagen, Denmark
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
@@ -98,7 +98,7 @@
     - "2023-02-03 23:59"
   date: TBA
   place: Dubrovnik, Croatia
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
     
 - name: CANS
   description: International Conference on Cryptology and Network Security
@@ -108,7 +108,7 @@
   timezone: Etc/UTC
   date: November 13-16
   place: Abu Dhabi, UAE
-  tags: [SEC, CRYPTO]
+  tags: [SEC, CRYPTO, CONF]
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
@@ -117,7 +117,7 @@
   deadline: ["2022-02-12 23:59"]
   date: May 16 - May 19
   place: San Antonio, Texas, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
@@ -127,7 +127,7 @@
   comment: Collocated with Usenix Security; Paper registration due Feb 11 AoE.
   date: August 7–9
   place: Boston, USA.
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: FC
   description: Financial Cryptography and Data Security
@@ -136,7 +136,7 @@
   deadline: ["2021-09-09 23:59"]
   date: February 14-18
   place: Grenada
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: NordSec
   description: Nordic Conference on Secure IT Systems
@@ -146,7 +146,7 @@
   timezone: Europe/Helsinki
   date: November 29-30
   place: Virtual
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SSR
   description: Security Standardisation Research Conference
@@ -155,7 +155,7 @@
   deadline: ["2022-03-04 23:59"]
   date: "June 06, 2022"
   place: Genoa, Italy
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SEED
   description: IEEE International Symposium on Secure and Private Execution Environment Design
@@ -165,7 +165,7 @@
   comment: Title and abstract deadline on May 20
   date: September 26-27
   place: Online Event
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
   
 # Privacy
 
@@ -178,7 +178,7 @@
   date: "November 9"
   place: Orlando, USA
   timezone: Etc/GMT+11
-  tags: [PRIV]
+  tags: [PRIV, SHOP]
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
@@ -193,8 +193,8 @@
   timezone: Etc/GMT+11
   date: July 10-14
   place: Lausanne, Switzerland
-  tags: PRIV
-  
+  tags: [PRIV, CONF]
+
 - name: LPW
   description: Location Privacy Workshop
   year: 2022
@@ -204,7 +204,7 @@
   timezone: Etc/GMT+11
   date: June 10
   place: Genoa, Italy
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, SHOP]
 
 # Crypto
 
@@ -215,7 +215,7 @@
   deadline: ["2022-02-16 11:59"]
   date: August 13-18
   place: Santa Barbara, CA, USA
-  tags: CRYPTO
+  tags: [CRYPTO, CONF]
 
 - name: Eurocrypt
   description: European Cryptology Conference
@@ -225,7 +225,7 @@
   timezone: Europe/Zurich
   date: May 10 - May 14
   place: Zagreb, Croatia
-  tags: CRYPTO
+  tags: [CRYPTO, CONF]
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
@@ -235,7 +235,7 @@
   timezone: Etc/UTC
   date: December 5-9
   place: Taipei, Taiwan
-  tags: CRYPTO
+  tags: [CRYPTO, CONF]
   
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
@@ -244,7 +244,7 @@
   deadline: ["2022-05-05 23:59"]
   date: "September 19–21"
   place: Cambridge, MA, USA
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: TCC
   description: Theory of Cryptography Conference
@@ -253,7 +253,7 @@
   deadline: ["2022-05-24 23:59"]
   date: "November 7-10"
   place: Chicago, USA
-  tags: CRYPTO
+  tags: [CRYPTO, CONF]
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
@@ -263,7 +263,7 @@
   timezone: Etc/UTC
   date: May 4-7
   place: Edinburgh, Scotland, UK
-  tags: CRYPTO
+  tags: [CRYPTO, CONF]
 
 - name: CT-RSA
   description: RSA Conference Cryptographers’ Track
@@ -273,7 +273,7 @@
   timezone: Etc/GMT+5
   date: February 24-28
   place: San Francisco, CA, USA
-  tags: CRYPTO
+  tags: [CRYPTO, CONF]
 
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
@@ -287,7 +287,7 @@
   comment: Rolling deadline every quarter
   date: September 12-15
   place: Beijing, China
-  tags: [SEC, CRYPTO]
+  tags: [SEC, CRYPTO, CONF]
 
 - name: SAC
   description: Conference on Selected Areas in Cryptography
@@ -296,7 +296,7 @@
   deadline: ["2021-07-12 23:59"]
   date: September 29 - October 1
   place: Online Event
-  tags: [CRYPTO, PRIV]
+  tags: [CRYPTO, PRIV, CONF]
 
 # Networks and systems, applications
 
@@ -307,7 +307,7 @@
   deadline: ["2022-04-07 23:59"]
   date: October 26-28
   place: Limassol, Cyprus
-  tags: SEC
+  tags: [SEC, CONF]
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
@@ -316,7 +316,7 @@
   deadline: ["2022-06-29 23:59"]
   date: Dec 5-9
   place: Austin, TX, USA
-  tags: [SEC]
+  tags: [SEC, CONF]
 
 - name: IMC
   description: Internet Measurement Conference
@@ -326,7 +326,7 @@
   comment: Title and abstract deadline on May 19th
   date: November 2-4
   place: Virtual
-  tags: SEC
+  tags: [SEC, CONF]
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
@@ -336,7 +336,7 @@
   comment: Title and abstract deadline on Dec 3rd
   date: June 27-30
   place: Baltimore, MD, USA
-  tags: SEC
+  tags: [SEC, CONF]
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
@@ -347,7 +347,7 @@
     - "2022-01-14 23:59"
   date: June 20-23
   place: Rome, Italy
-  tags: [CRYPTO, SEC]
+  tags: [CRYPTO, SEC, CONF]
   
 # Others, less frequently updated
 
@@ -358,7 +358,7 @@
   deadline: ["2022-06-03 23:59"]
   date: "October 18-20"
   place: Atlanta, GA, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
 
 - name: ISC
   description: The Information Security Conference
@@ -368,7 +368,7 @@
   timezone: Etc/UTC
   date: "September 16-18"
   place: New York, USA
-  tags: [SEC, INFOR]
+  tags: [SEC, INFOR, CONF]
 
 - name: CVCBT
   description: CryptoValley Conference on Blockchain Technologies
@@ -378,7 +378,7 @@
   timezone: Europe/Zurich
   date: "June 24-26"
   place: Rotkreuz, Switzerland
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IEEE DAPPS
   description: IEEE International Conference on Decentralized Applications and Infrastructures
@@ -387,7 +387,7 @@
   deadline: ["2022-05-08 23:59"]
   date: August 15-18
   place: San Francisco, CA, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, CONF]
   
 - name: IEEE S&B
   description: IEEE Security & Privacy on the Blockchain
@@ -396,7 +396,26 @@
   deadline: ["2021-05-14 23:59"]
   date: September 7-11
   place: Online Event
-  tags: [SEC, PRIV]  
+  tags: [SEC, PRIV, CONF]  
+
+- name: SciSec 
+  description: International Conference on Science of Cyber Security
+  year: 2022
+  link: https://scisec.org/
+  deadline: ["2022-04-25 23:59"]
+  date: August 10-12  
+  place: Matsue city, Japan
+  tags: [SEC, CONF]
+
+- name: AsianHOST
+  description: Asian Hardware Oriented Security and Trust Symposium
+  year: 2022
+  link: http://asianhost.org/2022
+  deadline: ["2022-07-25 23:59"]
+  date: December 15-17 
+  timezone: Asia/Shanghai
+  place: Singapore
+  tags: [SEC, CONF]
 
 # Workshops
 - name: NSPW
@@ -406,7 +425,7 @@
   deadline: ["2022-05-22 23:59"]
   date: October 24-27
   place: New Hampshire, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, SHOP]
   
 - name: Cloud S&P
   description: Workshop on Cloud Security and Privacy
@@ -416,7 +435,7 @@
   deadline: ["2022-03-28 23:59"]
   date: June 20-23
   place: Rome, Italy
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, SHOP]
 
 - name: SECPID
   description: Workshop on Security, Privacy, and Identity Management in the Cloud
@@ -427,24 +446,8 @@
   timezone: Etc/UTC
   date: August 23-26
   place: Vienna, Austria
-  tags: [SEC, PRIV, CRYPTO]
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
   
-- name: SciSec 
-  description: International Conference on Science of Cyber Security
-  year: 2022
-  link: https://scisec.org/
-  deadline: ["2022-04-25 23:59"]
-  date: August 10-12  
-  place: Matsue city, Japan
-  tags: [SEC]
-  
-- name: AsianHOST
-  description: Asian Hardware Oriented Security and Trust Symposium
-  year: 2022
-  link: http://asianhost.org/2022
-  deadline: ["2022-07-25 23:59"]
-  date: December 15-17 
-  timezone: Asia/Shanghai
-  place: Singapore
-  tags: [SEC]
+
   
