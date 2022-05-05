@@ -56,13 +56,13 @@
 - name: Usenix
   description: Usenix Security Symposium
   year: 2022
-  link: https://www.usenix.org/conference/usenixsecurity22
+  link: https://www.usenix.org/conference/usenixsecurity23
   deadline:
-    - "2021-06-08 23:59"
-    - "2021-10-12 23:59"
-    - "2022-02-01 23:59"
-  date: "August 10-12"
-  place: Boston, MA, USA.
+    - "2022-06-07 23:59"
+    - "2022-10-11 23:59"
+    - "2023-02-07 23:59"
+  date: "August 9-11"
+  place: Anaheim, CA, USA.
   tags: [SEC, PRIV, CONF]
 
 - name: NDSS
