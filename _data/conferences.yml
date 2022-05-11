@@ -166,7 +166,17 @@
   date: September 26-27
   place: Online Event
   tags: [SEC, PRIV, CONF]
-  
+
+- name: CARDIS
+  year: 2022
+  description: 21st Smart Card Research and Advanced Application Conference
+  link: https://events.cs.bham.ac.uk/cardis2022/
+  deadline: ["2022-06-23 23:59"]
+  timezone: Europe/London
+  date: November 7-9
+  place: Birmingham, UK
+  tags: [SEC, PRIV, CONF]
+
 # Privacy
 
 - name: WPES
