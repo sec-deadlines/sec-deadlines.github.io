@@ -394,7 +394,8 @@
   description: IEEE International Conference on Decentralized Applications and Infrastructures
   year: 2022
   link: https://ieeedapps.net/
-  deadline: ["2022-05-08 23:59"]
+  deadline: ["2022-05-22 23:59"]
+  comment: Extended deadline
   date: August 15-18
   place: San Francisco, CA, USA
   tags: [SEC, PRIV, CONF]
