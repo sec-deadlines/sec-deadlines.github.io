@@ -459,7 +459,7 @@
   place: Vienna, Austria
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
-  - name: CNS
+- name: CNS
   description: IEEE Conference on Communications and Network Security
   year: 2022
   link: https://cns2022.ieee-cns.org/
