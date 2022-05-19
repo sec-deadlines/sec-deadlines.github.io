@@ -459,6 +459,14 @@
   place: Vienna, Austria
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
-  
+  - name: CNS
+  description: IEEE Conference on Communications and Network Security
+  year: 2022
+  link: https://cns2022.ieee-cns.org/
+  deadline: ["2022-05-20 23:59"]
+  timezone: Etc/UTC
+  date: September 26-28
+  place: Austin, TX, USA
+  tags: [SEC, PRIV, CONF]
 
   
