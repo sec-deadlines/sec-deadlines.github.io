@@ -463,7 +463,8 @@
   description: IEEE Conference on Communications and Network Security
   year: 2022
   link: https://cns2022.ieee-cns.org/
-  deadline: ["2022-05-20 23:59"]
+  deadline: ["2022-06-03 23:59"]
+  comment: Extended deadline
   timezone: Etc/UTC
   date: September 26-28
   place: Austin, TX, USA
