@@ -161,8 +161,8 @@
   description: IEEE International Symposium on Secure and Private Execution Environment Design
   year: 2022
   link: https://seed22.engr.uconn.edu/
-  deadline: ["2022-05-27 23:59"]
-  comment: Title and abstract deadline on May 20
+  deadline: ["2022-06-10 23:59"]
+  comment: Title and abstract deadline on June 3
   date: September 26-27
   place: Online Event
   tags: [SEC, PRIV, CONF]
