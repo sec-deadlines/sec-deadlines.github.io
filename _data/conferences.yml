@@ -218,6 +218,15 @@
 
 # Crypto
 
+- name: SAC
+  description: Selected Areas in Cryptography
+  year: 2022
+  link: https://www.sac2022.ca/
+  deadline: ["2022-06-08 11:59"]
+  date: August 24-26
+  place: Ontario, Canada
+  tags: [CRYPTO, CONF]
+
 - name: Crypto
   description: International Cryptology Conference
   year: 2022
