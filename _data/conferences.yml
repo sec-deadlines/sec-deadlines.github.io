@@ -179,17 +179,6 @@
 
 # Privacy
 
-- name: WPES
-  description: Workshop on Privacy in the Electronic Society
-  year: 2020
-  link: https://www.wpes.tech/2020/
-  deadline: ["2020-07-23 23:59"]
-  comment: Collocated with ACM CCS
-  date: "November 9"
-  place: Orlando, USA
-  timezone: Etc/GMT+11
-  tags: [PRIV, SHOP]
-
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2023
@@ -429,6 +418,17 @@
   tags: [SEC, CONF]
 
 # Workshops
+- name: WPES
+  description: Workshop on Privacy in the Electronic Society
+  year: 2022
+  link: https://arc.encs.concordia.ca/wpes22/index.html
+  deadline: ["2022-07-16 23:59"]
+  comment: In conjunction with the ACM CCS
+  timezone: Pacific/Samoa
+  date: November 7
+  place: Los Angeles, USA
+  tags: [PRIV, SHOP] 
+
 - name: NSPW
   description: New Security Paradigms Workshop
   year: 2022
@@ -469,14 +469,3 @@
   date: September 26-28
   place: Austin, TX, USA
   tags: [SEC, PRIV, CONF]
-
-- name: WPES
-  description: Workshop on Privacy in the Electronic Society
-  year: 2022
-  link: https://arc.encs.concordia.ca/wpes22/index.html
-  deadline: ["2022-07-16 23:59"]
-  comment: In conjunction with the ACM CCS
-  timezone: Pacific/Samoa
-  date: November 7
-  place: Los Angeles, USA
-  tags: [PRIV, SHOP] 
