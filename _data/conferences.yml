@@ -1,6 +1,15 @@
 ---
 
 # Security and Privacy
+- name: SaTML
+  year: 2023
+  date: "February 08 - 10 2023"
+  description: IEEE Conference on Secure and Trustworthy Machine Learning
+  link: https://satml.org/
+  deadline: "2022-08-22 23:59"
+  place: Location to be revealed
+  tags: [SEC, PRIV, CONF]
+  
 - name: S&P (Oakland)
   year: 2023
   date: "May 22 – 26 2023"
