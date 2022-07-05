@@ -1,6 +1,6 @@
 ---
-
-# Security and Privacy
+ # Security and Privacy
+ 
 - name: S&P (Oakland)
   year: 2023
   date: "May 22 – 26 2023"
@@ -11,15 +11,6 @@
     - "2022-08-19 23:59"
     - "2022-12-02 23:59"
   place: San Francisco, California, USA
-  tags: [SEC, PRIV, CONF]
-  
-- name: ICICS
-  year: 2022
-  date: "Sept 05 – 08 2022"
-  description: The 24th International Conference on Information and Communications Security
-  link: https://icics2022.cyber.kent.ac.uk/index.php
-  deadline: ["2022-03-21 23:59"]
-  place: University of Kent, Canterbury, UK
   tags: [SEC, PRIV, CONF]
 
 - name: Euro S&P
@@ -175,6 +166,24 @@
   timezone: Europe/London
   date: November 7-9
   place: Birmingham, UK
+  tags: [SEC, PRIV, CONF]
+
+- name: ICICS
+  year: 2022
+  date: "Sept 05 – 08"
+  description: The 24th International Conference on Information and Communications Security
+  link: https://icics2022.cyber.kent.ac.uk/index.php
+  deadline: ["2022-03-21 23:59"]
+  place: University of Kent, Canterbury, UK
+  tags: [SEC, PRIV, CONF]
+
+- name: SaTML
+  year: 2023
+  date: "February 08 - 10"
+  description: IEEE Conference on Secure and Trustworthy Machine Learning
+  link: https://satml.org/
+  deadline: ["2022-08-22 23:59"]
+  place: Location to be revealed
   tags: [SEC, PRIV, CONF]
 
 # Privacy
