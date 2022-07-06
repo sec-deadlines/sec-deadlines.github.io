@@ -186,6 +186,16 @@
   place: Location to be revealed
   tags: [SEC, PRIV, CONF]
 
+- name: NordSec
+  year: 2022
+  description: The 27th Nordic Conference on Secure IT Systems
+  link: https://nordsec2022.ru.is/
+  deadline: ["2022-08-22 23:59"]
+  date: "November 30 - December 2 2022"
+  place: Reykjavik, Iceland
+  tags: [SEC, PRIV, CONF]
+
+
 # Privacy
 
 - name: PETS
