@@ -129,16 +129,6 @@
   place: Grenada
   tags: [SEC, PRIV, CRYPTO, CONF]
 
-- name: NordSec
-  description: Nordic Conference on Secure IT Systems
-  year: 2021
-  link: https://events.tuni.fi/nordsec2021/
-  deadline: ["2021-08-23 23:59"]
-  timezone: Europe/Helsinki
-  date: November 29-30
-  place: Virtual
-  tags: [SEC, PRIV, CRYPTO, CONF]
-
 - name: SSR
   description: Security Standardisation Research Conference
   year: 2022
@@ -191,10 +181,9 @@
   description: The 27th Nordic Conference on Secure IT Systems
   link: https://nordsec2022.ru.is/
   deadline: ["2022-08-22 23:59"]
-  date: "November 30 - December 2 2022"
+  date: "November 30 - December 2"
   place: Reykjavik, Iceland
   tags: [SEC, PRIV, CONF]
-
 
 # Privacy
 
