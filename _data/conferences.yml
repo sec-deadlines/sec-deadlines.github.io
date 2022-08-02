@@ -486,3 +486,12 @@
   date: September 26-28
   place: Austin, TX, USA
   tags: [SEC, PRIV, CONF]
+  
+- name: SPACE
+  description: International Conference on Security, Privacy and Applied Cryptographic Engineering 
+  year: 2022
+  link: https://space2022.lnmiit.ac.in/
+  deadline: "2022-09-01 23:59"
+  date: December 08-11
+  place: Jaipur, IN
+  tags: [SEC, PRIV, CRYPTO]
