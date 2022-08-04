@@ -487,6 +487,15 @@
   place: Austin, TX, USA
   tags: [SEC, PRIV, CONF]
   
+- name: SPACE
+  description: International Conference on Security, Privacy and Applied Cryptographic Engineering 
+  year: 2022
+  link: https://space2022.lnmiit.ac.in/
+  deadline: ["2022-09-01 23:59"]
+  date: December 08-11
+  place: Jaipur, India
+  tags: [SEC, PRIV, CRYPTO]
+
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
   year: 2022
@@ -494,5 +503,6 @@
   deadline: ["2022-09-01 23:59"]
   date: October 1
   timezone: Etc/UTC
-  place: Chicago, Illinois, USA
+  place: Chicago, IL, USA
   tags: [SEC, PRIV, SHOP]
+
