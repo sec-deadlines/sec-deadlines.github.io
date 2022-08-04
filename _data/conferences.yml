@@ -428,7 +428,7 @@
   description: Asian Hardware Oriented Security and Trust Symposium
   year: 2022
   link: http://asianhost.org/2022
-  deadline: ["2022-07-25 23:59"]
+  deadline: ["2022-08-15 23:59"]
   date: December 15-17 
   timezone: Asia/Shanghai
   place: Singapore
@@ -491,7 +491,18 @@
   description: International Conference on Security, Privacy and Applied Cryptographic Engineering 
   year: 2022
   link: https://space2022.lnmiit.ac.in/
-  deadline: "2022-09-01 23:59"
+  deadline: ["2022-09-01 23:59"]
   date: December 08-11
-  place: Jaipur, IN
+  place: Jaipur, India
   tags: [SEC, PRIV, CRYPTO]
+
+- name: HASP
+  description: Hardware and Architectural Support for Security and Privacy
+  year: 2022
+  link: https://haspworkshop.org/2022/
+  deadline: ["2022-09-01 23:59"]
+  date: October 1
+  timezone: Etc/UTC
+  place: Chicago, IL, USA
+  tags: [SEC, PRIV, SHOP]
+
