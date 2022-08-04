@@ -428,7 +428,7 @@
   description: Asian Hardware Oriented Security and Trust Symposium
   year: 2022
   link: http://asianhost.org/2022
-  deadline: ["2022-07-25 23:59"]
+  deadline: ["2022-08-15 23:59"]
   date: December 15-17 
   timezone: Asia/Shanghai
   place: Singapore
@@ -486,3 +486,13 @@
   date: September 26-28
   place: Austin, TX, USA
   tags: [SEC, PRIV, CONF]
+  
+- name: HASP
+  description: Hardware and Architectural Support for Security and Privacy
+  year: 2022
+  link: https://haspworkshop.org/2022/
+  deadline: ["2022-09-01 23:59"]
+  date: October 1
+  timezone: Etc/UTC
+  place: Chicago, Illinois, USA
+  tags: [SEC, PRIV, SHOP]
