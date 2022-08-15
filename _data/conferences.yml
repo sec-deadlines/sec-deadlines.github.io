@@ -3,7 +3,7 @@
  
 - name: S&P (Oakland)
   year: 2023
-  date: "May 22 – 26 2023"
+  date: "May 22 – 26"
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2023
   deadline:
@@ -87,7 +87,7 @@
     - "2022-05-13 23:59"
     - "2022-09-30 23:59"
     - "2023-02-03 23:59"
-  date: TBA
+  date: July 10 - 14
   place: Dubrovnik, Croatia
   tags: [SEC, PRIV, CONF]
     
