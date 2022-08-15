@@ -346,12 +346,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2022
-  link: https://dsn2022.github.io/
-  deadline: ["2021-12-10 23:59"]
-  comment: Title and abstract deadline on Dec 3rd
+  year: 2023
+  link: https://dsn2023.dei.uc.pt/
+  deadline: ["2022-12-07 23:59"]
+  comment: Abstract deadline on Dec 1st
   date: June 27-30
-  place: Baltimore, MD, USA
+  place: Porto, Portugal
   tags: [SEC, CONF]
 
 - name: ACNS
