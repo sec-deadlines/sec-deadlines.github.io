@@ -185,6 +185,15 @@
   place: Reykjavik, Iceland
   tags: [SEC, PRIV, CONF]
 
+- name: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2023
+  link: https://www.ieee-security.org/TC/EuroSP2023/
+  deadline: ["2022-10-26 23:59"]
+  date: "July 3 - 7"
+  place: Delft, The Netherlands 
+  tags: [SEC, PRIV, CONF]
+
 # Privacy
 
 - name: PETS
