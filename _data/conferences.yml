@@ -24,17 +24,6 @@
   place: Los Angeles, USA
   tags: [SEC, PRIV, CONF]
 
-- name: AsiaCCS
-  description: ACM Asia Conference on Computer and Communications Security
-  year: 2023
-  link: https://asiaccs2023.org/
-  deadline:
-    - "2022-09-01 23:59"
-    - "2022-12-15 23:59"
-  date: "July 10-14"
-  place: Melbourne, Australia
-  tags: [SEC, PRIV, CONF]
-
 - name: Usenix
   description: Usenix Security Symposium
   year: 2023
@@ -54,7 +43,7 @@
   deadline:
     - "2022-05-13 23:59"
     - "2022-07-29 23:59"
-  date: "To be confirmed"
+  date: "February 27 - March 3"
   place: San Diego, CA, USA
   tags: [SEC, CONF]
 
@@ -68,6 +57,17 @@
   comment: Title and abstract deadline on Jan 25 / May 22
   date: September 26-30
   place: Copenhagen, Denmark
+  tags: [SEC, PRIV, CONF]
+
+- name: AsiaCCS
+  description: ACM Asia Conference on Computer and Communications Security
+  year: 2023
+  link: https://asiaccs2023.org/
+  deadline:
+    - "2022-09-01 23:59"
+    - "2022-12-15 23:59"
+  date: "July 10-14"
+  place: Melbourne, Australia
   tags: [SEC, PRIV, CONF]
   
 - name: CSF
@@ -363,26 +363,6 @@
   date: "October 18-20"
   place: Atlanta, GA, USA
   tags: [SEC, PRIV, CONF]
-
-- name: ISC
-  description: The Information Security Conference
-  year: 2020
-  link: https://isc2020.petra.ac.id/
-  deadline: ["2020-05-28 23:59"]
-  timezone: Etc/UTC
-  date: "September 16-18"
-  place: New York, USA
-  tags: [SEC, INFOR, CONF]
-
-- name: CVCBT
-  description: CryptoValley Conference on Blockchain Technologies
-  year: 2020
-  link: http://www.cryptovalleyconference.com/technology-call-for-papers
-  deadline: ["2020-04-03 16:00"]
-  timezone: Europe/Zurich
-  date: "June 24-26"
-  place: Rotkreuz, Switzerland
-  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IEEE DAPPS
   description: IEEE International Conference on Decentralized Applications and Infrastructures
