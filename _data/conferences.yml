@@ -267,17 +267,17 @@
   link: https://tcc.iacr.org/2022/
   deadline: ["2022-05-24 23:59"]
   date: "November 7-10"
-  place: Chicago, USA
+  place: Chicago, IL, USA
   tags: [CRYPTO, CONF]
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2020
-  link: https://pkc.iacr.org/2020/
-  deadline: ["2019-11-02 09:59"]
+  year: 2023
+  link: https://pkc.iacr.org/2023/
+  deadline: ["2022-11-01 09:59"]
   timezone: Etc/UTC
-  date: May 4-7
-  place: Edinburgh, Scotland, UK
+  date: May 7-10
+  place: Atlanta, GA, USA
   tags: [CRYPTO, CONF]
 
 - name: CT-RSA
