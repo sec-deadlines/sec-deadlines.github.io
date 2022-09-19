@@ -237,7 +237,7 @@
   description: European Cryptology Conference
   year: 2023
   link: https://eurocrypt.iacr.org/2023/
-  deadline: ["2022-10-06 11:59"]
+  deadline: ["2022-10-06 23:59"]
   date: April 23-27
   place: Lyon, France
   tags: [CRYPTO, CONF]
