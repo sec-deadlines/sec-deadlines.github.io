@@ -12,6 +12,19 @@
     - "2022-12-02 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF]
+  
+- name: FPS 2022
+  year: 2022
+  date: "Dec 12–14"
+  description: 15th International Symposium on Foundations & Practice of Security
+  link: https://www.fps-2022.com
+  deadline:
+    - "2022-09-30 23:59"
+    - "2022-10-07 23:59"
+    - "2022-11-11"
+    - "2022-11-27"
+  place: Ottawa, Ontario, Canada
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
