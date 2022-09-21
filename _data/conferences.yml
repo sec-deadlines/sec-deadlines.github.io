@@ -13,16 +13,12 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF]
   
-- name: FPS 2022
+- name: FPS
   year: 2022
   date: "Dec 12–14"
   description: 15th International Symposium on Foundations & Practice of Security
   link: https://www.fps-2022.com
-  deadline:
-    - "2022-09-30 23:59"
-    - "2022-10-07 23:59"
-    - "2022-11-11"
-    - "2022-11-27"
+  deadline: ["2022-10-07 23:59"]
   place: Ottawa, Ontario, Canada
   tags: [SEC, PRIV, CRYPTO, CONF]
 
