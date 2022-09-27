@@ -483,3 +483,12 @@
   place: Chicago, IL, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: NDC Security
+  description: Developer and AppSec focused security conference
+  year: 2023
+  link: https://www.ndc-security.com
+  deadline: ["2022-10-04 23:59"]
+  date: January 16-19
+  timezone: CET
+  place: Oslo, Norway
+  tags: [SEC, CONF, SHOP]
