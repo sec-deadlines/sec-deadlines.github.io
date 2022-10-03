@@ -103,11 +103,13 @@
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
-  year: 2022
-  link: https://wisec2022.cs.utsa.edu/
-  deadline: ["2022-02-12 23:59"]
-  date: May 16 - May 19
-  place: San Antonio, Texas, USA
+  year: 2023
+  link: https://wisec2023.surrey.ac.uk
+  deadline: 
+    - "2022-11-18 23:59"
+    - "2023-02-17 23:59"
+  date: May 29 - June 1
+  place: Guildford, Surrey, United Kingdom
   tags: [SEC, PRIV, CONF]
 
 - name: SOUPS
