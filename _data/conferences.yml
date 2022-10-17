@@ -485,3 +485,13 @@
   place: Chicago, IL, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: PAVeTrust
+  description: Program Analysis and Verification on Trusted Platforms
+  year: 2022
+  link: https://www.acsac.org/2022/workshops/pavetrust/
+  comment: Collocated with ACSAC
+  deadline: ["2022-10-28 23:59"]
+  date: December 6
+  place: Austin, TX, USA
+  tags: [SEC, PRIV, SHOP]
+
