@@ -133,11 +133,11 @@
 
 - name: SSR
   description: Security Standardisation Research Conference
-  year: 2022
-  link: https://ssr2022.com/
-  deadline: ["2022-03-04 23:59"]
-  date: "June 06, 2022"
-  place: Genoa, Italy
+  year: 2023
+  link: https://ssresearch2023.github.io/
+  deadline: ["2023-01-05 23:59"]
+  date: "April 22-23, 2023"
+  place: Lyon, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SEED
