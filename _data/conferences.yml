@@ -1,14 +1,5 @@
 ---
  # Security and Privacy
-
-- name: VehicleSec
-  description: Inaugural ISOC Symposium on Vehicle Security and Privacy
-  year: 2023
-  link: https://www.ndss-symposium.org/ndss2023/submissions/cfp-vehiclesec/
-  deadline: ["2023-01-03 23:59"]
-  date: February 27
-  place: San Diego, California, USA
-  tags: [SEC, PRIV, CONF]
   
 - name: S&P (Oakland)
   year: 2023
@@ -504,3 +495,11 @@
   place: Austin, TX, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: VehicleSec
+  description: ISOC Symposium on Vehicle Security and Privacy
+  year: 2023
+  link: https://www.ndss-symposium.org/ndss2023/submissions/cfp-vehiclesec/
+  deadline: ["2023-01-03 23:59"]
+  date: February 27
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, SHOP]
