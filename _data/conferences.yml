@@ -363,7 +363,18 @@
   date: June 19-22
   place: Kyoto, Japan
   tags: [CRYPTO, SEC, CONF]
-  
+
+- name: DIMVA
+  description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
+  year: 2023
+  link: https://dimva2023.de/
+  deadline:
+    - "2022-12-07 23:59"
+    - "2023-02-01 23:59"
+  date: July 12-14
+  place: Hamburg, Germany
+  tags: [SEC, CONF]
+
 # Others, less frequently updated
 
 - name: SecDev
