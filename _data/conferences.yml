@@ -523,3 +523,12 @@
   date: February 27
   place: San Diego, California, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: WOOT
+  description: IEEE Workshop on Offensive Technologies
+  year: 2023
+  link: https://wootconference.org/
+  deadline: ["2023-01-27 23:59"]
+  date: May 25
+  place: San Francisco, California, USA
+  tags: [SEC, PRIV, CRYPTO, SHOP]
