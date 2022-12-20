@@ -24,13 +24,13 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2022
-  link: https://www.sigsac.org/ccs/CCS2022/
+  year: 2023
+  link: https://cispa.saarland/group/cremers/events/CCS2023/
   deadline:
-    - "2022-01-14 23:59"
-    - "2022-05-02 23:59"
-  date: "November 14-19"
-  place: Los Angeles, USA
+    - "2023-01-19 23:59"
+    - "2023-05-04 23:59"
+  date: TBA
+  place: Copenhagen, Denmark
   tags: [SEC, PRIV, CONF]
 
 - name: Usenix
