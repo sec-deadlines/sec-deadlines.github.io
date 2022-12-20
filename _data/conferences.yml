@@ -299,6 +299,24 @@
   place: San Francisco, CA, USA
   tags: [CRYPTO, CONF]
 
+- name: SECCRYPT
+  description: International Conference on Security and Cryptography
+  year: 2023
+  link: https://secrypt.scitevents.org/ImportantDates.aspx
+  deadline: ["2023-02-23 23:59"]
+  date: July 10-12
+  place: Rome, Italy
+  tags: [CRYPTO, CONF]
+  
+- name: AFRICACRYPT
+  description: International Conference on Cryptography Africa
+  year: 2023
+  link: https://secrypt.scitevents.org/ImportantDates.aspx
+  deadline: ["2023-02-26 23:59"]
+  date: July 19-21
+  place: Sousse, Tunisia
+  tags: [CRYPTO, CONF]
+
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
   year: 2023
@@ -312,15 +330,6 @@
   date: September
   place: Prague, Czech Republic
   tags: [SEC, CRYPTO, CONF]
-
-- name: SAC
-  description: Conference on Selected Areas in Cryptography
-  year: 2021
-  link: https://www.sac2021.ca/
-  deadline: ["2021-07-12 23:59"]
-  date: September 29 - October 1
-  place: Online Event
-  tags: [CRYPTO, PRIV, CONF]
 
 # Networks and systems, applications
 
