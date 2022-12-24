@@ -455,12 +455,12 @@
   
 - name: Cloud S&P
   description: Workshop on Cloud Security and Privacy
-  year: 2022
-  link: https://cloudsp2022.encs.concordia.ca/
+  year: 2023
+  link: https://cloudsp2023.encs.concordia.ca/
   comment: Collocated with ACNS
-  deadline: ["2022-03-28 23:59"]
-  date: June 20-23
-  place: Rome, Italy
+  deadline: ["2022-03-20 23:59"]
+  date: June 19-22
+  place: Kyoto, Japan
   tags: [SEC, PRIV, SHOP]
 
 - name: SECPID
@@ -541,3 +541,4 @@
   date: May 25
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
+ 
