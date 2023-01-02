@@ -12,24 +12,15 @@
     - "2022-12-02 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF]
-  
-- name: FPS
-  year: 2022
-  date: "Dec 12–14"
-  description: 15th International Symposium on Foundations & Practice of Security
-  link: https://www.fps-2022.com
-  deadline: ["2022-10-07 23:59"]
-  place: Ottawa, Ontario, Canada
-  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2023
-  link: https://cispa.saarland/group/cremers/events/CCS2023/
+  link: https://www.sigsac.org/ccs/CCS2023
   deadline:
     - "2023-01-19 23:59"
     - "2023-05-04 23:59"
-  date: TBA
+  date: November 26-30
   place: Copenhagen, Denmark
   tags: [SEC, PRIV, CONF]
 
@@ -113,12 +104,12 @@
 
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
-  year: 2022
-  link: https://www.usenix.org/conference/soups2022
-  deadline: ["2022-02-17 23:59"]
-  comment: Collocated with Usenix Security; Paper registration due Feb 11 AoE.
-  date: August 7–9
-  place: Boston, USA.
+  year: 2023
+  link: https://www.usenix.org/conference/soups2023
+  deadline: ["2023-02-16 23:59"]
+  comment: Collocated with Usenix Security; Paper registration due Feb 10 AoE.
+  date: August 6–8
+  place: Anaheim, CA, USA.
   tags: [SEC, PRIV, CONF]
 
 - name: FC
@@ -129,6 +120,15 @@
   date: "May 1–5, 2023 or May 8–12, 2023 (tentative)"
   place: Bol, Croatia
   tags: [SEC, CRYPTO, CONF]
+
+- name: FPS
+  year: 2022
+  date: "Dec 12–14"
+  description: 15th International Symposium on Foundations & Practice of Security
+  link: https://www.fps-2022.com
+  deadline: ["2022-10-07 23:59"]
+  place: Ottawa, Ontario, Canada
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SSR
   description: Security Standardisation Research Conference
