@@ -542,3 +542,11 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
  
+- name: SafeThings
+  description: IEEE/ACM Internet of Safe Things
+  year: 2023
+  link: https://safe-things-2023.github.io/
+  deadline: ["2023-02-04 23:59"]
+  date: May 9
+  place: San Antonio, Texas, USA
+  tags: [SEC, PRIV, SHOP]
