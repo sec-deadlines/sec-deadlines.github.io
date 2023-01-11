@@ -399,19 +399,9 @@
   year: 2022
   link: https://ieeedapps.net/
   deadline: ["2022-05-22 23:59"]
-  comment: Extended deadline
   date: August 15-18
   place: San Francisco, CA, USA
   tags: [SEC, PRIV, CONF]
-  
-- name: IEEE S&B
-  description: IEEE Security & Privacy on the Blockchain
-  year: 2021
-  link: https://ieeesb.org/
-  deadline: ["2021-05-14 23:59"]
-  date: September 7-11
-  place: Online Event
-  tags: [SEC, PRIV, CONF]  
 
 - name: SciSec 
   description: International Conference on Science of Cyber Security
