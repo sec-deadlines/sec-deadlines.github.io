@@ -1,5 +1,16 @@
 ---
  # Security and Privacy
+ 
+- name: CackalackyCon
+  description: Hacker and InfoSec conference in Triangle (Raliegh, Durham, Chapel Hill) region of North Carolina
+  year: 2023
+  link: https://cackalackycon.org
+  deadline: 
+    - "2023-01-15 23:59"
+    - "2023-02-28 23:59"
+  date: May 5-7
+  place: Durham, NC (RTP)
+  tags: [SEC, PRIV, CONF]
   
 - name: S&P (Oakland)
   year: 2023
