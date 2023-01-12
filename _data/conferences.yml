@@ -540,3 +540,13 @@
   date: May 9
   place: San Antonio, Texas, USA
   tags: [SEC, PRIV, SHOP]
+
+
+- name: NorthSec
+  description: NorthSec
+  year: 2023
+  link: https://nsec.io
+  deadline: ["2023-01-31 23:59"]
+  date: May 18th, 19th
+  place: Montreal, QC, Canada
+  tags: [SEC, PRIV]
