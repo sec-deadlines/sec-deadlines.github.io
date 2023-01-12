@@ -23,6 +23,18 @@
   date: November 26-30
   place: Copenhagen, Denmark
   tags: [SEC, PRIV, CONF]
+  
+- name: RMISC
+  description: Rocky Mountain Information Security Conference
+  year: 2023
+  link: https://rmisc.org
+  deadline:
+    - "2023-01-30 23:59"
+    - "2023-06-06 23:59"
+  date: June 7-9
+  timezone: America/Denver
+  place: Denver, CO, USA
+  tags: [SEC, PRIV, CONF]
 
 - name: Usenix
   description: Usenix Security Symposium
