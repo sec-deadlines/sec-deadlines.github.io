@@ -160,12 +160,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ICICS
-  year: 2022
-  date: "Sept 05 – 08"
-  description: The 24th International Conference on Information and Communications Security
-  link: https://icics2022.cyber.kent.ac.uk/index.php
-  deadline: ["2022-03-21 23:59"]
-  place: University of Kent, Canterbury, UK
+  year: 2023
+  date: November 18–20
+  description: 25th International Conference on Information and Communications Security
+  link: https://icics23.nankai.edu.cn
+  deadline: ["2023-03-30 23:59"]
+  place: Tianjin, China
   tags: [SEC, PRIV, CONF]
 
 - name: SaTML
