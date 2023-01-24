@@ -561,3 +561,14 @@
   date: August 29 - September 01
   place: Benevento, Italy
   tags: [SEC, CONF, PRIV]
+
+- name: CODASPY
+  description: ACM Conference on Data and Application Security and Privacy
+  year: 2023
+  link: http://www.codaspy.org/2023/
+  deadline: 
+    - ["2022-10-17 23:59"]
+  date: April 24-26
+  place: Charlotte, NC, United States
+  tags: [CRYPTO, SEC, CONF, PRIV]
+  
