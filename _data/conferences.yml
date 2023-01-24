@@ -592,3 +592,13 @@
   date: July 10-14
   place: Melbourne, Australia
   tags: [SEC, CONF, PRIV]
+
+- name: THE WEB CONFERENCE
+  description: International conference on the topic of the future directions of the World Wide Web
+  year: 2023
+  link: https://www2023.thewebconf.org
+  deadline: 
+    - ["2022-10-6 23:59"]
+  date: April 30 - May 04
+  place: Austin, Texas, USA
+  tags: [CRYPTO, SEC, CONF, PRIV]
