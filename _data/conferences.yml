@@ -388,8 +388,8 @@
   year: 2023
   link: https://sacmat2023.fbk.eu/
   deadline: 
-    - ["2022-12-15 23:59"]
-    - ["2023-02-17 23:59"]
+    - "2022-12-15 23:59"
+    - "2023-02-17 23:59"
   date: June 7-9
   place: Trento, Italy
   tags: [CRYPTO, SEC, CONF, PRIV]
