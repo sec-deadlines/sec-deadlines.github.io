@@ -398,8 +398,7 @@
   description: International Conference on Availability, Reliability and Security
   year: 2023
   link: https://www.ares-conference.eu
-  deadline: 
-    - ["2023-03-09 23:59"]
+  deadline: ["2023-03-09 23:59"]
   date: August 29 - September 01
   place: Benevento, Italy
   tags: [SEC, CONF, PRIV]
@@ -408,8 +407,7 @@
   description: ACM Conference on Data and Application Security and Privacy
   year: 2023
   link: http://www.codaspy.org/2023/
-  deadline: 
-    - ["2022-10-17 23:59"]
+  deadline: ["2022-10-17 23:59"]
   date: April 24-26
   place: Charlotte, NC, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
@@ -418,8 +416,7 @@
   description: Conference on Data and Applications Security and Privacy
   year: 2022
   link: http://cs.iit.edu/~dbsec2022
-  deadline: 
-    - ["2022-04-22 23:59"]
+  deadline: ["2022-04-22 23:59"]
   date: July 18-20
   place: Newark, NJ, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
@@ -428,8 +425,7 @@
   description: International conference on the World Wide Web
   year: 2023
   link: https://www2023.thewebconf.org
-  deadline: 
-    - ["2022-10-06 23:59"]
+  deadline: ["2022-10-06 23:59"]
   date: April 30 - May 04
   place: Austin, Texas, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
