@@ -569,6 +569,16 @@
   deadline: 
     - ["2022-10-17 23:59"]
   date: April 24-26
-  place: Charlotte, NC, United States
+  place: Charlotte, NC, USA
+  tags: [CRYPTO, SEC, CONF, PRIV]
+
+- name: DBSec
+  description: Conference on Data and Applications Security and Privacy
+  year: 2022
+  link: http://cs.iit.edu/~dbsec2022
+  deadline: 
+    - ["2022-10-17 23:59"]
+  date: July 18-20
+  place: Newark, NJ, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
   
