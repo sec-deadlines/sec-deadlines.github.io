@@ -551,3 +551,13 @@
   date: June 7-9
   place: Trento, Italy
   tags: [CRYPTO, SEC, CONF, PRIV]
+
+- name: ARES
+  description: International Conference on Availability, Reliability and Security
+  year: 2023
+  link: https://www.ares-conference.eu
+  deadline: 
+    - ["2023-03-09 23:59"]
+  date: August 29 - September 01
+  place: Benevento, Italy
+  tags: [SEC, CONF, PRIV]
