@@ -540,3 +540,14 @@
   date: May 9
   place: San Antonio, Texas, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2023
+  link: https://sacmat2023.fbk.eu/
+  deadline: 
+    - ["2022-12-15 23:59"]
+    - ["2023-02-17 23:59"]
+  date: June 7-9
+  place: Trento, Italy
+  tags: [CRYPTO, SEC, CONF, PRIV]
