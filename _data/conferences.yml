@@ -577,8 +577,18 @@
   year: 2022
   link: http://cs.iit.edu/~dbsec2022
   deadline: 
-    - ["2022-10-17 23:59"]
+    - ["2022-04-22 23:59"]
   date: July 18-20
   place: Newark, NJ, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
-  
+
+- name: ASIACCS
+  description: ACM ASIA Conference on Computer and Communications Security
+  year: 2023
+  link: https://asiaccs2023.org
+  deadline: 
+    - ["2022-09-01 23:59"]
+    - ["2022-12-15 23:59"]
+  date: July 10-14
+  place: Melbourne, Australia
+  tags: [SEC, CONF, PRIV]
