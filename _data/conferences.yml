@@ -24,16 +24,16 @@
   place: Copenhagen, Denmark
   tags: [SEC, PRIV, CONF]
 
-- name: Usenix
-  description: Usenix Security Symposium
-  year: 2023
-  link: https://www.usenix.org/conference/usenixsecurity23
+- name: USENIX Security
+  description: USENIX Security Symposium
+  year: 2024
+  link: https://www.usenix.org/conference/usenixsecurity24
   deadline:
-    - "2022-06-07 23:59"
-    - "2022-10-11 23:59"
-    - "2023-02-07 23:59"
-  date: "August 9-11"
-  place: Anaheim, CA, USA.
+    - "2023-06-06 23:59"
+    - "2023-10-17 23:59"
+    - "2024-02-08 23:59"
+  date: "August 14-16"
+  place: Philadelphia, PA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: NDSS
