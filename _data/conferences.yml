@@ -415,7 +415,8 @@
   description: Conference on Data and Applications Security and Privacy
   year: 2023
   link: http://www.dbsec2023.unimol.it
-  deadline: ["2023-03-31 23:59"]
+  deadline: ["2023-04-07 23:59"]
+  comment: Abstracts due March 31
   date: July 19 - 21
   place: Sophia Antipolis, France
   tags: [CRYPTO, SEC, CONF, PRIV]
