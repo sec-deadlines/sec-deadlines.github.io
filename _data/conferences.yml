@@ -587,3 +587,13 @@
   date: May 9
   place: San Antonio, Texas, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: RomHack
+  description: A computer security conference in Italy organized by non profit association Cyber Saiyan
+  year: 2023
+  link: https://romhack.io/
+  deadline: ["2023-05-28 23:59"]
+  timezone: Europe/Rome
+  date: September 16
+  place: Rome, Italy
+  tags: [SEC, CONF]
