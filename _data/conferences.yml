@@ -1,13 +1,5 @@
 ---
  # Security and Privacy
-- name: CECC 2023
-  description: Central European Conference on Cryptology
-  year: 2023
-  link: https://secsys.lit-systems.jku.at/cecc2023/
-  deadline: "2023-03-15 23:59"
-  date: July 3-6
-  place: Linz, Austria
-  tags: [SEC, CRYPTO, CONF]
 
 - name: S&P (Oakland)
   year: 2024
@@ -606,4 +598,12 @@
   place: Delft, The Netherlands
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
+- name: CECC 2023
+  description: Central European Conference on Cryptology
+  year: 2023
+  link: https://secsys.lit-systems.jku.at/cecc2023/
+  deadline: ["2023-03-15 23:59"]
+  date: July 3-6
+  place: Linz, Austria
+  tags: [SEC, CRYPTO, SHOP]
 
