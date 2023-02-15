@@ -587,3 +587,15 @@
   date: May 9
   place: San Antonio, Texas, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: SILM
+  description: Security of Software/Hardware Interfaces
+  year: 2023
+  link: https://silm-workshop.github.io/
+  deadline: ["2023-03-02 23:59"]
+  comment: Co-located with Euro S&P 2023
+  date: July 3
+  place: Delft, The Netherlands
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+
