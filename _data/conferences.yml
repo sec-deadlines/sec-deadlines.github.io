@@ -1,6 +1,16 @@
 ---
  # Security and Privacy
 
+- name: SecMT2023
+  year: 2023
+  date: "June 19 – 22"
+  description: ACNS Workshop on Security in Mobile Technologies
+  link: https://spritz.math.unipd.it/events/2023/ACNS_Workshop/
+  deadline:
+    - "2023-03-17 23:59"
+  place: Kyoto, Japan
+  tags: [SEC, PRIV, SHOP]
+
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
