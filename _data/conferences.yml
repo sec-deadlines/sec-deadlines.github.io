@@ -598,7 +598,7 @@
   place: Delft, The Netherlands
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
-- name: CECC 2023
+- name: CECC
   description: Central European Conference on Cryptology
   year: 2023
   link: https://secsys.lit-systems.jku.at/cecc2023/
@@ -606,4 +606,13 @@
   date: July 3-6
   place: Linz, Austria
   tags: [SEC, CRYPTO, SHOP]
+  
+- name: SecMT
+  year: 2023
+  date: "June 19 – 22"
+  description: ACNS Workshop on Security in Mobile Technologies
+  link: https://spritz.math.unipd.it/events/2023/ACNS_Workshop/
+  deadline: ["2023-03-17 23:59"]
+  place: Kyoto, Japan
+  tags: [SEC, PRIV, SHOP]
 
