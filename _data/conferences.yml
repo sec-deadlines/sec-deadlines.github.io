@@ -310,8 +310,8 @@
 - name: AFRICACRYPT
   description: International Conference on Cryptography Africa
   year: 2023
-  link: https://secrypt.scitevents.org/ImportantDates.aspx
-  deadline: ["2023-02-26 23:59"]
+  link: https://africacrypt2023.tn/
+  deadline: ["2023-03-05 23:59"]
   date: July 19-21
   place: Sousse, Tunisia
   tags: [CRYPTO, CONF]
