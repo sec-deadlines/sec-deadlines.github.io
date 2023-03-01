@@ -615,4 +615,13 @@
   deadline: ["2023-03-17 23:59"]
   place: Kyoto, Japan
   tags: [SEC, PRIV, SHOP]
-
+  
+- name: MAL-IoT
+  description: Malicious Software and Hardware in Internet of Things
+  year: 2023
+  link: http://mal-iot2023.alari.ch/
+  deadline: ["2023-03-08 23:59"]
+  comment: Co-located with ACM Computing Frontiers 2023
+  date: May 9
+  place: Bologna, Italy
+  tags: [SEC, PRIV, CRYPTO, SHOP]
