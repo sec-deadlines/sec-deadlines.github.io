@@ -615,16 +615,6 @@
   deadline: ["2023-03-17 23:59"]
   place: Kyoto, Japan
   tags: [SEC, PRIV, SHOP]
-
-- name: LPW
-  description: Location Privacy Workshop
-  year: 2023
-  link: https://security.ucc.ie/lpw23/
-  deadline: ["2023-03-15 23:59"]
-  comment: Co-located with IEEE Euro S&P 2023
-  date: July 7
-  place: Delft, The Netherlands
-  tags: [SEC, PRIV, CRYPTO, SHOP]
   
 - name: MAL-IoT
   description: Malicious Software and Hardware in Internet of Things
