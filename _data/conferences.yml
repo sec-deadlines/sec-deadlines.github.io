@@ -344,10 +344,11 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2022
-  link: https://www.acsac.org/2022/
-  deadline: ["2022-06-29 23:59"]
-  date: Dec 5-9
+  year: 2023
+  link: https://www.acsac.org/2023/
+  deadline: ["2023-05-26 23:59"]
+  comment: Abstract deadline on May 22nd
+  date: Dec 4-8
   place: Austin, TX, USA
   tags: [SEC, CONF]
 
