@@ -69,7 +69,18 @@
   date: "July 10-14"
   place: Melbourne, Australia
   tags: [SEC, PRIV, CONF]
-  
+
+- name: BSidesLjubljana
+  description: Security BSidesLjubljana
+  year: 2023
+  link: https://0x7e7.bsidesljubljana.si/
+  timezone: Europe/Ljubljana
+  deadline:
+    - "2023-04-30 23:59"
+  date: "June 16"
+  place: Ljubljana, Slovenia
+  tags: [SEC, PRIV, CRYPTO, CONF]
+   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
   year: 2023
