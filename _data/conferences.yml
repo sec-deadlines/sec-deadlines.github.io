@@ -61,13 +61,13 @@
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
-  year: 2023
-  link: https://asiaccs2023.org/
+  year: 2024
+  link: https://asiaccs2024.sutd.edu.sg/
   deadline:
-    - "2022-09-01 23:59"
-    - "2022-12-15 23:59"
-  date: "July 10-14"
-  place: Melbourne, Australia
+    - "2023-08-21 23:59"
+    - "2023-12-07 23:59"
+  date: "July 1-5"
+  place: Singapore
   tags: [SEC, PRIV, CONF]
   
 - name: CSF
