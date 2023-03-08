@@ -107,8 +107,8 @@ $(function() {
     tags = all_tags;
   }
   for (var i = 0; i < tags.length; i++) {
-    $('#' + tags[i] + '-checkbox').prop('checked', true);
-    toggle_status[tags[i]] = true;
+    $('#' + tags[i] + '-checkbox').prop('checked', false);
+    toggle_status[tags[i]] = false;
   }
   store.set('{{ site.domain }}', tags);
 
@@ -116,11 +116,17 @@ $(function() {
     confs.each(function(i, conf) {
       var conf = $(conf);
       var show = false;
+      var set_tags = [];
       for (var i = 0; i < all_tags.length; i++) {
-        if(conf.hasClass(all_tags[i])) {
-          show = show | toggle_status[all_tags[i]];
+        // if tag has been selected by user, check if the conference has it
+        if(toggle_status[all_tags[i]]) {
+          set_tags.push(conf.hasClass(all_tags[i]));
         }
       }
+      let empty_or_all_true = arr => arr.every(Boolean);
+      // show a conference if it has all user-selected tags
+      // if no tag is set (= array is empty), show all entries
+      show = empty_or_all_true(set_tags);
       if (show) {
         conf.show();
       } else {
