@@ -11,7 +11,7 @@
     - "2023-08-03 23:59"
     - "2023-12-06 23:59"
   place: San Francisco, California, USA
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -22,7 +22,7 @@
     - "2023-05-04 23:59"
   date: November 26-30
   place: Copenhagen, Denmark
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 - name: USENIX Security
   description: USENIX Security Symposium
@@ -34,7 +34,7 @@
     - "2024-02-08 23:59"
   date: "August 14-16"
   place: Philadelphia, PA, USA
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -57,7 +57,7 @@
     - "2023-05-28 23:59"
   date: September 25-29
   place: The Hague, Netherlands
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
@@ -68,7 +68,7 @@
     - "2023-12-07 23:59"
   date: "July 1-5"
   place: Singapore
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
@@ -101,7 +101,7 @@
     - "2023-02-17 23:59"
   date: May 29 - June 1
   place: Guildford, Surrey, United Kingdom
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
@@ -158,7 +158,7 @@
   timezone: Europe/London
   date: November 7-9
   place: Birmingham, UK
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 - name: ICICS
   year: 2023
@@ -194,7 +194,7 @@
   deadline: ["2022-10-26 23:59"]
   date: "July 3 - 7"
   place: Delft, The Netherlands 
-  tags: [SEC, PRIV, CONF, CRYPTO]
+  tags: [SEC, PRIV, CONF]
 
 # Privacy
 
