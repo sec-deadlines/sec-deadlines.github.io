@@ -1,6 +1,16 @@
 ---
  # Security and Privacy
 
+- name: DevSecOpsRO 
+  year: 2023
+  date: "July 3"
+  description: DevSecOps Research and Opportunities (EursoS&P2023 Workshop)
+  link: https://spritz.math.unipd.it/events/2023/devSecOpsRO/
+  deadline:
+    - "2023-03-31 23:59"
+  place: Delft, The Netherlands
+  tags: [SEC, PRIV, CONF]
+  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
