@@ -1,6 +1,16 @@
 ---
  # Security and Privacy
 
+- name: Silicon Salon
+  year: 2023
+  date: "May 3"
+  description: Cryptography and Semiconductor Design
+  link: https://www.siliconsalon.info/
+  deadline:
+  - "2023-04-15 23:59"
+  place: Virtual
+  tags: [SEC, PRIV, CRYPTO, CONF]
+  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
