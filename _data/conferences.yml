@@ -317,6 +317,16 @@
   place: Sousse, Tunisia
   tags: [CRYPTO, CONF]
 
+- name: LATINCRYPT
+  year: 2023
+  description: The 8th International Conference on Cryptology and Information Security in Latin America
+  link: https://www.espe.edu.ec/latincrypt/
+  deadline: ["2023-06-02 23:59"]
+  comment: Abstract registration May 27th AoE.
+  date:  October 2-6
+  place: Quito, Ecuador
+  tags: [CRYPTO, PRIV, CONF]
+
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
   year: 2023
