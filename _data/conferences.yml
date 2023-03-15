@@ -1,15 +1,6 @@
 ---
  # Security and Privacy
 
-- name: ISC
-  description: Information Security Conference
-  year: 2023
-  link: https://isc23.cs.rug.nl
-  deadline: "2023-07-27 23:59"
-  date: November 29 - December 1
-  place: Groningen, Netherlands
-  tags: [SEC, PRIV, CONF]
-
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
@@ -139,6 +130,15 @@
   deadline: ["2022-10-07 23:59"]
   place: Ottawa, Ontario, Canada
   tags: [SEC, PRIV, CRYPTO, CONF]
+
+- name: ISC
+  description: Information Security Conference
+  year: 2023
+  link: https://isc23.cs.rug.nl
+  deadline: "2023-07-27 23:59"
+  date: November 29 - December 1
+  place: Groningen, Netherlands
+  tags: [SEC, PRIV, CONF]
 
 - name: SSR
   description: Security Standardisation Research Conference
@@ -325,6 +325,16 @@
   date: July 19-21
   place: Sousse, Tunisia
   tags: [CRYPTO, CONF]
+
+- name: LATINCRYPT
+  year: 2023
+  description: The 8th International Conference on Cryptology and Information Security in Latin America
+  link: https://www.espe.edu.ec/latincrypt/
+  deadline: ["2023-06-02 23:59"]
+  comment: Abstract registration May 27th AoE.
+  date:  October 2-6
+  place: Quito, Ecuador
+  tags: [CRYPTO, PRIV, CONF]
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
@@ -636,3 +646,13 @@
   date: May 9
   place: Bologna, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
+  
+- name: DevSecOpsRO 
+  year: 2023
+  date: "July 3"
+  description: DevSecOps Research and Opportunities
+  link: https://spritz.math.unipd.it/events/2023/devSecOpsRO/
+  deadline:
+    - "2023-03-31 23:59"
+  place: Delft, The Netherlands
+  tags: [SEC, SHOP]
