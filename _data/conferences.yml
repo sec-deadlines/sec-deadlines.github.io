@@ -321,7 +321,8 @@
   year: 2023
   description: The 8th International Conference on Cryptology and Information Security in Latin America
   link: https://www.espe.edu.ec/latincrypt/
-  deadline: ["2023-05-27 23:59"]
+  deadline: ["2023-06-02 23:59"]
+  comment: Abstract registration May 27th AoE.
   date:  October 2-6
   place: Quito, Ecuador
   tags: [CRYPTO, PRIV, CONF]
