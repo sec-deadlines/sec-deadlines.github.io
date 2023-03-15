@@ -1,6 +1,6 @@
 ---
  # Security and Privacy
-  
+
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
@@ -130,6 +130,15 @@
   deadline: ["2022-10-07 23:59"]
   place: Ottawa, Ontario, Canada
   tags: [SEC, PRIV, CRYPTO, CONF]
+
+- name: ISC
+  description: Information Security Conference
+  year: 2023
+  link: https://isc23.cs.rug.nl
+  deadline: "2023-07-27 23:59"
+  date: November 29 - December 1
+  place: Groningen, Netherlands
+  tags: [SEC, PRIV, CONF]
 
 - name: SSR
   description: Security Standardisation Research Conference
