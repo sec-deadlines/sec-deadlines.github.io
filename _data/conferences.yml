@@ -383,13 +383,13 @@
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
-  year: 2023
-  link: https://sulab-sever.u-aizu.ac.jp/ACNS2023/
+  year: 2024
+  link: https://wp.nyu.edu/acns2024/
   deadline: 
-    - "2022-09-08 23:59"
-    - "2023-01-12 23:59"
-  date: June 19-22
-  place: Kyoto, Japan
+    - "2023-07-20 23:59"
+    - "2023-10-17 23:59"
+  date: March 5-8
+  place: Abu Dhabi, UAE
   tags: [CRYPTO, SEC, CONF]
 
 - name: DIMVA
