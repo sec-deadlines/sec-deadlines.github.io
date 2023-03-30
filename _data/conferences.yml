@@ -1,4 +1,17 @@
 ---
+
+ # New Security Paradigms Workshop (NSPW)
+ 
+ - name: NSPW
+   year: 2023
+   date: "September 18 - 21"
+   description: New Security Paradigms Workshop
+   link: https://www.nspw.org
+   deadline: "2023-05-19 23:59"
+   timezone: Etc/GMT+11
+   place: Segovia, Spain
+   tags: [SEC, SHOP]
+   
  # Security and Privacy
 
 - name: S&P (Oakland)
