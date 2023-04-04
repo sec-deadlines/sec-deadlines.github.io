@@ -1,16 +1,4 @@
 ---
-
- # New Security Paradigms Workshop (NSPW)
- 
- - name: NSPW
-   year: 2023
-   date: "September 18 - 21"
-   description: New Security Paradigms Workshop
-   link: https://www.nspw.org
-   deadline: "2023-05-19 23:59"
-   timezone: Etc/GMT+11
-   place: Segovia, Spain
-   tags: [SEC, SHOP]
    
  # Security and Privacy
 
@@ -517,13 +505,14 @@
 
 - name: NSPW
   description: New Security Paradigms Workshop
-  year: 2022
-  link: https://www.nspw.org/2022/
-  deadline: ["2022-05-30 23:59"]
-  date: October 24-27
-  place: New Hampshire, USA
+  year: 2023
+  link: https://www.nspw.org/2023/cfp
+  deadline: ["2023-05-19 23:59"]
+  date: September 18 - 21
+  place: Segovia, Spain
   tags: [SEC, PRIV, SHOP]
-  
+  timezone: Etc/GMT+11 
+
 - name: Cloud S&P
   description: Workshop on Cloud Security and Privacy
   year: 2023
