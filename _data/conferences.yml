@@ -39,14 +39,13 @@
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
   year: 2024
-  link: https://www.ndss-symposium.org/ndss2024/
+  link: https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/
   deadline:
     - "2023-04-19 23:59"
     - "2023-06-28 23:59"
   date: "February 26 - March 1"
-  comment: Tentative deadline announced via Twitter
   place: San Diego, CA, USA
-  tags: [SEC, CONF]
+  tags: [SEC, PRIV, CONF]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
