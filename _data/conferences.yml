@@ -480,14 +480,25 @@
   place: Matsue city, Japan
   tags: [SEC, CONF]
 
+- name: HOST
+  description: IEEE International Symposium on Hardware Oriented Security and Trust
+  year: 2023
+  link: http://www.hostsymposium.org/
+  deadline: 
+    - "2022-10-24 23:59"
+    - "2023-01-23 23:59"
+  date: May 1-4
+  place: San Jose, CA, USA
+  tags: [SEC, CONF]
+
 - name: AsianHOST
   description: Asian Hardware Oriented Security and Trust Symposium
-  year: 2022
-  link: http://asianhost.org/2022
-  deadline: ["2022-08-15 23:59"]
-  date: December 15-17 
+  year: 2023
+  link: http://asianhost.org/2023
+  deadline: ["2023-07-24 23:59"]
+  date: December 13-15 
   timezone: Asia/Shanghai
-  place: Singapore
+  place: Tianjin, China
   tags: [SEC, CONF]
 
 # Workshops
