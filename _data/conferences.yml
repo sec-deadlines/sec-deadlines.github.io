@@ -668,3 +668,14 @@
     - "2023-03-31 23:59"
   place: Delft, The Netherlands
   tags: [SEC, SHOP]
+
+- name: FUZZING
+  year: 2023
+  date: "July 17"
+  description: International Fuzzing Workshop
+  link: https://fuzzingworkshop.github.io/index.html
+  deadline:
+    - "2023-05-08 23:59"
+  place: Seattle, Washington, USA
+  comment: Co-located with ISSTA 2023
+  tags: [SEC, SHOP]
