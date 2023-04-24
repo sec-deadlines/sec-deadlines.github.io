@@ -668,6 +668,16 @@
     - "2023-03-31 23:59"
   place: Delft, The Netherlands
   tags: [SEC, SHOP]
+  
+- name: WASP
+  description: Workshop on Attacks and Software Protection
+  year: 2023
+  link: https://wasp-workshop.github.io/
+  deadline: ["2023-06-30 23:59"]
+  comment: Co-located with ESORICS 2023
+  date: September 28-29
+  place: The Hague, The Netherlands
+  tags: [SEC, SHOP]
 
 - name: FUZZING
   year: 2023
@@ -679,3 +689,4 @@
   place: Seattle, Washington, USA
   comment: Co-located with ISSTA 2023
   tags: [SEC, SHOP]
+
