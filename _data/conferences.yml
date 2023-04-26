@@ -2,6 +2,18 @@
    
  # Security and Privacy
 
+- name: CSF
+  description: IEEE Computer Security Foundations Symposium
+  year: 2023
+  link: https://csf2024.ieee-security.org/index.html
+  deadline:
+    - "2023-05-15 23:59"
+    - "2023-09-30 23:59"
+    - "2024-02-03 23:59"
+  date: July 08 - 12
+  place: Enschede, The Netherlands
+  tags: [SEC, PRIV, CONF]
+
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
