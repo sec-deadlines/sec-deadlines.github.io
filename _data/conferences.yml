@@ -2,6 +2,16 @@
    
  # Security and Privacy
 
+- name: Asiacrypt 2023
+  description: International Conference on the Theory and Application of Cryptology and Information Security
+  year: 2023
+  link: https://asiacrypt.iacr.org/2023/
+  deadline: "2023-05-26 11:59"
+  timezone: Etc/UTC
+  date: December 04-08
+  place: Guangzhou, China
+  tags: [CRYPTO, CONF]
+
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
