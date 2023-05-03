@@ -690,3 +690,12 @@
   comment: Co-located with ISSTA 2023
   tags: [SEC, SHOP]
 
+- name: SECAI
+  description: Workshop on Security and Artificial Intelligance
+  year: 2023
+  link: https://sites.google.com/view/secai2023
+  deadline: ["2023-07-09 23:59"]
+  comment: Co-located with ESORICS 2023
+  date: September 25-29
+  place: The Hague, The Netherlands
+  tags: [SEC, PRIV, SHOP]
