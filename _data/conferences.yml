@@ -204,6 +204,15 @@
   date: "November 15 - 17"
   place: Groningen, Netherlands
   tags: [SEC, PRIV, CONF]
+  
+- name: TrustCom
+  description: International Conference on Trust, Security and Privacy in Computing and Communications
+  year: 2023
+  link: https://hpcn.exeter.ac.uk/trustcom2023/
+  deadline: ["2023-07-01 23:59"]
+  date: "November 1 - 3"
+  place: Exeter, UK
+  tags: [SEC, PRIV, CONF]
 
 # Privacy
 
