@@ -699,3 +699,13 @@
   date: September 25-29
   place: The Hague, The Netherlands
   tags: [SEC, PRIV, SHOP]
+  
+- name: ASHES
+  description: Workshop on Attacks and Solutions in Hardware Security 
+  year: 2023
+  link: http://ashesworkshop.org/home
+  deadline:
+    - "2023-06-25 23:59"
+  date: November 30
+  place: Copenhagen, Denmark
+  tags: [SEC, SHOP]
