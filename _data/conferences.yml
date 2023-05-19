@@ -347,7 +347,7 @@
 
 - name: FSE
   description: IACR Transactions on Symmetric Cryptology
-  year: 2023
+  year: 2024
   link: https://tosc.iacr.org/
   deadline:
     - "%Y-03-01 23:59"
