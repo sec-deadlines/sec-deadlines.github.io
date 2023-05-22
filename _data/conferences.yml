@@ -718,3 +718,12 @@
   date: November 30
   place: Copenhagen, Denmark
   tags: [SEC, SHOP]
+  
+- name: SCORED
+  description: ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
+  year: 2023
+  date: "November 30"
+  link: https://scored.dev/
+  deadline: ["2023-06-30 23:59"]
+  place: Copenhagen, Denmark
+  tags: [SEC, SHOP]
