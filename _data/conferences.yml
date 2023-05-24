@@ -84,12 +84,12 @@
     
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2022
-  link: https://www.cans2022.com/
-  deadline: ["2022-05-29 23:59"]
+  year: 2023
+  link: https://www.augusta.edu/ccs/conferences/cans2023/
+  deadline: ["2023-07-1 23:59"]
   timezone: Etc/UTC
-  date: November 13-16
-  place: Abu Dhabi, UAE
+  date: October 31-November 2
+  place: Atlanta, United States
   tags: [SEC, CRYPTO, CONF]
 
 - name: WiSec
@@ -344,6 +344,20 @@
   date:  October 2-6
   place: Quito, Ecuador
   tags: [CRYPTO, PRIV, CONF]
+
+- name: FSE
+  description: IACR Transactions on Symmetric Cryptology
+  year: 2024
+  link: https://tosc.iacr.org/
+  deadline:
+    - "%Y-03-01 23:59"
+    - "%Y-06-01 23:59"
+    - "%y-09-01 23:59"
+    - "%y-11-23 23:59"
+  comment: Rolling deadline every quarter
+  date: March 25-29
+  place: Leuven, Belgium
+  tags: [CRYPTO, CONF]
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
