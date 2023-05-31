@@ -350,10 +350,10 @@
   year: 2024
   link: https://tosc.iacr.org/
   deadline:
-    - "2023-03-01 23:59"
-    - "2023-06-01 23:59"
-    - "2023-09-01 23:59"
-    - "2023-11-23 23:59"
+    - "%Y-03-01 23:59"
+    - "%Y-06-01 23:59"
+    - "%Y-09-01 23:59"
+    - "%Y-11-23 23:59"
   comment: Rolling deadline every quarter
   date: March 25-29
   place: Leuven, Belgium
