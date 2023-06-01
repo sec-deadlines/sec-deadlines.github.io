@@ -86,7 +86,7 @@
   description: International Conference on Cryptology and Network Security
   year: 2023
   link: https://www.augusta.edu/ccs/conferences/cans2023/
-  deadline: ["2023-07-1 23:59"]
+  deadline: ["2023-07-1 12:00"]
   timezone: Etc/UTC
   date: October 31-November 2
   place: Atlanta, United States
@@ -350,10 +350,10 @@
   year: 2024
   link: https://tosc.iacr.org/
   deadline:
-    - "%Y-03-01 23:59"
-    - "%Y-06-01 23:59"
-    - "%Y-09-01 23:59"
-    - "%Y-11-23 23:59"
+    - "%Y-03-01 12:00"
+    - "%Y-06-01 12:00"
+    - "%Y-09-01 12:00"
+    - "%Y-11-23 12:00"
   comment: Rolling deadline every quarter
   date: March 25-29
   place: Leuven, Belgium
