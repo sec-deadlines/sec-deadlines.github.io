@@ -7,7 +7,11 @@
   date: "Dec 11–13"
   description: The 16th Foundations and Practice of Security Symposium
   link: https://www.fps-2023.com
-  deadline: ["2023-09-15 23:59"]
+  deadline: 
+    - "2023-09-01 23:59"
+    - "2023-09-15 23:59"
+    - "2023-10-27 23:59"
+    - "2023-11-10 23:59"
   place: Bordeaux, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
