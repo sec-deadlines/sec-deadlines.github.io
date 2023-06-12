@@ -1,15 +1,6 @@
 ---
    
- # Security and Privacy
- 
- - name: FPS
-  year: 2023
-  date: "Dec 11–13"
-  description: The 16th Foundations and Practice of Security Symposium
-  link: https://www.fps-2023.com
-  deadline: ["2023-09-15 23:59"]
-  place: Bordeaux, France
-  tags: [SEC, PRIV, CRYPTO, CONF]
+# Security and Privacy
 
 - name: S&P (Oakland)
   year: 2024
@@ -222,6 +213,15 @@
   date: "November 1 - 3"
   place: Exeter, UK
   tags: [SEC, PRIV, CONF]
+  
+- name: FPS
+  year: 2023
+  date: "Dec 11–13"
+  description: The 16th Foundations and Practice of Security Symposium
+  link: https://www.fps-2023.com
+  deadline: ["2023-09-15 23:59"]
+  place: Bordeaux, France
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 # Privacy
 
