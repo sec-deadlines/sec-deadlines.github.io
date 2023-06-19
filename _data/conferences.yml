@@ -755,7 +755,7 @@
   description: Data Privacy Management International Workshop
   year: 2023
   link: https://deic.uab.cat/dpm/dpm2023/
-  deadline: ["2023-06-16 23:59"]
+  deadline: ["2023-06-30 23:59"]
   place: The Hague, The Netherlands
   tag: [PRIV, SHOP]
   
@@ -763,6 +763,6 @@
   description: International Workshop on Cryptocurrencies and Blockchain Technology
   year: 2023
   link: http://cbtworkshop.org/
-  deadline: ["2023-06-16 23:59"]
+  deadline: ["2023-06-30 23:59"]
   place: The Hague, The Netherlands
   tag: [SEC, CRYPTO, SHOP]
