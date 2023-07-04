@@ -86,11 +86,12 @@
   description: International Conference on Cryptology and Network Security
   year: 2023
   link: https://www.augusta.edu/ccs/conferences/cans2023/
-  deadline: ["2023-07-1 12:00"]
+  deadline: ["2023-07-08 12:00"]
   timezone: Etc/UTC
   date: October 31-November 2
   place: Atlanta, United States
   tags: [SEC, CRYPTO, CONF]
+  comment: Extended deadline
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
@@ -124,11 +125,11 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2023
-  link: https://www.ieee-security.org/TC/EuroSP2023/
-  deadline: ["2022-10-26 23:59"]
-  date: "July 3 - 7"
-  place: Delft, The Netherlands 
+  year: 2024
+  link: https://eurosp2024.ieee-security.org/
+  deadline: ["2023-11-02 23:59"]
+  date: "July 8 - 12"
+  place: Vienna, Austria 
   tags: [SEC, PRIV, CONF]
 
 - name: ISC
