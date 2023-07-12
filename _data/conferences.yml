@@ -729,3 +729,11 @@
   deadline: ["2023-06-30 23:59"]
   place: The Hague, The Netherlands
   tag: [SEC, CRYPTO, SHOP]
+
+- name: Sensors S&P
+  description: The International Workshop on Security and Privacy of Sensing Systems
+  year: 2023
+  link: https://sensorssp.github.io/sensorssp23/
+  deadline: ["2023-09-08 23:59"]
+  place: Istanbul, Turkiye
+  tag: [SEC, PRIV, SHOP]
