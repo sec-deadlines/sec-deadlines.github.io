@@ -734,7 +734,7 @@
   description: Workshop on Cyber Threat Intelligence and Hunting
   year: 2023
   link: https://cyberhunt2023.cyberhunt.no/
-  deadline: "2023-10-01 23:59"
+  deadline: ["2023-10-01 23:59"]
   comment: Co-located with IEEE BigData 2023
   date: December 15-18
   place: Sorrento, Italy
