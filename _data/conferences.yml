@@ -218,11 +218,11 @@
 
 - name: Eurocrypt
   description: European Cryptology Conference
-  year: 2023
-  link: https://eurocrypt.iacr.org/2023/
-  deadline: ["2022-10-06 23:59"]
-  date: April 23-27
-  place: Lyon, France
+  year: 2024
+  link: https://eurocrypt.iacr.org/2024/
+  deadline: ["2023-10-06 23:59"]
+  date: May 26-30
+  place: Zurich, Switzerland
   tags: [CRYPTO, CONF]
 
 - name: Asiacrypt
