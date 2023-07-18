@@ -733,7 +733,8 @@
 - name: Sensors S&P
   description: The International Workshop on Security and Privacy of Sensing Systems
   year: 2023
+  date: "November 12"
   link: https://sensorssp.github.io/sensorssp23/
   deadline: ["2023-09-08 23:59"]
-  place: Istanbul, Turkiye
+  place: Istanbul, Turkey
   tag: [SEC, PRIV, SHOP]
