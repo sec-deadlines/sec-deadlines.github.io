@@ -86,11 +86,12 @@
   description: International Conference on Cryptology and Network Security
   year: 2023
   link: https://www.augusta.edu/ccs/conferences/cans2023/
-  deadline: ["2023-07-1 12:00"]
+  deadline: ["2023-07-08 12:00"]
   timezone: Etc/UTC
   date: October 31-November 2
   place: Atlanta, United States
   tags: [SEC, CRYPTO, CONF]
+  comment: Extended deadline
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
@@ -124,11 +125,11 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2023
-  link: https://www.ieee-security.org/TC/EuroSP2023/
-  deadline: ["2022-10-26 23:59"]
-  date: "July 3 - 7"
-  place: Delft, The Netherlands 
+  year: 2024
+  link: https://eurosp2024.ieee-security.org/
+  deadline: ["2023-11-02 23:59"]
+  date: "July 8 - 12"
+  place: Vienna, Austria 
   tags: [SEC, PRIV, CONF]
 
 - name: ISC
@@ -187,6 +188,16 @@
 
 # Crypto
 
+- name: Inscrypt
+  year: 2023
+  description: International Conference on Information Security and Cryptology
+  link: https://inscrypt2023.github.io/
+  deadline: ["2023-07-15 23:59"]
+  timezone: Etc/GMT-8
+  date: November 11-12
+  place: HangZhou, China
+  tags: [SEC, PRIV, CRYPTO, CONF]
+
 - name: SAC
   description: Selected Areas in Cryptography
   year: 2022
@@ -207,11 +218,11 @@
 
 - name: Eurocrypt
   description: European Cryptology Conference
-  year: 2023
-  link: https://eurocrypt.iacr.org/2023/
-  deadline: ["2022-10-06 23:59"]
-  date: April 23-27
-  place: Lyon, France
+  year: 2024
+  link: https://eurocrypt.iacr.org/2024/
+  deadline: ["2023-10-06 23:59"]
+  date: May 26-30
+  place: Zurich, Switzerland
   tags: [CRYPTO, CONF]
 
 - name: Asiacrypt
@@ -561,12 +572,13 @@
 
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
-  year: 2022
-  link: https://haspworkshop.org/2022/
-  deadline: ["2022-09-09 23:59"]
-  date: October 1
+  year: 2023
+  link: https://haspworkshop.org/2023/
+  comment: Co-located with MICRO
+  deadline: ["2023-08-10 23:59"]
+  date: October 28
   timezone: Etc/UTC
-  place: Chicago, IL, USA
+  place: Toronto, Canada
   tags: [SEC, PRIV, SHOP]
 
 - name: PAVeTrust
@@ -689,7 +701,7 @@
   description: Workshop on Security and Artificial Intelligance
   year: 2023
   link: https://sites.google.com/view/secai2023
-  deadline: ["2023-07-09 23:59"]
+  deadline: ["2023-07-16 23:59"]
   comment: Co-located with ESORICS 2023
   date: September 25-29
   place: The Hague, The Netherlands
@@ -739,3 +751,12 @@
   date: December 15-18
   place: Sorrento, Italy
   tags: [SEC, SHOP]
+
+- name: Sensors S&P
+  description: The International Workshop on Security and Privacy of Sensing Systems
+  year: 2023
+  date: "November 12"
+  link: https://sensorssp.github.io/sensorssp23/
+  deadline: ["2023-09-08 23:59"]
+  place: Istanbul, Turkey
+  tag: [SEC, PRIV, SHOP]
