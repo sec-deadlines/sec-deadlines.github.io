@@ -188,6 +188,16 @@
 
 # Crypto
 
+- name: Inscrypt
+  year: 2023
+  description: International Conference on Information Security and Cryptology
+  link: https://inscrypt2023.github.io/
+  deadline: ["2023-07-15 23:59"]
+  timezone: Etc/GMT-8
+  date: November 11-12
+  place: HangZhou, China
+  tags: [SEC, PRIV, CRYPTO, CONF]
+
 - name: SAC
   description: Selected Areas in Cryptography
   year: 2022
