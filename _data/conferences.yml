@@ -508,6 +508,16 @@
   tags: [SEC, CONF]
 
 # Workshops
+- name: ICSS
+  description: Industrial Control System Security Workshop
+  year: 2023
+  link: https://www.acsac.org/2023/workshops/icss/
+  deadline: ["2023-09-01 23:59"]
+  comment: In conjunction with ACSAC
+  date: December 5
+  place: Austin, TX, USA
+  tags: [SEC, SHOP] 
+
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
   year: 2023
