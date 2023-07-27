@@ -136,10 +136,11 @@
   description: Information Security Conference
   year: 2023
   link: https://isc23.cs.rug.nl
-  deadline: ["2023-07-27 23:59"]
+  deadline: ["2023-08-03 23:59"]
   date: "November 15 - 17"
   place: Groningen, Netherlands
   tags: [SEC, PRIV, CONF]
+  comment: Extended deadline
   
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
