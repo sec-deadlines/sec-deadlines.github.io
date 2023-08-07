@@ -430,6 +430,15 @@
   place: Singapore
   tags: [SEC, CONF, PRIV]
 
+- name: eCrime
+  year: 2023
+  date: November 15 - 17
+  description: The Symposium on Electronic Crime Research
+  link: https://apwg.org/event/ecrime2023/
+  deadline: ["2023-09-01 23:59"]
+  place: Barcelona, Spain
+  tags: [SEC, PRIV, CONF]
+
 # Others, less frequently updated
 
 - name: SSR
