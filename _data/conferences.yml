@@ -2,15 +2,6 @@
    
 # Security and Privacy
 
- - name: eCrime
-  year: 2023
-  date: "Nov 15-17"
-  description: The Symposium on Electronic Crime Research
-  link: https://apwg.org/event/ecrime2023/
-  deadline: ["2023-09-01 23:59"]
-  place: Barcelona, Spain
-  tags: [SEC, PRIV, CONF]
-
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
@@ -438,6 +429,15 @@
   date: May 13 - May 17
   place: Singapore
   tags: [SEC, CONF, PRIV]
+
+- name: eCrime
+  year: 2023
+  date: November 15 - 17
+  description: The Symposium on Electronic Crime Research
+  link: https://apwg.org/event/ecrime2023/
+  deadline: ["2023-09-01 23:59"]
+  place: Barcelona, Spain
+  tags: [SEC, PRIV, CONF]
 
 # Others, less frequently updated
 
