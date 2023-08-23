@@ -2,6 +2,16 @@
    
 # Security and Privacy
 
+- name: Indocrypt
+  description: nternational Conference on Cryptology in India
+  year: 2023
+  link: https://crsind.in/indocrypt2023/
+  deadline: ["2023-09-1 23:59:59"]
+  timezone: UTC-12
+  date: December 10-13
+  place: BITS Pilani Goa, India
+  tags: [CRYPTO, CONF]
+  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
