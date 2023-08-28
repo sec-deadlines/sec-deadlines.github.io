@@ -602,11 +602,11 @@
 
 - name: PAVeTrust
   description: Program Analysis and Verification on Trusted Platforms
-  year: 2022
-  link: https://www.acsac.org/2022/workshops/pavetrust/
+  year: 2023
+  link: https://www.acsac.org/2023/workshops/pavetrust/
   comment: Collocated with ACSAC
-  deadline: ["2022-10-28 23:59"]
-  date: December 6
+  deadline: ["2023-09-15 23:59"]
+  date: December 5
   place: Austin, TX, USA
   tags: [SEC, PRIV, SHOP]
 
