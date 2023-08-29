@@ -2,6 +2,16 @@
    
 # Security and Privacy
 
+- name: IACR RWC
+  description: IACR Real World Crypto Symposium
+  year: 2024
+  link: https://rwc.iacr.org/2024/
+  deadline:
+    - "2023-11-16 23:59"
+  date: March 25-27
+  place: Toronto, Canada
+  tags: [SEC, CRYPTO, CONF]
+
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
