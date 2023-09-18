@@ -116,11 +116,11 @@
 
 - name: FC
   description: Financial Cryptography and Data Security
-  year: 2023
-  link: https://fc23.ifca.ai/
-  deadline: ["2022-10-19 23:59"]
-  date: "May 1–5, 2023 or May 8–12, 2023 (tentative)"
-  place: Bol, Croatia
+  year: 2024
+  link: https://fc24.ifca.ai
+  deadline: ["2023-09-20 23:59"]
+  date: March 4-8
+  place: Willemstad, Curacao
   tags: [SEC, CRYPTO, CONF]
 
 - name: Euro S&P
@@ -256,12 +256,12 @@
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2023
-  link: https://pkc.iacr.org/2023/
-  deadline: ["2022-11-01 09:59"]
+  year: 2024
+  link: https://pkc.iacr.org/2024/
+  deadline: ["2023-10-15 09:59"]
   timezone: Etc/UTC
-  date: May 7-10
-  place: Atlanta, GA, USA
+  date: April 15-17
+  place: Sydney, Australia
   tags: [CRYPTO, CONF]
 
 - name: CT-RSA
@@ -404,11 +404,11 @@
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
-  year: 2023
-  link: http://www.codaspy.org/2023/
-  deadline: ["2022-10-17 23:59"]
-  date: April 24-26
-  place: Charlotte, NC, USA
+  year: 2024
+  link: http://www.codaspy.org/2024/
+  deadline: ["2023-12-18 23:59"]
+  date: June 19-21
+  place: Porto, Portugal
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: DBSec
