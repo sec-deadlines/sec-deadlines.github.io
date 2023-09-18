@@ -266,10 +266,10 @@
 
 - name: CT-RSA
   description: RSA Conference Cryptographers’ Track
-  year: 2023
-  link: https://ct-rsa-2023.eecs.oregonstate.edu/
-  deadline: ["2022-10-18 23:59"]
-  date: April 24-27
+  year: 2024
+  link: https://ct-rsa-2024.aau.at/
+  deadline: ["2023-10-02 23:59"]
+  date: May 6-9
   place: San Francisco, CA, USA
   tags: [CRYPTO, CONF]
 
