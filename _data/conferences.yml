@@ -352,12 +352,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2023
-  link: https://dsn2023.dei.uc.pt/
-  deadline: ["2022-12-07 23:59"]
-  comment: Abstract deadline on Dec 1st
-  date: June 27-30
-  place: Porto, Portugal
+  year: 2024
+  link: https://dsn2024uq.github.io/index.html
+  deadline: ["2023-12-06 23:59"]
+  comment: Abstract deadline on Nov 29
+  date: June 24-27
+  place: Brisbane, Australia
   tags: [SEC, CONF]
 
 - name: ACNS
@@ -373,13 +373,13 @@
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2023
-  link: https://dimva2023.de/
+  year: 2024
+  link: https://www.dimva.org/dimva2024/
   deadline:
-    - "2022-12-07 23:59"
-    - "2023-02-01 23:59"
-  date: July 12-14
-  place: Hamburg, Germany
+    - "2023-12-06 23:59"
+    - "2024-02-14 23:59"
+  date: July 17-19
+  place: Lausanne, Switzerland
   tags: [SEC, CONF]
   
 - name: SACMAT
