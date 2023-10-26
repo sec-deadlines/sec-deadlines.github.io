@@ -1,7 +1,16 @@
 ---
    
 # Security and Privacy
-
+- name: PAM 2024
+  year: 2024
+  date: "March 11 – 13"
+  description: Passive and Active Measurement Conference 2024
+  link: https://pam2024.cs.northwestern.edu/cfp/
+  deadline:
+      -"2023-10-28 23:59"
+  place: Virtual
+  tags: [SEC, PRIV, CONF]
+  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
