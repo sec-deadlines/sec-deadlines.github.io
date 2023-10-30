@@ -1,15 +1,6 @@
 ---
    
 # Security and Privacy
-- name: PAM 2024
-  year: 2024
-  date: "March 11 – 13"
-  description: Passive and Active Measurement Conference 2024
-  link: https://pam2024.cs.northwestern.edu/cfp/
-  deadline:
-      -"2023-10-28 23:59"
-  place: Virtual
-  tags: [SEC, PRIV, CONF]
   
 - name: S&P (Oakland)
   year: 2024
@@ -447,6 +438,16 @@
   link: https://apwg.org/event/ecrime2023/
   deadline: ["2023-09-01 23:59"]
   place: Barcelona, Spain
+  tags: [SEC, PRIV, CONF]
+
+- name: PAM 2024
+  year: 2024
+  date: "March 11 – 13"
+  description: Passive and Active Measurement Conference 2024
+  link: https://pam2024.cs.northwestern.edu/cfp/
+  deadline:
+      -"2023-11-02 23:59"
+  place: Virtual
   tags: [SEC, PRIV, CONF]
 
 # Others, less frequently updated
