@@ -440,13 +440,12 @@
   place: Barcelona, Spain
   tags: [SEC, PRIV, CONF]
 
-- name: PAM 2024
+- name: PAM
   year: 2024
   date: "March 11 – 13"
-  description: Passive and Active Measurement Conference 2024
+  description: Passive and Active Measurement Conference
   link: https://pam2024.cs.northwestern.edu/cfp/
-  deadline:
-      -"2023-11-02 23:59"
+  deadline: ["2023-11-02 23:59"]
   place: Virtual
   tags: [SEC, PRIV, CONF]
 
