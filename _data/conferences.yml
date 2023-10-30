@@ -2,16 +2,6 @@
    
 # Security and Privacy
 
-- name: CRYPTO
-  description: Annual International Cryptology Conference
-  year: 2024
-  link: https://crypto.iacr.org/2024/
-  deadline: ["2024-02-13 11:59"]
-  timezone: Etc/UTC
-  date: August 18-22
-  place: Santa Barbara, USA
-  tags: [CRYPTO, CONF, PRIV, SEC]
-
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
@@ -221,10 +211,10 @@
 
 - name: Crypto
   description: International Cryptology Conference
-  year: 2023
-  link: https://crypto.iacr.org/2023/
-  deadline: ["2023-02-16 11:00"]
-  date: August 19-24
+  year: 2024
+  link: https://crypto.iacr.org/2024/
+  deadline: ["2024-02-13 11:00"]
+  date: August 18-22
   place: Santa Barbara, CA, USA
   tags: [CRYPTO, CONF]
 
