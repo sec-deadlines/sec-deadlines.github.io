@@ -202,11 +202,11 @@
 
 - name: SAC
   description: Selected Areas in Cryptography
-  year: 2022
-  link: https://www.sac2022.ca/
-  deadline: ["2022-06-08 11:59"]
-  date: August 24-26
-  place: Ontario, Canada
+  year: 2023
+  link: https://sac-workshop.github.io/sac-2023/
+  deadline: ["2023-05-16 11:59"]
+  date: August 16-18
+  place: Fredricton, NB, Canada
   tags: [CRYPTO, CONF]
 
 - name: Crypto
@@ -239,11 +239,11 @@
   
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2022
-  link: https://aft.acm.org/aft22/
-  deadline: ["2022-05-05 23:59"]
-  date: "September 19–21"
-  place: Cambridge, MA, USA
+  year: 2023
+  link: https://aftconf.github.io/aft23/
+  deadline: ["2022-06-15 23:59"]
+  date: "September 23–26"
+  place: Princeton, NJ, USA
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: TCC
@@ -462,12 +462,11 @@
 
 - name: SEED
   description: IEEE International Symposium on Secure and Private Execution Environment Design
-  year: 2022
-  link: https://seed22.engr.uconn.edu/
-  deadline: ["2022-06-10 23:59"]
-  comment: Title and abstract deadline on June 3
-  date: September 26-27
-  place: Online Event
+  year: 2024
+  link: https://seed-symposium.org/2024/
+  deadline: ["2023-11-05 23:59"]
+  date: January 29-30
+  place: Orlando, FL
   tags: [SEC, PRIV, CONF]
 
 - name: ICICS
@@ -568,17 +567,6 @@
   place: Kyoto, Japan
   tags: [SEC, PRIV, SHOP]
 
-- name: SECPID
-  description: Workshop on Security, Privacy, and Identity Management in the Cloud
-  year: 2022
-  link: https://www.ares-conference.eu/secpid-2022/
-  deadline: ["2022-05-15 23:59"]
-  comment: Extended deadline
-  timezone: Etc/UTC
-  date: August 23-26
-  place: Vienna, Austria
-  tags: [SEC, PRIV, CRYPTO, SHOP]
-
 - name: CNS
   description: IEEE Conference on Communications and Network Security
   year: 2022
@@ -589,15 +577,6 @@
   date: September 26-28
   place: Austin, TX, USA
   tags: [SEC, PRIV, CONF]
-  
-- name: SPACE
-  description: International Conference on Security, Privacy and Applied Cryptographic Engineering 
-  year: 2022
-  link: https://space2022.lnmiit.ac.in/
-  deadline: ["2022-09-01 23:59"]
-  date: December 08-11
-  place: Jaipur, India
-  tags: [SEC, PRIV, CRYPTO]
 
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
