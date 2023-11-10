@@ -610,11 +610,13 @@
 
 - name: SpaceSec
   description: Workshop on the Security of Space and Satellite Systems
-  year: 2023
-  link: https://easychair.org/cfp/SpaceSec23
+  year: 2024
+  link: https://spacesec.info/
   comment: Co-located with NDSS Symposium
-  deadline: ["2023-01-13 23:59"]
-  date: February 27
+  deadline: 
+    - "2023-12-07 23:59"
+    - "2024-01-12 23:59"
+  date: March 1
   place: San Diego, California, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
