@@ -449,6 +449,15 @@
   place: Virtual
   tags: [SEC, PRIV, CONF]
 
+- name: NCA
+  description: IEEE International Symposium on Network Computing and Applications
+  year: 2024
+  link: https://www.nca-ieee.org/2024/index.html
+  deadline: ["2024-02-11 23:59"]
+  date: April 11-13
+  place: Bertinoro, Italy
+  tags: [SEC, CONF]
+
 # Others, less frequently updated
 
 - name: SSR
