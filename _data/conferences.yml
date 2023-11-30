@@ -1,7 +1,6 @@
 ---
    
 # Security and Privacy
-  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
@@ -396,11 +395,11 @@
 
 - name: ARES
   description: International Conference on Availability, Reliability and Security
-  year: 2023
+  year: 2024
   link: https://www.ares-conference.eu
-  deadline: ["2023-03-09 23:59"]
-  date: August 29 - September 01
-  place: Benevento, Italy
+  deadline: ["2024-02-28 23:59"]
+  date: July 30 - August 02
+  place: Vienna, Austria
   tags: [SEC, CONF, PRIV]
 
 - name: CODASPY
