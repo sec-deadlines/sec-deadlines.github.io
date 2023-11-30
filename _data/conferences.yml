@@ -16,13 +16,13 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2023
-  link: https://www.sigsac.org/ccs/CCS2023
+  year: 2024
+  link: https://www.sigsac.org/ccs/CCS2024
   deadline:
-    - "2023-01-19 23:59"
-    - "2023-05-04 23:59"
-  date: November 26-30
-  place: Copenhagen, Denmark
+    - "2024-01-28 23:59"
+    - "2024-04-14 23:59"
+  date: October 14-18
+  place: Salt Lake City, USA
   tags: [SEC, PRIV, CONF]
 
 - name: USENIX Security
