@@ -1,19 +1,6 @@
 ---
    
 # Security and Privacy
-- name: SECURITY FOR SPACE SYSTEMS (3S)
-  year: 2024
-  date: "May 27 - 28"
-  description: ESA space security conference
-  timezone: Etc/UTC-2
-  deadline:
-     - ["2024-02-1 23:59"]
-     - ["2024-05-20 23:59"]
-  comment: Full paper deadline on Jan 25 2024
-  link: https://atpi.eventsair.com/24a06---3s2024/
-  place: ESTEC, Noordwijk, Netherlands
-  tags: [SEC, CONF]
-  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
@@ -471,7 +458,19 @@
   tags: [SEC, CONF]
 
 # Others, less frequently updated
-
+- name: SECURITY FOR SPACE SYSTEMS (3S)
+  year: 2024
+  date: "May 27 - 28"
+  description: ESA space security conference
+  timezone: Etc/UTC-2
+  deadline:
+     - ["2024-02-1 23:59"]
+     - ["2024-05-20 23:59"]
+  comment: Full paper deadline on Jan 25 2024
+  link: https://atpi.eventsair.com/24a06---3s2024/
+  place: ESTEC, Noordwijk, Netherlands
+  tags: [SEC, CONF]
+  
 - name: SSR
   description: Security Standardisation Research Conference
   year: 2023
