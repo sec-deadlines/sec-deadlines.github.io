@@ -458,15 +458,13 @@
   tags: [SEC, CONF]
 
 # Others, less frequently updated
-- name: SECURITY FOR SPACE SYSTEMS (3S)
+- name: Security for Space Systems (3S)
   year: 2024
   date: "May 27 - 28"
-  description: ESA space security conference
+  description: ESA Security for Space Systems Conference
   timezone: Etc/UTC-2
   deadline:
-     - ["2024-02-1 23:59"]
-     - ["2024-05-20 23:59"]
-  comment: Full paper deadline on Jan 25 2024
+     - ["2024-01-25 23:59"]
   link: https://atpi.eventsair.com/24a06---3s2024/
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
