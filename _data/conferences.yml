@@ -463,8 +463,7 @@
   date: "May 27 - 28"
   description: ESA Security for Space Systems Conference
   timezone: Etc/UTC-2
-  deadline:
-     - ["2024-01-25 23:59"]
+  deadline: ["2024-01-25 23:59"]
   link: https://atpi.eventsair.com/24a06---3s2024/
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
