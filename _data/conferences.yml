@@ -406,7 +406,7 @@
   description: ACM Conference on Data and Application Security and Privacy
   year: 2024
   link: http://www.codaspy.org/2024/
-  deadline: ["2023-12-18 23:59"]
+  deadline: ["2023-12-29 23:59"]
   date: June 19-21
   place: Porto, Portugal
   tags: [CRYPTO, SEC, CONF, PRIV]
@@ -620,7 +620,7 @@
   description: ISOC Symposium on Vehicle Security and Privacy
   year: 2024
   link: https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/
-  deadline: ["2023-12-15 23:59"]
+  deadline: ["2023-12-29 23:59"]
   date: February 26
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
