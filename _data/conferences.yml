@@ -160,6 +160,18 @@
   place: Bordeaux, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
+- name: PrivacyCon
+  description: Conference by the US Federal Trade Commission (FTC) on Privacy and Data Security
+  year: 2024
+  link: https://www.ftc.gov/news-events/events/2024/03/privacycon-2024
+  deadline:
+    - "%Y-12-06 23:59"
+  comment: Annual CFP
+  timezone: Etc/GMT+11
+  date: March 6
+  place: Virtual
+  tags: [SEC, PRIV, CONF, USEC]
+
 # Privacy
 
 - name: PETS
