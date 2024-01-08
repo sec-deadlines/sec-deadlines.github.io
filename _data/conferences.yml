@@ -549,7 +549,7 @@
   description: 3rd Workshop on Rethinking Malware Analysis
   year: 2024
   link: https://worma.gitlab.io/2024/
-  deadline: "2024-03-14 23:59"
+  deadline: ["2024-03-14 23:59"]
   date: July 8-12, 2024
   comment: Co-located with IEEE Euro S&P 2024
   place: Vienna, Austria
@@ -563,7 +563,7 @@
   comment: In conjunction with ACSAC
   date: December 5
   place: Austin, TX, USA
-  tags: [SEC, SHOP]
+  tags: [SEC, SHOP] 
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
