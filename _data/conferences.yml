@@ -384,13 +384,12 @@
   
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
-  year: 2023
-  link: https://sacmat2023.fbk.eu/
+  year: 2024
+  link: https://www.sacmat.org/2024/
   deadline: 
-    - "2022-12-15 23:59"
-    - "2023-02-17 23:59"
-  date: June 7-9
-  place: Trento, Italy
+    - "2024-02-05 23:59"
+  date: May 15-17
+  place: San Antonio, TX, United States
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: ARES
@@ -544,6 +543,7 @@
   tags: [SEC, CONF]
 
 # Workshops
+
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
   year: 2024
@@ -553,7 +553,17 @@
   date: June 4
   place: Singapore, Singapore
   tags: [SEC, SHOP, PRIV]
-  
+
+- name: WoRMA
+  description: 3rd Workshop on Rethinking Malware Analysis
+  year: 2024
+  link: https://worma.gitlab.io/2024/
+  deadline: ["2024-03-14 23:59"]
+  date: July 8-12, 2024
+  comment: Co-located with IEEE Euro S&P 2024
+  place: Vienna, Austria
+  tags: [SEC, PRIV, SHOP]
+
 - name: ICSS
   description: Industrial Control System Security Workshop
   year: 2023
@@ -648,13 +658,14 @@
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: WOOT
-  description: IEEE Workshop on Offensive Technologies
-  year: 2023
-  link: https://wootconference.org/
-  deadline: ["2023-02-10 23:59"]
-  date: May 25
-  place: San Francisco, California, USA
-  tags: [SEC, PRIV, CRYPTO, SHOP]
+  description: USENIX WOOT Conference on Offensive Technologies
+  year: 2024
+  link: https://www.usenix.org/conference/woot24/call-for-papers
+  comment: Co-located with USENIX Security; practitioner track deadline is Feb 20
+  deadline: ["2024-03-12 23:59"]
+  date: August 12-13
+  place: Philadelphia, PA, USA
+  tags: [SEC, PRIV, CRYPTO, CONF]
  
 - name: SafeThings
   description: IEEE/ACM Internet of Safe Things
