@@ -384,13 +384,12 @@
   
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
-  year: 2023
-  link: https://sacmat2023.fbk.eu/
+  year: 2024
+  link: https://www.sacmat.org/2024/
   deadline: 
-    - "2022-12-15 23:59"
-    - "2023-02-17 23:59"
-  date: June 7-9
-  place: Trento, Italy
+    - "2024-02-05 23:59"
+  date: May 15-17
+  place: San Antonio, TX, United States
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: ARES
