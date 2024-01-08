@@ -649,13 +649,14 @@
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: WOOT
-  description: IEEE Workshop on Offensive Technologies
-  year: 2023
-  link: https://wootconference.org/
-  deadline: ["2023-02-10 23:59"]
-  date: May 25
-  place: San Francisco, California, USA
-  tags: [SEC, PRIV, CRYPTO, SHOP]
+  description: USENIX WOOT Conference on Offensive Technologies
+  year: 2024
+  link: https://www.usenix.org/conference/woot24/call-for-papers
+  comment: Co-located with USENIX Security; practitioner track deadline is Feb 20
+  deadline: ["2024-03-12 23:59"]
+  date: August 12-13
+  place: Philadelphia, PA, USA
+  tags: [SEC, PRIV, CRYPTO, CONF]
  
 - name: SafeThings
   description: IEEE/ACM Internet of Safe Things
