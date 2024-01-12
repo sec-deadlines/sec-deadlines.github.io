@@ -464,7 +464,15 @@
   date: July 8
   place: Vienna, Austria
   tags: [SEC, PRIV, SHOP]
-
+  
+- name: OSVS
+  description: Workshop on Operating Systems and Virtualization Security
+  year: 2024
+  link: https://osvs.pages.dev/
+  deadline: ["2024-03-15 23:59"]
+  date: July 12
+  place: Vienna, Austria
+  tags: [SEC, PRIV, SHOP]
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
