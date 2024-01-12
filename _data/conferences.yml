@@ -456,6 +456,16 @@
   place: Bertinoro, Italy
   tags: [SEC, CONF]
 
+- name: ACSW
+  description: Workshop on Automotive Cyber-Security
+  year: 2024
+  link: https://acsw.unimore.it/
+  deadline: ["2024-03-01 23:59"]
+  date: July 8
+  place: Vienna, Austria
+  tags: [SEC, PRIV, SHOP]
+
+
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
   year: 2024
