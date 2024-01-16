@@ -574,6 +574,16 @@
   place: Vienna, Austria
   tags: [SEC, PRIV, SHOP]
 
+- name: SysTEX
+  description: 7th Workshop on System Software for Trusted Execution
+  year: 2024
+  link: https://systex24.github.io/
+  deadline: ["2024-03-14 23:59"]
+  date: July 8th, 2024
+  comment: Co-located with IEEE Euro S&P 2024
+  place: Vienna, Austria
+  tags: [SEC, PRIV, SHOP]
+
 - name: ICSS
   description: Industrial Control System Security Workshop
   year: 2023
