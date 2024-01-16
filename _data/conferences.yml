@@ -104,13 +104,13 @@
   tags: [SEC, PRIV, CONF]
 
 - name: SOUPS
-  description: Usenix Symposium on Usable Security and Privacy
-  year: 2023
-  link: https://www.usenix.org/conference/soups2023
-  deadline: ["2023-02-16 23:59"]
-  comment: Collocated with Usenix Security; Paper registration due Feb 10 AoE.
-  date: August 6–8
-  place: Anaheim, CA, USA.
+  description: Symposium on Usable Privacy and Security
+  year: 2024
+  link: https://www.usenix.org/conference/soups2024
+  deadline: ["2024-02-15 23:59"]
+  comment: Co-located with USENIX Security. Paper registration due Feb 8 AoE
+  date: August 11-13
+  place: Philadelphia, PA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: FC
