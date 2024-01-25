@@ -275,12 +275,12 @@
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
-  year: 2023
-  link: https://secrypt.scitevents.org/ImportantDates.aspx
-  deadline: ["2023-02-23 23:59"]
-  date: July 10-12
-  place: Rome, Italy
-  tags: [CRYPTO, CONF]
+  year: 2024
+  link: https://secrypt.scitevents.org
+  deadline: ["2024-02-15 23:59"]
+  date: July 8-10
+  place: Dijon, France
+  tags: [SEC, CRYPTO, CONF]
   
 - name: AFRICACRYPT
   description: International Conference on Cryptography Africa
@@ -325,8 +325,8 @@
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: September
-  place: TBD
+  date: September 4-7
+  place: Halifax, Canada
   tags: [CRYPTO, CONF]
 
 # Networks and systems, applications
@@ -541,13 +541,13 @@
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
-  year: 2023
+  year: 2024
   link: http://www.hostsymposium.org/
   deadline: 
-    - "2022-10-24 23:59"
-    - "2023-01-23 23:59"
-  date: May 1-4
-  place: San Jose, CA, USA
+    - "2023-09-04 23:59"
+    - "2023-12-27 23:59"
+  date: May 6-9
+  place: Washington DC, USA
   tags: [SEC, CONF]
 
 - name: AsianHOST
@@ -697,11 +697,11 @@
  
 - name: SafeThings
   description: IEEE/ACM Internet of Safe Things
-  year: 2023
-  link: https://safe-things-2023.github.io/
-  deadline: ["2023-02-04 23:59"]
-  date: May 9
-  place: San Antonio, Texas, USA
+  year: 2024
+  link: https://safe-things-2024.github.io/
+  deadline: ["2024-02-06 23:59"]
+  date: May 23
+  place: San Francisco, CA, USA
   tags: [SEC, PRIV, SHOP]
 
 - name: SILM
