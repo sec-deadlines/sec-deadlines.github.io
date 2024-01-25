@@ -240,7 +240,7 @@
   description: ACM Conference on Advances in Financial Technologies
   year: 2023
   link: https://aftconf.github.io/aft23/
-  deadline: ["2022-06-15 23:59"]
+  deadline: ["2023-06-15 23:59"]
   date: "September 23–26"
   place: Princeton, NJ, USA
   tags: [SEC, PRIV, CRYPTO, CONF]
@@ -284,11 +284,11 @@
   
 - name: AFRICACRYPT
   description: International Conference on Cryptography Africa
-  year: 2023
-  link: https://africacrypt2023.tn/
-  deadline: ["2023-03-05 23:59"]
-  date: July 19-21
-  place: Sousse, Tunisia
+  year: 2024
+  link: https://www.africacrypt2024.com/
+  deadline: ["2024-02-16 23:59"]
+  date: July 10-12
+  place: Douala, Cameroon
   tags: [CRYPTO, CONF]
 
 - name: LATINCRYPT
@@ -480,7 +480,7 @@
   date: "May 27 - 28"
   description: ESA Security for Space Systems Conference
   timezone: Etc/UTC-2
-  deadline: ["2024-01-25 23:59"]
+  deadline: ["2024-02-08 23:59"]
   link: https://atpi.eventsair.com/24a06---3s2024/
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
@@ -634,13 +634,12 @@
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
-  year: 2022
-  link: https://cns2022.ieee-cns.org/
-  deadline: ["2022-06-10 23:59"]
-  comment: Extended deadline
+  year: 2023
+  link: https://cns2023.ieee-cns.org/
+  deadline: ["2023-06-18 23:59"]
   timezone: Etc/UTC
-  date: September 26-28
-  place: Austin, TX, USA
+  date: October 2-5
+  place: Orlando, FL, USA
   tags: [SEC, PRIV, CONF]
 
 - name: HASP
