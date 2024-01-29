@@ -844,3 +844,12 @@
   date: Jul 30
   place: Vienna, Austria
   tags: [SEC, SHOP]
+
+- name: ICISS
+  description: International Conference on Information Systems Security
+  year: 2024
+  link: https://iciss.isrdc.in/
+  deadline: ["2024-07-10 23:59"]
+  date: December 16-20
+  place: LNMIIT Jaipur, India
+  tags: [SEC, PRIV]
