@@ -844,3 +844,13 @@
   date: Jul 30
   place: Vienna, Austria
   tags: [SEC, SHOP]
+
+- name: MAL-IoT
+  description: Malicious Software and Hardware in Internet of Things
+  year: 2024
+  link: http://mal-iot2024.alari.ch/
+  deadline: ["2024-02-21 23:59"]
+  comment: Co-located with ACM Computing Frontiers 2024
+  date: May 7
+  place: Ischia, Italy
+  tags: [SEC, PRIV, CRYPTO, SHOP]
