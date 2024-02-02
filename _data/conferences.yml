@@ -733,12 +733,12 @@
   
 - name: MAL-IoT
   description: Malicious Software and Hardware in Internet of Things
-  year: 2023
-  link: http://mal-iot2023.alari.ch/
-  deadline: ["2023-03-08 23:59"]
-  comment: Co-located with ACM Computing Frontiers 2023
-  date: May 9
-  place: Bologna, Italy
+  year: 2024
+  link: http://mal-iot2024.alari.ch/
+  deadline: ["2024-02-21 23:59"]
+  comment: Co-located with ACM Computing Frontiers 2024
+  date: May 7
+  place: Ischia, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
   
 - name: DevSecOpsRO 
