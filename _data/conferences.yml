@@ -705,13 +705,13 @@
 
 - name: SILM
   description: Security of Software/Hardware Interfaces
-  year: 2023
+  year: 2024
   link: https://silm-workshop.github.io/
-  deadline: ["2023-03-15 23:59"]
-  comment: Co-located with Euro S&P 2023
-  date: July 3
-  place: Delft, The Netherlands
-  tags: [SEC, PRIV, CRYPTO, SHOP]
+  deadline: ["2024-03-15 23:59"]
+  comment: Co-located with EURO S&P 2024
+  date: July 12
+  place: Vienna, Austria
+  tags: [SEC, SHOP]
 
 - name: CECC
   description: Central European Conference on Cryptology
@@ -842,15 +842,5 @@
   deadline: ["2024-04-29 23:59"]
   comment: Co-located with ARES 2024
   date: Jul 30
-  place: Vienna, Austria
-  tags: [SEC, SHOP]
-
-- name: SILM 2024
-  description: Security of Software/Hardware Interfaces
-  year: 2024
-  link: https://silm-workshop.github.io/
-  deadline: ["2024-03-15 23:59"]
-  comment: Co-located with EURO S&P, 2024
-  date: July 12
   place: Vienna, Austria
   tags: [SEC, SHOP]
