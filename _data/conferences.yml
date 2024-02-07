@@ -853,3 +853,14 @@
   date: December 16-20
   place: Jaipur, India
   tags: [SEC, PRIV, CONF]
+
+- name: RomHack
+  description: Security Conference on Attack and Defence topics
+  year: 2024
+  link: https://romhack.io
+  deadline: ["2024-05-31 23:59"]
+  date: September 28
+  place: Rome, Italy
+  tags: [SEC, CONF]
+  timezone: Europe/Rome
+
