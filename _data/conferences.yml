@@ -98,7 +98,7 @@
   link: https://wisec2024.kaist.ac.kr/
   deadline:
     - "2023-11-09 23:59"
-    - "2024-02-08 23:59"
+    - "2024-02-12 23:59"
   date: May 27-30
   place: Seoul, Korea
   tags: [SEC, PRIV, CONF]
@@ -852,4 +852,16 @@
   deadline: ["2024-07-10 23:59"]
   date: December 16-20
   place: Jaipur, India
+  tags: [SEC, PRIV, CONF]
+
+  - name: CPSS @ ASIACCS
+  description: ACM Cyber-Physical System Security Workshop
+  year: 2024
+  link: https://asiaccs2024.sutd.edu.sg/cpss2024/
+  comment: Co-located with ACM AsiaCCS 2024
+  deadline:
+    - "2024-01-15 23:59"
+    - "2024-02-18 23:59"
+  date: "July 2"
+  place: Singapore
   tags: [SEC, PRIV, CONF]
