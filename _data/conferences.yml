@@ -854,7 +854,7 @@
   place: Jaipur, India
   tags: [SEC, PRIV, CONF]
 
-  - name: CPSS @ ASIACCS
+- name: CPSS
   description: ACM Cyber-Physical System Security Workshop
   year: 2024
   link: https://asiaccs2024.sutd.edu.sg/cpss2024/
