@@ -7,8 +7,8 @@
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2025
   deadline:
-    - "2023-06-06 23:59"
-    - "2023-12-014 23:59"
+    - "2024-06-06 23:59"
+    - "2024-12-14 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF]
 
