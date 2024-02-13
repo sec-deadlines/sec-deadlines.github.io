@@ -864,3 +864,12 @@
   date: "July 2"
   place: Singapore
   tags: [SEC, PRIV, CONF]
+
+- name: WACCO
+  description: Workshop on Attackers and Cyber-Crime Operations
+  year: 2024
+  link: https://wacco-workshop.org/
+  deadline: ["2024-03-15 23:59"]
+  date: July 8
+  place: Vienna, Austria
+  tags: [SEC, PRIV]
