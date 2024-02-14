@@ -330,22 +330,14 @@
   tags: [CRYPTO, CONF]
 
 # Networks and systems, applications
+
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2024
-  link: https://raid2024.github.io/index.html
+  link: https://raid2024.github.io/
   deadline: ["2024-04-09 23:59"]
-  date: September 30 - October 2, 2024.
+  date: September 30 - October 2
   place: Padova, Italy
-  tags: [SEC, CONF]
-  
-- name: RAID
-  description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2023
-  link: https://raid2023.org
-  deadline: ["2023-03-29 23:59"]
-  date: October 16-18
-  place: Hong Kong, China
   tags: [SEC, CONF]
 
 - name: ACSAC
