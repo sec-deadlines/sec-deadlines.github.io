@@ -874,3 +874,12 @@
   date: July 8
   place: Vienna, Austria
   tags: [SEC, PRIV]
+
+- name: IWSEC 
+  description: International Workshop on Security
+  year: 2024
+  link: https://www.iwsec.org/2024/
+  deadline: ["2024-04-16 23:59"]
+  date: September 17-19
+  place: Kyoto, JP
+  tags: [SEC, PRIV, CRYPTO, SHOP]
