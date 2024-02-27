@@ -342,12 +342,11 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2023
-  link: https://www.acsac.org/2023/
-  deadline: ["2023-05-26 23:59"]
-  comment: Abstract deadline on May 22nd
-  date: Dec 4-8
-  place: Austin, TX, USA
+  year: 2024
+  link: https://www.acsac.org/2024/
+  deadline: ["2024-05-28 23:59"]
+  date: Dec 9-13
+  place: Waikiki, Hawaii, USA
   tags: [SEC, CONF]
 
 - name: DSN
