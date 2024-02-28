@@ -734,8 +734,8 @@
   description: Malicious Software and Hardware in Internet of Things
   year: 2024
   link: http://mal-iot2024.alari.ch/
-  deadline: ["2024-02-21 23:59"]
-  comment: Co-located with ACM Computing Frontiers 2024
+  deadline: ["2024-03-04 23:59"]
+  comment: Abstract registration: 2024-02-28 (mandatory). Co-located with ACM Computing Frontiers 2024
   date: May 7
   place: Ischia, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
