@@ -154,7 +154,7 @@
 - name: FPS
   year: 2023
   date: "Dec 11–13"
-  description: The 16th Foundations and Practice of Security Symposium
+  description: Foundations and Practice of Security Symposium
   link: https://www.fps-2023.com
   deadline: ["2023-09-15 23:59"]
   place: Bordeaux, France
@@ -163,7 +163,7 @@
 - name: IMF
   year: 2024
   date: "September 17–18"
-  description: 13th International Conference on IT Security Incident Management & IT Forensics
+  description: International Conference on IT Security Incident Management & IT Forensics
   link: https://www.imf-conference.org/
   deadline: ["2024-04-21 23:59"]
   place: Saarbrücken, Germany
