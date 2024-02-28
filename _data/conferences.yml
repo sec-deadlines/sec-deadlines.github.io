@@ -166,7 +166,7 @@
   description: International Conference on IT Security Incident Management and IT Forensics
   link: https://www.imf-conference.org/
   deadline: ["2024-04-21 23:59"]
-  place: Saarbrücken, Germany
+  place: Saarbrucken, Germany
   tags: [SEC, CONF]
 
 # Privacy
@@ -744,7 +744,7 @@
   year: 2024
   link: http://mal-iot2024.alari.ch/
   deadline: ["2024-03-04 23:59"]
-  comment: Abstract registration: 2024-02-28 (mandatory). Co-located with ACM Computing Frontiers 2024
+  comment: Mandatory abstract registration Feb 28. Co-located with ACM Computing Frontiers 2024.
   date: May 7
   place: Ischia, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
