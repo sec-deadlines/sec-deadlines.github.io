@@ -663,12 +663,12 @@
 
 - name: PAVeTrust
   description: Program Analysis and Verification on Trusted Platforms
-  year: 2023
-  link: https://www.acsac.org/2023/workshops/pavetrust/
-  comment: Collocated with ACSAC
-  deadline: ["2023-09-29 23:59"]
-  date: December 5
-  place: Austin, TX, USA
+  year: 2024
+  link: https://pavetrust.github.io/
+  comment: Collocated with FM
+  deadline: ["2024-07-05 23:59"]
+  date: September 9
+  place: Milan, Italy
   tags: [SEC, PRIV, SHOP]
 
 - name: VehicleSec
