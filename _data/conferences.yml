@@ -1,6 +1,15 @@
 ---
    
 # Security and Privacy
+
+- name: SciSec
+  description: 6th International Conference on Science of Cyber Security
+  year: 2024
+  link: https://scisec.org/
+  deadline: "2024-04-07 23:59"
+  date: August 14-16
+  place: Copenhagen, DK
+  tags: [SEC, PRIV]
   
 - name: S&P (Oakland)
   year: 2025
