@@ -169,6 +169,15 @@
   place: Saarbrucken, Germany
   tags: [SEC, CONF]
 
+- name: SciSec
+  description: International Conference on Science of Cyber Security
+  year: 2024
+  link: https://scisec.org/
+  deadline: ["2024-04-07 23:59"]
+  date: August 14-16
+  place: Copenhagen, DK
+  tags: [SEC, CONF]
+
 # Privacy
 
 - name: PETS
