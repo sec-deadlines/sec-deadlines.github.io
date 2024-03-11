@@ -1,17 +1,6 @@
 ---
    
 # Security and Privacy
-
-- name: CANS
-  description: International Conference on Cryptology and Network Security
-  year: 2024
-  link: https://2024.cansconference.org/home
-  deadline: ["2024-04-14 23:59"]
-  timezone: Etc/UTC
-  date: September 24-25, 2024
-  place: Cambridge, UK
-  tags: [SEC, CRYPTO, CONF]
-
   
 - name: S&P (Oakland)
   year: 2025
@@ -91,17 +80,15 @@
   date: July 08 - 12
   place: Enschede, The Netherlands
   tags: [SEC, PRIV, CONF]
-    
+
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2023
-  link: https://www.augusta.edu/ccs/conferences/cans2023/
-  deadline: ["2023-07-08 12:00"]
-  timezone: Etc/UTC
-  date: October 31-November 2
-  place: Atlanta, United States
+  year: 2024
+  link: https://2024.cansconference.org/home
+  deadline: ["2024-04-14 23:59"]
+  date: September 24-25, 2024
+  place: Cambridge, UK
   tags: [SEC, CRYPTO, CONF]
-  comment: Extended deadline
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
