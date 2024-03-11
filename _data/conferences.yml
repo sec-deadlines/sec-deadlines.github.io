@@ -80,7 +80,7 @@
   date: July 08 - 12
   place: Enschede, The Netherlands
   tags: [SEC, PRIV, CONF]
-    
+
 - name: CANS
   description: International Conference on Cryptology and Network Security
   year: 2024
@@ -88,7 +88,7 @@
   deadline: ["2024-04-14 23:59"]
   date: September 24-27
   place: Cambridge, UK
-  tags: [SEC, CRYPTO, CONF] 
+  tags: [SEC, CRYPTO, CONF]
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
@@ -175,6 +175,15 @@
   date: August 14-16
   place: Copenhagen, DK
   tags: [SEC, CONF]
+
+- name: EDId
+  description: 1st International Workshop on Emerging Digital Identitiesy
+  year: 2024
+  link: https://www.ares-conference.eu/workshops/edid/
+  deadline: ["2024-05-08 23:59"]
+  date: July 30- August 02
+  place: Vienna, AT
+  tags: [SEC, PRIV, CRYPTO, SHOP]
 
 # Privacy
 
