@@ -5,7 +5,7 @@ Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 ## Adding/updating a conference
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
-* Update `_data/conferences.yml`. You can do that on Github or locally after forking the repo.
+* Update `_data/conferences.yml`. You can do that on GitHub or locally after forking the repo.
 * Send a pull request
 
 ### Conference entry record
@@ -25,17 +25,18 @@ Example record:
 
 Descriptions of the fields:
 
-| Field name    | Description                                                 |
-|---------------|-------------------------------------------------------------|
-| `name`\*      | Short conference name, without year                         |
-| `year`\*      | Year the conference is happening                            |
-| `description` | Description, or long name                                   |
-| `link`\*      | URL to the conference home page                             |
-| `deadline`\*  | A list of deadlines. (Gory details below)                   |
-| `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
-| `date`        | When the conference is happening                            |
-| `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| Field name    | Description                                                                             |
+|---------------|-----------------------------------------------------------------------------------------|
+| `name`\*      | Short conference name, without year                                                     |
+| `year`\*      | Year the conference is happening                                                        |
+| `description` | Description, or long name                                                               |
+| `comment`     | Additional comments, e.g., co-located conference, rolling deadline                      |
+| `link`\*      | URL to the conference home page                                                         |
+| `deadline`\*  | A list of deadlines. [(Gory details below)][4]                                          |
+| `timezone`    | [Timezone][5] in [tz][1] format. By default is UTC-12 ([AoE][2])                        |
+| `date`        | When the conference is happening                                                        |
+| `place`       | Where the conference is happening                                                       |
+| `tags`        | One or multiple [tags][3]: `SEC`, `PRIV`, or `CRYPTO` (topic); `CONF` or `SHOP` (venue) |
 
 Fields marked with asterisk (\*) are required.
 
@@ -78,4 +79,7 @@ The timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), th
 [0]: https://momentjs.com/timezone/docs/#/zone-object/offset/
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
+[3]: _data/types.yml
+[4]: #deadline-format
+[5]: #timezones
 
