@@ -907,3 +907,14 @@
   date: September 17-19
   place: Kyoto, JP
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: CSET
+  description: Cyber Security Experimentation and Test Workshop
+  year: 2024
+  link: https://cset24.isi.edu/
+  comment: Co-located with USENIX Security
+  deadline: ["2024-05-17 20:00"]
+  timezone: America/New_York
+  date: August 13
+  place: Philadelphia, PA, USA
+  tags: [SEC, SHOP]
