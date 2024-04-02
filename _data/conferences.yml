@@ -917,3 +917,14 @@
   date: August 13
   place: Philadelphia, PA, USA
   tags: [SEC, SHOP]
+
+- name: OSCo
+  description: Open Security Conference
+  year: 2024
+  link: https://opensecurityconference.org/
+  comment: Open Space format Cyber Security Conference
+  deadline: ["2024-08-31 23:59"]
+  timezone: Europe/Berlin
+  date: "October 4-6"
+  place: Rückersbach, Germany
+  tags: [SEC, CONF]
