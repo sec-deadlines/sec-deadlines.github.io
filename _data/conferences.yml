@@ -917,3 +917,12 @@
   date: August 13
   place: Philadelphia, PA, USA
   tags: [SEC, SHOP]
+
+- name: ISC
+  description: Information Security Conference
+  year: 2024
+  link: https://isc24.cs.gmu.edu/
+  deadline: ["2024-06-06 23:59"]
+  date: "October 23-25"
+  place: Washington DC, USA
+  tags: [SEC, PRIV, CONF]
