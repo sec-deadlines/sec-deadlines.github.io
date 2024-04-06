@@ -921,10 +921,9 @@
 - name: QSNS
   year: 2024
   description: 1st Workshop on Quantum-Secure Networks and Systems
-  comment: Co-located with the 29th IEEE Symposium on Computers and Communications (ISCC 2024), June 26-29, 2024, Paris, France.
+  comment: Co-located with IEEE ISCC 2024
   link: https://qubip.eu/qsns2024/
   deadline: ["2024-05-05 23:59"]
-  timezone: Europe/Paris
-  date: "June 26"
   timezone: Etc/UTC
+  date: "June 26"
   tags: [SEC, PRIV, CRYPTO, SHOP]
