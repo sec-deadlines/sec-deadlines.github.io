@@ -920,10 +920,11 @@
 
 - name: QSNS
   year: 2024
-  description: 1st Workshop on Quantum-Secure Networks and Systems
+  description: Workshop on Quantum-Secure Networks and Systems
   comment: Co-located with IEEE ISCC 2024
   link: https://qubip.eu/qsns2024/
   deadline: ["2024-05-05 23:59"]
   timezone: Etc/UTC
+  place: Paris, France
   date: "June 26"
   tags: [SEC, PRIV, CRYPTO, SHOP]
