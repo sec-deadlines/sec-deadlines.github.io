@@ -131,13 +131,12 @@
 
 - name: ISC
   description: Information Security Conference
-  year: 2023
-  link: https://isc23.cs.rug.nl
-  deadline: ["2023-08-03 23:59"]
-  date: "November 15 - 17"
-  place: Groningen, Netherlands
+  year: 2024
+  link: https://isc24.cs.gmu.edu/
+  deadline: ["2024-06-06 23:59"]
+  date: "October 23-25"
+  place: Arlington, VA, USA
   tags: [SEC, PRIV, CONF]
-  comment: Extended deadline
   
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
@@ -917,12 +916,3 @@
   date: August 13
   place: Philadelphia, PA, USA
   tags: [SEC, SHOP]
-
-- name: ISC
-  description: Information Security Conference
-  year: 2024
-  link: https://isc24.cs.gmu.edu/
-  deadline: ["2024-06-06 23:59"]
-  date: "October 23-25"
-  place: Washington DC, USA
-  tags: [SEC, PRIV, CONF]
