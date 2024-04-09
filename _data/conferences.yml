@@ -553,12 +553,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
-  year: 2023
+  year: 2024
   description: IEEE Secure Development Conference
-  link: https://secdev.ieee.org/2023/home/
-  deadline: ["2023-06-02 23:59"]
-  date: "October 18-20"
-  place: Atlanta, GA, USA
+  link: https://secdev.ieee.org/2024/home
+  deadline: ["2024-05-14 23:59"]
+  date: "October 7-10"
+  place: Pittsburgh, PA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: HOST
