@@ -898,10 +898,11 @@
   tags: [SEC, PRIV]
 
 - name: IWSEC 
-  description: International Workshop on Security
+  description: The 19th International Workshop on Security
   year: 2024
   link: https://www.iwsec.org/2024/
-  deadline: ["2024-04-16 23:59"]
+  deadline: ["2024-04-23 23:59"]
+  timezone: Etc/UTC
   date: September 17-19
   place: Kyoto, JP
   tags: [SEC, PRIV, CRYPTO, SHOP]
