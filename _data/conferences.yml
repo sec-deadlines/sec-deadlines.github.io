@@ -59,13 +59,13 @@
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
-  year: 2024
-  link: https://asiaccs2024.sutd.edu.sg/
+  year: 2025
+  link: https://asiaccs2025.hust.edu.vn/
   deadline:
-    - "2023-08-21 23:59"
-    - "2023-12-07 23:59"
-  date: "July 1-5"
-  place: Singapore
+    - "2024-09-20 23:59"
+    - "2025-01-15 23:59"
+  date: "August 25-29"
+  place: Hanoi, Vietnam
   tags: [SEC, PRIV, CONF]
   
 - name: CSF
@@ -196,8 +196,8 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2024
-  link: https://www.petsymposium.org/cfp24.php
+  year: 2025
+  link: https://www.petsymposium.org/cfp25.php
   deadline:
     - "%Y-05-31 23:59"
     - "%Y-08-31 23:59"
@@ -205,8 +205,8 @@
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
-  date: July 15-20
-  place: Bristol, UK
+  date: July 2025 (TBC)
+  place: Washington, DC
   tags: [PRIV, CONF]
 
 - name: LPW
@@ -260,12 +260,12 @@
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
-  year: 2023
-  link: https://asiacrypt.iacr.org/2023/
-  deadline: ["2023-05-26 11:59"]
+  year: 2024
+  link: https://asiacrypt.iacr.org/2024/
+  deadline: ["2024-05-26 11:59"]
   timezone: Etc/UTC
-  date: December 4-8
-  place: Guangzhou, China
+  date: December 9-13
+  place: Kolkata, India
   tags: [CRYPTO, CONF]
   
 - name: AFT
