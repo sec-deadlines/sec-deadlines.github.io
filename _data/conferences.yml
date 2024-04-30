@@ -13,6 +13,17 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF]
 
+- name: EuroUSEC2024
+  description: The 2024 European Symposium on Usable Security
+  year: 2024
+  link: https://eurousec24.kau.se/
+  deadline: 
+   - "2024-05-27 23:59"
+   - "2024-05-31 23:59"
+  date: September 30-October 1
+  place: Karlstad, Sweden
+  tags: [SEC, PRIV, CONF]
+  
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2024
