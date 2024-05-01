@@ -804,12 +804,12 @@
 
 - name: SECAI
   description: Workshop on Security and Artificial Intelligance
-  year: 2023
-  link: https://sites.google.com/view/secai2023
-  deadline: ["2023-07-16 23:59"]
-  comment: Co-located with ESORICS 2023
-  date: September 25-29
-  place: The Hague, The Netherlands
+  year: 2024
+  link: https://sites.google.com/view/secai2024
+  deadline: ["2024-06-19 23:59"]
+  comment: Co-located with ESORICS 2024
+  date: September 16-20
+  place: Bydgoszcz, Poland
   tags: [SEC, PRIV, SHOP]
   
 - name: ASHES
