@@ -602,6 +602,16 @@
 
 # Workshops
 
+- name: CPSIoTSec 2024
+  description: The Joint Workshop on CPS & IoT Security and Privacy
+  year: 2024
+  link: https://cpsiotsec2024.github.io/
+  deadline: ["2024-06-25 23:59"]
+  comment: In conjunction with ACM CCS 2024
+  date: October 18
+  place: Salt Lake City, Utah, U.S.A.
+  tags: [SEC, PRIV]
+  
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
   year: 2024
