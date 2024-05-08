@@ -602,6 +602,16 @@
 
 # Workshops
 
+- name: AISec
+   description: 17th ACM Workshop on Artificial Intelligence and Security
+   year: 2024
+   link: https://aisec.cc
+   deadline: ["2024-06-21 23:59"]
+   date: October 14-18, 2024
+   comment: Co-located with ACM CCS 2024
+   place: Salt Lake City, USA
+   tags: [SEC, PRIV, SHOP]
+
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
   year: 2024
