@@ -633,14 +633,14 @@
   tags: [SEC, PRIV, SHOP]
   
 - name: AISec
-   description: 17th ACM Workshop on Artificial Intelligence and Security
-   year: 2024
-   link: https://aisec.cc
-   deadline: ["2024-06-21 23:59"]
-   date: October 14-18, 2024
-   comment: Co-located with ACM CCS 2024
-   place: Salt Lake City, UT, USA
-   tags: [SEC, PRIV, SHOP]
+  description: Workshop on Artificial Intelligence and Security
+  year: 2024
+  link: https://aisec.cc
+  deadline: ["2024-06-21 23:59"]
+  date: October 14-18, 2024
+  comment: Co-located with ACM CCS 2024
+  place: Salt Lake City, UT, USA
+  tags: [SEC, PRIV, SHOP]
 
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
@@ -653,7 +653,7 @@
   tags: [SEC, SHOP, PRIV]
 
 - name: WoRMA
-  description: 3rd Workshop on Rethinking Malware Analysis
+  description: Workshop on Rethinking Malware Analysis
   year: 2024
   link: https://worma.gitlab.io/2024/
   deadline: ["2024-03-26 23:59"]
