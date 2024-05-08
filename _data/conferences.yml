@@ -238,6 +238,15 @@
   place: Salt Lake City, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: ACIS (PrivaCI)
+  year: 2024
+  date: September 27-28
+  description: The Annual Symposium on Applications of Contextual Integrity
+  link: https://privaci.info/symposium/2024/cfp.html
+  deadline: ["2024-06-24 23:59"]  
+  place: Rutgers University, USA
+  tags: [PRIV, CONF]
+
 # Crypto
 
 - name: Inscrypt
@@ -298,11 +307,12 @@
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2023
-  link: https://tcc.iacr.org/2023/
-  deadline: ["2023-06-01 23:59"]
-  date: "November 29-December 2"
-  place: Taipei, Taiwan
+  year: 2024
+  link: https://tcc.iacr.org/2024/
+  timezone: "Etc/UTC-2"
+  deadline: ["2024-05-20 20:00"]
+  date: "December 2-6"
+  place: Milan, Italy
   tags: [CRYPTO, CONF]
 
 - name: PKC
@@ -611,6 +621,26 @@
   tags: [SEC, CONF]
 
 # Workshops
+
+- name: CPSIoTSec
+  description: The Joint Workshop on CPS & IoT Security and Privacy
+  year: 2024
+  link: https://cpsiotsec2024.github.io/
+  deadline: ["2024-06-25 23:59"]
+  comment: In conjunction with ACM CCS 2024
+  date: October 18
+  place: Salt Lake City, UT, USA
+  tags: [SEC, PRIV, SHOP]
+  
+- name: AISec
+   description: 17th ACM Workshop on Artificial Intelligence and Security
+   year: 2024
+   link: https://aisec.cc
+   deadline: ["2024-06-21 23:59"]
+   date: October 14-18, 2024
+   comment: Co-located with ACM CCS 2024
+   place: Salt Lake City, UT, USA
+   tags: [SEC, PRIV, SHOP]
 
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
@@ -955,4 +985,14 @@
   timezone: Etc/UTC
   place: Paris, France
   date: "June 26"
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: CheckMATE
+  description: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
+  year: 2024
+  link: https://checkmate-workshop.github.io/
+  deadline: ["2024-06-20 23:59"]
+  comment: Co-located with ACM CCS 2024
+  date: October 18
+  place: Salt Lake City, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
