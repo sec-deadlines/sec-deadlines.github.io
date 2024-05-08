@@ -609,9 +609,19 @@
   deadline: ["2024-06-25 23:59"]
   comment: In conjunction with ACM CCS 2024
   date: October 18
-  place: Salt Lake City, Utah, USA
+  place: Salt Lake City, UT, USA
   tags: [SEC, PRIV, SHOP]
   
+- name: AISec
+   description: 17th ACM Workshop on Artificial Intelligence and Security
+   year: 2024
+   link: https://aisec.cc
+   deadline: ["2024-06-21 23:59"]
+   date: October 14-18, 2024
+   comment: Co-located with ACM CCS 2024
+   place: Salt Lake City, UT, USA
+   tags: [SEC, PRIV, SHOP]
+
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
   year: 2024
