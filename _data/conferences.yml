@@ -946,3 +946,13 @@
   place: Paris, France
   date: "June 26"
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: CheckMATE
+  description: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
+  year: 2024
+  link: https://checkmate-workshop.github.io/
+  deadline: ["2024-06-20 23:59"]
+  comment: Co-located with ACM CCS 2024
+  date: October 18
+  place: Salt Lake City, USA
+  tags: [SEC, PRIV, CRYPTO, SHOP]
