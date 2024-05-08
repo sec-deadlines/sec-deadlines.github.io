@@ -1,15 +1,6 @@
 ---
    
 # Security and Privacy
-- name: PLAS
-  year: 2024
-  description: The 19th Workshop on Programming Languages and Analysis for Security
-  comment: Co-located with CCS 2024
-  link: https://plas24.github.io/
-  deadline: ["2024-06-20 23:59"]
-  date: October 14
-  place: Salt Lake City, USA
-  tags: [SEC, PRIV, SHOP]
 
 - name: S&P (Oakland)
   year: 2025
@@ -236,6 +227,16 @@
   date: July 7
   place: Delft, The Netherlands
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: PLAS
+  year: 2024
+  description: Workshop on Programming Languages and Analysis for Security
+  comment: Co-located with CCS 2024
+  link: https://plas24.github.io/
+  deadline: ["2024-06-20 23:59"]
+  date: October 14
+  place: Salt Lake City, USA
+  tags: [SEC, PRIV, SHOP]
 
 # Crypto
 
