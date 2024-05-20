@@ -261,11 +261,11 @@
 
 - name: SAC
   description: Selected Areas in Cryptography
-  year: 2023
-  link: https://sac-workshop.github.io/sac-2023/
-  deadline: ["2023-05-16 11:59"]
-  date: August 16-18
-  place: Fredricton, NB, Canada
+  year: 2024
+  link: https://sacworkshop.org/SAC24/
+  deadline: ["2024-05-07 11:59"]
+  date: August 26-27
+  place: Montreal, QC, Canada
   tags: [CRYPTO, CONF]
 
 - name: Crypto
@@ -298,11 +298,12 @@
   
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2023
-  link: https://aftconf.github.io/aft23/
-  deadline: ["2023-06-15 23:59"]
-  date: "September 23–26"
-  place: Princeton, NJ, USA
+  year: 2024
+  link: https://aftconf.github.io/aft24/
+  deadline: ["2024-05-22 23:59"]
+  date: "September 23–25"
+  comment: Abstract registration May 15th AoE.
+  place: Vienna, Austria
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: TCC
@@ -472,12 +473,11 @@
 
 - name: DBSec
   description: Conference on Data and Applications Security and Privacy
-  year: 2023
-  link: http://www.dbsec2023.unimol.it
-  deadline: ["2023-04-07 23:59"]
-  comment: Abstracts due March 31
-  date: July 19 - 21
-  place: Sophia Antipolis, France
+  year: 2024
+  link: https://www.dbsec2024.unimol.it/
+  deadline: ["2024-04-19 23:59"]
+  date: July 15 - 17
+  place: San Jose, CA, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: The Web Conference
@@ -555,12 +555,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ICICS
-  year: 2023
-  date: November 18–20
-  description: 25th International Conference on Information and Communications Security
-  link: https://icics23.nankai.edu.cn
-  deadline: ["2023-03-30 23:59"]
-  place: Tianjin, China
+  year: 2024
+  date: August 26–28
+  description: International Conference on Information and Communications Security
+  link: http://icics2024.aegean.gr/
+  deadline: ["2024-05-03 23:59"]
+  place: Mytilene, Greece
   tags: [SEC, PRIV, CONF]
 
 - name: SaTML
