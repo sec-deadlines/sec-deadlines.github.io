@@ -310,7 +310,7 @@
   description: Theory of Cryptography Conference
   year: 2024
   link: https://tcc.iacr.org/2024/
-  timezone: "Etc/UTC-2"
+  timezone: "Etc/GMT-2"
   deadline: ["2024-05-20 20:00"]
   date: "December 2-6"
   place: Milan, Italy
@@ -539,7 +539,7 @@
   year: 2024
   date: "May 27 - 28"
   description: ESA Security for Space Systems Conference
-  timezone: Etc/UTC-2
+  timezone: Etc/GMT-2
   deadline: ["2024-02-08 23:59"]
   link: https://atpi.eventsair.com/24a06---3s2024/
   place: ESTEC, Noordwijk, Netherlands
