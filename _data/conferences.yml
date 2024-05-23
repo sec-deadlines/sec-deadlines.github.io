@@ -4,7 +4,7 @@
 
 - name: S&P (Oakland)
   year: 2025
-  date: "TBD"
+  date: May 12-15
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2025
   deadline:
@@ -77,7 +77,7 @@
     - "2024-10-01 23:59"
     - "2025-02-04 23:59"
   date: July
-  place: TBD
+  place: Santa Cruz, CA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: CANS
