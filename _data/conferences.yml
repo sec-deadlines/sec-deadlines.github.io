@@ -1,7 +1,7 @@
 ---
    
 # Security and Privacy
-
+  
 - name: S&P (Oakland)
   year: 2025
   date: May 12-15
@@ -155,14 +155,34 @@
   date: "November 1 - 3"
   place: Exeter, UK
   tags: [SEC, PRIV, CONF]
-  
+
 - name: FPS
-  year: 2023
-  date: "Dec 11–13"
+  year: 2024
+  date: "Dec 9–11"
   description: Foundations and Practice of Security Symposium
-  link: https://www.fps-2023.com
-  deadline: ["2023-09-15 23:59"]
-  place: Bordeaux, France
+  link: https://fps-2024.hec.ca
+  deadline: ["2024-09-06 23:59"]
+  place: Montreal, Canada
+  tags: [SEC, PRIV, CRYPTO, CONF]
+
+- name: SecureComm
+  year: 2024
+  date: "Oct 28–30"
+  description: International Conference on Security and Privacy in Communication Networks
+  link: https://securecomm.eai-conferences.org/2024/
+  deadline:
+    - "2024-05-10 23:59"
+    - "2024-07-01 23:59"
+  place: Dubai, UAE
+  tags: [SEC, CONF]
+  
+- name: NSS-SocialSec
+  description: International Conference on Network and System Security and International Symposium on Security and Privacy in Social Networks and Big Data
+  year: 2024
+  link: http://nsclab.org/nss-socialsec2024/index.html
+  deadline: ["2024-07-01 23:59"]
+  date: Nov 20-22
+  place: Abu Dhabi, UAE
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IMF
