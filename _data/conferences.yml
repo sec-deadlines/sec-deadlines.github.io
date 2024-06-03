@@ -213,7 +213,6 @@
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  timezone: Etc/GMT+11
   date: July 2025 (TBC)
   place: Washington, DC
   tags: [PRIV, CONF]
