@@ -882,18 +882,22 @@
 
 - name: DPM
   description: Data Privacy Management International Workshop
-  year: 2023
-  link: https://deic.uab.cat/dpm/dpm2023/
-  deadline: ["2023-06-30 23:59"]
-  place: The Hague, The Netherlands
-  tag: [PRIV, SHOP]
+  comment: Co-located with ESORICS 2024 (29th European Symposium on Research in Computer Security)
+  year: 2024
+  link: https://deic.uab.cat/dpm/dpm2024/
+  deadline: ["2024-06-23 23:59"]
+  place: Bydgoszcz, Poland
+  date: September, 19th
+  tag: [PRIV, SEC, SHOP]
   
 - name: CBT
   description: International Workshop on Cryptocurrencies and Blockchain Technology
-  year: 2023
+  comment: Co-located with ESORICS 2024 (29th European Symposium on Research in Computer Security)
+  year: 2024
   link: http://cbtworkshop.org/
-  deadline: ["2023-06-30 23:59"]
-  place: The Hague, The Netherlands
+  deadline: ["2024-06-23 23:59"]
+  place: Bydgoszcz, Poland
+  date: September, 19th
   tag: [SEC, CRYPTO, SHOP]
 
 - name: CyberHunt
