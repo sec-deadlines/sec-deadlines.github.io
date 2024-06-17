@@ -1000,4 +1000,13 @@
   date: October 18
   place: Salt Lake City, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
-  
+
+- name: CSCS
+  description: Cyber Security in Cars Workshop
+  year: 2024
+  link: https://acm-cscs.org
+  deadline: ["2024-07-04 23:59"]
+  comment: Co-located with ACM CCS 2024
+  date: October 18
+  place: Salt Lake City, USA
+  tags: [SEC, PRIV, SHOP]
