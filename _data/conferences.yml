@@ -882,7 +882,7 @@
 
 - name: DPM
   description: Data Privacy Management International Workshop
-  comment: Co-located with ESORICS 2024 (29th European Symposium on Research in Computer Security)
+  comment: Co-located with ESORICS 2024
   year: 2024
   link: https://deic.uab.cat/dpm/dpm2024/
   deadline: ["2024-06-23 23:59"]
@@ -892,7 +892,7 @@
   
 - name: CBT
   description: International Workshop on Cryptocurrencies and Blockchain Technology
-  comment: Co-located with ESORICS 2024 (29th European Symposium on Research in Computer Security)
+  comment: Co-located with ESORICS 2024
   year: 2024
   link: http://cbtworkshop.org/
   deadline: ["2024-06-23 23:59"]
