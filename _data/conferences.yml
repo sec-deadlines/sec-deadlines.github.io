@@ -1010,3 +1010,12 @@
   date: October 18
   place: Salt Lake City, USA
   tags: [SEC, PRIV, SHOP]
+  
+- name: SmartSP
+  description: EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles
+  year: 2024
+  link: https://smartsp.eai-conferences.org/2024/
+  deadline: ["2024-07-01 23:59"]
+  date: November 7-8
+  place: New Orleans, USA
+  tags: [SEC, PRIV, CONF]
