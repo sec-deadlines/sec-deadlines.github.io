@@ -412,6 +412,15 @@
 
 # Networks and systems, applications
 
+- name: ACM SAC
+  description: ACM/SIGAPP Symposium On Applied Computing
+  year: 2025
+  link: https://www.sigapp.org/sac/sac2025/
+  deadline: ["2024-09-20 23:59"]
+  date: March 31 - April 4
+  place: Catania, Italy
+  tags: [SEC, CONF]
+
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2024
