@@ -228,9 +228,9 @@
   year: 2025
   link: https://www.petsymposium.org/cfp25.php
   deadline:
-    - "%Y-05-31 23:59"
-    - "%Y-08-31 23:59"
-    - "%Y-11-30 23:59"
+    - "%y-05-31 23:59"
+    - "%y-08-31 23:59"
+    - "%y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
   date: July 2025 (TBC)
@@ -387,10 +387,10 @@
   year: 2025
   link: https://tosc.iacr.org/
   deadline:
-    - "%Y-03-01 12:00"
-    - "%Y-06-01 12:00"
-    - "%Y-09-01 12:00"
-    - "%Y-11-22 12:00"
+    - "%y-03-01 12:00"
+    - "%y-06-01 12:00"
+    - "%y-09-01 12:00"
+    - "%y-11-22 12:00"
   comment: Rolling deadline every quarter
   date: TBD
   place: TBD
@@ -401,8 +401,8 @@
   year: 2024
   link: https://ches.iacr.org/
   deadline:
-    - "%Y-07-15 23:59"
-    - "%Y-10-15 23:59"
+    - "%y-07-15 23:59"
+    - "%y-10-15 23:59"
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
