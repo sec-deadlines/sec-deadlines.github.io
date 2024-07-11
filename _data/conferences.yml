@@ -221,6 +221,15 @@
   place: Leipzig, Germany
   tags: [SEC, PRIV, CONF]
 
+- name: IFIP SEC
+  description: IFIP International Information Security and Privacy Conference
+  year: 2025
+  link: https://sec2025.um.si/
+  deadline: ["2024-12-20 23:59"]
+  date: May 21 - 23
+  place: Maribor, Slovenia
+  tags: [SEC, CONF]
+
 # Privacy
 
 - name: PETS
