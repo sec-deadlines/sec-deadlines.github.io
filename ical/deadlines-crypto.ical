@@ -1,11 +1,11 @@
 ---
 layout: null
 ---
-BEGIN:VCALENDAR{% assign tyear = 'now' | date: '%Y' %}{% assign tmonth = 'now' | date: '%m' %}
+BEGIN:VCALENDAR{% assign tyear = 'now' | date: '%Y' %}{% assign tmonth = 'now' | date: '%m' %}{% assign tprevyear = 'now' | date: '%Y' | minus: 1 %}
 VERSION:2.0
 PRODID:https://sec-deadlines.github.io
 METHOD:PUBLISH{% assign conferences = site.data.conferences |
-where_exp:"conf","conf.tags contains 'CRYPTO'" %}{% for conf in conferences %}{% assign num_deadlines = conf.deadline.size %}{% assign range_end = conf.deadline.size | minus: 1 %}{% for i in (0..range_end) %}{% assign deadline = conf.deadline[i] | replace: '%y', tyear %}{% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+where_exp:"conf","conf.tags contains 'CRYPTO'" %}{% for conf in conferences %}{% assign num_deadlines = conf.deadline.size %}{% assign range_end = conf.deadline.size | minus: 1 %}{% for i in (0..range_end) %}{% assign deadline = conf.deadline[i] | replace: '%y', tyear | replace: '%Y', tprevyear %}{% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
 BEGIN:VEVENT
 UID:{{ conf_id }}@sec-deadlines.github.io
 SUMMARY:{{conf.name}} {{conf.year}} Deadline{% if num_deadlines >= 2 %} ({{ i | plus: 1 }} / {{ num_deadlines }}){% endif %}
