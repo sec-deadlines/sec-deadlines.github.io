@@ -307,11 +307,11 @@
 
 - name: Eurocrypt
   description: European Cryptology Conference
-  year: 2024
-  link: https://eurocrypt.iacr.org/2024/
+  year: 2025
+  link: https://eurocrypt.iacr.org/2025/
   deadline: ["2023-10-06 23:59"]
-  date: May 26-30
-  place: Zurich, Switzerland
+  date: May 4-8
+  place: Madrid, Spain
   tags: [CRYPTO, CONF]
 
 - name: Asiacrypt
@@ -346,12 +346,12 @@
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2024
-  link: https://pkc.iacr.org/2024/
-  deadline: ["2023-10-15 09:59"]
+  year: 2025
+  link: https://pkc.iacr.org/2025/
+  deadline: ["2024-10-16 09:59"]
   timezone: Etc/UTC
-  date: April 15-17
-  place: Sydney, Australia
+  date: May 12-15
+  place: Røros, Norway
   tags: [CRYPTO, CONF]
 
 - name: CT-RSA
@@ -463,7 +463,7 @@
   year: 2025
   link: https://fordaysec.de/en/event/acns-2025
   deadline: 
-    - "2024-09-04 23:59"
+    - "2024-09-09 23:59"
     - "2025-01-13 23:59"
   date: June 23-26
   place: Munich, Germany
