@@ -1,6 +1,16 @@
 ---
    
 # Security and Privacy
+
+- name: TAC
+  description: Topics in Applied Cryptography
+  year: 2024
+  date: September 27
+  link: https://aleph.fbk.eu/events/TAC2024/
+  deadline: ["2024-07-29 23:59"]
+  comment: Co-located with CIFRIS. Paper registration due Jul 25 AoE
+  place: Rome, Italy
+  tags: [SEC, CRYPTO, SHOP]
   
 - name: S&P (Oakland)
   year: 2025
