@@ -1057,3 +1057,12 @@
   date: October 18
   place: Salt Lake City, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: MSSN CTRL
+  description: Security Engineering and Automation Conference
+  year: 2024
+  link: https://mssnctrl.org/
+  deadline: ["2024-06-30 23:59"]
+  date: October 2-4
+  place: Arlington, VA, USA
+  tags: [SEC, CONF]
