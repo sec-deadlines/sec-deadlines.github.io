@@ -658,6 +658,15 @@
   place: Tianjin, China
   tags: [SEC, CONF]
 
+- name: SaTML
+  description: IEEE Conference on Secure and Trustworthy Machine Learning
+  year: 2025
+  link: https://www.satml.org
+  deadline: ["2024-09-18 23:59"]
+  date: April 9-11
+  place: Copenhagen, Denmark
+  tags: [SEC, PRIV, CONF]
+
 # Workshops
 
 - name: CPSIoTSec
