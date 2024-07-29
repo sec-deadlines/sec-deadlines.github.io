@@ -1,16 +1,6 @@
 ---
    
 # Security and Privacy
-
-- name: TAC
-  description: Topics in Applied Cryptography
-  year: 2024
-  date: September 27
-  link: https://aleph.fbk.eu/events/TAC2024/
-  deadline: ["2024-07-29 23:59"]
-  comment: Co-located with CIFRIS. Paper registration due Jul 25 AoE
-  place: Rome, Italy
-  tags: [SEC, CRYPTO, SHOP]
   
 - name: S&P (Oakland)
   year: 2025
@@ -21,7 +11,7 @@
     - "2024-06-06 23:59"
     - "2024-11-14 23:59"
   place: San Francisco, California, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, TOP4]
   
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -32,7 +22,7 @@
     - "2024-04-29 23:59"
   date: October 14-18
   place: Salt Lake City, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, TOP4]
 
 - name: USENIX Security
   description: USENIX Security Symposium
@@ -43,7 +33,7 @@
     - "2025-01-22 23:59"
   date: "August 13-15"
   place: Seattle, WA, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, TOP4]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -54,7 +44,7 @@
     - "2024-07-10 23:59"
   date: "February 23-28"
   place: San Diego, CA, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, TOP4]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
@@ -1080,3 +1070,13 @@
   date: December 9
   place: Waikiki, Hawaii, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: TAC
+  description: Topics in Applied Cryptography
+  year: 2024
+  date: September 27
+  link: https://aleph.fbk.eu/events/TAC2024/
+  deadline: ["2024-07-29 23:59"]
+  comment: Co-located with CIFRIS. Paper registration due Jul 25 AoE
+  place: Rome, Italy
+  tags: [SEC, CRYPTO, SHOP]
