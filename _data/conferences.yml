@@ -533,7 +533,8 @@
   description: International Conference on the World Wide Web
   year: 2025
   link: https://www2025.thewebconf.org
-  deadline: ["2024-10-10 23:59"]
+  deadline: ["2024-10-14 23:59"]
+  comment: Abstract deadline Oct 7 AoE.
   date: April 28 - May 02
   place: Sydney, Australia
   tags: [SEC, CONF, PRIV]
@@ -623,7 +624,7 @@
 
 - name: NordSec
   year: 2024
-  description: The 29th Nordic Conference on Secure IT Systems
+  description: Nordic Conference on Secure IT Systems
   link: https://nordsec2024.kau.se/
   deadline: ["2024-08-21 23:59"]
   date: "November 6-7"
@@ -1061,10 +1062,11 @@
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: PQCrypto
-  description: 16th International Conference on Post-Quantum Cryptography
+  description: International Conference on Post-Quantum Cryptography
   year: 2025
   link: https://pqcrypto2025.iis.sinica.edu.tw/
-  deadline: ["2024-10-25 23:59"]
+  deadline: ["2024-11-01 23:59"]
+  comment: Initial submission with abstract required Oct 25th.
   date: April 8
   place: Taipei, Taiwan
   tags: [CRYPTO, CONF]
