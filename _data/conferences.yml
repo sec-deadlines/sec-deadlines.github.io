@@ -1060,6 +1060,15 @@
   place: Salt Lake City, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
+- name: PQCrypto
+  description: 16th International Conference on Post-Quantum Cryptography
+  year: 2025
+  link: https://pqcrypto2025.iis.sinica.edu.tw/
+  deadline: ["2024-10-25 23:59"]
+  date: April 8
+  place: Taipei, Taiwan
+  tags: [CRYPTO, CONF]
+  
 - name: WAITI
   description: Workshop on AI for Cyber Threat Intelligence
   year: 2024
