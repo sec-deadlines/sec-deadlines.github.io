@@ -419,16 +419,16 @@
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2024
-  link: https://ches.iacr.org/
+  year: 2025
+  link: https://ches.iacr.org/2025/
   deadline:
     - "%Y-07-15 23:59"
     - "%Y-10-15 23:59"
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: September 4-7
-  place: Halifax, Canada
+  date: September
+  place: Malaysia
   tags: [CRYPTO, CONF]
 
 # Networks and systems, applications
