@@ -288,13 +288,13 @@
 # Crypto
 
 - name: Inscrypt
-  year: 2023
+  year: 2024
   description: International Conference on Information Security and Cryptology
-  link: https://inscrypt2023.github.io/
-  deadline: ["2023-07-15 23:59"]
+  link: https://inscrypt2024.github.io/
+  deadline: ["2024-08-15 23:59"]
   timezone: Etc/GMT-8
-  date: November 11-12
-  place: HangZhou, China
+  date: December 14 - 16
+  place: Kunming, China
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SAC
@@ -375,11 +375,13 @@
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
-  year: 2024
+  year: 2025
   link: https://secrypt.scitevents.org
-  deadline: ["2024-02-15 23:59"]
-  date: July 8-10
-  place: Dijon, France
+  deadline:
+     - "2025-01-17 23:59"
+     - "2025-03-03 23:59"
+  date: June 12-14
+  place: Bilboa, Spain
   tags: [SEC, CRYPTO, CONF]
   
 - name: AFRICACRYPT
@@ -411,22 +413,22 @@
     - "%Y-09-01 12:00"
     - "%Y-11-22 12:00"
   comment: Rolling deadline every quarter
-  date: TBD
-  place: TBD
+  date: March 17-21
+  place: Roma, Italy
   tags: [CRYPTO, CONF]
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2024
-  link: https://ches.iacr.org/
+  year: 2025
+  link: https://ches.iacr.org/2025/
   deadline:
     - "%Y-07-15 23:59"
     - "%Y-10-15 23:59"
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: September 4-7
-  place: Halifax, Canada
+  date: September
+  place: Malaysia
   tags: [CRYPTO, CONF]
 
 # Networks and systems, applications
@@ -460,12 +462,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2024
-  link: https://dsn2024uq.github.io/index.html
-  deadline: ["2023-12-06 23:59"]
-  comment: Abstract deadline on Nov 29
-  date: June 24-27
-  place: Brisbane, Australia
+  year: 2025
+  link: https://dsn2025.github.io/
+  deadline: ["2024-12-04 23:59"]
+  comment: Abstract deadline on Nov 27
+  date: June 23-26
+  place: Naples, Italy
   tags: [SEC, CONF]
 
 - name: ACNS
@@ -529,20 +531,20 @@
 
 - name: The Web Conference
   description: International Conference on the World Wide Web
-  year: 2024
-  link: https://www2024.thewebconf.org
-  deadline: ["2023-10-12 23:59"]
-  date: May 13 - May 17
-  place: Singapore
+  year: 2025
+  link: https://www2025.thewebconf.org
+  deadline: ["2024-10-10 23:59"]
+  date: April 28 - May 02
+  place: Sydney, Australia
   tags: [SEC, CONF, PRIV]
 
 - name: eCrime
-  year: 2023
-  date: November 15 - 17
+  year: 2024
+  date: September 24-26
   description: The Symposium on Electronic Crime Research
-  link: https://apwg.org/event/ecrime2023/
-  deadline: ["2023-09-01 23:59"]
-  place: Barcelona, Spain
+  link: https://apwg.org/event/ecrime2024/
+  deadline: ["2024-07-07 23:59"]
+  place: Boston, MA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: PAM
@@ -612,20 +614,20 @@
 
 - name: SaTML
   year: 2024
-  date: "April"
+  date: April 9-11
   description: IEEE Conference on Secure and Trustworthy Machine Learning
   link: https://satml.org/
-  deadline: ["2023-10-11 23:59"]
-  place: Toronto, Canada
+  deadline: ["2024-09-18 23:59"]
+  place: Copenhagen, Denmark
   tags: [SEC, PRIV, CONF]
 
 - name: NordSec
-  year: 2023
-  description: The 28th Nordic Conference on Secure IT Systems
-  link: https://uni.oslomet.no/nordsec2023/
-  deadline: ["2023-08-18 23:59"]
-  date: "November 16-17"
-  place: Oslo, Norway
+  year: 2024
+  description: The 29th Nordic Conference on Secure IT Systems
+  link: https://nordsec2024.kau.se/
+  deadline: ["2024-08-21 23:59"]
+  date: "November 6-7"
+  place: Karlstad, Sweden
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
@@ -722,12 +724,12 @@
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
-  year: 2023
-  link: https://www.wpes2023.conf.kth.se/
-  deadline: ["2023-07-31 23:59"]
+  year: 2024
+  link: https://cseapps.case.edu/wpes2024/index.html
+  deadline: ["2024-07-15 23:59"]
   comment: In conjunction with the ACM CCS
-  date: November 26
-  place: Copenhagen, Denmark
+  date: October 14
+  place: Salt Lake City, United States
   tags: [PRIV, SHOP] 
 
 - name: NSPW
@@ -1052,7 +1054,7 @@
   description: The ACM Cloud Computing Security Workshop
   year: 2024
   link: https://ccsw.io/
-  deadline: ["2024-07-22 23:59"]
+  deadline: ["2024-08-04 23:59"]
   comment: Co-located with ACM CCS 2024
   date: October 18
   place: Salt Lake City, USA
@@ -1066,3 +1068,13 @@
   date: April 8
   place: Taipei, Taiwan
   tags: [CRYPTO, CONF]
+  
+- name: WAITI
+  description: Workshop on AI for Cyber Threat Intelligence
+  year: 2024
+  link: https://waiti-workshop.github.io/
+  deadline: ["2024-09-20 23:59"]
+  comment: Co-located with ACSAC 2024
+  date: December 9
+  place: Waikiki, Hawaii, USA
+  tags: [SEC, PRIV, SHOP]
