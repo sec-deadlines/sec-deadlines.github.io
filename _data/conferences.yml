@@ -149,11 +149,11 @@
   
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2023
-  link: https://hpcn.exeter.ac.uk/trustcom2023/
-  deadline: ["2023-07-01 23:59"]
-  date: "November 1 - 3"
-  place: Exeter, UK
+  year: 2024
+  link: http://ieee-aiplus.org/2024/trustcom/
+  deadline: ["2024-09-01 23:59"]
+  date: December 17-21
+  place: Sanya, China
   tags: [SEC, PRIV, CONF]
 
 - name: FPS
@@ -242,7 +242,7 @@
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: July 2025 (TBC)
+  date: July 14-19
   place: Washington, DC
   tags: [PRIV, CONF]
 
@@ -632,23 +632,23 @@
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
-  year: 2024
+  year: 2025
   link: http://www.hostsymposium.org/
   deadline: 
-    - "2023-09-04 23:59"
-    - "2023-12-27 23:59"
-  date: May 6-9
-  place: Washington DC, USA
+    - "2024-08-26 23:59"
+    - "2024-12-16 23:59"
+  date: May 5-8
+  place: San Jose, CA, USA
   tags: [SEC, CONF]
 
 - name: AsianHOST
   description: Asian Hardware Oriented Security and Trust Symposium
-  year: 2023
-  link: http://asianhost.org/2023
-  deadline: ["2023-07-24 23:59"]
-  date: December 13-15 
+  year: 2024
+  link: https://www.asianhost.org/2024/
+  deadline: ["2024-08-04 23:59"]
+  date: December 16-18 
   timezone: Asia/Shanghai
-  place: Tianjin, China
+  place: Kobe, Japan
   tags: [SEC, CONF]
 
 # Workshops
