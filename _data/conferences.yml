@@ -121,6 +121,15 @@
 
 - name: FC
   description: Financial Cryptography and Data Security
+  year: 2025
+  link: https://fc25.ifca.ai
+  deadline: ["2024-09-30 23:59"]
+  date: April 14-18
+  place: Miyakojima, Japan
+  tags: [SEC, CRYPTO, CONF]
+
+- name: FC
+  description: Financial Cryptography and Data Security
   year: 2024
   link: https://fc24.ifca.ai
   deadline: ["2023-09-20 23:59"]
