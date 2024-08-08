@@ -128,15 +128,6 @@
   place: Miyakojima, Japan
   tags: [SEC, CRYPTO, CONF]
 
-- name: FC
-  description: Financial Cryptography and Data Security
-  year: 2024
-  link: https://fc24.ifca.ai
-  deadline: ["2023-09-20 23:59"]
-  date: March 4-8
-  place: Willemstad, Curacao
-  tags: [SEC, CRYPTO, CONF]
-
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2024
