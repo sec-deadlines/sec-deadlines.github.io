@@ -356,10 +356,10 @@
 
 - name: CT-RSA
   description: RSA Conference Cryptographers’ Track
-  year: 2024
-  link: https://ct-rsa-2024.aau.at/
-  deadline: ["2023-10-02 23:59"]
-  date: May 6-9
+  year: 2025
+  link: https://ct-rsa-2025.csa.iisc.ac.in/
+  deadline: ["2024-10-15 23:59"]
+  date: April 28 - May 1
   place: San Francisco, CA, USA
   tags: [CRYPTO, CONF]
 
