@@ -539,11 +539,11 @@
   tags: [SEC, PRIV, CONF]
 
 - name: PAM
-  year: 2024
-  date: "March 11 – 13"
+  year: 2025
+  date: "March 10-12"
   description: Passive and Active Measurement Conference
-  link: https://pam2024.cs.northwestern.edu/cfp/
-  deadline: ["2023-11-02 23:59"]
+  link: https://udesa.edu.ar/pam25
+  deadline: ["2024-10-08 23:59"]
   place: Virtual
   tags: [SEC, PRIV, CONF]
 
