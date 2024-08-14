@@ -130,12 +130,12 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2024
-  comment: Abstract registration October 30th AoE (firm).
-  link: https://eurosp2024.ieee-security.org/
-  deadline: ["2023-11-02 23:59"]
-  date: "July 8 - 12"
-  place: Vienna, Austria 
+  year: 2025
+  comment: Abstract registration October 21st AoE (firm).
+  link: https://eurosp2025.ieee-security.org/
+  deadline: ["2024-10-24 23:59"]
+  date: "June 30 - July 4"
+  place: Venice, Italy 
   tags: [SEC, PRIV, CONF]
 
 - name: ISC
