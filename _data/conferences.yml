@@ -705,12 +705,32 @@
 
 - name: ICSS
   description: Industrial Control System Security Workshop
-  year: 2023
-  link: https://www.acsac.org/2023/workshops/icss/
-  deadline: ["2023-09-01 23:59"]
+  year: 2024
+  link: https://www.acsac.org/2024/workshops/icss/
+  deadline: ["2024-09-12 23:59"]
   comment: In conjunction with ACSAC
-  date: December 5
-  place: Austin, TX, USA
+  date: December 10
+  place: Waikiki, Hawaii, USA
+  tags: [SEC, SHOP] 
+
+- name: WEB3SEC
+  description: Workshop Encouraging Building Better Blockchain Security
+  year: 2024
+  link: https://www.acsac.org/2024/workshops/web3sec/
+  deadline: ["2024-10-06 23:59"]
+  comment: In conjunction with ACSAC
+  date: December 9
+  place: Waikiki, Hawaii, USA
+  tags: [SEC, SHOP] 
+
+- name: ARTMAN
+  description: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN system
+  year: 2024
+  link: https://www.acsac.org/2024/workshops/artman/
+  deadline: ["2024-09-01 23:59"]
+  comment: In conjunction with ACSAC
+  date: December 9
+  place: Waikiki, Hawaii, USA
   tags: [SEC, SHOP] 
 
 - name: WPES
@@ -923,12 +943,12 @@
 
 - name: CyberHunt
   description: Workshop on Cyber Threat Intelligence and Hunting
-  year: 2023
-  link: https://cyberhunt2023.cyberhunt.no/
-  deadline: ["2023-10-01 23:59"]
-  comment: Co-located with IEEE BigData 2023
-  date: December 15-18
-  place: Sorrento, Italy
+  year: 2024
+  link: https://cyberhunt2024.cyberhunt.no/
+  deadline: ["2024-10-01 23:59"]
+  comment: Co-located with IEEE BigData 2024
+  date: December 15-18 
+  place: Washington DC, USA
   tags: [SEC, SHOP]
 
 - name: Sensors S&P
