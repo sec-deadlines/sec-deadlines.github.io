@@ -726,8 +726,8 @@
 - name: ARTMAN
   description: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN system
   year: 2024
-  link: https://www.acsac.org/2024/workshops/artman/
-  deadline: ["2024-09-01 23:59"]
+  link: https://artman-workshop.gitlab.io/
+  deadline: ["2024-09-15 23:59"]
   comment: In conjunction with ACSAC
   date: December 9
   place: Waikiki, Hawaii, USA
