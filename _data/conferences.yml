@@ -822,7 +822,7 @@
     - "2025-01-09 23:59"
   date: February 28
   place: San Diego, California, USA
-  tags: [SEC, PRIV, WEB, SHOP]
+  tags: [SEC, PRIV, SHOP]
   
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
