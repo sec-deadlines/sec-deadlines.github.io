@@ -804,16 +804,26 @@
 
 - name: SpaceSec
   description: Workshop on the Security of Space and Satellite Systems
-  year: 2024
+  year: 2025
   link: https://spacesec.info/
   comment: Co-located with NDSS Symposium
   deadline: 
-    - "2023-12-07 23:59"
-    - "2024-01-12 23:59"
-  date: March 1
+    - "2024-12-09 23:59"
+  date: February 24
   place: San Diego, California, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
+- name: MADWeb
+  description: Workshop on Measurements, Attacks, and Defenses for the Web
+  year: 2025
+  link: https://madweb.work/
+  comment: Co-located with NDSS Symposium
+  deadline: 
+    - "2025-01-09 23:59"
+  date: February 28
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, SHOP]
+  
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
   year: 2024
