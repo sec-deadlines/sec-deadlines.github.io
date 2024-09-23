@@ -1110,3 +1110,12 @@
   comment: Co-located with CIFRIS. Paper registration due Jul 25 AoE
   place: Rome, Italy
   tags: [SEC, CRYPTO, SHOP]
+
+- name: CLPSC
+  description: Cybersecurity Law & Policy Scholars Conference
+  year: 2025
+  link: https://www.clpsc.org
+  deadline: ["2024-12-15 23:59"]
+  date: April 4-5
+  place: Columbus, Ohio, USA
+  tags: [SEC, PRIV, CONF]
