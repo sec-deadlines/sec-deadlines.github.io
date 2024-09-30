@@ -503,11 +503,12 @@
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
-  year: 2024
-  link: http://www.codaspy.org/2024/
-  deadline: ["2023-12-29 23:59"]
-  date: June 19-21
-  place: Porto, Portugal
+  year: 2025
+  link: http://www.codaspy.org/2025/
+  deadline: ["2024-12-06 23:59"]
+  comment: Abstract deadline December 1 AoE.
+  date: June 4-6
+  place: Pittsburgh, PA, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: DBSec
