@@ -473,13 +473,13 @@
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2024
-  link: https://www.dimva.org/dimva2024/
+  year: 2025
+  link: https://www.dimva.org/dimva2025/
   deadline:
-    - "2023-12-19 23:59"
-    - "2024-02-21 23:59"
-  date: July 17-19
-  place: Lausanne, Switzerland
+    - "2024-12-04 23:59"
+    - "2025-02-12 23:59"
+  date: July 9-11
+  place: Graz, Austria
   tags: [SEC, CONF]
   
 - name: SACMAT
