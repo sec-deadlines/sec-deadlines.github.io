@@ -1111,3 +1111,13 @@
   comment: Co-located with CIFRIS. Paper registration due Jul 25 AoE
   place: Rome, Italy
   tags: [SEC, CRYPTO, SHOP]
+
+- name: FutureG
+  description: Workshop on Security and Privacy of Next-Generation Networks
+  year: 2025
+  link: https://www.ndss-symposium.org/ndss2025/co-located-events/futureg/
+  deadline: ["2024-11-10 23:59"]
+  comment: Co-located with NDSS Symposium 2025
+  date: February 24
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, SHOP]
