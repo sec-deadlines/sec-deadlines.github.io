@@ -1121,3 +1121,13 @@
   date: February 24
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: CloudResIOT
+  description: International Workshop on Cloud Resilience for the Internet of Things
+  year: 2025
+  link: https://www.cloudresiot.com/
+  deadline: ["2024-03-01 23:59"]
+  comment: Co-located with  34th International Conference on Computer Communications and Networks (ICCCN 2025)
+  date: August 4-7
+  place: Tokyo, Japan
+  tags: [SEC, PRIV, SHOP]
