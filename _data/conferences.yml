@@ -91,13 +91,13 @@
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
-  year: 2024
-  link: https://wisec2024.kaist.ac.kr/
+  year: 2025
+  link: https://wisec2025.gmu.edu/
   deadline:
-    - "2023-11-09 23:59"
-    - "2024-02-12 23:59"
-  date: May 27-30
-  place: Seoul, Korea
+    - "2024-11-21 23:59"
+    - "2025-03-12 23:59"
+  date: June 30 - July 3
+  place: Arlington, Virginia, USA
   tags: [SEC, PRIV, CONF]
 
 - name: SOUPS
