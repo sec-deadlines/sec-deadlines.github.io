@@ -578,8 +578,7 @@
   description: Workshop on Innovation in Metadata Privacy---Analysis and Construction Techniques
   year: 2025
   link: https://www.ndss-symposium.org/ndss2025/co-located-events/impact/
-  deadline:
-	- "2025-01-10 23:59"
+  deadline: ["2025-01-10 23:59"]
   comment: Co-located with NDSS Symposium
   date: February 28
   place: San Diego, California, USA
