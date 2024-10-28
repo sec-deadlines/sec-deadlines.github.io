@@ -220,6 +220,16 @@
   place: Leipzig, Germany
   tags: [SEC, PRIV, CONF]
 
+- name: SAFE-ML
+  description: International Workshop on Secure, Accountable, and Verifiable Machine Learning
+  year: 2025
+  link: https://conf.researchr.org/home/icst-2025/safe-ml-2025
+  comment: Co-located with ICST
+  deadline: ["2025-01-03 23:59"]
+  date: March 31 - April 4 
+  place: Naples, Italy
+  tags: [SEC, PRIV, SHOP]
+
 - name: IFIP SEC
   description: IFIP International Information Security and Privacy Conference
   year: 2025
