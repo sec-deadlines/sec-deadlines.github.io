@@ -1150,3 +1150,12 @@
   date: August 4-7
   place: Tokyo, Japan
   tags: [SEC, PRIV, SHOP]
+
+- name: RWC
+  description: Real World Crypto
+  year: 2025
+  link: https://rwc.iacr.org/2025/
+  deadline: "2024-11-15 23:59"
+  date: March 26-28
+  place: Sofia, Bulgaria
+  tags: [CRYPTO, SEC, PRIV, CONF]
