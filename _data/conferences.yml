@@ -239,6 +239,15 @@
   place: Maribor, Slovenia
   tags: [SEC, CONF]
 
+- name: ITASEC 2025
+  description: Italian Conference on Cybersecurity
+  year: 2025
+  link: https://itasec.it/
+  deadline: ["2014-12-09 23:59"]
+  date: February 3 - 4
+  place: Bologna, IT
+  tags: [SEC]
+  
 # Privacy
 
 - name: PETS
