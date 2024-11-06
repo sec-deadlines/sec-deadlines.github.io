@@ -765,12 +765,11 @@
 - name: NSPW
   description: New Security Paradigms Workshop
   year: 2023
-  link: https://www.nspw.org/2023/cfp
-  deadline: ["2023-05-26 23:59"]
-  date: September 18 - 21
-  place: Segovia, Spain
+  link: https://www.nspw.org/2024/cfp
+  deadline: ["2024-04-28 23:59"]
+  date: September 16 - 19
+  place: Omni Bedford Springs, Pennsylvania, United States
   tags: [SEC, PRIV, SHOP]
-  timezone: Etc/GMT+11 
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
