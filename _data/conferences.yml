@@ -881,25 +881,15 @@
   place: Vienna, Austria
   tags: [SEC, SHOP]
 
-- name: WASP
-  description: Workshop on Attacks and Software Protection
-  year: 2023
-  link: https://wasp-workshop.github.io/
-  deadline: ["2023-07-09 23:59"]
-  comment: Co-located with ESORICS 2023
-  date: September 28-29
-  place: The Hague, The Netherlands
-  tags: [SEC, SHOP]
-
 - name: FUZZING
-  year: 2023
-  date: "July 17"
+  year: 2024
+  date: "September 16"
   description: International Fuzzing Workshop
   link: https://fuzzingworkshop.github.io/index.html
   deadline:
-    - "2023-05-08 23:59"
-  place: Seattle, Washington, USA
-  comment: Co-located with ISSTA 2023
+    - "2024-06-24 23:59"
+  place: Vienna, Austria
+  comment: Co-located with ISSTA 2024
   tags: [SEC, SHOP]
 
 - name: SECAI
