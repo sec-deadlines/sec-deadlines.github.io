@@ -391,6 +391,7 @@
   place: Douala, Cameroon
   tags: [CRYPTO, CONF]
 
+# Don't delete Latincrypt since it is often once every few years
 - name: LATINCRYPT
   year: 2023
   description: The 8th International Conference on Cryptology and Information Security in Latin America
@@ -783,7 +784,7 @@
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
   year: 2023
-  link: https://haspworkshop.org/2023/
+  link: https://haspworkshop.org/2024/
   comment: Co-located with MICRO
   deadline: ["2023-08-10 23:59"]
   date: October 28
@@ -903,21 +904,23 @@
   
 - name: ASHES
   description: Workshop on Attacks and Solutions in Hardware Security 
-  year: 2023
+  year: 2024
+  comment: Co-located with ACM CCS '24
   link: http://ashesworkshop.org/home
   deadline:
-    - "2023-06-25 23:59"
-  date: November 30
-  place: Copenhagen, Denmark
+    - "2024-07-18 23:59"
+  date: October 18
+  place: Salt Lake City, Utah, United States
   tags: [SEC, SHOP]
   
 - name: SCORED
   description: ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
-  year: 2023
-  date: "November 30"
+  year: 2024
+  comment: Co-located with ACM CCS '24
   link: https://scored.dev/
-  deadline: ["2023-06-30 23:59"]
-  place: Copenhagen, Denmark
+  deadline: ["2024-07-05 23:59"]
+  date: October 18
+  place: Salt Lake City, Utah, United States
   tags: [SEC, SHOP]
 
 - name: DPM
