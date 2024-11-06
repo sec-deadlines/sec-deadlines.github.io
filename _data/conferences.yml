@@ -782,16 +782,6 @@
   tags: [SEC, PRIV, SHOP]
   timezone: Etc/GMT+11 
 
-- name: Cloud S&P
-  description: Workshop on Cloud Security and Privacy
-  year: 2023
-  link: https://cloudsp2023.encs.concordia.ca/
-  comment: Collocated with ACNS
-  deadline: ["2023-03-20 23:59"]
-  date: June 19-22
-  place: Kyoto, Japan
-  tags: [SEC, PRIV, SHOP]
-
 - name: CNS
   description: IEEE Conference on Communications and Network Security
   year: 2024
