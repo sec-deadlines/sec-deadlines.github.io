@@ -605,6 +605,7 @@
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
 
+# Don't delete just yet, has popped up on off years before https://ieeexplore.ieee.org/xpl/conhome/1843824/all-proceedings
 - name: SEED
   description: IEEE International Symposium on Secure and Private Execution Environment Design
   year: 2024
