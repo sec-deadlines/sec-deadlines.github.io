@@ -127,6 +127,16 @@
   place: Miyakojima, Japan
   tags: [SEC, CRYPTO, CONF]
 
+- name: FinTech
+  description: FinTech and Financial Institutions Conference
+  year: 2025
+  link: https://fintech25.org/
+  deadline: ["2024-12-30 23:59"]
+  comment: Technical Track proceedings published by Springer.
+  date: April 10-11
+  place: Philadelphia, PA, USA
+  tags: [SEC, CRYPTO, CONF]
+
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2025
