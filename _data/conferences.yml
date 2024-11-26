@@ -109,6 +109,15 @@
   place: Philadelphia, PA, USA
   tags: [SEC, PRIV, CONF]
 
+- name: ARES
+  description: International Conference on Availability, Reliability and Security
+  year: 2025
+  link: https://2025.ares-conference.eu//
+  deadline: ["2025-02-28 23:59"]
+  date: August 11-14
+  place: Ghent, BE
+  tags: [SEC, PRIV, CONF]
+  
 - name: EuroUSEC
   description: European Symposium on Usable Security
   year: 2024
