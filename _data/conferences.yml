@@ -1,4 +1,14 @@
----
+- name: CPSS
+  description: ACM Cyber-Physical System Security Workshop
+  year: 2025
+  link: http://jianying.space/cpss/CPSS2025/
+  comment: Co-located with ACM AsiaCCS 2025
+  deadline:
+    - "2025-01-10 23:59"
+    - "2025-03-15 23:59"
+  date: "August 26"
+  place: Hanoi, Vietnam
+  tags: [SEC, PRIV, CONF]
    
 # Security and Privacy
 - name: S&P (Oakland)
