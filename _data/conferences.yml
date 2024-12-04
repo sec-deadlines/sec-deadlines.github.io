@@ -108,7 +108,7 @@
   date: August 11-13
   place: Philadelphia, PA, USA
   tags: [SEC, PRIV, CONF]
-
+  
 - name: EuroUSEC
   description: European Symposium on Usable Security
   year: 2024
@@ -503,12 +503,12 @@
 
 - name: ARES
   description: International Conference on Availability, Reliability and Security
-  year: 2024
-  link: https://www.ares-conference.eu
-  deadline: ["2024-02-28 23:59"]
-  date: July 30 - August 02
-  place: Vienna, Austria
-  tags: [SEC, CONF, PRIV]
+  year: 2025
+  link: https://2025.ares-conference.eu//
+  deadline: ["2025-02-27 23:59"]
+  date: August 10-13
+  place: Ghent, Belgium
+  tags: [SEC, PRIV, CONF]
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
