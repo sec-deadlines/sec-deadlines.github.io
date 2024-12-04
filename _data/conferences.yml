@@ -1,5 +1,3 @@
----
-   
 # Security and Privacy
 - name: S&P (Oakland)
   year: 2025
@@ -975,15 +973,16 @@
 
 - name: CPSS
   description: ACM Cyber-Physical System Security Workshop
-  year: 2024
-  link: https://asiaccs2024.sutd.edu.sg/cpss2024/
-  comment: Co-located with ACM AsiaCCS 2024
+  year: 2025
+  link: http://jianying.space/cpss/CPSS2025/
+  comment: Co-located with ACM AsiaCCS 2025
   deadline:
-    - "2024-01-15 23:59"
-    - "2024-02-18 23:59"
-  date: "July 2"
-  place: Singapore
-  tags: [SEC, PRIV, CONF]
+    - "2025-01-10 23:59"
+    - "2025-03-15 23:59"
+  date: "August 26"
+  place: Hanoi, Vietnam
+  tags: [SEC, PRIV, SHOP]
+   
 
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
