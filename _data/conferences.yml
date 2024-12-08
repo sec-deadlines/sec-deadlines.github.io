@@ -673,6 +673,58 @@
 
 # Workshops
 
+- name: AIHWS
+  description: ACNS Workshop on Artificial Intelligence in Hardware Security
+  year: 2025
+  link: https://aihws2025.aisylab.com/
+  deadline: ["2025-03-07 23:59"]
+  comment: In conjunction with ACNS 2025
+  date: June 25
+  place: Munich, Germany
+  tags: [SEC, SHOP]
+
+- name: IAoTS
+  description: International Workshop on  Artificial Intelligence and IoT Security
+  year: 2025
+  link: https://aiotsweb.github.io/aiots2025/
+  deadline: ["2025-03-23 23:59"]
+  comment: In conjunction with ACNS 2025
+  date: June 24
+  place: Munich, Germany
+  tags: [SEC, SHOP]
+
+- name: CIMSS
+  description: International Workshop on Critical Infrastructure and Manufacturing System Security
+  year: 2025
+  link: https://cimssworkshop.github.io/
+  deadline: ["2025-03-23 23:59"]
+  comment: In conjunction with ACNS 2025
+  date: June 24
+  place: Munich, Germany
+  tags: [SEC, SHOP]
+
+- name: SCI
+  description: ACNS Workshop on Secure Cryptographic Implementation
+  year: 2025
+  link: https://acns-sci.github.io/
+  deadline: ["2025-03-15 23:59"]
+  comment: In conjunction with ACNS 2025
+  date: June 24
+  place: Munich, Germany
+  tags: [CRYPTO, SHOP]
+
+- name: SiMLA
+  description: ACNS Workshop on Security in Machine Learning and its Applications
+  year: 2025
+  link: https://simla-workshop2025.github.io/
+  deadline: 
+    - "2025-01-15 23:59"
+    - "2025-03-23 23:59"
+  comment: In conjunction with ACNS 2025
+  date: June 26
+  place: Munich, Germany
+  tags: [SEC, SHOP]
+
 - name: CPSIoTSec
   description: The Joint Workshop on CPS & IoT Security and Privacy
   year: 2024
