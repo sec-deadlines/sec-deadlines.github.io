@@ -1114,3 +1114,13 @@
   date: August 4-7
   place: Tokyo, Japan
   tags: [SEC, PRIV, SHOP]
+
+- name: VehicleSec
+  description: USENIX Vehicle Security and Privacy
+  year: 2025
+  link: https://www.usenix.org/conference/vehiclesec25/call-for-papers
+  deadline: ["2025-02-27 23:59"]
+  comment: Co-located with USENIX Security 2025
+  date: August 11-12
+  place: Seattle, WA, USA
+  tags: [SEC, PRIV, SHOP]
