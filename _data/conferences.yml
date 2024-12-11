@@ -1,5 +1,3 @@
----
-   
 # Security and Privacy
 - name: S&P (Oakland)
   year: 2025
@@ -19,6 +17,7 @@
   deadline:
     - "2025-01-09 23:59"
     - "2025-04-14 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
   date: October 13-17
   place: Taipei, Taiwan
   tags: [SEC, PRIV, CONF, TOP4]
@@ -47,13 +46,13 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2024
-  link: https://esorics2024.org/
+  year: 2025
+  link: https://esorics2025.sciencesconf.org/
   deadline: 
-    - "2024-01-08 23:59"
-    - "2024-04-19 23:59"
-  date: September 16-20
-  place: Bydgoszcz, Poland
+    - "2025-01-10 23:59"
+    - "2025-04-22 23:59"
+  date: September 22-26
+  place: Toulouse, France
   tags: [SEC, PRIV, CONF]
 
 - name: ASIACCS
@@ -108,7 +107,7 @@
   date: August 11-13
   place: Philadelphia, PA, USA
   tags: [SEC, PRIV, CONF]
-
+  
 - name: EuroUSEC
   description: European Symposium on Usable Security
   year: 2024
@@ -243,7 +242,7 @@
   description: Italian Conference on Cybersecurity
   year: 2025
   link: https://itasec.it/
-  deadline: ["2014-12-09 23:59"]
+  deadline: ["2024-12-09 23:59"]
   date: February 3-8
   place: Bologna, IT
   tags: [SEC, CONF]
@@ -263,16 +262,6 @@
   date: July 14-19
   place: Washington, DC
   tags: [PRIV, CONF]
-
-- name: LPW
-  description: Location Privacy Workshop
-  year: 2023
-  link: http://security.ucc.ie/lpw23/
-  deadline: ["2023-03-27 23:59"]
-  comment: Co-located with Euro S&P 2023
-  date: July 7
-  place: Delft, The Netherlands
-  tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: PLAS
   year: 2024
@@ -316,10 +305,10 @@
 
 - name: Crypto
   description: International Cryptology Conference
-  year: 2024
-  link: https://crypto.iacr.org/2024/
-  deadline: ["2024-02-13 11:00"]
-  date: August 18-22
+  year: 2025
+  link: https://crypto.iacr.org/2025/
+  deadline: ["2025-02-13 11:00"]
+  date: August 17-21
   place: Santa Barbara, CA, USA
   tags: [CRYPTO, CONF]
 
@@ -401,6 +390,7 @@
   place: Douala, Cameroon
   tags: [CRYPTO, CONF]
 
+# Don't delete Latincrypt since it is often once every few years
 - name: LATINCRYPT
   year: 2023
   description: The 8th International Conference on Cryptology and Information Security in Latin America
@@ -512,12 +502,12 @@
 
 - name: ARES
   description: International Conference on Availability, Reliability and Security
-  year: 2024
-  link: https://www.ares-conference.eu
-  deadline: ["2024-02-28 23:59"]
-  date: July 30 - August 02
-  place: Vienna, Austria
-  tags: [SEC, CONF, PRIV]
+  year: 2025
+  link: https://2025.ares-conference.eu//
+  deadline: ["2025-02-27 23:59"]
+  date: August 10-13
+  place: Ghent, Belgium
+  tags: [SEC, PRIV, CONF]
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
@@ -614,6 +604,7 @@
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
 
+# Don't delete just yet, has popped up on off years before https://ieeexplore.ieee.org/xpl/conhome/1843824/all-proceedings
 - name: SEED
   description: IEEE International Symposium on Secure and Private Execution Environment Design
   year: 2024
@@ -775,21 +766,10 @@
 - name: NSPW
   description: New Security Paradigms Workshop
   year: 2023
-  link: https://www.nspw.org/2023/cfp
-  deadline: ["2023-05-26 23:59"]
-  date: September 18 - 21
-  place: Segovia, Spain
-  tags: [SEC, PRIV, SHOP]
-  timezone: Etc/GMT+11 
-
-- name: Cloud S&P
-  description: Workshop on Cloud Security and Privacy
-  year: 2023
-  link: https://cloudsp2023.encs.concordia.ca/
-  comment: Collocated with ACNS
-  deadline: ["2023-03-20 23:59"]
-  date: June 19-22
-  place: Kyoto, Japan
+  link: https://www.nspw.org/2024/cfp
+  deadline: ["2024-04-28 23:59"]
+  date: September 16 - 19
+  place: Omni Bedford Springs, Pennsylvania, United States
   tags: [SEC, PRIV, SHOP]
 
 - name: CNS
@@ -803,13 +783,13 @@
 
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
-  year: 2023
-  link: https://haspworkshop.org/2023/
+  year: 2024
+  link: https://haspworkshop.org/2024/
   comment: Co-located with MICRO
-  deadline: ["2023-08-10 23:59"]
-  date: October 28
+  deadline: ["2024-08-15 23:59"]
+  date: November 2
   timezone: Etc/UTC
-  place: Toronto, Canada
+  place: Austin, Texas, United States
   tags: [SEC, PRIV, SHOP]
 
 - name: PAVeTrust
@@ -882,15 +862,6 @@
   place: Vienna, Austria
   tags: [SEC, SHOP]
   
-- name: SecMT
-  year: 2023
-  date: "June 19 – 22"
-  description: ACNS Workshop on Security in Mobile Technologies
-  link: https://spritz.math.unipd.it/events/2023/ACNS_Workshop/
-  deadline: ["2023-03-17 23:59"]
-  place: Kyoto, Japan
-  tags: [SEC, PRIV, SHOP]
-  
 - name: MAL-IoT
   description: Malicious Software and Hardware in Internet of Things
   year: 2024
@@ -910,25 +881,15 @@
   place: Vienna, Austria
   tags: [SEC, SHOP]
 
-- name: WASP
-  description: Workshop on Attacks and Software Protection
-  year: 2023
-  link: https://wasp-workshop.github.io/
-  deadline: ["2023-07-09 23:59"]
-  comment: Co-located with ESORICS 2023
-  date: September 28-29
-  place: The Hague, The Netherlands
-  tags: [SEC, SHOP]
-
 - name: FUZZING
-  year: 2023
-  date: "July 17"
+  year: 2024
+  date: "September 16"
   description: International Fuzzing Workshop
   link: https://fuzzingworkshop.github.io/index.html
   deadline:
-    - "2023-05-08 23:59"
-  place: Seattle, Washington, USA
-  comment: Co-located with ISSTA 2023
+    - "2024-06-24 23:59"
+  place: Vienna, Austria
+  comment: Co-located with ISSTA 2024
   tags: [SEC, SHOP]
 
 - name: SECAI
@@ -943,21 +904,23 @@
   
 - name: ASHES
   description: Workshop on Attacks and Solutions in Hardware Security 
-  year: 2023
+  year: 2024
+  comment: Co-located with ACM CCS '24
   link: http://ashesworkshop.org/home
   deadline:
-    - "2023-06-25 23:59"
-  date: November 30
-  place: Copenhagen, Denmark
+    - "2024-07-18 23:59"
+  date: October 18
+  place: Salt Lake City, Utah, United States
   tags: [SEC, SHOP]
   
 - name: SCORED
   description: ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
-  year: 2023
-  date: "November 30"
+  year: 2024
+  comment: Co-located with ACM CCS '24
   link: https://scored.dev/
-  deadline: ["2023-06-30 23:59"]
-  place: Copenhagen, Denmark
+  deadline: ["2024-07-05 23:59"]
+  date: October 18
+  place: Salt Lake City, Utah, United States
   tags: [SEC, SHOP]
 
 - name: DPM
@@ -990,15 +953,6 @@
   place: Washington DC, USA
   tags: [SEC, SHOP]
 
-- name: Sensors S&P
-  description: The International Workshop on Security and Privacy of Sensing Systems
-  year: 2023
-  date: "November 12"
-  link: https://sensorssp.github.io/sensorssp23/
-  deadline: ["2023-09-22 23:59"]
-  place: Istanbul, Turkey
-  tag: [SEC, PRIV, SHOP]
-
 - name: IoT-SECFOR
   description: International Workshop on Security and Forensics of IoT
   year: 2024
@@ -1020,15 +974,16 @@
 
 - name: CPSS
   description: ACM Cyber-Physical System Security Workshop
-  year: 2024
-  link: https://asiaccs2024.sutd.edu.sg/cpss2024/
-  comment: Co-located with ACM AsiaCCS 2024
+  year: 2025
+  link: http://jianying.space/cpss/CPSS2025/
+  comment: Co-located with ACM AsiaCCS 2025
   deadline:
-    - "2024-01-15 23:59"
-    - "2024-02-18 23:59"
-  date: "July 2"
-  place: Singapore
-  tags: [SEC, PRIV, CONF]
+    - "2025-01-10 23:59"
+    - "2025-03-15 23:59"
+  date: "August 26"
+  place: Hanoi, Vietnam
+  tags: [SEC, PRIV, SHOP]
+   
 
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
