@@ -246,6 +246,15 @@
   date: February 3-8
   place: Bologna, IT
   tags: [SEC, CONF]
+
+- name: ACSW'25
+  description: Automotive Cyber-Security Workshop (Co-Located with IEEE European Symposium on Security and Privacy)
+  year: 2025
+  link: https://acsw.unimore.it/
+  deadline: ["2025-01-27 23:59"]
+  place: Venice, Italy 
+  tags: [SEC, PRIV, SHOP]
+
   
 # Privacy
 
