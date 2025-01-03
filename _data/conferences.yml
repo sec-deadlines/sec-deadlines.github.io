@@ -887,12 +887,12 @@
   
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
-  year: 2024
-  link: https://www.usenix.org/conference/woot24/call-for-papers
-  comment: Co-located with USENIX Security; practitioner track deadline is Feb 20
-  deadline: ["2024-03-12 23:59"]
-  date: August 12-13
-  place: Philadelphia, PA, USA
+  year: 2025
+  link: https://www.usenix.org/conference/woot25/call-for-papers
+  comment: Co-located with USENIX Security; up-and-coming track deadline is Mar 4
+  deadline: ["2024-03-11 23:59"]
+  date: August 11-12
+  place: Seattle, WA, USA
   tags: [SEC, PRIV, CRYPTO, CONF]
  
 - name: SafeThings
