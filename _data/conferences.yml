@@ -567,11 +567,12 @@
 
 - name: ACSW
   description: Workshop on Automotive Cyber-Security
-  year: 2024
+  year: 2025
+  comment: Co-Located with IEEE European Symposium on Security and Privacy
   link: https://acsw.unimore.it/
-  deadline: ["2024-03-15 23:59"]
-  date: July 8
-  place: Vienna, Austria
+  deadline: ["2025-01-27 23:59"]
+  date: TBA
+  place: Venice, Italy 
   tags: [SEC, PRIV, SHOP]
   
 - name: OSVS
