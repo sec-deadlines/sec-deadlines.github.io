@@ -1047,10 +1047,10 @@
   tags: [SEC, PRIV]
 
 - name: IWSEC 
-  description: The 20th International Workshop on Security
+  description: International Workshop on Security
   year: 2025
   link: https://www.iwsec.org/2025/
-  deadline: ["2024-04-03 23:59"]
+  deadline: ["2025-04-03 23:59", "2025-07-17 23:59"]
   timezone: Etc/UTC
   date: November 25-27
   place: Fukuoka, JP
