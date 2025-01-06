@@ -383,11 +383,11 @@
   
 - name: AFRICACRYPT
   description: International Conference on Cryptography Africa
-  year: 2024
-  link: https://www.africacrypt2024.com/
-  deadline: ["2024-02-16 23:59"]
-  date: July 10-12
-  place: Douala, Cameroon
+  year: 2025
+  link: https://africacrypt2025.sciencesconf.org/
+  deadline: ["2025-03-01 23:59"]
+  date: July 21-23
+  place: Rabat, Morocco
   tags: [CRYPTO, CONF]
 
 # Don't delete Latincrypt since it is often once every few years
