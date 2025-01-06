@@ -296,15 +296,6 @@
 
 - name: SAC
   description: Selected Areas in Cryptography
-  year: 2024
-  link: https://sacworkshop.org/SAC24/
-  deadline: ["2024-05-07 11:59"]
-  date: August 26-27
-  place: Montreal, QC, Canada
-  tags: [CRYPTO, CONF]
-
-- name: SAC
-  description: Selected Areas in Cryptography
   year: 2025
   link: https://sacworkshop.org/SAC25/
   deadline: ["2025-01-27 23:59", "2025-05-07 23:59"]
