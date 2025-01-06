@@ -393,7 +393,7 @@
 # Don't delete Latincrypt since it is often once every few years
 - name: LATINCRYPT
   year: 2025
-  description: The 8th International Conference on Cryptology and Information Security in Latin America
+  description: International Conference on Cryptology and Information Security in Latin America
   link: https://ciencias.medellin.unal.edu.co/eventos/latincrypt/
   deadline: ["2025-04-18 23:59"]
   comment: Abstract submission deadline TBD
