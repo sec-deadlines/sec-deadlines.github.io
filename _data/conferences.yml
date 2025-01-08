@@ -1179,6 +1179,16 @@
   place: Seattle, WA, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: SeRIM
+  description: International Workshop on Security and Risk in Identity Management
+  year: 2025
+  comment: Co-Located with IEEE European Symposium on Security and Privacy (EuroS&P).
+  link: https://st.fbk.eu/events/SeRIM2025/
+  deadline: ["2025-02-13 23:59"]
+  date: July 4
+  place: Venice, Italy 
+  tags: [SEC, PRIV, SHOP]
+
 - name: Crypto Valley Conference
   description: Crypto Valley Conference on Blockchain Technology
   year: 2025
@@ -1188,3 +1198,4 @@
   date: June 5-6
   place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CONF]
+
