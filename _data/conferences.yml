@@ -1179,6 +1179,15 @@
   place: Seattle, WA, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: WEIS
+  description: Workshop on the Economics of Information Security
+  year: 2025
+  link: http://kmlabcw.iis.u-tokyo.ac.jp/weis/2025/
+  deadline: ["2025-01-31 23:59"]
+  date: June 23-25
+  place: Tokyo, Japan
+  tags: [SEC, PRIV, SHOP]
+
 - name: SeRIM
   description: International Workshop on Security and Risk in Identity Management
   year: 2025
@@ -1198,4 +1207,3 @@
   date: June 5-6
   place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CONF]
-
