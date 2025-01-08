@@ -1177,3 +1177,13 @@
   date: August 11-12
   place: Seattle, WA, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: Crypto Valley Conference
+  description: Crypto Valley Conference on Blockchain Technology
+  year: 2025
+  link: https://cryptovalleyconference.com/call-for-papers
+  deadline: ["2025-02-20 22:59"]
+  timezone: UTC
+  date: June 5-6
+  place: Rotkreuz, Switzerland
+  tags: [SEC, PRIV, CONF]
