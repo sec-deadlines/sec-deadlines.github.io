@@ -855,15 +855,6 @@
   place: Milan, Italy
   tags: [SEC, PRIV, SHOP]
 
-- name: VehicleSec
-  description: ISOC Symposium on Vehicle Security and Privacy
-  year: 2024
-  link: https://www.ndss-symposium.org/ndss2024/submissions/cfp-vehiclesec/
-  deadline: ["2023-12-29 23:59"]
-  date: February 26
-  place: San Diego, California, USA
-  tags: [SEC, PRIV, SHOP]
-
 - name: SpaceSec
   description: Workshop on the Security of Space and Satellite Systems
   year: 2025
@@ -1170,14 +1161,14 @@
   tags: [SEC, PRIV, SHOP]
 
 - name: VehicleSec
-  description: USENIX Vehicle Security and Privacy
+  description: Symposium on Vehicle Security and Privacy
   year: 2025
   link: https://www.usenix.org/conference/vehiclesec25/call-for-papers
   deadline: ["2025-02-27 23:59"]
   comment: Co-located with USENIX Security 2025
   date: August 11-12
   place: Seattle, WA, USA
-  tags: [SEC, PRIV, SHOP]
+  tags: [SEC, PRIV, CONF]
 
 - name: WEIS
   description: Workshop on the Economics of Information Security
