@@ -1,4 +1,13 @@
 # Security and Privacy
+- name: ACM  SaT-CPS
+  description: ACM Workshop on Secure and Trustworthy Cyber Physical Systems
+  year: 2025
+  link: https://sites.google.com/view/sat-cps-2025
+  deadline: "2025-02-21 23:59"
+  date: June 6
+  place: Pittsburgh, Pennsylvania, USA
+  tags: [SEC, PRIV, SHOP]
+  
 - name: S&P (Oakland)
   year: 2025
   date: May 12-15
