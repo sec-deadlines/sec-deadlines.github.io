@@ -100,12 +100,12 @@
 
 - name: SOUPS
   description: Symposium on Usable Privacy and Security
-  year: 2024
-  link: https://www.usenix.org/conference/soups2024
-  deadline: ["2024-02-15 23:59"]
-  comment: Co-located with USENIX Security. Paper registration due Feb 8 AoE
-  date: August 11-13
-  place: Philadelphia, PA, USA
+  year: 2025
+  link: https://www.usenix.org/conference/soups2025
+  deadline: ["2025-02-13 23:59"]
+  comment: Co-located with USENIX Security. Paper registration due Feb 6 AoE
+  date: August 10-12
+  place: Seattle, WA, USA
   tags: [SEC, PRIV, CONF]
   
 - name: EuroUSEC
