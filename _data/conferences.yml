@@ -1,13 +1,4 @@
-# Security and Privacy
-- name: DevSecOpsRO 
-  year: 2025
-  date: "July 4"
-  description: DevSecOps Research and Opportunities
-  link: https://spritz.math.unipd.it/events/2025/devSecOpsRO/
-  deadline: ["2025-02-13 23:59"]
-  place: Venice, Italy
-  tags: [SEC, SHOP]
-  
+# Security and Privacy  
 - name: S&P (Oakland)
   year: 2025
   date: May 12-15
@@ -927,12 +918,12 @@
   tags: [SEC, PRIV, CRYPTO, SHOP]
   
 - name: DevSecOpsRO 
-  year: 2024
-  date: "July 12"
+  year: 2025
+  date: July 4
   description: DevSecOps Research and Opportunities
-  link: https://spritz.math.unipd.it/events/2024/devSecOpsRO/
-  deadline: ["2024-03-29 23:59"]
-  place: Vienna, Austria
+  link: https://spritz.math.unipd.it/events/2025/devSecOpsRO/
+  deadline: ["2025-02-13 23:59"]
+  place: Venice, Italy
   tags: [SEC, SHOP]
 
 - name: FUZZING
