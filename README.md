@@ -2,10 +2,23 @@
 
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 
+## Is my entry in scope?
+
+This page is meant to host academic conference or workshop deadlines.  
+
+To check if an entry is a good fit for this page, in general, I would check for the following:
+* Is there a "Call For Papers"? Is there a link for submissions? Are there formatting guidelines (page limits, style guide) etc?
+* Is security, privacy, or cryptography mentioned in the list of topics?
+* Is there a review process? Does the website name a general chair, program chair, or program committee?
+* If accepted, will the paper be published in a proceedings?
+
+If "Yes" to all of the above, then the conference or workshop is likely a good fit.
+
 ## Adding/updating a conference
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
 * Update `_data/conferences.yml`. You can do that on GitHub or locally after forking the repo.
+* Please check if an entry for a prior year's offering exists; if so, please update the prior entry, rather than adding a new one. 
 * Send a pull request
 
 ### Conference entry record
@@ -17,7 +30,7 @@ Example record:
   description: IEEE European Symposium on Security and Privacy
   year: 2018
   link: http://www.ieee-security.org/TC/EuroSP2018/
-  deadline: "2017-08-15 23:59"
+  deadline: ["2017-08-15 23:59"]  # must be a list
   date: April 24-26
   place: London, UK
   tags: [SEC, PRIV]
