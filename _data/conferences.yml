@@ -769,13 +769,13 @@
 
 - name: WoRMA
   description: Workshop on Rethinking Malware Analysis
-  year: 2024
-  link: https://worma.gitlab.io/2024/
-  deadline: ["2024-03-26 23:59"]
-  date: July 8-12
-  comment: Co-located with IEEE Euro S&P 2024
-  place: Vienna, Austria
-  tags: [SEC, PRIV, SHOP]
+  year: 2025
+  link: https://worma.gitlab.io/2025/
+  deadline: ["2025-02-20 23:59"]
+  date: June 30
+  comment: Co-located with IEEE Euro S&P
+  place: Venice, Italy
+  tags: [SEC, SHOP]
 
 - name: SysTEX
   description: Workshop on System Software for Trusted Execution
