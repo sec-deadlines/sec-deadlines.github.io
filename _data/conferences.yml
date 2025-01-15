@@ -100,12 +100,12 @@
 
 - name: SOUPS
   description: Symposium on Usable Privacy and Security
-  year: 2024
-  link: https://www.usenix.org/conference/soups2024
-  deadline: ["2024-02-15 23:59"]
-  comment: Co-located with USENIX Security. Paper registration due Feb 8 AoE
-  date: August 11-13
-  place: Philadelphia, PA, USA
+  year: 2025
+  link: https://www.usenix.org/conference/soups2025
+  deadline: ["2025-02-13 23:59"]
+  comment: Co-located with USENIX Security. Paper registration due Feb 6 AoE
+  date: August 10-12
+  place: Seattle, WA, USA
   tags: [SEC, PRIV, CONF]
   
 - name: EuroUSEC
@@ -136,6 +136,16 @@
   place: Venice, Italy 
   tags: [SEC, PRIV, CONF]
 
+- name: Sensors S&P
+  description: Second International Workshop on Security and Privacy of Sensing Systems
+  year: 2025
+  link: https://emtechlab.github.io/sensors-security-privacy-workshop/
+  deadline: ["2025-01-25 23:59"]
+  date: May 6
+  comment: Co-located with Sensys at Cyber-Physical Systems and Internet-of-Things Week 
+  place: Irvine, USA
+  tags: [SEC, PRIV, SHOP]
+  
 - name: ISC
   description: Information Security Conference
   year: 2024
@@ -570,8 +580,8 @@
   year: 2025
   comment: Co-Located with IEEE European Symposium on Security and Privacy
   link: https://acsw.unimore.it/
-  deadline: ["2025-01-27 23:59"]
-  date: TBA
+  deadline: ["2025-02-03 23:59"]
+  date: June 30
   place: Venice, Italy 
   tags: [SEC, PRIV, SHOP]
   
@@ -748,23 +758,23 @@
 
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
-  year: 2024
+  year: 2025
   link: https://energysp.github.io/
-  deadline: ["2024-03-25 23:59"]
+  deadline: ["2025-03-24 23:59"]
   comment: In conjunction with ACM eEnergy
-  date: June 4
-  place: Singapore, Singapore
+  date: June 17
+  place: Rotterdam, Netherlands
   tags: [SEC, SHOP, PRIV]
 
 - name: WoRMA
   description: Workshop on Rethinking Malware Analysis
-  year: 2024
-  link: https://worma.gitlab.io/2024/
-  deadline: ["2024-03-26 23:59"]
-  date: July 8-12
-  comment: Co-located with IEEE Euro S&P 2024
-  place: Vienna, Austria
-  tags: [SEC, PRIV, SHOP]
+  year: 2025
+  link: https://worma.gitlab.io/2025/
+  deadline: ["2025-02-20 23:59"]
+  date: June 30
+  comment: Co-located with IEEE Euro S&P
+  place: Venice, Italy
+  tags: [SEC, SHOP]
 
 - name: SysTEX
   description: Workshop on System Software for Trusted Execution
@@ -1198,3 +1208,12 @@
   date: June 5-6
   place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CONF]
+
+- name: ACM SaT-CPS
+  description: ACM Workshop on Secure and Trustworthy Cyber Physical Systems
+  year: 2025
+  link: https://sites.google.com/view/sat-cps-2025
+  deadline: ["2025-02-21 23:59"]
+  date: June 6
+  place: Pittsburgh, Pennsylvania, USA
+  tags: [SEC, PRIV, SHOP]
