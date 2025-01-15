@@ -748,12 +748,12 @@
 
 - name: EnergySP
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
-  year: 2024
+  year: 2025
   link: https://energysp.github.io/
-  deadline: ["2024-03-25 23:59"]
+  deadline: ["2025-03-24 23:59"]
   comment: In conjunction with ACM eEnergy
-  date: June 4
-  place: Singapore, Singapore
+  date: June 17
+  place: Rotterdam, Netherlands
   tags: [SEC, SHOP, PRIV]
 
 - name: WoRMA
@@ -1198,13 +1198,3 @@
   date: June 5-6
   place: Rotkreuz, Switzerland
   tags: [SEC, PRIV, CONF]
-
-  - name: EnergySP
-  description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
-  year: 2025
-  link: https://energysp.github.io/
-  deadline: ["2025-03-24 23:59"]
-  comment: In conjunction with ACM eEnergy
-  date: June 17
-  place: Rotterdam, Netherlands
-  tags: [SEC, SHOP, PRIV]
