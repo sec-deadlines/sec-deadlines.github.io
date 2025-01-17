@@ -452,11 +452,11 @@
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2024
-  link: https://raid2024.github.io/
-  deadline: ["2024-04-15 23:59"]
-  date: September 30 - October 2
-  place: Padova, Italy
+  year: 2025
+  link: https://raid2025.github.io
+  deadline: ["2025-04-17 23:59"]
+  date: October 19-22
+  place: Gold Coast, Australia
   tags: [SEC, CONF]
 
 - name: ACSAC
