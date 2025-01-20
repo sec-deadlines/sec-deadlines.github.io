@@ -587,12 +587,13 @@
   
 - name: OSVS
   description: Workshop on Operating Systems and Virtualization Security
-  year: 2024
-  link: https://osvs.pages.dev/
-  deadline: ["2024-03-15 23:59"]
-  date: July 12
-  place: Vienna, Austria
-  tags: [SEC, PRIV, SHOP]
+  year: 2025
+  link: https://osvs.pages.dev
+  deadline: ["2025-03-16 23:59"]
+  date: July 04
+  comment: Co-located with IEEE Euro S&P
+  place: Venice, Italy
+  tags: [SEC, SHOP]
 
 - name: IMPACT
   description: Workshop on Innovation in Metadata Privacy---Analysis and Construction Techniques
@@ -1217,3 +1218,4 @@
   date: June 6
   place: Pittsburgh, Pennsylvania, USA
   tags: [SEC, PRIV, SHOP]
+
