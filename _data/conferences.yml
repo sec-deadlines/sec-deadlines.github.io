@@ -1071,14 +1071,13 @@
   tags: [SEC, SHOP]
 
 - name: QSNS
-  year: 2024
+  year: 2025
   description: Workshop on Quantum-Secure Networks and Systems
-  comment: Co-located with IEEE ISCC 2024
-  link: https://qubip.eu/qsns2024/
-  deadline: ["2024-05-05 23:59"]
-  timezone: Etc/UTC
-  place: Paris, France
-  date: "June 26"
+  comment: Co-located with IEEE ISCC 2025
+  link: https://qubip.eu/qsns2025/
+  deadline: ["2024-02-10 23:59"]
+  place: Bologna, Italy
+  date: July 2-5
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: CheckMATE
