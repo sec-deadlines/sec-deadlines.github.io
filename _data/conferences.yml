@@ -1,12 +1,12 @@
 # Security and Privacy  
 - name: S&P (Oakland)
-  year: 2025
-  date: May 12-15
+  year: 2026
+  date: TBA
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2025
+  link: https://sp2026.ieee-security.org/
   deadline:
-    - "2024-06-06 23:59"
-    - "2024-11-14 23:59"
+    - "2025-06-05 23:59"
+    - "2025-11-13 23:59"
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF, TOP4]
   
