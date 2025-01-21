@@ -248,6 +248,16 @@
   place: Maribor, Slovenia
   tags: [SEC, CONF]
 
+- name: IFIP WNDSS
+  description: IFIP International Workshop on Network and Distributed Systems Security
+  year: 2025
+  link: https://ifiptc11.org/wg114-events/wg114-workshop
+  deadline: ["2025-01-31 23:59"]
+  date: May 23
+  place: Maribor, Slovenia
+  tags: [SEC, SHOP]
+  
+
 - name: ITASEC
   description: Italian Conference on Cybersecurity
   year: 2025
