@@ -1,4 +1,15 @@
 # Security and Privacy  
+- name: LightSEC 2025
+  year: 2025
+  date: September 01-03
+  description: 6th International Workshop on LIGHTWEIGHT CRYPTOGRAPHY FOR SECURITY & PRIVACY
+  link: https://www.encrypt-on.com/activities/conferences/lightsec-2025/
+  deadline:
+    - "2025-03-29 23:59"
+    - "2025-05-29 23:59"
+  place: Istanbul, Turkiye
+  tags: [SEC, PRIV, SHOP, CRYPTO]
+
 - name: S&P (Oakland)
   year: 2026
   date: TBA
