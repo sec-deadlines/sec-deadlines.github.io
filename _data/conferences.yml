@@ -539,11 +539,12 @@
 
 - name: DBSec
   description: Conference on Data and Applications Security and Privacy
-  year: 2024
-  link: https://www.dbsec2024.unimol.it/
-  deadline: ["2024-04-19 23:59"]
-  date: July 15 - 17
-  place: San Jose, CA, USA
+  year: 2025
+  link: https://www.ntnu.edu/web/dbsec2025/
+  deadline: ["2025-03-07 23:59"]
+  comment: "Recommended abstract deadline March 3rd AoE
+  date: June 23-25
+  place: Gjøvik, Norway
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: The Web Conference
