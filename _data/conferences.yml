@@ -1051,11 +1051,11 @@
 
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
-  year: 2024
+  year: 2025
   link: https://wacco-workshop.org/
-  deadline: ["2024-03-15 23:59"]
-  date: July 8
-  place: Vienna, Austria
+  deadline: ["2025-03-16 23:59"]
+  date: June 30
+  place: Venezia, Italy
   tags: [SEC, PRIV]
 
 - name: IWSEC 
