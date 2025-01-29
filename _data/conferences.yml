@@ -542,7 +542,7 @@
   year: 2025
   link: https://www.ntnu.edu/web/dbsec2025/
   deadline: ["2025-03-07 23:59"]
-  comment: "Recommended abstract deadline March 3rd AoE
+  comment: Recommended abstract deadline March 3rd AoE
   date: June 23-25
   place: Gjøvik, Norway
   tags: [CRYPTO, SEC, CONF, PRIV]
@@ -1049,7 +1049,6 @@
   place: Hanoi, Vietnam
   tags: [SEC, PRIV, SHOP]
    
-
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
   year: 2025
