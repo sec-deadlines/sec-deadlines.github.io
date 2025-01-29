@@ -174,14 +174,12 @@
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SecureComm
-  year: 2024
-  date: "Oct 28–30"
+  year: 2025
+  date: "July 4-6"
   description: International Conference on Security and Privacy in Communication Networks
-  link: https://securecomm.eai-conferences.org/2024/
-  deadline:
-    - "2024-05-10 23:59"
-    - "2024-07-01 23:59"
-  place: Dubai, UAE
+  link: https://securecomm.eai-conferences.org/2025/
+  deadline: ["2025-03-01 23:59"]
+  place: Xiangtan, China
   tags: [SEC, CONF]
   
 - name: NSS-SocialSec
@@ -541,11 +539,12 @@
 
 - name: DBSec
   description: Conference on Data and Applications Security and Privacy
-  year: 2024
-  link: https://www.dbsec2024.unimol.it/
-  deadline: ["2024-04-19 23:59"]
-  date: July 15 - 17
-  place: San Jose, CA, USA
+  year: 2025
+  link: https://www.ntnu.edu/web/dbsec2025/
+  deadline: ["2025-03-07 23:59"]
+  comment: "Recommended abstract deadline March 3rd AoE
+  date: June 23-25
+  place: Gjøvik, Norway
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: The Web Conference
@@ -1053,11 +1052,11 @@
 
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
-  year: 2024
+  year: 2025
   link: https://wacco-workshop.org/
-  deadline: ["2024-03-15 23:59"]
-  date: July 8
-  place: Vienna, Austria
+  deadline: ["2025-02-20 23:59"]
+  date: June 30
+  place: Venezia, Italy
   tags: [SEC, PRIV]
 
 - name: IWSEC 
