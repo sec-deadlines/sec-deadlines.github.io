@@ -1,4 +1,5 @@
 # Security and Privacy  
+
 - name: S&P (Oakland)
   year: 2026
   date: TBA
@@ -446,6 +447,15 @@
   date: September 14-18
   place: Kuala Lumpur, Malaysia
   tags: [CRYPTO, CONF]
+
+- name: LightSEC
+  description: International Workshop on Lightweight Cryptography for Security and Privacy
+  year: 2025
+  date: September 01-03
+  link: https://www.encrypt-on.com/activities/conferences/lightsec-2025/
+  deadline: ["2025-03-29 23:59"]
+  place: Istanbul, Turkiye
+  tags: [SEC, PRIV, SHOP, CRYPTO]
 
 # Networks and systems, applications
 
