@@ -211,12 +211,12 @@
   tags: [SEC, CONF]
 
 - name: EDId
-  description: 1st International Workshop on Emerging Digital Identities
-  year: 2024
-  link: https://www.ares-conference.eu/edid
-  deadline: ["2024-05-08 23:59"]
-  date: July 30- August 02
-  place: Vienna, AT
+  description: International Workshop on Emerging Digital Identities
+  year: 2025
+  link: https://2025.ares-conference.eu/program/edid/
+  deadline: ["2025-05-07 23:59"]
+  date: August 11- August 14
+  place: Ghent, BE
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: ICDIS
