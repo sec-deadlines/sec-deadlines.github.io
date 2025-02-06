@@ -1236,3 +1236,11 @@
   place: Pittsburgh, Pennsylvania, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: APKC
+  description: ACM ASIA Public-Key Cryptography Workshop
+  year: 2025
+  link: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2025.html
+  deadline: ["2025-02-17 23:59"]
+  date: August 26
+  place: Hanoi, Vietnam
+  tags: [SEC, CRYPTO, SHOP]
