@@ -1240,6 +1240,7 @@
   description: ACM ASIA Public-Key Cryptography Workshop
   year: 2025
   link: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2025.html
+  comment: Co-located with ACM AsiaCCS 2025
   deadline: ["2025-02-17 23:59"]
   date: August 26
   place: Hanoi, Vietnam
