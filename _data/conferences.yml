@@ -81,12 +81,13 @@
 
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2024
-  link: https://2024.cansconference.org/
-  deadline: ["2024-04-24 23:59"]
-  date: September 24-27
-  place: Cambridge, UK
+  year: 2025
+  link: https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html
+  deadline: ["2025-04-17 23:59"]
+  date: November 17-20
+  place: Osaka, Japan
   tags: [SEC, CRYPTO, CONF]
+  
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
