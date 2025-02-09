@@ -293,12 +293,12 @@
   tags: [SEC, PRIV, SHOP]
 
 - name: ACIS (PrivaCI)
-  year: 2024
-  date: September 27-28
+  year: 2025
+  date: May 19-20
   description: The Annual Symposium on Applications of Contextual Integrity
-  link: https://privaci.info/symposium/2024/cfp.html
-  deadline: ["2024-06-24 23:59"]  
-  place: Rutgers University, USA
+  link: https://privaci.info/symposium/2025/cfp.html
+  deadline: ["2025-02-14 23:59"]  
+  place: Brussels, Belgium
   tags: [PRIV, CONF]
 
 # Crypto
