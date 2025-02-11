@@ -1246,3 +1246,13 @@
   date: August 26
   place: Hanoi, Vietnam
   tags: [SEC, CRYPTO, SHOP]
+  
+- name: ISC
+  description: Information Security Conference
+  year: 2025
+  link: https://isc25.skku.edu/
+  deadline: ["2025-06-04 23:59"]
+  timezone: Etc/GMT-12
+  date: October 20-22
+  place: Seoul, South Korea
+  tags: [SEC, PRIV, CRYPTO]
