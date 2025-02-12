@@ -521,12 +521,11 @@
   
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
-  year: 2024
-  link: https://www.sacmat.org/2024/
-  deadline: 
-    - "2024-02-05 23:59"
-  date: May 15-17
-  place: San Antonio, TX, United States
+  year: 2025
+  link: https://www.sacmat.org/2025/
+  deadline: ["2025-03-24 23:59"]
+  date: July 8-10
+  place: Stony Brook, New York, United States
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: ARES
