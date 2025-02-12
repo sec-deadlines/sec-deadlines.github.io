@@ -1,5 +1,16 @@
 # Security and Privacy  
 
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2025
+  link: https://www.sacmat.org/2025/
+  deadline: 
+    - "2025-03-24 23:59"
+  comment: Abstract submission required (same deadline as paper submission)
+  date: July 8-10
+  place: Stony Brook, New York, United States
+  tags: [CRYPTO, SEC, CONF, PRIV]
+
 - name: S&P (Oakland)
   year: 2026
   date: TBA
