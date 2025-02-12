@@ -150,11 +150,11 @@
   
 - name: ISC
   description: Information Security Conference
-  year: 2024
-  link: https://isc24.cs.gmu.edu/
-  deadline: ["2024-06-13 23:59"]
-  date: "October 23-25"
-  place: Arlington, VA, USA
+  year: 2025
+  link: https://isc25.skku.edu/
+  deadline: ["2025-06-04 23:59"]
+  date: October 20-22
+  place: Seoul, South Korea
   tags: [SEC, PRIV, CONF]
   
 - name: TrustCom
