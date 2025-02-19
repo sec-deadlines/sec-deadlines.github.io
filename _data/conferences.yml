@@ -1245,3 +1245,13 @@
   date: August 26
   place: Hanoi, Vietnam
   tags: [SEC, CRYPTO, SHOP]
+
+- name: MAL-IoT
+  description: Malicious Software and Hardware in the Internet of Things
+  year: 2025
+  link: https://security.ucc.ie/mal-iot2025/
+  deadline: ["2025-02-28 23:59"]
+  comment: Co-located with ACM Computing Frontiers 2025.
+  date: May 28
+  place: Cagliari, Italy
+  tags: [SEC, PRIV, CRYPTO, SHOP]
