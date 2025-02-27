@@ -1218,14 +1218,13 @@
   tags: [SEC, PRIV, SHOP]
 
 - name: Crypto Valley Conference
-  description: Crypto Valley Conference on Blockchain Technology
+  description: Crypto Valley Conference on Blockchain Technology 2025
   year: 2025
   link: https://cryptovalleyconference.com/call-for-papers
-  deadline: ["2025-02-20 22:59"]
-  timezone: UTC
+  deadline: ["2025-03-13 23:59"]
   date: June 5-6
   place: Rotkreuz, Switzerland
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: ACM SaT-CPS
   description: ACM Workshop on Secure and Trustworthy Cyber Physical Systems
