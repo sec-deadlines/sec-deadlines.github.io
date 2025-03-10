@@ -1192,7 +1192,7 @@
   description: Symposium on Vehicle Security and Privacy
   year: 2025
   link: https://www.usenix.org/conference/vehiclesec25/call-for-papers
-  deadline: ["2025-02-27 23:59"]
+  deadline: ["2025-03-06 23:59"]
   comment: Co-located with USENIX Security 2025
   date: August 11-12
   place: Seattle, WA, USA
@@ -1212,26 +1212,26 @@
   year: 2025
   comment: Co-Located with IEEE European Symposium on Security and Privacy (EuroS&P).
   link: https://st.fbk.eu/events/SeRIM2025/
-  deadline: ["2025-02-27 23:59"]
+  deadline: ["2025-03-10 23:59"]
   date: July 4
   place: Venice, Italy 
   tags: [SEC, PRIV, SHOP]
 
 - name: Crypto Valley Conference
-  description: Crypto Valley Conference on Blockchain Technology
+  description: Crypto Valley Conference on Blockchain Technology 2025
   year: 2025
   link: https://cryptovalleyconference.com/call-for-papers
-  deadline: ["2025-02-20 22:59"]
-  timezone: UTC
+  deadline: ["2025-03-13 23:59"]
   date: June 5-6
   place: Rotkreuz, Switzerland
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: ACM SaT-CPS
   description: ACM Workshop on Secure and Trustworthy Cyber Physical Systems
   year: 2025
+  comment: Co-Located with ACM Conference on Data and Application Security and Privacy (CODASPY).
   link: https://sites.google.com/view/sat-cps-2025
-  deadline: ["2025-02-21 23:59"]
+  deadline: ["2025-03-02 23:59"]
   date: June 6
   place: Pittsburgh, Pennsylvania, USA
   tags: [SEC, PRIV, SHOP]
@@ -1250,8 +1250,8 @@
   description: Malicious Software and Hardware in the Internet of Things
   year: 2025
   link: https://security.ucc.ie/mal-iot2025/
-  deadline: ["2025-02-28 23:59"]
-  comment: Co-located with ACM Computing Frontiers 2025.
+  deadline: ["2025-03-10 23:59"]
+  comment: Co-located with ACM Computing Frontiers 2025. Abstract registration by March 7.
   date: May 28
   place: Cagliari, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
