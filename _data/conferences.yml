@@ -532,7 +532,7 @@
   description: International Conference on Availability, Reliability and Security
   year: 2025
   link: https://2025.ares-conference.eu/
-  deadline: ["2025-03-10 23:59"]
+  deadline: ["2025-03-11 23:59"]
   date: August 10-13
   place: Ghent, Belgium
   tags: [SEC, PRIV, CONF]
