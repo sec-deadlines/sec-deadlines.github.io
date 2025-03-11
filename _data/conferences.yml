@@ -343,12 +343,12 @@
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
-  year: 2024
-  link: https://asiacrypt.iacr.org/2024/
-  deadline: ["2024-05-26 11:59"]
-  timezone: Etc/UTC
-  date: December 9-13
-  place: Kolkata, India
+  year: 2025
+  link: https://asiacrypt.iacr.org/2025/
+  deadline: ["2025-05-16 12:00"]
+  timezone: Etc/GMT
+  date: December 8-12  
+  place: Melbourne, Australia
   tags: [CRYPTO, CONF]
   
 - name: AFT
