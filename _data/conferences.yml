@@ -1255,3 +1255,13 @@
   date: May 28
   place: Cagliari, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
+  
+- name: RomHack 2025
+  description: Security Conference on Attack and Defence topics
+  year: 2025
+  link: https://romhack.io
+  deadline: ["2025-05-18 23:59"]
+  date: September 27
+  place: Rome, Italy
+  tags: [SEC, CONF]
+  timezone: Europe/Rome
