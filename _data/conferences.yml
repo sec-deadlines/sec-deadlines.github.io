@@ -532,7 +532,7 @@
   description: ACM Symposium on Access Control Models and Technologies
   year: 2025
   link: https://www.sacmat.org/2025/
-  deadline: ["2025-03-24 23:59"]
+  deadline: ["2025-03-31 23:59"]
   date: July 8-10
   place: Stony Brook, New York, United States
   tags: [CRYPTO, SEC, CONF, PRIV]
