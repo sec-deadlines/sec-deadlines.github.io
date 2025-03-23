@@ -682,12 +682,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
-  year: 2024
+  year: 2025
   description: IEEE Secure Development Conference
-  link: https://secdev.ieee.org/2024/home
-  deadline: ["2024-05-14 23:59"]
-  date: "October 7-10"
-  place: Pittsburgh, PA, USA
+  link: https://secdev.ieee.org/2025/home/
+  deadline: ["2025-05-13 23:59"]
+  date: "October 14-16"
+  place: Indianapolis, IN, USA
   tags: [SEC, PRIV, CONF]
 
 - name: HOST
