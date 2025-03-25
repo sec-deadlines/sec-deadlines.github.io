@@ -112,11 +112,12 @@
   
 - name: EuroUSEC
   description: European Symposium on Usable Security
-  year: 2024
-  link: https://eurousec24.kau.se/
-  deadline: ["2024-05-31 23:59"]
-  date: September 30-October 1
-  place: Karlstad, Sweden
+  year: 2025
+  link: https://eurousec2025.cis.strath.ac.uk/
+  deadline: ["2025-05-09 23:59"]
+  comment: Paper registration due May 5th AoE
+  date: September 10-September 11
+  place: Manchester, UK
   tags: [SEC, PRIV, CONF]
 
 - name: FC
