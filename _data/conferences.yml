@@ -1264,3 +1264,13 @@
   date: May 28
   place: Cagliari, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: MIST
+  description: Workshop on Mobile and IoT Security Technologies
+  year: 2025
+  link: https://mist-workshop.github.io/
+  deadline: ["2025-06-30 23:59"]
+  comment: Co-located with ESORICS 2025
+  date: September 25-26
+  place: Toulouse, France
+  tags: [SEC, PRIV, CRYPTO, SHOP]
