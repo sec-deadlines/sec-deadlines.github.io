@@ -36,12 +36,13 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2025
-  link: https://www.ndss-symposium.org/ndss2025/submisions/call-for-papers/
+  year: 2026
+  link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
   deadline:
-    - "2024-04-17 23:59"
-    - "2024-07-10 23:59"
-  date: "February 23-28"
+    - "2025-04-23 23:59"
+    - "2025-08-06 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: "February 23-27"
   place: San Diego, CA, USA
   tags: [SEC, PRIV, CONF, TOP4]
 
