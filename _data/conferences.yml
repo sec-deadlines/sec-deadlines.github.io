@@ -373,12 +373,11 @@
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2024
-  link: https://tcc.iacr.org/2024/
-  timezone: "Etc/GMT-2"
-  deadline: ["2024-05-20 20:00"]
-  date: "December 2-6"
-  place: Milan, Italy
+  year: 2025
+  link: https://tcc.iacr.org/2025/
+  deadline: ["2024-05-27 23:59"]
+  date: "December 2-5"
+  place: Aarhus, Denmark
   tags: [CRYPTO, CONF]
 
 - name: PKC
