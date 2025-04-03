@@ -1,5 +1,15 @@
 # Security and Privacy  
 
+- name: OPTIMIST 
+  description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
+  year: 2025
+  link: https://optimist-ose.org/ches25
+  deadline:
+    - "2025-06-02 23:59"
+  date: September 14
+  place: Kuala Lumpur, Malaysia
+  tags: [CRYPTO, CONF]
+
 - name: S&P (Oakland)
   year: 2026
   date: TBA
