@@ -857,11 +857,11 @@
 
 - name: NSPW
   description: New Security Paradigms Workshop
-  year: 2023
-  link: https://www.nspw.org/2024/cfp
-  deadline: ["2024-04-28 23:59"]
-  date: September 16 - 19
-  place: Omni Bedford Springs, Pennsylvania, United States
+  year: 2025
+  link: https://www.nspw.org/2025/cfp
+  deadline: ["2025-04-25 23:59"]
+  date: August 24 - 27
+  place: Aerzen, Germany
   tags: [SEC, PRIV, SHOP]
 
 - name: CNS
