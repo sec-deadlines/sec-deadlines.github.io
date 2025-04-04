@@ -282,16 +282,16 @@
 
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
-  year: 2025
-  link: https://www.petsymposium.org/cfp25.php
+  year: 2026
+  link: https://www.petsymposium.org/cfp26.php
   deadline:
     - "%Y-05-31 23:59"
     - "%Y-08-31 23:59"
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: July 14-19
-  place: Washington, DC
+  date: TBD (July)
+  place: TBD
   tags: [PRIV, CONF]
 
 - name: PLAS
@@ -364,12 +364,11 @@
   
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2024
-  link: https://aftconf.github.io/aft24/
-  deadline: ["2024-05-22 23:59"]
-  date: "September 23–25"
-  comment: Abstract registration May 15th AoE.
-  place: Vienna, Austria
+  year: 2025
+  link: https://aftconf.github.io/aft25/CFP.html
+  deadline: ["2025-05-28 23:59"]
+  date: "October 8–10"
+  place: Pittsburgh, PA, USA
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: TCC
