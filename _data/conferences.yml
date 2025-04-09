@@ -1030,12 +1030,12 @@
   
 - name: CBT
   description: International Workshop on Cryptocurrencies and Blockchain Technology
-  comment: Co-located with ESORICS 2024
-  year: 2024
+  comment: Co-located with ESORICS 2025
+  year: 2025
   link: http://cbtworkshop.org/
-  deadline: ["2024-06-23 23:59"]
-  place: Bydgoszcz, Poland
-  date: September, 19th
+  deadline: ["2025-06-17 23:59"]
+  place: Toulouse, France
+  date: September, 25th 
   tag: [SEC, CRYPTO, SHOP]
 
 - name: CyberHunt
