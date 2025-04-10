@@ -500,11 +500,11 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2024
-  link: https://www.acsac.org/2024/
-  deadline: ["2024-05-28 23:59"]
+  year: 2025
+  link: https://www.acsac.org/2025/submissions/papers/
+  deadline: ["2025-05-30 23:59"]
   date: Dec 9-13
-  place: Waikiki, Hawaii, USA
+  place: Honolulu, Hawaii, USA
   tags: [SEC, CONF]
 
 - name: DSN
