@@ -646,12 +646,13 @@
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
-  year: 2024
-  date: "May 27 - 28"
+  year: 2025
+  date: "November 4 - 6"
   description: ESA Security for Space Systems Conference
-  timezone: Etc/GMT-2
-  deadline: ["2024-02-08 23:59"]
-  link: https://atpi.eventsair.com/24a06---3s2024/
+  deadline: 
+    - "2025-04-16 23:59"
+    - "2025-06-30 23:59"
+  link: https://security4space.esa.int/2025/cfp/
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
 
