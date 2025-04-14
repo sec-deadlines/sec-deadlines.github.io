@@ -500,11 +500,11 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2024
-  link: https://www.acsac.org/2024/
-  deadline: ["2024-05-28 23:59"]
+  year: 2025
+  link: https://www.acsac.org/2025/submissions/papers/
+  deadline: ["2025-05-30 23:59"]
   date: Dec 9-13
-  place: Waikiki, Hawaii, USA
+  place: Honolulu, Hawaii, USA
   tags: [SEC, CONF]
 
 - name: DSN
@@ -646,12 +646,13 @@
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
-  year: 2024
-  date: "May 27 - 28"
+  year: 2025
+  date: "November 4 - 6"
   description: ESA Security for Space Systems Conference
-  timezone: Etc/GMT-2
-  deadline: ["2024-02-08 23:59"]
-  link: https://atpi.eventsair.com/24a06---3s2024/
+  deadline: 
+    - "2025-04-16 23:59"
+    - "2025-06-30 23:59"
+  link: https://security4space.esa.int/2025/cfp/
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
 
@@ -666,12 +667,15 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ICICS
-  year: 2024
-  date: August 26–28
+  year: 2025
+  date: October 29-31
   description: International Conference on Information and Communications Security
-  link: http://icics2024.aegean.gr/
-  deadline: ["2024-05-03 23:59"]
-  place: Mytilene, Greece
+  link: https://www.icics2025.org/index.html
+  deadline:
+    - "2025-03-09 23:59"
+    - "2025-05-23 23:59"
+  timezone: Asia/Shanghai
+  place: Nanjing, China
   tags: [SEC, PRIV, CONF]
 
 - name: SaTML
