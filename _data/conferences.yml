@@ -13,7 +13,7 @@
 
 - name: S&P (Oakland)
   year: 2026
-  date: TBA
+  date: May 18-21
   description: IEEE Symposium on Security and Privacy
   link: https://sp2026.ieee-security.org/
   deadline:
@@ -207,21 +207,22 @@
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IMF
-  year: 2024
-  date: "September 17–18"
+  year: 2025
+  date: "September 16–17"
   description: International Conference on IT Security Incident Management and IT Forensics
-  link: https://www.imf-conference.org/
-  deadline: ["2024-04-21 23:59"]
-  place: Saarbrucken, Germany
+  link: https://www.imf-conference.org/cfp.html
+  deadline: ["2025-04-28 23:59"]
+  timezone: Etc/UTC
+  place: Albstadt, Germany
   tags: [SEC, CONF]
 
 - name: SciSec
   description: International Conference on Science of Cyber Security
-  year: 2024
-  link: https://scisec.org/
-  deadline: ["2024-05-15 23:59"]
-  date: August 14-16
-  place: Copenhagen, DK
+  year: 2025
+  link: https://scisec.org/index.html
+  deadline: ["2025-04-30 23:59"]
+  date: August 15-17
+  place: Wuhan, Hubei, China
   tags: [SEC, CONF]
 
 - name: EDId
@@ -881,11 +882,11 @@
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
-  year: 2024
-  link: https://cns2024.ieee-cns.org/
-  deadline: ["2024-06-10 23:59"]
-  date: September 30 - October 3
-  place: Taipei, Taiwan
+  year: 2025
+  link: https://cns2025.ieee-cns.org/authors/call-papers
+  deadline: ["2025-05-05 23:59"]
+  date: September 08 - 11
+  place: Avignon, France
   tags: [SEC, PRIV, CONF]
 
 - name: HASP
