@@ -1,49 +1,5 @@
 # Security and Privacy  
 
-- name: uASC
-  description: Microarchitecture Security Conference
-  year: 2026
-  link: https://uasc.cc
-  deadline:
-    - "2025-07-15 23:59"
-    - "2025-11-04 23:59"
-  date: February 3
-  place: Leuven, Belgium
-  tags: [SEC, PRIV, CRYPTO]
-
-- name: HS3
-  description: Workshop on Hardware-Supported Software Security
-  year: 2025
-  link: https://hs3-workshop.github.io/
-  deadline:
-    - "2025-05-21 23:59"
-  comment: Co-located with ESORICS 25.
-  date: September 25
-  place: Toulouse, France
-  tags: [SEC, PRIV, SHOP]
-
-- name: CPS-Sec
-  description: 10th IEEE International Workshop on Cyber-Physical Systems Security
-  year: 2025
-  link: https://spritz.math.unipd.it/events/2025/CPS-Sec2025/
-  deadline: 
-    - "2025-06-30 23:59"
-  comment: In conjunction with IEEE CNS
-  date: September 11
-  place: Avignon, France
-  tags: [SEC, SHOP]
-
-- name: OPTIMIST 
-  description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
-  year: 2025
-  link: https://optimist-ose.org/ches25
-  deadline:
-    - "2025-06-02 23:59"
-  comment: Co-located with CHES 25.
-  date: September 14
-  place: Kuala Lumpur, Malaysia
-  tags: [CRYPTO, SEC, SHOP]
-
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
@@ -1324,3 +1280,48 @@
   date: September 25-26
   place: Toulouse, France
   tags: [SEC, PRIV, CRYPTO, SHOP]
+  
+- name: uASC
+  description: Microarchitecture Security Conference
+  year: 2026
+  link: https://uasc.cc
+  deadline:
+    - "2025-07-15 23:59"
+    - "2025-11-04 23:59"
+  date: February 3
+  place: Leuven, Belgium
+  tags: [SEC, PRIV, CONF, CRYPTO]
+
+- name: HS3
+  description: Workshop on Hardware-Supported Software Security
+  year: 2025
+  link: https://hs3-workshop.github.io/
+  deadline:
+    - "2025-05-21 23:59"
+  comment: Co-located with ESORICS 25.
+  date: September 25
+  place: Toulouse, France
+  tags: [SEC, PRIV, SHOP]
+
+- name: CPS-Sec
+  description: 10th IEEE International Workshop on Cyber-Physical Systems Security
+  year: 2025
+  link: https://spritz.math.unipd.it/events/2025/CPS-Sec2025/
+  deadline: 
+    - "2025-06-30 23:59"
+  comment: In conjunction with IEEE CNS
+  date: September 11
+  place: Avignon, France
+  tags: [SEC, SHOP]
+
+- name: OPTIMIST 
+  description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
+  year: 2025
+  link: https://optimist-ose.org/ches25
+  deadline:
+    - "2025-06-02 23:59"
+  comment: Co-located with CHES 25.
+  date: September 14
+  place: Kuala Lumpur, Malaysia
+  tags: [CRYPTO, SEC, SHOP]
+  
