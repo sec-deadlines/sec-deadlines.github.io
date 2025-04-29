@@ -1,5 +1,16 @@
 # Security and Privacy  
 
+- name: uASC
+  description: Microarchitecture Security Conference
+  year: 2026
+  link: https://uasc.cc
+  deadline:
+    - "2025-07-15 23:59"
+    - "2025-11-04 23:59"
+  date: February 3
+  place: Leuven, Belgium
+  tags: [SEC, PRIV, CRYPTO]
+
 - name: HS3
   description: Workshop on Hardware-Supported Software Security
   year: 2025
