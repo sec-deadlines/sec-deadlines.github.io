@@ -1,5 +1,16 @@
 # Security and Privacy  
 
+- name: CPS-Sec
+  description: 10th IEEE International Workshop on Cyber-Physical Systems Security
+  year: 2025
+  link: https://spritz.math.unipd.it/events/2025/CPS-Sec2025/
+  deadline: 
+    - "2025-06-30 23:59"
+  comment: In conjunction with IEEE CNS
+  date: September 11
+  place: Avignon, France
+  tags: [SEC, SHOP]
+
 - name: OPTIMIST 
   description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
   year: 2025
