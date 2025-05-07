@@ -1333,4 +1333,14 @@
   date: September 14
   place: Kuala Lumpur, Malaysia
   tags: [CRYPTO, SEC, SHOP]
+
+- name: CheckMATE
+  description: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
+  year: 2025
+  link: https://checkmate-workshop.github.io/
+  deadline: ["2025-06-20 23:59"]
+  comment: Co-located with ACM CCS 2025
+  date: October 17
+  place: Taipei, Taiwan
+  tags: [SEC, PRIV, CRYPTO, SHOP]
   
