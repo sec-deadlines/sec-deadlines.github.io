@@ -1,5 +1,14 @@
 # Security and Privacy  
 
+- name: CRISIS
+  year: 2025
+  description: The 20th International Conference on Risks and Security of Internet and Systems
+  link: https://crisis2025.uqo.ca/?page_id=6
+  deadline: ["2025-06-13 23:59"] 
+  date: October 22-24
+  place: Gatineau, Canada
+  tags: [SEC, PRIV, CONF]
+
 - name: ProvSec
   year: 2025
   description: International Conference on Provable and Practical Security
