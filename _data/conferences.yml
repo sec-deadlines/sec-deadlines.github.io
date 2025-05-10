@@ -171,11 +171,11 @@
   
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2024
-  link: http://ieee-aiplus.org/2024/trustcom/
-  deadline: ["2024-09-01 23:59"]
-  date: December 17-21
-  place: Sanya, China
+  year: 2025
+  link: https://ieee-aiplus-2025.org/trustcom.html
+  deadline: ["2025-08-01 23:59"]
+  date: November 14-17
+  place: Guiyang, China
   tags: [SEC, PRIV, CONF]
 
 - name: FPS
