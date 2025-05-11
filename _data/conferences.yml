@@ -1,5 +1,14 @@
 # Security and Privacy  
 
+- name: ProvSec
+  year: 2025
+  description: International Conference on Provable and Practical Security
+  link: https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
+  deadline: ["2025-05-31 23:59"] 
+  date: October 10-12
+  place: Yokohama, Japan
+  tags: [SEC, PRIV, CONF]
+
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
@@ -228,7 +237,7 @@
   description: Workshop on Sustainable security and Awareness For nExt generation infRastructures
   year: 2025
   link: https://2025.ares-conference.eu/program/safer/
-  deadline: ["2025-05-05 23:59"]
+  deadline: ["2025-05-12 23:59"]
   date: August 11-14
   place: Ghent, BE
   tags: [SEC, PRIV, SHOP]
