@@ -1,23 +1,5 @@
 # Security and Privacy  
 
-- name: CRISIS
-  year: 2025
-  description: The 20th International Conference on Risks and Security of Internet and Systems
-  link: https://crisis2025.uqo.ca/?page_id=6
-  deadline: ["2025-06-13 23:59"] 
-  date: October 22-24
-  place: Gatineau, Canada
-  tags: [SEC, PRIV, CONF]
-
-- name: ProvSec
-  year: 2025
-  description: International Conference on Provable and Practical Security
-  link: https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
-  deadline: ["2025-05-31 23:59"] 
-  date: October 10-12
-  place: Yokohama, Japan
-  tags: [SEC, PRIV, CONF]
-
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
@@ -652,6 +634,24 @@
   date: February 28
   place: San Diego, California, USA
   tags: [PRIV, SEC, CRYPTO, SHOP]
+
+- name: CRISIS
+  year: 2025
+  description: International Conference on Risks and Security of Internet and Systems
+  link: https://crisis2025.uqo.ca
+  deadline: ["2025-06-13 23:59"] 
+  date: October 22-24
+  place: Gatineau, Canada
+  tags: [SEC, PRIV, CONF]
+
+- name: ProvSec
+  year: 2025
+  description: International Conference on Provable and Practical Security
+  link: https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
+  deadline: ["2025-05-31 23:59"] 
+  date: October 10-12
+  place: Yokohama, Japan
+  tags: [SEC, PRIV, CONF]
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
