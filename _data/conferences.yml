@@ -426,8 +426,8 @@
   year: 2025
   description: International Conference on Cryptology and Information Security in Latin America
   link: https://ciencias.medellin.unal.edu.co/eventos/latincrypt/
-  deadline: ["2025-05-11 23:59"]
-  comment: Abstract submission deadline May 9th 23:59 AoE
+  deadline: ["2025-05-16 23:59"]
+  comment: Extended submission deadline May 16th 23:59 AoE
   date:  October 1-3
   place: Medellin, Colombia
   tags: [CRYPTO, CONF]
