@@ -791,12 +791,12 @@
 
 - name: CPSIoTSec
   description: The Joint Workshop on CPS & IoT Security and Privacy
-  year: 2024
-  link: https://cpsiotsec2024b.github.io/
-  deadline: ["2024-07-18 23:59"]
-  comment: In conjunction with ACM CCS 2024
-  date: October 18
-  place: Salt Lake City, UT, USA
+  year: 2025
+  link: https://cpsiotsec2025.github.io/
+  deadline: ["2025-06-20 23:59"]
+  comment: In conjunction with ACM CCS 2025
+  date: October 17
+  place: Taipei, Taiwan
   tags: [SEC, PRIV, SHOP]
   
 - name: AISec
