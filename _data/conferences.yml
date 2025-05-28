@@ -1,14 +1,4 @@
 # Security and Privacy  
-
-- name: WPES
-  description: Workshop on Privacy in the Electronic Society
-  year: 2025
-  link: http://jianying.space/WPES2025/
-  deadline: ["2025-07-07 23:59"]
-  comment: In conjunction with ACM CCS 2025
-  date: October 13
-  place: Taipei, Taiwan
-  tags: [PRIV, SHOP] 
   
 - name: S&P (Oakland)
   year: 2026
@@ -881,12 +871,12 @@
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
-  year: 2024
-  link: https://cseapps.case.edu/wpes2024/index.html
-  deadline: ["2024-07-15 23:59"]
-  comment: In conjunction with the ACM CCS
-  date: October 14
-  place: Salt Lake City, United States
+  year: 2025
+  link: http://jianying.space/WPES2025/
+  deadline: ["2025-07-07 23:59"]
+  comment: In conjunction with ACM CCS
+  date: October 13
+  place: Taipei, Taiwan
   tags: [PRIV, SHOP] 
 
 - name: NSPW
