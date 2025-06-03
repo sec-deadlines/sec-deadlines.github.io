@@ -1035,12 +1035,12 @@
 
 - name: DPM
   description: Data Privacy Management International Workshop
-  comment: Co-located with ESORICS 2024
-  year: 2024
-  link: https://deic.uab.cat/dpm/dpm2024/
-  deadline: ["2024-06-23 23:59"]
-  place: Bydgoszcz, Poland
-  date: September, 19th
+  comment: Co-located with ESORICS 2025
+  year: 2025
+  link: https://deic.uab.cat/dpm/dpm2025/
+  deadline: ["2025-06-17 23:59"]
+  place: Toulouse, France
+  date: September 25
   tag: [PRIV, SEC, SHOP]
   
 - name: CBT
