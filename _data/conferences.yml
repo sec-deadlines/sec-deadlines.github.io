@@ -471,6 +471,15 @@
   place: Istanbul, Turkiye
   tags: [SEC, PRIV, SHOP, CRYPTO]
 
+- name: CASCADE
+  description: Cryptographic implementations and embedded security
+  year: 2026
+  link: https://cascade-conference.org/index.html
+  deadline: ["2025-06-27 23:59"]
+  date: March 30 - April 1
+  place: Regensburg, Germany
+  tags: [CRYPTO, CONF]
+
 # Networks and systems, applications
 
 - name: ACM SAC
