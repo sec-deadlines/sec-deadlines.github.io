@@ -641,7 +641,7 @@
   year: 2025
   description: International Conference on Risks and Security of Internet and Systems
   link: https://crisis2025.uqo.ca
-  deadline: ["2025-06-13 23:59"] 
+  deadline: ["2025-07-15 23:59"] 
   date: October 22-24
   place: Gatineau, Canada
   tags: [SEC, PRIV, CONF]
