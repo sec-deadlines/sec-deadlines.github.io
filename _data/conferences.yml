@@ -1356,4 +1356,12 @@
   place: Taipei, Taiwan
   tags: [SEC, PRIV, SHOP]
 
-  
+- name: RICSS
+  description: Workshop on Re-design Industrial Control Systems with Security
+  year: 2025
+  link: https://ricssworkshop.github.io/
+  deadline: ["2025-07-01 23:59"]
+  comment: Co-located with ACM CCS 2025
+  date: October 13
+  place: Taipei, Taiwan
+  tags: [SEC, SHOP] 
