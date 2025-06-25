@@ -1365,3 +1365,13 @@
   date: October 13
   place: Taipei, Taiwan
   tags: [SEC, SHOP] 
+
+- name: B4TI
+  description: Workshop on Blockchain for Decentralized Trust and Digital Identity
+  year: 2025
+  link: https://bcca-conference.org/2025/Workshops/b4ti.php
+  deadline: ["2025-07-30 23:59"]
+  comment: Co-located with BCCA 2025
+  date: October 14-17
+  place: Dubrovnik, Croatia
+  tags: [SEC, PRIV, CRYPTO, SHOP] 
