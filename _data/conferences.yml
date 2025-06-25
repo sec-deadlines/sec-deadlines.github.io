@@ -1365,3 +1365,13 @@
   date: October 13
   place: Taipei, Taiwan
   tags: [SEC, SHOP] 
+
+- name: SURE
+  description: Workshop on Software Understanding and Reverse Engineering
+  year: 2025
+  link: https://sure-workshop.org/
+  deadline: ["2025-07-07 23:59"]
+  comment: Co-located with ACM CCS 2025
+  date: October 13
+  place: Taipei, Taiwan
+  tags: [SEC, SHOP] 
