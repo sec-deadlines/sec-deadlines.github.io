@@ -349,11 +349,11 @@
 
 - name: Eurocrypt
   description: European Cryptology Conference
-  year: 2025
-  link: https://eurocrypt.iacr.org/2025/
-  deadline: ["2024-10-02 23:59"]
-  date: May 4-8
-  place: Madrid, Spain
+  year: 2026
+  link: https://eurocrypt.iacr.org/2026/
+  deadline: ["2025-10-02 23:59"]
+  date: May 10-14
+  place: Rome, Italy
   tags: [CRYPTO, CONF]
 
 - name: Asiacrypt
@@ -1049,7 +1049,7 @@
   comment: Co-located with ESORICS 2025
   year: 2025
   link: https://deic.uab.cat/dpm/dpm2025/
-  deadline: ["2025-06-17 23:59"]
+  deadline: ["2025-06-30 23:59"]
   place: Toulouse, France
   date: September 25
   tags: [SEC, PRIV, SHOP]
@@ -1149,7 +1149,7 @@
   description: Research on offensive and defensive techniques in the context of Man At The End (MATE) attacks
   year: 2025
   link: https://checkmate-workshop.github.io/
-  deadline: ["2025-06-20 23:59"]
+  deadline: ["2025-07-08 23:59"]
   comment: Co-located with ACM CCS 2025
   date: October 17
   place: Taipei, Taiwan
@@ -1375,3 +1375,13 @@
   date: October 14-17
   place: Dubrovnik, Croatia
   tags: [SEC, PRIV, CRYPTO, SHOP] 
+
+- name: SURE
+  description: Workshop on Software Understanding and Reverse Engineering
+  year: 2025
+  link: https://sure-workshop.org/
+  deadline: ["2025-07-07 23:59"]
+  comment: Co-located with ACM CCS 2025
+  date: October 13
+  place: Taipei, Taiwan
+  tags: [SEC, SHOP] 
