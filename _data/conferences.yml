@@ -1059,7 +1059,8 @@
   comment: Co-located with ESORICS 2025
   year: 2025
   link: http://cbtworkshop.org/
-  deadline: ["2025-06-17 23:59"]
+  deadline:
+    - "2025-06-30 23:59"
   place: Toulouse, France
   date: September 25 
   tags: [SEC, CRYPTO, SHOP]
