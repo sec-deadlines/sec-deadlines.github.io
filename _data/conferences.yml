@@ -874,12 +874,12 @@
 
 - name: ARTMAN
   description: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN system
-  year: 2024
+  year: 2025
   link: https://artman-workshop.gitlab.io/
-  deadline: ["2024-09-15 23:59"]
-  comment: In conjunction with ACSAC
-  date: December 9
-  place: Waikiki, Hawaii, USA
+  deadline: ["2025-07-03 23:59"]
+  comment: In conjunction with CCS
+  date: October 17
+  place: Taipei, Taiwan
   tags: [SEC, SHOP] 
 
 - name: WPES
