@@ -254,11 +254,11 @@
 
 - name: IFIP SEC
   description: IFIP International Information Security and Privacy Conference
-  year: 2025
-  link: https://sec2025.um.si/
-  deadline: ["2024-12-20 23:59"]
-  date: May 21 - 23
-  place: Maribor, Slovenia
+  year: 2026
+  link: https://ifipsec.org/cfp.html
+  deadline: ["2025-12-19 23:59"]
+  date: June 9 - 11
+  place: Perth, Australia
   tags: [SEC, CONF]
 
 - name: IFIP WNDSS
