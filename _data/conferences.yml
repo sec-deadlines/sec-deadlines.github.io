@@ -701,12 +701,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: SaTML
-  year: 2025
-  date: April 9-11
+  year: 2026
+  date: March 23-25
   description: IEEE Conference on Secure and Trustworthy Machine Learning
   link: https://satml.org/
-  deadline: ["2024-09-27 23:59"]
-  place: Copenhagen, Denmark
+  deadline: ["2025-09-24 23:59"]
+  place: Munich, Germany
   tags: [SEC, PRIV, CONF]
 
 - name: NordSec
