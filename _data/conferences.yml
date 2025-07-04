@@ -1197,11 +1197,11 @@
   
 - name: WAITI
   description: Workshop on AI for Cyber Threat Intelligence
-  year: 2024
+  year: 2025
   link: https://waiti-workshop.github.io/
-  deadline: ["2024-09-20 23:59"]
-  comment: Co-located with ACSAC 2024
-  date: December 9
+  deadline: ["2025-10-06 23:59"]
+  comment: Co-located with ACSAC 2025
+  date: December 8
   place: Waikiki, Hawaii, USA
   tags: [SEC, PRIV, SHOP]
 
