@@ -912,14 +912,13 @@
 
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
-  year: 2024
-  link: https://haspworkshop.org/2024/
-  comment: Co-located with MICRO
-  deadline: ["2024-08-15 23:59"]
-  date: November 2
-  timezone: Etc/UTC
-  place: Austin, Texas, United States
-  tags: [SEC, PRIV, SHOP]
+  year: 2025
+  link: https://haspworkshop.org/2025/index.html
+  deadline: ["2025-07-27 23:59"]
+  comment: Co-located with MICRO 2025
+  date: October 18
+  place: Seoul, Korea
+  tags: [SEC, PRIV, SHOP] 
 
 - name: PAVeTrust
   description: Program Analysis and Verification on Trusted Platforms
@@ -1385,4 +1384,4 @@
   comment: Co-located with ACM CCS 2025
   date: October 13
   place: Taipei, Taiwan
-  tags: [SEC, SHOP] 
+  tags: [SEC, SHOP]
