@@ -513,12 +513,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2025
-  link: https://dsn2025.github.io/
-  deadline: ["2024-12-04 23:59"]
-  comment: Abstract deadline on Nov 27
-  date: June 23-26
-  place: Naples, Italy
+  year: 2026
+  link: https://dsn2026.github.io/
+  deadline: ["2025-12-04 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: June 22-25
+  place: Charlotte, NC, USA
   tags: [SEC, CONF]
 
 - name: ACNS
