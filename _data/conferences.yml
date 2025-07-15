@@ -450,16 +450,16 @@
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2025
-  link: https://ches.iacr.org/2025/
+  year: 2026
+  link: https://ches.iacr.org/2026/
   deadline:
     - "%Y-07-15 23:59"
     - "%Y-10-15 23:59"
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: September 14-18
-  place: Kuala Lumpur, Malaysia
+  date: October 11-15
+  place: TBD, Turkey
   tags: [CRYPTO, CONF]
 
 - name: LightSEC
@@ -486,11 +486,11 @@
 
 - name: ACM SAC
   description: ACM/SIGAPP Symposium On Applied Computing
-  year: 2025
-  link: https://www.sigapp.org/sac/sac2025/
-  deadline: ["2024-10-04 23:59"]
-  date: March 31 - April 4
-  place: Catania, Italy
+  year: 2026
+  link: https://www.sigapp.org/sac/sac2026/
+  deadline: ["2025-9-26 23:59"]
+  date: March 23-27
+  place: Thessaloniki, Greece
   tags: [SEC, CONF]
 
 - name: RAID
@@ -513,12 +513,12 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2025
-  link: https://dsn2025.github.io/
-  deadline: ["2024-12-04 23:59"]
-  comment: Abstract deadline on Nov 27
-  date: June 23-26
-  place: Naples, Italy
+  year: 2026
+  link: https://dsn2026.github.io/
+  deadline: ["2025-12-04 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: June 22-25
+  place: Charlotte, NC, USA
   tags: [SEC, CONF]
 
 - name: ACNS
@@ -592,12 +592,12 @@
   tags: [SEC, CONF, PRIV]
 
 - name: eCrime
-  year: 2024
-  date: September 24-26
+  year: 2025
+  date: November 4-7
   description: The Symposium on Electronic Crime Research
-  link: https://apwg.org/event/ecrime2024/
-  deadline: ["2024-07-07 23:59"]
-  place: Boston, MA, USA
+  link: https://apwg.org/event/ecrime2025/
+  deadline: ["2025-07-29 23:59"]
+  place: San Diego, CA, USA
   tags: [SEC, PRIV, CONF]
 
 - name: PAM
