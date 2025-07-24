@@ -1,4 +1,15 @@
 # Security and Privacy  
+
+- name: BalCCon (BalCCon2k25)
+  year: 2025
+  date: September 19-21
+  description: Balkan Computer Congress - BalCCon2k25
+  link: https://balccon.org
+  deadline:
+    - "2025-07-31 23:59"
+  comment: Abstract registration required  
+  place: Serbia, Novi Sad
+  tags: [SEC, PRIV, CONF, SHOP]
   
 - name: S&P (Oakland)
   year: 2026
