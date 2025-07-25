@@ -1089,9 +1089,9 @@
   description: International Conference on Information Systems Security
   year: 2025
   link: https://iciss.isrdc.in/
-  deadline: ["2024-07-10 23:59"]
+  deadline: ["2025-07-25 23:59"]
   date: December 16-20
-  place: Indore, Madhya Pradesh, India
+  place: IIT Indore, India
   tags: [SEC, PRIV, CONF]
 
 - name: CPSS
