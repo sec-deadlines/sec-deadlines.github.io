@@ -730,13 +730,14 @@
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
-  year: 2025
+  year: 2026
   link: http://www.hostsymposium.org/
   deadline: 
-    - "2024-08-26 23:59"
-    - "2024-12-16 23:59"
-  date: May 5-8
-  place: San Jose, CA, USA
+    - "2025-08-26 23:59"
+    - "2025-12-08 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: May 4-7
+  place: Washington DC, USA
   tags: [SEC, CONF]
 
 - name: AsianHOST
