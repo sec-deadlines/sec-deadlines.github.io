@@ -1,5 +1,5 @@
-# Security and Privacy  
-  
+# Security and Privacy
+
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
@@ -11,7 +11,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF, TOP4]
-  
+
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2025
@@ -52,7 +52,7 @@
   description: European Symposium on Research in Computer Security
   year: 2025
   link: https://esorics2025.sciencesconf.org/
-  deadline: 
+  deadline:
     - "2025-01-10 23:59"
     - "2025-04-29 23:59"
   date: September 22-26
@@ -69,7 +69,7 @@
   date: "June 1-6"
   place: Bangalore, India
   tags: [SEC, PRIV, CONF]
-  
+
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
   year: 2026
@@ -90,10 +90,10 @@
   date: November 17-20
   place: Osaka, Japan
   tags: [SEC, CRYPTO, CONF]
-  
+
 
 - name: WiSec
-  description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
+  description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
   year: 2025
   link: https://wisec2025.gmu.edu/
   deadline:
@@ -112,7 +112,7 @@
   date: August 10-12
   place: Seattle, WA, USA
   tags: [SEC, PRIV, CONF]
-  
+
 - name: EuroUSEC
   description: European Symposium on Usable Security
   year: 2025
@@ -148,10 +148,10 @@
   link: https://emtechlab.github.io/sensors-security-privacy-workshop/
   deadline: ["2025-02-08 23:59"]
   date: May 6
-  comment: Co-located with Sensys at Cyber-Physical Systems and Internet-of-Things Week 
+  comment: Co-located with Sensys at Cyber-Physical Systems and Internet-of-Things Week
   place: Irvine, USA
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: ISC
   description: Information Security Conference
   year: 2025
@@ -160,7 +160,7 @@
   date: October 20-22
   place: Seoul, South Korea
   tags: [SEC, PRIV, CONF]
-  
+
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
   year: 2025
@@ -187,7 +187,7 @@
   deadline: ["2025-03-01 23:59"]
   place: Xiangtan, China
   tags: [SEC, CONF]
-  
+
 - name: NSS-SocialSec
   description: International Conference on Network and System Security and International Symposium on Security and Privacy in Social Networks and Big Data
   year: 2024
@@ -233,7 +233,7 @@
   date: August 11-14
   place: Ghent, BE
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: ICDIS
   description: International Conference on Data Intelligence and Security
   year: 2024
@@ -249,7 +249,7 @@
   link: https://conf.researchr.org/home/icst-2025/safe-ml-2025
   comment: Co-located with ICST
   deadline: ["2025-01-03 23:59"]
-  date: March 31 - April 4 
+  date: March 31 - April 4
   place: Naples, Italy
   tags: [SEC, PRIV, SHOP]
 
@@ -270,7 +270,7 @@
   date: May 23
   place: Maribor, Slovenia
   tags: [SEC, SHOP]
-  
+
 
 - name: ITASEC
   description: Italian Conference on Cybersecurity
@@ -280,7 +280,7 @@
   date: February 3-8
   place: Bologna, IT
   tags: [SEC, CONF]
-  
+
 # Privacy
 
 - name: PETS
@@ -312,7 +312,7 @@
   date: May 19-20
   description: The Annual Symposium on Applications of Contextual Integrity
   link: https://privaci.info/symposium/2025/cfp.html
-  deadline: ["2025-02-14 23:59"]  
+  deadline: ["2025-02-14 23:59"]
   place: Brussels, Belgium
   tags: [PRIV, CONF]
 
@@ -363,10 +363,10 @@
   link: https://asiacrypt.iacr.org/2025/
   deadline: ["2025-05-16 12:00"]
   timezone: Etc/GMT
-  date: December 8-12  
+  date: December 8-12
   place: Melbourne, Australia
   tags: [CRYPTO, CONF]
-  
+
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
   year: 2025
@@ -414,7 +414,7 @@
   date: June 12-14
   place: Bilboa, Spain
   tags: [SEC, CRYPTO, CONF]
-  
+
 - name: AFRICACRYPT
   description: International Conference on Cryptography Africa
   year: 2025
@@ -476,7 +476,7 @@
   description: Constructive Approaches for Security Analysis and Design of Embedded Systems
   year: 2026
   link: https://cascade-conference.org/index.html
-  deadline: 
+  deadline:
     - "2025-06-27 23:59"
     - "2025-12-05 23:59"
   date: March 30 - April 1
@@ -522,11 +522,23 @@
   place: Charlotte, NC, USA
   tags: [SEC, CONF]
 
+
+  - name: ACNS
+  description: International Conference on Applied Cryptography and Network Security
+  year: 2026
+  link: https://acns2026.github.io/
+  deadline:
+    - "2025-09-25 23:59"
+    - "2026-01-22 23:59"
+  date: June 22-25
+  place: New York, NY
+  tags: [CRYPTO, SEC, CONF]
+
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2025
   link: https://fordaysec.de/en/event/acns-2025
-  deadline: 
+  deadline:
     - "2024-09-09 23:59"
     - "2025-01-13 23:59"
   date: June 23-26
@@ -543,7 +555,7 @@
   date: July 9-11
   place: Graz, Austria
   tags: [SEC, CONF]
-  
+
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
   year: 2025
@@ -626,9 +638,9 @@
   link: https://acsw.unimore.it/
   deadline: ["2025-02-19 23:59"]
   date: June 30
-  place: Venice, Italy 
+  place: Venice, Italy
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: OSVS
   description: Workshop on Operating Systems and Virtualization Security
   year: 2025
@@ -653,7 +665,7 @@
   year: 2025
   description: International Conference on Risks and Security of Internet and Systems
   link: https://crisis2025.uqo.ca
-  deadline: ["2025-07-15 23:59"] 
+  deadline: ["2025-07-15 23:59"]
   date: October 22-24
   place: Gatineau, Canada
   tags: [SEC, PRIV, CONF]
@@ -662,7 +674,7 @@
   year: 2025
   description: International Conference on Provable and Practical Security
   link: https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
-  deadline: ["2025-05-31 23:59"] 
+  deadline: ["2025-05-31 23:59"]
   date: October 10-12
   place: Yokohama, Japan
   tags: [SEC, PRIV, CONF]
@@ -672,7 +684,7 @@
   year: 2025
   date: "November 4 - 6"
   description: ESA Security for Space Systems Conference
-  deadline: 
+  deadline:
     - "2025-04-16 23:59"
     - "2025-06-30 23:59"
   link: https://security4space.esa.int/2025/cfp/
@@ -732,7 +744,7 @@
   description: IEEE International Symposium on Hardware Oriented Security and Trust
   year: 2026
   link: http://www.hostsymposium.org/
-  deadline: 
+  deadline:
     - "2025-08-26 23:59"
     - "2025-12-08 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
@@ -745,7 +757,7 @@
   year: 2024
   link: https://www.asianhost.org/2024/
   deadline: ["2024-08-04 23:59"]
-  date: December 16-18 
+  date: December 16-18
   timezone: Asia/Shanghai
   place: Kobe, Japan
   tags: [SEC, CONF]
@@ -796,7 +808,7 @@
   description: ACNS Workshop on Security in Machine Learning and its Applications
   year: 2025
   link: https://simla-workshop2025.github.io/
-  deadline: 
+  deadline:
     - "2025-01-15 23:59"
     - "2025-03-23 23:59"
   comment: In conjunction with ACNS 2025
@@ -813,7 +825,7 @@
   date: October 17
   place: Taipei, Taiwan
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: AISec
   description: Workshop on Artificial Intelligence and Security
   year: 2025
@@ -862,7 +874,7 @@
   comment: In conjunction with ACSAC
   date: December 10
   place: Waikiki, Hawaii, USA
-  tags: [SEC, SHOP] 
+  tags: [SEC, SHOP]
 
 - name: WEB3SEC
   description: Workshop Encouraging Building Better Blockchain Security
@@ -872,7 +884,7 @@
   comment: In conjunction with ACSAC
   date: December 9
   place: Waikiki, Hawaii, USA
-  tags: [SEC, SHOP] 
+  tags: [SEC, SHOP]
 
 - name: ARTMAN
   description: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN system
@@ -882,7 +894,7 @@
   comment: In conjunction with CCS
   date: October 17
   place: Taipei, Taiwan
-  tags: [SEC, SHOP] 
+  tags: [SEC, SHOP]
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
@@ -892,7 +904,7 @@
   comment: In conjunction with ACM CCS
   date: October 13
   place: Taipei, Taiwan
-  tags: [PRIV, SHOP] 
+  tags: [PRIV, SHOP]
 
 - name: NSPW
   description: New Security Paradigms Workshop
@@ -920,7 +932,7 @@
   comment: Co-located with MICRO 2025
   date: October 18
   place: Seoul, Korea
-  tags: [SEC, PRIV, SHOP] 
+  tags: [SEC, PRIV, SHOP]
 
 - name: PAVeTrust
   description: Program Analysis and Verification on Trusted Platforms
@@ -937,7 +949,7 @@
   year: 2025
   link: https://spacesec.info/
   comment: Co-located with NDSS Symposium
-  deadline: 
+  deadline:
     - "2024-12-09 23:59"
   date: February 24
   place: San Diego, California, USA
@@ -948,12 +960,12 @@
   year: 2025
   link: https://madweb.work/
   comment: Co-located with NDSS Symposium
-  deadline: 
+  deadline:
     - "2025-01-09 23:59"
   date: February 28
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
   year: 2025
@@ -963,7 +975,7 @@
   date: August 11-12
   place: Seattle, WA, USA
   tags: [SEC, PRIV, CRYPTO, CONF]
- 
+
 - name: SafeThings
   description: IEEE/ACM Workshop on the Internet of Safe Things
   year: 2025
@@ -983,7 +995,7 @@
   date: July 12
   place: Vienna, Austria
   tags: [SEC, SHOP]
-  
+
 - name: MALIoT
   description: Malicious Software and Hardware in Internet of Things
   year: 2025
@@ -993,8 +1005,8 @@
   date: May 28
   place: Cagliari, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
-  
-- name: DevSecOpsRO 
+
+- name: DevSecOpsRO
   year: 2025
   date: July 4
   description: DevSecOps Research and Opportunities
@@ -1023,9 +1035,9 @@
   date: September 16-20
   place: Bydgoszcz, Poland
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: ASHES
-  description: Workshop on Attacks and Solutions in Hardware Security 
+  description: Workshop on Attacks and Solutions in Hardware Security
   year: 2024
   comment: Co-located with ACM CCS '24
   link: http://ashesworkshop.org/home
@@ -1034,7 +1046,7 @@
   date: October 18
   place: Salt Lake City, Utah, United States
   tags: [SEC, SHOP]
-  
+
 - name: SCORED
   description: ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses
   year: 2024
@@ -1054,7 +1066,7 @@
   place: Toulouse, France
   date: September 25
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: CBT
   description: International Workshop on Cryptocurrencies and Blockchain Technology
   comment: Co-located with ESORICS 2025
@@ -1063,7 +1075,7 @@
   deadline:
     - "2025-06-30 23:59"
   place: Toulouse, France
-  date: September 25 
+  date: September 25
   tags: [SEC, CRYPTO, SHOP]
 
 - name: CyberHunt
@@ -1072,7 +1084,7 @@
   link: https://cyberhunt2024.cyberhunt.no/
   deadline: ["2024-10-01 23:59"]
   comment: Co-located with IEEE BigData 2024
-  date: December 15-18 
+  date: December 15-18
   place: Washington DC, USA
   tags: [SEC, SHOP]
 
@@ -1106,7 +1118,7 @@
   date: "August 26"
   place: Hanoi, Vietnam
   tags: [SEC, PRIV, SHOP]
-   
+
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
   year: 2025
@@ -1116,7 +1128,7 @@
   place: Venezia, Italy
   tags: [SEC, PRIV]
 
-- name: IWSEC 
+- name: IWSEC
   description: International Workshop on Security
   year: 2025
   link: https://www.iwsec.org/2025/
@@ -1166,7 +1178,7 @@
   date: October 18
   place: Salt Lake City, USA
   tags: [SEC, PRIV, SHOP]
-  
+
 - name: SmartSP
   description: EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles
   year: 2025
@@ -1195,7 +1207,7 @@
   date: April 8
   place: Taipei, Taiwan
   tags: [CRYPTO, CONF]
-  
+
 - name: WAITI
   description: Workshop on AI for Cyber Threat Intelligence
   year: 2025
@@ -1262,7 +1274,7 @@
   link: https://st.fbk.eu/events/SeRIM2025/
   deadline: ["2025-03-10 23:59"]
   date: July 4
-  place: Venice, Italy 
+  place: Venice, Italy
   tags: [SEC, PRIV, SHOP]
 
 - name: Crypto Valley Conference
@@ -1303,7 +1315,7 @@
   date: September 25-26
   place: Toulouse, France
   tags: [SEC, PRIV, CRYPTO, SHOP]
-  
+
 - name: uASC
   description: Microarchitecture Security Conference
   year: 2026
@@ -1330,14 +1342,14 @@
   description: 10th IEEE International Workshop on Cyber-Physical Systems Security
   year: 2025
   link: https://spritz.math.unipd.it/events/2025/CPS-Sec2025/
-  deadline: 
+  deadline:
     - "2025-07-10 23:59"
   comment: In conjunction with IEEE CNS
   date: September 11
   place: Avignon, France
   tags: [SEC, SHOP]
 
-- name: OPTIMIST 
+- name: OPTIMIST
   description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
   year: 2025
   link: https://optimist-ose.org/ches25
@@ -1366,7 +1378,7 @@
   comment: Co-located with ACM CCS 2025
   date: October 13
   place: Taipei, Taiwan
-  tags: [SEC, SHOP] 
+  tags: [SEC, SHOP]
 
 - name: B4TI
   description: Workshop on Blockchain for Decentralized Trust and Digital Identity
@@ -1376,7 +1388,7 @@
   comment: Co-located with BCCA 2025
   date: October 14-17
   place: Dubrovnik, Croatia
-  tags: [SEC, PRIV, CRYPTO, SHOP] 
+  tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: SURE
   description: Workshop on Software Understanding and Reverse Engineering
