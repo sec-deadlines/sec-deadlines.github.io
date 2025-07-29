@@ -711,12 +711,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: NordSec
-  year: 2024
+  year: 2025
   description: Nordic Conference on Secure IT Systems
-  link: https://nordsec2024.kau.se/
-  deadline: ["2024-08-21 23:59"]
-  date: "November 6-7"
-  place: Karlstad, Sweden
+  link: https://nordsec2025.cs.ut.ee/
+  deadline: ["2025-08-17 23:59"]
+  date: "November 12-13"
+  place: Tartu, Estonia
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
