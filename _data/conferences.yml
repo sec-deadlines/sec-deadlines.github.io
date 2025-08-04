@@ -534,17 +534,6 @@
   place: New York, NY
   tags: [CRYPTO, SEC, CONF]
 
-- name: ACNS
-  description: International Conference on Applied Cryptography and Network Security
-  year: 2025
-  link: https://fordaysec.de/en/event/acns-2025
-  deadline:
-    - "2024-09-09 23:59"
-    - "2025-01-13 23:59"
-  date: June 23-26
-  place: Munich, Germany
-  tags: [CRYPTO, SEC, CONF]
-
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
   year: 2025
