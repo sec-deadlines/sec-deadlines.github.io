@@ -522,8 +522,7 @@
   place: Charlotte, NC, USA
   tags: [SEC, CONF]
 
-
-  - name: ACNS
+- name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2026
   link: https://acns2026.github.io/
