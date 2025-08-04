@@ -445,8 +445,8 @@
     - "%Y-09-01 23:59"
     - "%Y-11-23 23:59"
   comment: Rolling deadline every quarter
-  date: TBD
-  place: TBD
+  date: March 23-27
+  place: Singapore, Singapore
   tags: [CRYPTO, CONF]
 
 - name: CHES
@@ -460,7 +460,7 @@
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
   date: October 11-15
-  place: TBD, Turkey
+  place: TBD, Türkiye
   tags: [CRYPTO, CONF]
 
 - name: LightSEC
