@@ -1128,13 +1128,12 @@
 
 - name: CSET
   description: Cyber Security Experimentation and Test Workshop
-  year: 2024
-  link: https://cset24.isi.edu/
-  comment: Co-located with USENIX Security
-  deadline: ["2024-05-17 20:00"]
-  timezone: America/New_York
-  date: August 13
-  place: Philadelphia, PA, USA
+  year: 2025
+  link: https://cset25.isi.edu/
+  comment: Co-located with ACSAC
+  deadline: ["2025-09-10 23:59"]
+  date: December 8
+  place: Honolulu, Hawaii, USA
   tags: [SEC, SHOP]
 
 - name: QSNS
