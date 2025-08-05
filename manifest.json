@@ -1,0 +1,16 @@
+{
+  "name": "Sec Deadlines",
+  "short_name": "Sec Deadlines",
+  "start_url": ".",
+  "background_color": "black",
+  "theme_color": "black",
+  "description": "Deadline countdowns for academic conferences in Security and Privacy",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "static/img/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
