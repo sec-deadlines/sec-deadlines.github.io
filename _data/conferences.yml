@@ -293,8 +293,8 @@
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: TBD (July)
-  place: TBD
+  date: July 20-25
+  place: Calgary, Canada
   tags: [PRIV, CONF]
 
 - name: PLAS
