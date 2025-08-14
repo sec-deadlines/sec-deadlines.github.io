@@ -387,12 +387,11 @@
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2025
-  link: https://pkc.iacr.org/2025/
-  deadline: ["2024-10-16 09:59"]
-  timezone: Etc/UTC
-  date: May 12-15
-  place: Røros, Norway
+  year: 2026
+  link: https://pkc.iacr.org/2026/
+  deadline: ["2025-10-24 09:59"]
+  date: May 25-28
+  place: West Palm Beach, FL, USA
   tags: [CRYPTO, CONF]
 
 - name: CT-RSA
