@@ -125,11 +125,11 @@
 
 - name: FC
   description: Financial Cryptography and Data Security
-  year: 2025
-  link: https://fc25.ifca.ai
-  deadline: ["2024-10-08 23:59"]
-  date: April 14-18
-  place: Miyakojima, Japan
+  year: 2026
+  link: https://fc26.ifca.ai
+  deadline: ["2025-09-16 23:59"]
+  date: March 2–6 March
+  place: St. Kitts
   tags: [SEC, CRYPTO, CONF]
 
 - name: Euro S&P
