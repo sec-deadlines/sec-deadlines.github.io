@@ -125,11 +125,11 @@
 
 - name: FC
   description: Financial Cryptography and Data Security
-  year: 2025
-  link: https://fc25.ifca.ai
-  deadline: ["2024-10-08 23:59"]
-  date: April 14-18
-  place: Miyakojima, Japan
+  year: 2026
+  link: https://fc26.ifca.ai
+  deadline: ["2025-09-16 23:59"]
+  date: March 2–6 March
+  place: St. Kitts
   tags: [SEC, CRYPTO, CONF]
 
 - name: Euro S&P
@@ -293,8 +293,8 @@
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: TBD (July)
-  place: TBD
+  date: July 20-25
+  place: Calgary, Canada
   tags: [PRIV, CONF]
 
 - name: PLAS
@@ -387,12 +387,11 @@
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2025
-  link: https://pkc.iacr.org/2025/
-  deadline: ["2024-10-16 09:59"]
-  timezone: Etc/UTC
-  date: May 12-15
-  place: Røros, Norway
+  year: 2026
+  link: https://pkc.iacr.org/2026/
+  deadline: ["2025-10-24 09:59"]
+  date: May 25-28
+  place: West Palm Beach, FL, USA
   tags: [CRYPTO, CONF]
 
 - name: CT-RSA
