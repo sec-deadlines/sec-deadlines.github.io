@@ -171,12 +171,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: FPS
-  year: 2024
-  date: "Dec 9–11"
-  description: Foundations and Practice of Security Symposium
-  link: https://fps-2024.hec.ca
-  deadline: ["2024-09-06 23:59"]
-  place: Montreal, Canada
+  description: International Symposium on Foundations & Practice of Security
+  year: 2025
+  link: https://hub.imt-atlantique.fr/fps2025/
+  deadline: ["2025-09-15 23:59"]
+  date: November 25-27
+  place: Brest, France
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SecureComm
