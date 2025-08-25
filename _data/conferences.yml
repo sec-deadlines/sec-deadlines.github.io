@@ -679,12 +679,11 @@
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
   
-- name: SSR 2025
+- name: SSR
   year: 2025
-  date: "December 4 - 5"
+  date: "December 4-5"
   description: Security Standardisation Research Conference
-  deadline:
-    - "2025-10-05 23:59"
+  deadline: ["2025-10-05 23:59"]
   link: https://www.uni-passau.de/ssr2025/
   place: Passau, Germany
   tags: [SEC, CONF, CRYPTO]
