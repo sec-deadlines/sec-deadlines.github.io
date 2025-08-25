@@ -677,6 +677,15 @@
   link: https://security4space.esa.int/2025/cfp/
   place: ESTEC, Noordwijk, Netherlands
   tags: [SEC, CONF]
+  
+- name: SSR
+  year: 2025
+  date: "December 4-5"
+  description: Security Standardisation Research Conference
+  deadline: ["2025-10-05 23:59"]
+  link: https://www.uni-passau.de/ssr2025/
+  place: Passau, Germany
+  tags: [SEC, CONF, CRYPTO]
 
 # Don't delete just yet, has popped up on off years before https://ieeexplore.ieee.org/xpl/conhome/1843824/all-proceedings
 - name: SEED
