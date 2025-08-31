@@ -583,12 +583,12 @@
 
 - name: The Web Conference
   description: International Conference on the World Wide Web
-  year: 2025
+  year: 2026
   link: https://www2025.thewebconf.org
-  deadline: ["2024-10-14 23:59"]
-  comment: Abstract deadline Oct 7 AoE.
-  date: April 28 - May 02
-  place: Sydney, Australia
+  deadline: ["2025-10-07 23:59"]
+  comment: Abstract deadline: September 30 AoE.
+  date: April 13-17
+  place: Dubai, United Arab Emirates
   tags: [SEC, CONF, PRIV]
 
 - name: eCrime
