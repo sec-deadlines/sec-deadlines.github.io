@@ -942,12 +942,12 @@
 
 - name: SpaceSec
   description: Workshop on the Security of Space and Satellite Systems
-  year: 2025
+  year: 2026
   link: https://spacesec.info/
   comment: Co-located with NDSS Symposium
   deadline:
-    - "2024-12-09 23:59"
-  date: February 24
+    - "2025-11-09 23:59"
+  date: February 23
   place: San Diego, California, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
