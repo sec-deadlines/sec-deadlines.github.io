@@ -1,5 +1,13 @@
 # Security and Privacy
-
+- name: PrivaCI
+  description: The 8th Annual PrivaCI Symposium
+  year: 2026
+  link: https://privaci.info/symposium/2026/cfp.html
+  deadline: ["2026-02-13 23:59"]  # must be a list
+  date: June 24-25
+  place: Urbana-Champaign, USA
+  tags: [PRIV]
+  
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
