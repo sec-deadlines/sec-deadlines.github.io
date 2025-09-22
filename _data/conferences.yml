@@ -405,13 +405,13 @@
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
-  year: 2025
+  year: 2026
   link: https://secrypt.scitevents.org
   deadline:
-     - "2025-01-17 23:59"
-     - "2025-03-03 23:59"
-  date: June 12-14
-  place: Bilboa, Spain
+     - "2026-03-03 23:59"
+     - "2026-04-16 23:59"
+  date: July 16-18
+  place: Porto, Portugal
   tags: [SEC, CRYPTO, CONF]
 
 - name: AFRICACRYPT
