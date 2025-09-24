@@ -1,5 +1,5 @@
 # Security and Privacy
-
+  
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
@@ -307,13 +307,13 @@
   place: Salt Lake City, USA
   tags: [SEC, PRIV, SHOP]
 
-- name: ACIS (PrivaCI)
-  year: 2025
-  date: May 19-20
+- name: PrivaCI
   description: The Annual Symposium on Applications of Contextual Integrity
-  link: https://privaci.info/symposium/2025/cfp.html
-  deadline: ["2025-02-14 23:59"]
-  place: Brussels, Belgium
+  year: 2026
+  link: https://privaci.info/symposium/2026/cfp.html
+  deadline: ["2026-02-13 23:59"]
+  date: June 24-25
+  place: Urbana-Champaign, USA
   tags: [PRIV, CONF]
 
 # Crypto
