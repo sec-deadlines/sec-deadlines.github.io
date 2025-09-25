@@ -601,11 +601,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: PAM
-  year: 2025
-  date: "March 10-12"
+  year: 2026
+  date: "March 23-25"
   description: Passive and Active Measurement Conference
-  link: https://udesa.edu.ar/pam25
-  deadline: ["2024-10-08 23:59"]
+  link: https://pam2026.at/
+  deadline: ["2025-10-08 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
   place: Virtual
   tags: [SEC, PRIV, CONF]
 
