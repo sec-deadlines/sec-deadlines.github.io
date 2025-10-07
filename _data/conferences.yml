@@ -11,7 +11,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF, TOP4]
-fS
+
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2025
@@ -563,12 +563,12 @@ fS
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
-  year: 2025
-  link: http://www.codaspy.org/2025/
-  deadline: ["2024-12-06 23:59"]
-  comment: Abstract deadline December 1 AoE.
-  date: June 4-6
-  place: Pittsburgh, PA, USA
+  year: 2026
+  link: http://www.codaspy.org/2026/
+  deadline: ["2025-12-19 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: June 23-25
+  place: Frankfurt am Main, Germany
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: DBSec
