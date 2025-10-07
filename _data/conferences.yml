@@ -1404,3 +1404,18 @@
   date: December 5
   place: Istanbul, Turkey
   tags: [SEC, CONF]
+
+- name: ADHOCNETS
+  description: 16th EAI International Conference on Ad Hoc Networks
+  year: 2025
+  link: https://adhocnets.eai-conferences.org/2025/
+  deadline: ["2025-10-20 23:59"]
+  date: December 4-5
+  place: Istanbul, Turkey
+  tags: [SEC, CONF]
+
+
+
+
+
+  
