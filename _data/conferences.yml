@@ -180,12 +180,12 @@
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SecureComm
-  year: 2025
-  date: "July 4-6"
+  year: 2026
+  date: "August 24-26"
   description: International Conference on Security and Privacy in Communication Networks
-  link: https://securecomm.eai-conferences.org/2025/
-  deadline: ["2025-03-01 23:59"]
-  place: Xiangtan, China
+  link: https://securecomm.eai-conferences.org/2026/
+  deadline: ["2026-03-15 23:59"]
+  place: Lancaster, United Kingdom
   tags: [SEC, CONF]
 
 - name: NSS-SocialSec
@@ -534,13 +534,13 @@
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2025
-  link: https://www.dimva.org/dimva2025/
+  year: 2026
+  link: https://www.dimva.org/dimva2026/
   deadline:
-    - "2024-12-04 23:59"
-    - "2025-02-19 23:59"
-  date: July 9-11
-  place: Graz, Austria
+    - "2025-12-03 23:59"
+    - "2026-02-11 23:59"
+  date: July 01-03
+  place: Chania, Greece
   tags: [SEC, CONF]
 
 - name: SACMAT
@@ -563,12 +563,12 @@
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
-  year: 2025
-  link: http://www.codaspy.org/2025/
-  deadline: ["2024-12-06 23:59"]
-  comment: Abstract deadline December 1 AoE.
-  date: June 4-6
-  place: Pittsburgh, PA, USA
+  year: 2026
+  link: http://www.codaspy.org/2026/
+  deadline: ["2025-12-19 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: June 23-25
+  place: Frankfurt am Main, Germany
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: DBSec
