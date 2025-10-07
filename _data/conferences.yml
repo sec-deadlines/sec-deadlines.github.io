@@ -1396,11 +1396,11 @@
   place: Taipei, Taiwan
   tags: [SEC, SHOP]
 
-  - name: EAI WICON
-  description: 18th EAI International Conference on Wireless Internet
+- name: WICON
+  description: EAI International Conference on Wireless Internet
   year: 2025
   link: https://wicon.eai-conferences.org/2025/
-  deadline: ["2025-06-27 23:59"]
-  date: December 4-5
+  deadline: ["2025-10-20 23:59"]
+  date: December 5
   place: Istanbul, Turkey
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, CONF]
