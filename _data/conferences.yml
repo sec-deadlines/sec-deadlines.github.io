@@ -11,7 +11,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Francisco, California, USA
   tags: [SEC, PRIV, CONF, TOP4]
-
+fS
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2025
@@ -180,12 +180,12 @@
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SecureComm
-  year: 2025
-  date: "July 4-6"
+  year: 2026
+  date: "August 24-26"
   description: International Conference on Security and Privacy in Communication Networks
-  link: https://securecomm.eai-conferences.org/2025/
-  deadline: ["2025-03-01 23:59"]
-  place: Xiangtan, China
+  link: https://securecomm.eai-conferences.org/2026/
+  deadline: ["2026-03-15 23:59"]
+  place: Lancaster, United Kingdom
   tags: [SEC, CONF]
 
 - name: NSS-SocialSec
