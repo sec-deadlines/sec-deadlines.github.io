@@ -1,5 +1,16 @@
 # Security and Privacy
 
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2026
+  link: https://www.sacmat.org/2026/
+  deadline: 
+    - "2025-10-27 23:59"
+    - "2026-03-02 23:59"
+  date: July 8-10
+  place: Waterloo, Canada
+  tags: [CRYPTO, SEC, CONF, PRIV]
+
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
