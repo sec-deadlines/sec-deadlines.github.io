@@ -954,12 +954,12 @@
 
 - name: MADWeb
   description: Workshop on Measurements, Attacks, and Defenses for the Web
-  year: 2025
+  year: 2026
   link: https://madweb.work/
   comment: Co-located with NDSS Symposium
   deadline:
-    - "2025-01-09 23:59"
-  date: February 28
+    - "2025-12-11 23:59"
+  date: February 27
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
 
