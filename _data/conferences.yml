@@ -545,11 +545,13 @@
 
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
-  year: 2025
-  link: https://www.sacmat.org/2025/
-  deadline: ["2025-03-31 23:59"]
+  year: 2026
+  link: https://www.sacmat.org/2026/
+  deadline: 
+    - "2025-10-27 23:59"
+    - "2026-03-02 23:59"
   date: July 8-10
-  place: Stony Brook, New York, United States
+  place: Waterloo, Canada
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: ARES
