@@ -956,12 +956,12 @@
 
 - name: MADWeb
   description: Workshop on Measurements, Attacks, and Defenses for the Web
-  year: 2025
+  year: 2026
   link: https://madweb.work/
   comment: Co-located with NDSS Symposium
   deadline:
-    - "2025-01-09 23:59"
-  date: February 28
+    - "2025-12-11 23:59"
+  date: February 27
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
 
@@ -1015,14 +1015,14 @@
   tags: [SEC, SHOP]
 
 - name: FUZZING
-  year: 2024
-  date: "September 16"
+  year: 2026
+  date: "February 27"
   description: International Fuzzing Workshop
-  link: https://fuzzingworkshop.github.io/index.html
+  link: https://fuzzing-workshop.github.io/
   deadline:
-    - "2024-06-24 23:59"
-  place: Vienna, Austria
-  comment: Co-located with ISSTA 2024
+    - "2025-12-11 23:59"
+  place: San Diego, CA, USA
+  comment: Co-located with NDSS 2026
   tags: [SEC, SHOP]
 
 - name: SECAI
@@ -1198,12 +1198,12 @@
 
 - name: PQCrypto
   description: International Conference on Post-Quantum Cryptography
-  year: 2025
-  link: https://pqcrypto2025.iis.sinica.edu.tw/
-  deadline: ["2024-11-01 23:59"]
-  comment: Initial submission with abstract required Oct 25th.
-  date: April 8
-  place: Taipei, Taiwan
+  year: 2026
+  link: https://pqcrypto2026.irisa.fr/
+  deadline: ["2025-11-07 23:59"]
+  comment: Initial submission with abstract required Oct 31st.
+  date: April 14-16
+  place: Saint-Malo, France
   tags: [CRYPTO, CONF]
 
 - name: WAITI
