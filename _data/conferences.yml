@@ -234,15 +234,6 @@
   place: Ghent, BE
   tags: [SEC, PRIV, SHOP]
 
-- name: ICDIS
-  description: International Conference on Data Intelligence and Security
-  year: 2024
-  link: https://www.icdis.org/
-  deadline: ["2024-06-28 23:59"]
-  date: November 25-28
-  place: Leipzig, Germany
-  tags: [SEC, PRIV, CONF]
-
 - name: SAFE-ML
   description: International Workshop on Secure, Accountable, and Verifiable Machine Learning
   year: 2025
@@ -985,16 +976,6 @@
   place: San Francisco, CA, USA
   tags: [SEC, PRIV, SHOP]
 
-- name: SILM
-  description: Security of Software/Hardware Interfaces
-  year: 2024
-  link: https://silm-workshop.github.io/
-  deadline: ["2024-03-29 23:59"]
-  comment: Co-located with EURO S&P 2024
-  date: July 12
-  place: Vienna, Austria
-  tags: [SEC, SHOP]
-
 - name: MALIoT
   description: Malicious Software and Hardware in Internet of Things
   year: 2025
@@ -1085,16 +1066,6 @@
   comment: Co-located with IEEE BigData 2024
   date: December 15-18
   place: Washington DC, USA
-  tags: [SEC, SHOP]
-
-- name: IoT-SECFOR
-  description: International Workshop on Security and Forensics of IoT
-  year: 2024
-  link: https://www.ares-conference.eu/workshops/iotsecfor/
-  deadline: ["2024-04-29 23:59"]
-  comment: Co-located with ARES 2024
-  date: Jul 30
-  place: Vienna, Austria
   tags: [SEC, SHOP]
 
 - name: ICISS
