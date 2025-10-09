@@ -1013,14 +1013,14 @@
   tags: [SEC, SHOP]
 
 - name: FUZZING
-  year: 2024
-  date: "September 16"
+  year: 2026
+  date: "February 27"
   description: International Fuzzing Workshop
-  link: https://fuzzingworkshop.github.io/index.html
+  link: https://fuzzing-workshop.github.io/
   deadline:
-    - "2024-06-24 23:59"
-  place: Vienna, Austria
-  comment: Co-located with ISSTA 2024
+    - "2025-12-11 23:59"
+  place: San Diego, CA, USA
+  comment: Co-located with NDSS 2026
   tags: [SEC, SHOP]
 
 - name: SECAI
