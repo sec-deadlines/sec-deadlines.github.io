@@ -1196,12 +1196,12 @@
 
 - name: PQCrypto
   description: International Conference on Post-Quantum Cryptography
-  year: 2025
-  link: https://pqcrypto2025.iis.sinica.edu.tw/
-  deadline: ["2024-11-01 23:59"]
-  comment: Initial submission with abstract required Oct 25th.
-  date: April 8
-  place: Taipei, Taiwan
+  year: 2026
+  link: https://pqcrypto2026.irisa.fr/
+  deadline: ["2025-11-07 23:59"]
+  comment: Initial submission with abstract required Oct 31st.
+  date: April 14-16
+  place: Saint-Malo, France
   tags: [CRYPTO, CONF]
 
 - name: WAITI
