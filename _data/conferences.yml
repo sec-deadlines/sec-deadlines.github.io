@@ -660,6 +660,18 @@
   place: Yokohama, Japan
   tags: [SEC, PRIV, CONF]
 
+- name: ACM IMC
+  year: 2026
+  description: ACM Internet Measurement Conference
+  link: https://conferences.sigcomm.org/imc/2026/
+  deadline:
+    - "2025-11-20 23:59"
+    - "2026-04-29 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: November 3-6
+  place: Karlsruhe, Germany
+  tags: [SEC, PRIV, CONF]
+
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
   year: 2025
