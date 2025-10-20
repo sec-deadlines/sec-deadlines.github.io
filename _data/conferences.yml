@@ -14,14 +14,14 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2025
-  link: https://www.sigsac.org/ccs/CCS2025
+  year: 2026
+  link: https://www.sigsac.org/ccs/CCS2026
   deadline:
-    - "2025-01-09 23:59"
-    - "2025-04-14 23:59"
+    - "2026-01-14 23:59"
+    - "2026-04-29 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
-  date: October 13-17
-  place: Taipei, Taiwan
+  date: November 15-19
+  place: The Hague, The Netherlands
   tags: [SEC, PRIV, CONF, TOP4]
 
 - name: USENIX Security
