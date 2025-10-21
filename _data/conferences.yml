@@ -956,6 +956,39 @@
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
 
+- name: SDIoTSec
+  description: Workshop on Security and Privacy in Standardized IoT
+  year: 2026
+  link: https://sdiotsec.github.io/
+  comment: Co-located with NDSS Symposium
+  deadline:
+    - "2025-12-10 23:59"
+  date: February 23
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, SHOP]
+
+- name: WOSOC
+  description: Workshop on SOC Operations and Construction
+  year: 2026
+  link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-wosoc/
+  comment: Co-located with NDSS Symposium
+  deadline:
+    - "2025-12-22 23:59"
+  date: February 23-27
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, SHOP]
+
+- name: LAST-X
+  description: Workshop on LLM Assisted Security and Trust Exploration
+  year: 2026
+  link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-last-x/
+  comment: Co-located with NDSS Symposium
+  deadline:
+    - "2025-11-20 23:59"
+  date: February 23-27
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, SHOP]
+
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
   year: 2025
