@@ -1012,6 +1012,17 @@
   place: San Diego, California, USA
   tags: [SEC, PRIV, CONF]
 
+- name: PRISM
+  description: Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment
+  year: 2026
+  link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-prism/
+  comment: Co-located with NDSS Symposium
+  deadline:
+    - "2025-12-15 23:59"
+  date: February 23
+  place: San Diego, California, USA
+  tags: [SEC, PRIV, CONF]
+
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
   year: 2026
@@ -1260,7 +1271,7 @@
   year: 2026
   link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-futureg/
   deadline: ["2026-01-06 23:59"]
-  comment: Co-located with NDSS Symposium 2025
+  comment: Co-located with NDSS Symposium
   date: February 23
   place: San Diego, California, USA
   tags: [SEC, PRIV, SHOP]
