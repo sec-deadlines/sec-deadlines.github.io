@@ -1158,6 +1158,16 @@
   place: Hanoi, Vietnam
   tags: [SEC, PRIV, SHOP]
 
+- name: FL
+  description: International Workshop on Secure and Efficient Federated Learning
+  year: 2026
+  link: https://federated-learning.org/fl-asiaccs-2026/
+  comment: Co-located with ACM AsiaCCS
+  deadline: ["2026-02-13 23:59"]
+  date: "June 2"
+  place: Bangalore, India
+  tags: [SEC, PRIV, SHOP]
+
 - name: WACCO
   description: Workshop on Attackers and Cyber-Crime Operations
   year: 2025
