@@ -1,5 +1,15 @@
 # Security and Privacy
 
+- name: SeRIM
+  description: International Workshop on Security and Risk in Identity Management
+  year: 2026
+  comment: Co-Located with IEEE European Symposium on Security and Privacy (EuroS&P).
+  link: https://st.fbk.eu/events/SeRIM2026/
+  deadline: ["2026-03-01 23:59"]
+  date: July 10
+  place: Lisbon, Portugal
+  tags: [SEC, PRIV, SHOP]
+
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
