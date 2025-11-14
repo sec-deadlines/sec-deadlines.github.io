@@ -405,13 +405,13 @@
   place: Porto, Portugal
   tags: [SEC, CRYPTO, CONF]
 
-- name: AFRICACRYPT
+- name: AfricaCrypt
   description: International Conference on Cryptography Africa
-  year: 2025
-  link: https://africacrypt2025.sciencesconf.org/
-  deadline: ["2025-03-01 23:59"]
-  date: July 21-23
-  place: Rabat, Morocco
+  year: 2026
+  link: https://www.africacrypt2026.tn/
+  deadline: ["2026-03-01 23:59"]
+  date: July 08-10
+  place: Hammamet, Tunisia
   tags: [CRYPTO, CONF]
 
 # Don't delete Latincrypt since it is often once every few years
