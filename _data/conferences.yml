@@ -1336,12 +1336,12 @@
 
 - name: APKC
   description: ACM ASIA Public-Key Cryptography Workshop
-  year: 2025
-  link: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2025.html
-  comment: Co-located with ACM AsiaCCS 2025
-  deadline: ["2025-02-17 23:59"]
-  date: August 26
-  place: Hanoi, Vietnam
+  year: 2026
+  link: https://iseclab.ec.t.kanazawa-u.ac.jp/en/APKC2026.html
+  comment: Co-located with ACM AsiaCCS 2026
+  deadline: ["2026-01-20 23:59"]
+  date: June 2 
+  place: Bangalore, India
   tags: [SEC, CRYPTO, SHOP]
 
 - name: MIST
