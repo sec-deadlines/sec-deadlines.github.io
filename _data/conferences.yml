@@ -1466,7 +1466,16 @@
   place: Istanbul, Turkey
   tags: [SEC, CONF]
 
-
+- name: CPSS
+  description: ACM Cyber-Physical System Security Workshop
+  year: 2026
+  link: https://cpss26.github.io/
+  comment: Co-located with ACM AsiaCCS 2026
+  deadline:
+    - "2026-01-24 23:59"
+  date: June 2
+  place: Bangalore, India
+  tags: [SEC, PRIV, SHOP]
 
 
 
