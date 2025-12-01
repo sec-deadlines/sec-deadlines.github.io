@@ -309,6 +309,15 @@
 
 # Crypto
 
+- name: SAC
+  description: Selected Areas in Cryptography
+  year: 2026
+  link: https://sacworkshop.org/SAC26/
+  deadline: ["2026-02-02 23:59", "2026-05-11 23:59"]
+  date: August 24-25
+  place: Ottawa, ON, Canada
+  tags: [CRYPTO, CONF]
+
 - name: Crypto
   description: International Cryptology Conference
   year: 2026
