@@ -1475,4 +1475,17 @@
   place: Istanbul, Turkey
   tags: [SEC, CONF]
 
+- name: CIMSS
+  description: 6th International Workshop on Critical Infrastructure and Maritime Systems Security
+  year: 2026
+  link: https://cimss2026.github.io/
+  deadline:
+    - "2026-01-24 23:59"
+    - "2026-03-22 23:59"
+  timezone: Etc/GMT-12
+  date: June 22-25
+  place: Stony Brook University, NY, USA
+  tags: [SEC, CONF]
+  comment: In conjunction with ACNS 2026; proceedings published in Springer LNCS
+
   
