@@ -1148,14 +1148,13 @@
 
 - name: CPSS
   description: ACM Cyber-Physical System Security Workshop
-  year: 2025
-  link: http://jianying.space/cpss/CPSS2025/
-  comment: Co-located with ACM AsiaCCS 2025
+  year: 2026
+  link: https://cpss26.github.io/
+  comment: Co-located with ACM AsiaCCS
   deadline:
-    - "2025-01-10 23:59"
-    - "2025-03-15 23:59"
-  date: "August 26"
-  place: Hanoi, Vietnam
+    - "2026-01-24 23:59"
+  date: June 2
+  place: Bangalore, India
   tags: [SEC, PRIV, SHOP]
 
 - name: FL
@@ -1465,18 +1464,5 @@
   date: December 4-5
   place: Istanbul, Turkey
   tags: [SEC, CONF]
-
-- name: CPSS
-  description: ACM Cyber-Physical System Security Workshop
-  year: 2026
-  link: https://cpss26.github.io/
-  comment: Co-located with ACM AsiaCCS 2026
-  deadline:
-    - "2026-01-24 23:59"
-  date: June 2
-  place: Bangalore, India
-  tags: [SEC, PRIV, SHOP]
-
-
 
   
