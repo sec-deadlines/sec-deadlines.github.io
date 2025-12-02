@@ -142,16 +142,6 @@
   place: Lisbon, Portugal
   tags: [SEC, PRIV, CONF]
 
-- name: ACSW'26
-  description: Automotive Cyber Security Workshop (co-located with IEEE European Symposium on Security and Privacy)
-  year: 2026
-  link: https://acsw.unimore.it/
-  deadline: ["2026-3-12 23:59"]
-  date: "July 10"
-  place: Lisbon, Portugal
-  tags: [SEC, PRIV, SHOP]
-
-
 - name: Sensors S&P
   description: Second International Workshop on Security and Privacy of Sensing Systems
   year: 2025
@@ -627,9 +617,9 @@
   year: 2025
   comment: Co-Located with IEEE European Symposium on Security and Privacy
   link: https://acsw.unimore.it/
-  deadline: ["2025-02-19 23:59"]
-  date: June 30
-  place: Venice, Italy
+  deadline: ["2026-3-12 23:59"]
+  date: July 10
+  place: Lisbon, Portugal
   tags: [SEC, PRIV, SHOP]
 
 - name: OSVS
