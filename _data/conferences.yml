@@ -262,6 +262,16 @@
   place: Maribor, Slovenia
   tags: [SEC, SHOP]
 
+- name: ACISP
+  description: Australasian Conference on Information Security and Privacy
+  year: 2026
+  link: https://acisp.org/
+  deadline:
+    - "2025-11-27 23:59"
+    - "2026-02-26 23:59"
+  date: July 6-9
+  place: Perth, Australia
+  tags: [SEC, PRIV, CONF]
 
 - name: ITASEC
   description: Italian Conference on Cybersecurity
