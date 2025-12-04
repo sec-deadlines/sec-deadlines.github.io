@@ -557,11 +557,12 @@
 
 - name: ARES
   description: International Conference on Availability, Reliability and Security
-  year: 2025
-  link: https://2025.ares-conference.eu/
-  deadline: ["2025-03-11 23:59"]
-  date: August 10-13
-  place: Ghent, Belgium
+  year: 2026
+  link: https://www.ares-conference.eu/
+  deadline: ["2026-03-09 23:59"]
+  note: "Abstract registration deadline March 2, 2026."
+  date: August 24–27
+  place: Linköping, Sweden
   tags: [SEC, PRIV, CONF]
 
 - name: CODASPY
