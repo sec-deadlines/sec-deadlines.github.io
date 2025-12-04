@@ -1477,4 +1477,14 @@
   place: Istanbul, Turkey
   tags: [SEC, CONF]
 
+- name: EuroSec
+  description: European Workshop on Systems Security
+  year: 2026
+  link: https://eurosec-workshop.github.io/
+  deadline: ["2026-02-03 23:59"]
+  comment: Co-located with ACM EuroSys 2026
+  date: April 27
+  place: Edinburgh, UK
+  tags: [SEC, SHOP]
+
   
