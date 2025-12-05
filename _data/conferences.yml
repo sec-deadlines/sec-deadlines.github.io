@@ -809,6 +809,15 @@
   place: Stony Brook University, NY, USA
   tags: [SEC, SHOP]
 
+- name: ACNS-ISC
+  description: ACNS Workshop on Intelligent and Secure Computing
+  year: 2026
+  link: https://acns-isc.github.io/2026/index.html
+  deadline: ["2026-03-20 23:59"]
+  comment: In conjunction with ACNS 2026
+  place: Stony Brook University, NY, USA
+  tags: [SEC, SHOP]
+
 - name: SCI
   description: ACNS Workshop on Secure Cryptographic Implementation
   year: 2025
