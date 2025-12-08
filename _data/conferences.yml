@@ -1488,4 +1488,15 @@
   place: Edinburgh, UK
   tags: [SEC, SHOP]
 
+
+- name: NextG-Sec
+  description: NextG Networks Cryptography and Security (NextG-Sec) 
+  year: 2026
+  link: https://nextg-sec.github.io/
+  deadline: ["2026-03-10 23:59"]
+  comment: Co-located with ACNS 2026
+  date: June 23-26
+  place: Stony Brook, New York, USA
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
   
