@@ -811,13 +811,12 @@
   place: Stony Brook University, NY, USA
   tags: [SEC, SHOP]
 
-
   - name: SiMLA
   description: International Workshop on Security in Machine Learning and its Applications 
   year: 2026
   link: https://simlaacns.github.io/
   deadline:
-    - "2026-03-20 23:59"
+    - "2026-03-20 23:59"  
   comment: In conjunction with ACNS
   date: June 22-25
   place: Stony Brook University, NY, USA
