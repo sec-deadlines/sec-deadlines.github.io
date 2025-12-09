@@ -778,7 +778,6 @@
   tags: [SEC, CONF]
 
 # Workshops
-
 - name: AIHWS
   description: ACNS Workshop on Artificial Intelligence in Hardware Security
   year: 2025
@@ -811,16 +810,7 @@
   place: Stony Brook University, NY, USA
   tags: [SEC, SHOP]
 
-  - name: SiMLA
-  description: International Workshop on Security in Machine Learning and its Applications 
-  year: 2026
-  link: https://simlaacns.github.io/
-  deadline:
-    - "2026-03-20 23:59"  
-  comment: In conjunction with ACNS
-  date: June 22-25
-  place: Stony Brook University, NY, USA
-  tags: [SEC, SHOP]
+
 
 - name: ACNS-ISC
   description: ACNS Workshop on Intelligent and Secure Computing
@@ -842,17 +832,17 @@
   place: Munich, Germany
   tags: [CRYPTO, SHOP]
 
-- name: SiMLA
-  description: ACNS Workshop on Security in Machine Learning and its Applications
-  year: 2025
-  link: https://simla-workshop2025.github.io/
+  - name: SiMLA
+  description: International Workshop on Security in Machine Learning and its Applications 
+  year: 2026
+  link: https://simlaacns.github.io/
   deadline:
-    - "2025-01-15 23:59"
-    - "2025-03-23 23:59"
-  comment: In conjunction with ACNS 2025
-  date: June 26
-  place: Munich, Germany
+    - "2026-03-20 23:59"  
+  comment: In conjunction with ACNS
+  date: June 22-25
+  place: Stony Brook University, NY, USA
   tags: [SEC, SHOP]
+
 
 - name: CPSIoTSec
   description: The Joint Workshop on CPS & IoT Security and Privacy
