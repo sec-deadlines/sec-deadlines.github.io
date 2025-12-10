@@ -830,7 +830,7 @@
   place: Munich, Germany
   tags: [CRYPTO, SHOP]
 
-  - name: SiMLA
+- name: SiMLA
   description: International Workshop on Security in Machine Learning and its Applications 
   year: 2026
   link: https://simlaacns.github.io/
@@ -840,7 +840,6 @@
   date: June 22-25
   place: Stony Brook University, NY, USA
   tags: [SEC, SHOP]
-
 
 - name: CPSIoTSec
   description: The Joint Workshop on CPS & IoT Security and Privacy
