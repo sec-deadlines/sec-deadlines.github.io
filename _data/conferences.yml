@@ -59,8 +59,6 @@
   place: Rome, Italy
   tags: [SEC, PRIV, CONF]
 
-  
-
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
   year: 2026
@@ -92,7 +90,6 @@
   date: November 17-20
   place: Osaka, Japan
   tags: [SEC, CRYPTO, CONF]
-
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
@@ -301,13 +298,13 @@
   tags: [PRIV, CONF]
 
 - name: PLAS
-  year: 2024
+  year: 2025
   description: Workshop on Programming Languages and Analysis for Security
-  comment: Co-located with CCS 2024
-  link: https://plas24.github.io/
-  deadline: ["2024-06-20 23:59"]
-  date: October 14
-  place: Salt Lake City, USA
+  comment: Co-located with CCS 2025
+  link: https://plas25.github.io/
+  deadline: ["2025-07-04 23:59"]
+  date: October 13
+  place: Taipei, Taiwan
   tags: [SEC, PRIV, SHOP]
 
 - name: PrivaCI
@@ -883,12 +880,12 @@
 
 - name: SysTEX
   description: Workshop on System Software for Trusted Execution
-  year: 2024
-  link: https://systex24.github.io/
-  deadline: ["2024-03-26 23:59"]
-  date: July 8
-  comment: Co-located with IEEE Euro S&P 2024
-  place: Vienna, Austria
+  year: 2026
+  link: https://systex-workshop.github.io/2026/
+  deadline: ["2026-02-07 23:59"]
+  date: April 27
+  comment: Co-located with EuroSys 2026
+  place: Edinburgh, Scotland
   tags: [SEC, PRIV, SHOP]
 
 - name: ICSS
@@ -1044,7 +1041,7 @@
     - "2025-12-15 23:59"
   date: February 23
   place: San Diego, California, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, SHOP]
 
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
@@ -1241,12 +1238,12 @@
 
 - name: CSCS
   description: Cyber Security in Cars Workshop
-  year: 2024
+  year: 2025
   link: https://acm-cscs.org
-  deadline: ["2024-07-04 23:59"]
-  comment: Co-located with ACM CCS 2024
-  date: October 18
-  place: Salt Lake City, USA
+  deadline: ["2025-06-29 23:59"]
+  comment: Co-located with ACM CCS 2025
+  date: October 17
+  place: Taipei, Taiwan
   tags: [SEC, PRIV, SHOP]
 
 - name: SmartSP
