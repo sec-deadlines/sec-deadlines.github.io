@@ -181,10 +181,10 @@
 
 - name: SecureComm
   year: 2026
-  date: "August 24-26"
+  date: July 21-24
   description: International Conference on Security and Privacy in Communication Networks
   link: https://securecomm.eai-conferences.org/2026/
-  deadline: ["2026-03-15 23:59"]
+  deadline: ["2025-12-15 23:59"]
   place: Lancaster, United Kingdom
   tags: [SEC, CONF]
 
