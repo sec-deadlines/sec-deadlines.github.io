@@ -714,6 +714,17 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ICICS
+  year: 2026
+  date: October 27-30
+  description: International Conference on Information and Communications Security
+  link: https://sulab-sever.u-aizu.ac.jp/icics2026/index.html
+  deadline:
+    - "2026-02-28 23:59"
+    - "2026-05-23 23:59"
+  place: Fukui, Japan
+  tags: [SEC, PRIV, CONF]
+
+- name: ICICS
   year: 2025
   date: October 29-31
   description: International Conference on Information and Communications Security
