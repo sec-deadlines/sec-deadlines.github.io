@@ -744,12 +744,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
-  year: 2025
-  description: IEEE Secure Development Conference
-  link: https://secdev.ieee.org/2025/home/
-  deadline: ["2025-05-13 23:59"]
-  date: "October 14-16"
-  place: Indianapolis, IN, USA
+  year: 2026
+  description: 2026 Secure Development Conference
+  link: https://conf.researchr.org/home/secdev-2026
+  deadline: ["2026-01-29 23:59"]
+  date: "July 5-6"
+  place: Montreal, Canada
   tags: [SEC, PRIV, CONF]
 
 - name: HOST
