@@ -777,12 +777,12 @@
 # Workshops
 - name: AIHWS
   description: ACNS Workshop on Artificial Intelligence in Hardware Security
-  year: 2025
-  link: https://aihws2025.aisylab.com/
-  deadline: ["2025-03-07 23:59"]
-  comment: In conjunction with ACNS 2025
+  year: 2026
+  link: http://aihws2026.aisylab.com/
+  deadline: ["2026-03-14 23:59"]
+  comment: In conjunction with ACNS 2026
   date: June 25
-  place: Munich, Germany
+  place: Stony Brook, New York, USA
   tags: [SEC, SHOP]
 
 - name: AIoTS
