@@ -5,7 +5,7 @@
   date: May 18-21
   description: IEEE Symposium on Security and Privacy
   link: https://sp2026.ieee-security.org/
-  dblo: https://dblp.org/db/conf/sp/index.html
+  dblp: https://dblp.org/db/conf/sp/index.html
   deadline:
     - "2025-06-05 23:59"
     - "2025-11-13 23:59"
@@ -43,7 +43,7 @@
   description: ISOC Network and Distributed System Security Symposium
   year: 2026
   link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
-  link: https://dblp.org/db/conf/ndss/index.html
+  dblp: https://dblp.org/db/conf/ndss/index.html
   deadline:
     - "2025-04-23 23:59"
     - "2025-08-06 23:59"
