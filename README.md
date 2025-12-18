@@ -25,11 +25,12 @@ If "Yes" to all of the above, then the conference or workshop is likely a good f
 
 Example record:
 
-```
+```yaml
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2018
   link: http://www.ieee-security.org/TC/EuroSP2018/
+  dblp: https://dblp.org/db/conf/eurosp/index.html
   deadline: ["2017-08-15 23:59"]  # must be a list
   date: April 24-26
   place: London, UK
@@ -45,6 +46,7 @@ Descriptions of the fields:
 | `description` | Description, or long name                                                               |
 | `comment`     | Additional comments, e.g., co-located conference, rolling deadline                      |
 | `link`\*      | URL to the conference home page                                                         |
+| `dblp`\*      | URL to the [DBLP](https://dblp.org) page of the conference                              |
 | `deadline`\*  | A list of deadlines. [(Gory details below)][4]                                          |
 | `timezone`    | [Timezone][5] in [tz][1] format. By default is UTC-12 ([AoE][2])                        |
 | `date`        | When the conference is happening                                                        |
