@@ -1509,7 +1509,7 @@
 - name: MAgiCS
   description: Workshop on Migration and Agility in Cryptographic Systems colocated with EuroCrypt
   year: 2026
-  link: http://www.ieee-security.org/TC/EuroSP2018/
+  link: https://magics.cs.hs-rm.de
   deadline: ["2026-02-01 23:59"]  # must be a list
   timezone: UTC
   date: May 10
