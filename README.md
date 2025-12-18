@@ -46,7 +46,7 @@ Descriptions of the fields:
 | `description` | Description, or long name                                                               |
 | `comment`     | Additional comments, e.g., co-located conference, rolling deadline                      |
 | `link`\*      | URL to the conference home page                                                         |
-| `dblp`\*      | URL to the [DBLP](https://dblp.org) page of the conference                              |
+| `dblp`        | URL to the [DBLP](https://dblp.org) page of the conference                              |
 | `deadline`\*  | A list of deadlines. [(Gory details below)][4]                                          |
 | `timezone`    | [Timezone][5] in [tz][1] format. By default is UTC-12 ([AoE][2])                        |
 | `date`        | When the conference is happening                                                        |
