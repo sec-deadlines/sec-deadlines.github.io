@@ -714,15 +714,15 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ICICS
-  year: 2025
-  date: October 29-31
+  year: 2026
+  date: October 27-30
   description: International Conference on Information and Communications Security
-  link: https://www.icics2025.org/index.html
+  link: https://sulab-sever.u-aizu.ac.jp/icics2026/index.html
   deadline:
-    - "2025-03-09 23:59"
-    - "2025-05-23 23:59"
-  timezone: Asia/Shanghai
-  place: Nanjing, China
+    - "2026-02-28 23:59"
+    - "2026-05-23 23:59"
+  timezone: Asia/Tokyo
+  place: Fukui, Japan
   tags: [SEC, PRIV, CONF]
 
 - name: SaTML
