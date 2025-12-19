@@ -1506,4 +1506,13 @@
   place: Stony Brook, New York, USA
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
-  
+- name: MAgiCS
+  description: Workshop on Migration and Agility in Cryptographic Systems
+  year: 2026
+  link: https://magics.cs.hs-rm.de
+  deadline: ["2026-02-01 23:59"]  # must be a list
+  comment: Co-located with EuroCrypt 2026
+  timezone: UTC
+  date: May 10
+  place: Rome, Italy
+  tags: [SEC, CRYPTO, SHOP]
