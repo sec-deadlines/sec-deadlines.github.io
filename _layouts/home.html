@@ -59,8 +59,11 @@
               <div class="col-xs-12 col-sm-6">
                 <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
                 <div class="meta">
-                  {{ conf.description }}<br>
-                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
+                  {{ conf.description }}<br />
+                  {% if conf.dblp %}
+                  <a href="{{conf.dblp}}">DBLP</a><br />
+                  {% endif %}
+                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br />
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6">

@@ -5,6 +5,7 @@
   date: May 18-21
   description: IEEE Symposium on Security and Privacy
   link: https://sp2026.ieee-security.org/
+  dblp: https://dblp.org/db/conf/sp/index.html
   deadline:
     - "2025-06-05 23:59"
     - "2025-11-13 23:59"
@@ -16,6 +17,7 @@
   description: ACM Conference on Computer and Communications Security
   year: 2026
   link: https://www.sigsac.org/ccs/CCS2026
+  dblp: https://dblp.org/db/conf/ccs/index.html
   deadline:
     - "2026-01-14 23:59"
     - "2026-04-29 23:59"
@@ -28,6 +30,7 @@
   description: USENIX Security Symposium
   year: 2026
   link: https://www.usenix.org/conference/usenixsecurity26
+  dblp: https://dblp.org/db/conf/uss/index.html
   deadline:
     - "2025-08-26 23:59"
     - "2026-02-05 23:59"
@@ -40,6 +43,7 @@
   description: ISOC Network and Distributed System Security Symposium
   year: 2026
   link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
+  dblp: https://dblp.org/db/conf/ndss/index.html
   deadline:
     - "2025-04-23 23:59"
     - "2025-08-06 23:59"
@@ -183,7 +187,8 @@
   date: July 21-24
   description: International Conference on Security and Privacy in Communication Networks
   link: https://securecomm.eai-conferences.org/2026/
-  deadline: ["2025-12-15 23:59"]
+  dblp: https://dblp.org/db/conf/securecomm/index.html
+  deadline: ["2026-01-15 23:59"]
   place: Lancaster, United Kingdom
   tags: [SEC, CONF]
 
