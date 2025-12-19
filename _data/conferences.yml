@@ -745,7 +745,7 @@
 
 - name: SecDev
   year: 2026
-  description: 2026 Secure Development Conference
+  description: Secure Development Conference
   link: https://conf.researchr.org/home/secdev-2026
   deadline: ["2026-01-29 23:59"]
   date: "July 5-6"
