@@ -1521,3 +1521,14 @@
   date: May 10
   place: Rome, Italy
   tags: [SEC, CRYPTO, SHOP]
+
+- name: AI-SS-2026
+  description: 1st International Workshop on AI Safety and Security
+  year: 2026
+  link: https://cyber.kent.ac.uk/events/AI-SS2026/index.html
+  deadline: ["2026-01-19 23:59"]  # must be a list
+  comment: Co-located with EDCC 2026 (21st European Dependable Computing Conference)
+  timezone: UTC
+  date: April 7
+  place: Canterbury, UK
+  tags: [SEC, SHOP]
