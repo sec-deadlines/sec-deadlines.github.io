@@ -13,6 +13,10 @@ To check if an entry is a good fit for this page, in general, I would check for 
 * If accepted, will the paper be published in a proceedings?
 
 If "Yes" to all of the above, then the conference or workshop is likely a good fit.
+Examples where conferences were **not** a good fit are [FTC's PrivacyCon](https://www.ftc.gov/news-events/events/2024/03/privacycon-2024)
+(see [sec-deadlines/#246](https://github.com/sec-deadlines/sec-deadlines.github.io/pull/246)) and
+[Real World Crypto (RWC)](https://rwc.iacr.org/2026/) (see [sec-deadlines/#475](https://github.com/sec-deadlines/sec-deadlines.github.io/issues/475)).
+Once PrivacyCon or RWC begin publishing proceedings, they'd become fit for inclusion.
 
 ## Adding/updating a conference
 
