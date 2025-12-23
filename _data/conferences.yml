@@ -1532,3 +1532,12 @@
   date: April 7
   place: Canterbury, UK
   tags: [SEC, SHOP]
+
+- name: TDI
+  description: International Workshop on Trends in Digital Identity
+  year: 2026
+  link: https://st.fbk.eu/events/TDI2026/
+  deadline: ["2026-02-15 23:59"]
+  date: April 20-21
+  place: Verona, Italy
+  tags: [SEC, PRIV, SHOP]
