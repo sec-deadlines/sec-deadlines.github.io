@@ -293,10 +293,10 @@
   year: 2026
   link: https://www.petsymposium.org/cfp26.php
   deadline:
-    - "%Y-05-31 23:59"
-    - "%Y-08-31 23:59"
-    - "%Y-11-30 23:59"
-    - "%y-02-28 23:59"
+    - "2023-05-31 23:59"
+    - "2023-08-31 23:59"
+    - "2023-11-30 23:59"
+    - "2024-02-28 23:59"
   comment: Rolling deadline every quarter
   date: July 20-25
   place: Calgary, Canada
