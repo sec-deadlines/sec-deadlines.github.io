@@ -43,6 +43,13 @@
         <hr>
         <div class="row">
           <div class="col-xs-12">
+            <div class="form-group">
+              <input type="text" id="search-input" class="form-control" placeholder="Search for conferences by name, description, etc.">
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12">
             <!-- <div class="well"> -->
               Select one or more tags to filter (otherwise all deadlines are displayed):
               <form class="form-inline">
@@ -114,6 +121,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.34/moment-timezone-with-data-10-year-range.min.js" integrity="sha512-d11VXfxQMn+sZuIgzHITdIuInr4cVRGV/uLiSI643WH/J+p4gPFYSHXRMR2v+w4Rn2TSyzJjsZjc0M7+Qd+UXw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/store.js/2.0.12/store.legacy.min.js" integrity="sha512-3yZTInL4yLU1ajnca35KTk6YE4RPHJU2y+jbhHAykE9OzMHpc2BIJghNsbkBNacIJWLLUmUkLEGPDDWrFY2zzw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
     <script src="{{ site.baseurl}}/static/js/main.js" async></script>
     {% if site.ga_id %}
     {% include analytics.html %}
