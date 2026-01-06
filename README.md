@@ -20,7 +20,9 @@ Once PrivacyCon or RWC begin publishing proceedings, they'd become fit for inclu
 
 ## Local Development Setup
 
-This project uses Jekyll, which relies on RubyGems for its dependencies. The `Gemfile` and `Gemfile.lock` files are used to manage these dependencies, ensuring that all contributors use the same versions of gems for local development, which helps in preventing dependency-related issues.
+This project is built using Jekyll, a static site generator written in Ruby. Jekyll processes all the project's files (including HTML, CSS, JavaScript, and data files) to generate the final static website. Therefore, even if your changes are not directly in Ruby code, a Ruby development environment is needed to build and preview the site locally.
+
+The `Gemfile` and `Gemfile.lock` files are used to manage Jekyll's dependencies (RubyGems), ensuring that all contributors use the same versions of gems for local development, which helps in preventing dependency-related issues.
 
 To set up your local development environment:
 
