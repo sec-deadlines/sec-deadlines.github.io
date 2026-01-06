@@ -1,5 +1,9 @@
 # Security and Privacy deadlines countdown
 
+## Search Functionality
+
+A new search feature has been implemented, allowing users to quickly find conferences. This feature leverages the `fuse.js` library for fuzzy-matching, enabling searches by conference name, description, and other relevant details. To ensure the integrity and security of the client-side script, Subresource Integrity (SRI) attributes have been added to the `fuse.js` CDN link.
+
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 
 ## Is my entry in scope?
