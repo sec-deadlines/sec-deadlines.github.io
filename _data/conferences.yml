@@ -286,16 +286,6 @@
   place: Bologna, IT
   tags: [SEC, CONF]
 
-- name: VehicleSec
-  description: USENIX Symposium on Vehicle Security and Privacy
-  year: 2026
-  link: https://www.usenix.org/conference/vehiclesec26
-  comment: Co-located with USENIX Security 2026
-  deadline: ["2026-02-24 23:59"]
-  date: August 10-11
-  place: Baltimore, USA
-  tags: [SEC, PRIV, CONF]
-
 # Privacy
 
 - name: PETS
@@ -1331,13 +1321,13 @@
   tags: [SEC, PRIV, SHOP]
 
 - name: VehicleSec
-  description: Symposium on Vehicle Security and Privacy
-  year: 2025
-  link: https://www.usenix.org/conference/vehiclesec25/call-for-papers
-  deadline: ["2025-03-06 23:59"]
-  comment: Co-located with USENIX Security 2025
-  date: August 11-12
-  place: Seattle, WA, USA
+  description: USENIX Symposium on Vehicle Security and Privacy
+  year: 2026
+  link: https://www.usenix.org/conference/vehiclesec26
+  comment: Co-located with USENIX Security 2026
+  deadline: ["2026-02-24 23:59"]
+  date: August 10-11
+  place: Baltimore, USA
   tags: [SEC, PRIV, CONF]
 
 - name: WEIS
