@@ -18,6 +18,20 @@ Examples where conferences were **not** a good fit are [FTC's PrivacyCon](https:
 [Real World Crypto (RWC)](https://rwc.iacr.org/2026/) (see [sec-deadlines/#475](https://github.com/sec-deadlines/sec-deadlines.github.io/issues/475)).
 Once PrivacyCon or RWC begin publishing proceedings, they'd become fit for inclusion.
 
+## For Maintainers: Project Structure and Deployment
+
+This website is built as a [Jekyll](https://jekyllrb.com/) static site. Jekyll is a static site generator written in Ruby, which processes the various project files (like `_config.yml`, files in `_layouts`, `_includes`, `_data`, and all other content) to produce the final static HTML, CSS, and JavaScript files that are served to users.
+
+**Deployment:** The site is hosted on [GitHub Pages](https://pages.github.com/). When changes are pushed to the `master` branch of this repository, GitHub Pages automatically detects the Jekyll setup and builds the site. The generated static files are then served from `https://sec-deadlines.github.io/`.
+
+**Local Development for Content Contributors:** For most content updates, such as modifying `index.html`, `_data/conferences.yml`, CSS, or JavaScript files, a local Ruby/Jekyll development environment is *not* strictly required. You can make your changes, commit them, and push directly to the `master` branch. GitHub Pages will then handle the build and deployment.
+
+**Local Development for Jekyll Developers:** If you need to make changes to the Jekyll templates (e.g., files in `_layouts` or `_includes`), `_config.yml`, or debug Jekyll-specific features, you will need to set up a local Jekyll development environment. This typically involves:
+1.  Installing Ruby and Bundler.
+2.  Navigating to the project root.
+3.  Running `bundle install` to install Jekyll and its dependencies.
+4.  Using `bundle exec jekyll serve` to build and serve the site locally.
+
 ## Adding/updating a conference
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
