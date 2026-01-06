@@ -18,19 +18,6 @@ Examples where conferences were **not** a good fit are [FTC's PrivacyCon](https:
 [Real World Crypto (RWC)](https://rwc.iacr.org/2026/) (see [sec-deadlines/#475](https://github.com/sec-deadlines/sec-deadlines.github.io/issues/475)).
 Once PrivacyCon or RWC begin publishing proceedings, they'd become fit for inclusion.
 
-## Local Development Setup
-
-This project is built using Jekyll, a static site generator written in Ruby. Jekyll processes all the project's files (including HTML, CSS, JavaScript, and data files) to generate the final static website. Therefore, even if your changes are not directly in Ruby code, a Ruby development environment is needed to build and preview the site locally.
-
-The `Gemfile` and `Gemfile.lock` files are used to manage Jekyll's dependencies (RubyGems), ensuring that all contributors use the same versions of gems for local development, which helps in preventing dependency-related issues.
-
-To set up your local development environment:
-
-1. Install Ruby and Bundler.
-2. Navigate to the project root directory.
-3. Run `bundle install` to install all necessary gems.
-4. Use `bundle exec jekyll serve` to run the Jekyll server locally.
-
 ## Adding/updating a conference
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
