@@ -1541,3 +1541,14 @@
   date: April 20-21
   place: Verona, Italy
   tags: [SEC, PRIV, SHOP]
+
+- name: Data4SoftSec
+  description: The 1st Workshop on Datasets for Software Security
+  year: 2026
+  link: https://sites.google.com/view/data4softsec/home
+  comment: Co-located with IEEE S&P 2026
+  deadline: ["2026-02-01 23:59"]
+  timezone: UTC
+  date: May 21, 2026
+  place: San Francisco, California, USA
+  tags: [SEC, SHOP]
