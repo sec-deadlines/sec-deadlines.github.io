@@ -321,6 +321,15 @@
   place: Urbana-Champaign, USA
   tags: [PRIV, CONF]
 
+- name: IFIPSC
+  description: IFIP Summer School on Privacy and Identity Management
+  year: 2026
+  link: https://ifip-summerschool.org/
+  deadline: ["2026-04-30 23:59"]
+  date: August 10-14
+  place: Leuven, Belgium
+  tags: [PRIV, SHOP]
+
 # Crypto
 
 - name: Crypto
