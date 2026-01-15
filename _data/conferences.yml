@@ -1253,11 +1253,13 @@
 
 - name: SmartSP
   description: EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles
-  year: 2025
-  link: https://smartsp.eai-conferences.org/2025/
-  deadline: ["2025-07-31 23:59"]
-  date: December 1-2
-  place: Salt Lake City, USA
+  year: 2026
+  link: https://smartsp.eai-conferences.org/
+  deadline:
+    - "2026-05-01 23:59"
+    - "2026-07-16 23:59"
+  date: November 5–6
+  place: Detroit, MI, USA
   tags: [SEC, PRIV, CONF]
 
 - name: CCSW
