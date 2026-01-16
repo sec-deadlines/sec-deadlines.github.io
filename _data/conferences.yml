@@ -1542,6 +1542,17 @@
   place: Verona, Italy
   tags: [SEC, PRIV, SHOP]
 
+- name: Data4SoftSec
+  description: The 1st Workshop on Datasets for Software Security
+  year: 2026
+  link: https://data4softsec26.ieee-security.org
+  comment: Co-located with IEEE S&P 2026
+  deadline: ["2026-02-01 23:59"]
+  timezone: UTC
+  date: May 21, 2026
+  place: San Francisco, California, USA
+  tags: [SEC, PRIV, SHOP]
+
 - name: SecCPS
   description: Workshop on Cybersecurity of Digital Twins and Interconnected Cyber Physical Systems
   year: 2026
