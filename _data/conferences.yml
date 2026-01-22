@@ -1568,9 +1568,18 @@
   description: Workshop on Cybersecurity of Digital Twins and Interconnected Cyber Physical Systems
   year: 2026
   link: https://seccps.github.io/
-  deadline: ["2026-01-18 23:59"]
+  deadline: ["2026-01-31 23:59"]
   comment: Co-located with IEEE ICC 2026
   date: May 24-28
   place: Glasgow, UK
   tags: [SEC, PRIV, SHOP]
-  
+
+- name: MetaCRiSP
+  description: Workshop on Metascience and Critical Reflections in Security & Privacy
+  year: 2026
+  link: https://metacrisp.org
+  deadline: ["2026-02-12 23:59"]
+  comment: Co-located with IEEE S&P 2026
+  date: May 21, 2026
+  place: San Francisco, California, USA
+  tags: [SEC, PRIV, SHOP]
