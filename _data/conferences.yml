@@ -338,6 +338,7 @@
   year: 2026
   link: https://crypto.iacr.org/2026/
   deadline: ["2026-02-12 23:59"]
+  timezone: Etc/GMT+8
   date: August 17-20
   place: Santa Barbara, CA, USA
   tags: [CRYPTO, CONF, TOP4]
