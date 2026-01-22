@@ -542,7 +542,7 @@
   link: https://acns2026.github.io/
   deadline:
     - "2025-09-25 23:59"
-    - "2026-01-22 23:59"
+    - "2026-01-23 23:59"
   date: June 22-25
   place: New York, NY
   tags: [CRYPTO, SEC, CONF]
@@ -1082,12 +1082,12 @@
 
 - name: MALIoT
   description: Malicious Software and Hardware in Internet of Things
-  year: 2025
-  link: https://security.ucc.ie/mal-iot2025/
-  deadline: ["2025-03-10 23:59"]
-  comment: Co-located with ACM International Conference on Computing Frontiers 2025.
-  date: May 28
-  place: Cagliari, Italy
+  year: 2026
+  link: https://security.ucc.ie/mal-iot2026/
+  deadline: ["2026-02-13 23:59"]
+  comment: Co-located with ACM International Conference on Computing Frontiers 2026
+  date: May 19
+  place: Catania, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: DevSecOpsRO
@@ -1568,9 +1568,18 @@
   description: Workshop on Cybersecurity of Digital Twins and Interconnected Cyber Physical Systems
   year: 2026
   link: https://seccps.github.io/
-  deadline: ["2026-01-18 23:59"]
+  deadline: ["2026-01-31 23:59"]
   comment: Co-located with IEEE ICC 2026
   date: May 24-28
   place: Glasgow, UK
   tags: [SEC, PRIV, SHOP]
-  
+
+- name: MetaCRiSP
+  description: Workshop on Metascience and Critical Reflections in Security & Privacy
+  year: 2026
+  link: https://metacrisp.org
+  deadline: ["2026-02-12 23:59"]
+  comment: Co-located with IEEE S&P 2026
+  date: May 21, 2026
+  place: San Francisco, California, USA
+  tags: [SEC, PRIV, SHOP]
