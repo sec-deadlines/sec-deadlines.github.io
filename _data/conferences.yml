@@ -1082,12 +1082,12 @@
 
 - name: MALIoT
   description: Malicious Software and Hardware in Internet of Things
-  year: 2025
-  link: https://security.ucc.ie/mal-iot2025/
-  deadline: ["2025-03-10 23:59"]
-  comment: Co-located with ACM International Conference on Computing Frontiers 2025.
-  date: May 28
-  place: Cagliari, Italy
+  year: 2026
+  link: https://security.ucc.ie/mal-iot2026/
+  deadline: ["2026-02-13 23:59"]
+  comment: Co-located with ACM International Conference on Computing Frontiers 2026
+  date: May 19
+  place: Catania, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: DevSecOpsRO
@@ -1573,13 +1573,3 @@
   date: May 24-28
   place: Glasgow, UK
   tags: [SEC, PRIV, SHOP]
-
-- name: MALIoT
-  description: Malicious Software and Hardware in Internet of Things
-  year: 2026
-  link: https://security.ucc.ie/mal-iot2026/
-  deadline: ["2025-02-13 23:59"]
-  comment: Co-located with ACM International Conference on Computing Frontiers 2026.
-  date: May 19
-  place: Catania, Italy
-  tags: [SEC, PRIV, CRYPTO, SHOP]
