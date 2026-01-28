@@ -946,11 +946,11 @@
 
 - name: NSPW
   description: New Security Paradigms Workshop
-  year: 2025
-  link: https://www.nspw.org/2025/cfp
-  deadline: ["2025-04-25 23:59"]
-  date: August 24 - 27
-  place: Aerzen, Germany
+  year: 2026
+  link: https://www.nspw.org/2026/cfp
+  deadline: ["2026-04-30 23:59"]
+  date: September 27 - 30
+  place: Victora, Canada
   tags: [SEC, PRIV, SHOP]
 
 - name: CNS
