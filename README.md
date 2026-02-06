@@ -13,6 +13,10 @@ To check if an entry is a good fit for this page, in general, I would check for 
 * If accepted, will the paper be published in a proceedings?
 
 If "Yes" to all of the above, then the conference or workshop is likely a good fit.
+Examples where conferences were **not** a good fit are [FTC's PrivacyCon](https://www.ftc.gov/news-events/events/2024/03/privacycon-2024)
+(see [sec-deadlines/#246](https://github.com/sec-deadlines/sec-deadlines.github.io/pull/246)) and
+[Real World Crypto (RWC)](https://rwc.iacr.org/2026/) (see [sec-deadlines/#475](https://github.com/sec-deadlines/sec-deadlines.github.io/issues/475)).
+Once PrivacyCon or RWC begin publishing proceedings, they'd become fit for inclusion.
 
 ## Adding/updating a conference
 
@@ -25,11 +29,12 @@ If "Yes" to all of the above, then the conference or workshop is likely a good f
 
 Example record:
 
-```
+```yaml
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2018
   link: http://www.ieee-security.org/TC/EuroSP2018/
+  dblp: https://dblp.org/db/conf/eurosp/index.html
   deadline: ["2017-08-15 23:59"]  # must be a list
   date: April 24-26
   place: London, UK
@@ -45,6 +50,7 @@ Descriptions of the fields:
 | `description` | Description, or long name                                                               |
 | `comment`     | Additional comments, e.g., co-located conference, rolling deadline                      |
 | `link`\*      | URL to the conference home page                                                         |
+| `dblp`        | URL to the [DBLP](https://dblp.org) page of the conference                              |
 | `deadline`\*  | A list of deadlines. [(Gory details below)][4]                                          |
 | `timezone`    | [Timezone][5] in [tz][1] format. By default is UTC-12 ([AoE][2])                        |
 | `date`        | When the conference is happening                                                        |
