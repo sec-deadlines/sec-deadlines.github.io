@@ -321,6 +321,17 @@
   place: Urbana-Champaign, USA
   tags: [PRIV, CONF]
 
+- name: PST
+  description: Annual International Conference on Privacy, Security, and Trust
+  year: 2026
+  link: https://pstnet.ca/
+  dblp: https://dblp.org/db/conf/pst/index.html
+  deadline: ["2026-04-10 23:59"]
+  comment: Co-located with SAC 2026.
+  date: August 26-28
+  place: Ottawa, Canada
+  tags: [SEC, PRIV, CONF]
+  
 - name: IFIPSC
   description: IFIP Summer School on Privacy and Identity Management
   year: 2026
