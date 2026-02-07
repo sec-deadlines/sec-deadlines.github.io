@@ -239,13 +239,13 @@
   tags: [SEC, PRIV, SHOP]
 
 - name: SAFE-ML
-  description: International Workshop on Secure, Accountable, and Verifiable Machine Learning
-  year: 2025
-  link: https://conf.researchr.org/home/icst-2025/safe-ml-2025
+  description: 2nd International Workshop on Secure, Accountable, and Verifiable Machine Learning
+  year: 2026
+  link: https://conf.researchr.org/home/icst-2026/safe-ml-2026
   comment: Co-located with ICST
-  deadline: ["2025-01-03 23:59"]
-  date: March 31 - April 4
-  place: Naples, Italy
+  deadline: ["2026-02-27 23:59"]
+  date: May 18 - 22
+  place: Daejeon, South Korea
   tags: [SEC, PRIV, SHOP]
 
 - name: IFIP SEC
