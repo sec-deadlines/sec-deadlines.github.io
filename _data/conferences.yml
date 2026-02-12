@@ -511,6 +511,15 @@
 
 # Networks and systems, applications
 
+- name: RAID
+  description: The 29th International Symposium on Research in Attacks, Intrusions and Defenses
+  year: 2026
+  link: https://raid2026.org
+  deadline: ["2026-04-16 23:59"]
+  date: October 11-14
+  place: Lancaster, UK
+  tags: [SEC, CONF]
+
 - name: ACM SAC
   description: ACM/SIGAPP Symposium On Applied Computing
   year: 2026
