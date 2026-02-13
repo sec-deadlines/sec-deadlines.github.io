@@ -512,7 +512,7 @@
 # Networks and systems, applications
 
 - name: RAID
-  description: The 29th International Symposium on Research in Attacks, Intrusions and Defenses
+  description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2026
   link: https://raid2026.org
   deadline: ["2026-04-16 23:59"]
@@ -527,15 +527,6 @@
   deadline: ["2025-10-17 23:59"]
   date: March 23-27
   place: Thessaloniki, Greece
-  tags: [SEC, CONF]
-
-- name: RAID
-  description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2025
-  link: https://raid2025.github.io
-  deadline: ["2025-04-24 23:59"]
-  date: October 19-22
-  place: Gold Coast, Australia
   tags: [SEC, CONF]
 
 - name: ACSAC
