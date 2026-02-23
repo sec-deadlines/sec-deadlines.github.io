@@ -3,6 +3,29 @@
 $(function() {
   deadlineByConf = {};
 
+  var all_confs_data = [];
+  {% for conf in site.data.conferences %}
+  {% assign num_deadlines = conf.deadline.size %}
+  {% assign range_end = conf.deadline.size | minus: 1 %}
+  {% for i in (0..range_end) %}
+  {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
+  all_confs_data.push({
+    id: '{{ conf_id }}',
+    name: {{ conf.name | jsonify }},
+    description: {{ conf.description | strip_html | strip_newlines | jsonify }},
+    tags: {{ conf.tags | jsonify }},
+    year: '{{ conf.year }}',
+    place: {{ conf.place | jsonify }}
+  });
+  {% endfor %}
+  {% endfor %}
+
+  var fuse = new Fuse(all_confs_data, {
+    keys: ['name', 'description', 'year', 'place'],
+    includeScore: true,
+    threshold: 0.4
+  });
+
   {% for conf in site.data.conferences %}
   // {{ conf.name }} {{ conf.year }}
   {% if conf.deadline[0] == "TBA" %}
@@ -113,21 +136,50 @@ $(function() {
   store.set('{{ site.domain }}', tags);
 
   function update_conf_list() {
+    var query = $('#search-input').val().toLowerCase();
+
+    var searched_confs = [];
+    if (query.length > 0) {
+        var results = fuse.search(query);
+        searched_confs = results.map(function(result) {
+            return result.item.id;
+        });
+    } else {
+        searched_confs = all_confs_data.map(function(conf) {
+            return conf.id;
+        });
+    }
+
     confs.each(function(i, conf) {
       var conf = $(conf);
       var show = false;
-      var set_tags = [];
+
+      if (searched_confs.indexOf(conf.attr('id')) === -1) {
+          conf.hide();
+          return;
+      }
+
+      // Tag filtering (OR logic)
+      var selected_tags = [];
       for (var i = 0; i < all_tags.length; i++) {
-        // if tag has been selected by user, check if the conference has it
         if(toggle_status[all_tags[i]]) {
-          set_tags.push(conf.hasClass(all_tags[i]));
+          selected_tags.push(all_tags[i]);
         }
       }
-      let empty_or_all_true = arr => arr.every(Boolean);
-      // show a conference if it has all user-selected tags
-      // if no tag is set (= array is empty), show all entries
-      show = empty_or_all_true(set_tags);
-      if (show) {
+
+      var tag_match = false;
+      if (selected_tags.length === 0) {
+        tag_match = true;
+      } else {
+        for (var i = 0; i < selected_tags.length; i++) {
+          if (conf.hasClass(selected_tags[i])) {
+            tag_match = true;
+            break;
+          }
+        }
+      }
+
+      if (tag_match) {
         conf.show();
       } else {
         conf.hide()
@@ -135,6 +187,8 @@ $(function() {
     });
   }
   update_conf_list();
+
+  $('#search-input').on('input', update_conf_list);
 
   // Event handler on checkbox change
   $('form :checkbox').change(function(e) {
@@ -155,3 +209,4 @@ $(function() {
     update_conf_list();
   });
 });
+
