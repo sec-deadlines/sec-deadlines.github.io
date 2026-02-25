@@ -88,11 +88,11 @@
 
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2025
-  link: https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html
-  deadline: ["2025-04-17 23:59"]
-  date: November 17-20
-  place: Osaka, Japan
+  year: 2026
+  link: https://uow-ic2.github.io/cans2026/index.html
+  deadline: ["2026-06-10 23:59"]
+  date: November 23-25
+  place: Wollongong, Australia
   tags: [SEC, CRYPTO, CONF]
 
 - name: WiSec
