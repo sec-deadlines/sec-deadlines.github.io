@@ -802,6 +802,18 @@
   tags: [SEC, CONF]
 
 # Workshops
+- name: TRUST-AI 2026
+  description: Workshop on Trustworthy AI for IoMT (Internet of Medical Things)
+  year: 2026
+  link: https://trustai2026.web.illinois.edu/
+  dblp: N/A
+  deadline:
+    - "2026-03-16 23:59"
+  comment: Co-located with IEEE ICHI 2026.
+  date: June 1
+  place: Minneapolis, MN, USA
+  tags: [SEC, PRIV, SHOP]
+
 - name: AIHWS
   description: ACNS Workshop on Artificial Intelligence in Hardware Security
   year: 2026
