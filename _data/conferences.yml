@@ -603,12 +603,11 @@
 
 - name: DBSec
   description: Conference on Data and Applications Security and Privacy
-  year: 2025
-  link: https://www.ntnu.edu/web/dbsec2025/
-  deadline: ["2025-03-07 23:59"]
-  comment: Recommended abstract deadline March 3rd AoE
-  date: June 23-25
-  place: Gjøvik, Norway
+  year: 2026
+  link: https://dbsec2026.gmu.edu/
+  deadline: ["2025-03-27 23:59"]
+  date: July 28-30
+  place: Arlington, Virginia, USA
   tags: [CRYPTO, SEC, CONF, PRIV]
 
 - name: The Web Conference
