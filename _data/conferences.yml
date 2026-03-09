@@ -1236,12 +1236,11 @@
 
 - name: IWSEC
   description: International Workshop on Security
-  year: 2025
-  link: https://www.iwsec.org/2025/
-  deadline: ["2025-04-10 23:59", "2025-07-17 23:59"]
-  timezone: Etc/UTC
-  date: November 25-27
-  place: Fukuoka, JP
+  year: 2026
+  link: https://www.iwsec.org/2026/index.html
+  deadline: ["2025-06-08 23:59"]
+  date: November 24-26
+  place: Tokyo, JP
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: CSET
