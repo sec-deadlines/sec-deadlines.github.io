@@ -1256,13 +1256,13 @@
   tags: [SEC, SHOP]
 
 - name: QSNS
-  year: 2025
+  year: 2026
   description: Workshop on Quantum-Secure Networks and Systems
-  comment: Co-located with IEEE ISCC 2025
-  link: https://qubip.eu/qsns2025/
-  deadline: ["2025-02-10 23:59"]
-  place: Bologna, Italy
-  date: July 2-5
+  comment: Co-located with IEEE ISCC 2026
+  link: https://qubip.eu/qsns2026/
+  deadline: ["2026-03-31 23:59"]
+  place: Vilamoura, Algarve, Portugal
+  date: June 23-26
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: CheckMATE
