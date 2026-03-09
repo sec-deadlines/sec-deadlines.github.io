@@ -291,7 +291,7 @@
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2027
-  link: https://www.petsymposium.org/cfp27.php
+  link: https://www.petsymposium.org/cfp26.php
   deadline:
     - "%Y-05-31 23:59"
     - "%Y-08-31 23:59"
