@@ -463,7 +463,7 @@
 
 - name: FSE
   description: IACR Transactions on Symmetric Cryptology
-  year: 2026
+  year: 2027
   link: https://tosc.iacr.org/
   deadline:
     - "%Y-03-01 23:59"
@@ -471,8 +471,8 @@
     - "%Y-09-01 23:59"
     - "%Y-11-23 23:59"
   comment: Rolling deadline every quarter
-  date: March 23-27
-  place: Singapore, Singapore
+  date: TBD
+  place: TBD
   tags: [CRYPTO, CONF]
 
 - name: CHES
