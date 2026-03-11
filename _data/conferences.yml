@@ -1608,7 +1608,7 @@
   tags: [SEC, PRIV, SHOP]
 
 - name: DCS-CI
-  description: 2026 International Conference on Design of Cyber-Secure Critical Infrastructure 
+  description: International Conference on Design of Cyber-Secure Critical Infrastructure 
   year: 2026
   link: https://dcs-ci.github.io
   deadline: ["2026-04-13 23:59"]
