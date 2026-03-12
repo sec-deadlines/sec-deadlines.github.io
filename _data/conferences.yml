@@ -1199,7 +1199,8 @@
   description: International Conference on Information Systems Security
   year: 2026
   link: https://iciss.in/cfp/
-  deadline: ["2026-07-10 23:59"]
+  deadline: 
+    - "2026-07-10 23:59"
   date: December 16-20
   place: CMI Chennai, India
   tags: [SEC, PRIV, CONF]
