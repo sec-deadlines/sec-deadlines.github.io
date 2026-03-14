@@ -225,18 +225,198 @@
   year: 2026
   link: https://www.ares-conference.eu/edid
   deadline: ["2026-05-18 23:59"]
-  date: August 24- August 27
+  date: August 24-27
   place: Linköping, SE
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
-- name: SAFER
-  description: Workshop on Sustainable security and Awareness For nExt generation infRastructures
-  year: 2025
-  link: https://2025.ares-conference.eu/program/safer/
-  deadline: ["2025-05-12 23:59"]
-  date: August 11-14
-  place: Ghent, BE
+- name: WSDF
+  description: 19th International Workshop on Digital Forensics
+  year: 2026
+  link: https://www.ares-conference.eu/wsdf
+  deadline: ["2026-04-15 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: SAFE-EDGE
+  description: Workshop on Security, Availability, and Fault-Tolerance in Edge AI Systems
+  year: 2026
+  link: https://www.ares-conference.eu/safe-edge
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
   tags: [SEC, PRIV, SHOP]
+
+- name: IWSMA
+  description: Thirteenth International Workshop on Security of Mobile Applications
+  year: 2026
+  link: https://www.ares-conference.eu/iwsma
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: QCLLM
+  description: Workshop on Quantum Computing for Securing Large Language Models
+  year: 2026
+  link: https://www.ares-conference.eu/qcllm
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: ASOD
+  description: Workshop on Advances in Secure Software Deployments
+  year: 2026
+  link: https://www.ares-conference.eu/asod
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: "AI&CCPS"
+  description: 2nd International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security
+  year: 2026
+  link: https://www.ares-conference.eu/aiccps
+  deadline: ["2026-04-15 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: CPRA
+  description: 2nd International Workshop on Cybersecurity and Privacy Risk Assessments
+  year: 2026
+  link: https://www.ares-conference.eu/cpra
+  deadline: ["2026-05-01 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: CSA
+  description: 7th Workshop on Recent Advances in Cyber Situational Awareness and Data-Centric Approaches
+  year: 2026
+  link: https://www.ares-conference.eu/csa
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: CUING
+  description: 10th International Workshop on Cyber Use of Information Hiding
+  year: 2026
+  link: https://www.ares-conference.eu/cuing
+  deadline: ["2026-05-08 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: CyResTrust
+  description: International Workshop on Applied Trust and Cyber Resilience
+  year: 2026
+  link: https://www.ares-conference.eu/cyrestrust
+  deadline: ["2026-05-04 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, CRYPTO, SHOP]
+
+- name: GRASEC
+  description: 7th International Workshop on Graph-based Approaches for CyberSecurity
+  year: 2026
+  link: https://www.ares-conference.eu/grasec
+  deadline: ["2026-05-11 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: IWCC
+  description: 15th International Workshop on Cyber Crime
+  year: 2026
+  link: https://www.ares-conference.eu/iwcc
+  deadline: ["2026-05-11 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: PQ-ReadySec
+  description: International Workshop on Post-Quantum Cybersecurity Readiness and Migration
+  year: 2026
+  link: https://www.ares-conference.eu/pq-readysec
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, CRYPTO, SHOP]
+
+- name: RDGPT
+  description: 2nd International Workshop on Responsible Data Governance, Privacy, and Digital Transformation
+  year: 2026
+  link: https://www.ares-conference.eu/rdgpt
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: SAFER
+  description: Workshop on Sustainable Security And Awareness For Next Generation Infrastructures
+  year: 2026
+  link: https://www.ares-conference.eu/safer
+  deadline: ["2026-05-04 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: SCCS
+  description: First International Workshop on Supply Chain Cyber Security
+  year: 2026
+  link: https://www.ares-conference.eu/sccs
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: SecHealth
+  description: Workshop on Cybersecurity in Healthcare Operations
+  year: 2026
+  link: https://www.ares-conference.eu/sechealth
+  deadline: ["2026-05-15 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: Secdustry
+  description: 5th Workshop on Cybersecurity in Industry 4.0 and Beyond
+  year: 2026
+  link: https://www.ares-conference.eu/secindustry
+  deadline: ["2026-05-05 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: TrustBus
+  description: 23rd International Workshop on Trust, Privacy and Security in the Digital Society
+  year: 2026
+  link: https://www.ares-conference.eu/trustbus
+  deadline: ["2026-05-01 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: SIA
+  description: First Workshop on Security in Aviation
+  year: 2026
+  link: https://www.ares-conference.eu/sia
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: SPETViD
+  description: 3rd International Workshop on Security and/or Privacy Enhancing Technologies for Multimodal Data
+  year: 2026
+  link: https://www.ares-conference.eu/spetvid
+  deadline: ["2026-05-18 23:59"]
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: SAFE-ML
   description: 2nd International Workshop on Secure, Accountable, and Verifiable Machine Learning
