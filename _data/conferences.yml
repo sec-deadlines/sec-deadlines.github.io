@@ -206,7 +206,7 @@
   year: 2026
   link: https://scisec.org/
   deadline: ["2026-03-31 23:59"]
-  date: August 15-17
+  date: May 29-31
   place: Beijing, China
   tags: [SEC, CONF]
 
@@ -705,12 +705,12 @@
 
 - name: AsianHOST
   description: Asian Hardware Oriented Security and Trust Symposium
-  year: 2024
-  link: https://www.asianhost.org/2024/
-  deadline: ["2024-08-04 23:59"]
-  date: December 16-18
+  year: 2026
+  link: https://www.asianhost.org/2026/
+  deadline: ["2026-07-14 23:59"]
+  date: December 11-13
   timezone: Asia/Shanghai
-  place: Kobe, Japan
+  place: Kharagpur, India
   tags: [SEC, CONF]
 
 # Workshops
