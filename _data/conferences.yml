@@ -1616,3 +1616,14 @@
   date: Sep 2-3, 2026
   place: Buford, Georgia, USA
   tags: [SEC, CONF]
+
+- name: SCP
+  description: Conference on Sociotechnical Cybersecurity and Privacy
+  year: 2026
+  link: https://scpconf.eu/
+  deadline: ["2026-05-25 23:59"]
+  comment: Abstract registration required (May 20 AoE).
+  date: September 2-3
+  place: Belval, Luxembourg
+  tags: [SEC, PRIV, CONF]
+
