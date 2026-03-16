@@ -1802,7 +1802,7 @@
   tags: [SEC, SHOP]
 
 - name: Sensors S&P
-  description: International Workshop on Security and Privacy of Sensing Systems
+  description: International Workshop on Security and Privacy of Sensing Systems
   year: 2025
   link: https://emtechlab.github.io/sensors-security-privacy-workshop/
   deadline: ["2025-02-08 23:59"]
