@@ -203,11 +203,11 @@
 
 - name: SciSec
   description: International Conference on Science of Cyber Security
-  year: 2025
-  link: https://scisec.org/index.html
-  deadline: ["2025-04-30 23:59"]
+  year: 2026
+  link: https://scisec.org/
+  deadline: ["2026-03-31 23:59"]
   date: August 15-17
-  place: Wuhan, Hubei, China
+  place: Beijing, China
   tags: [SEC, CONF]
 
 - name: DCS-CI
