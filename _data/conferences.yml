@@ -145,16 +145,6 @@
   place: Lisbon, Portugal
   tags: [SEC, PRIV, CONF]
 
-- name: Sensors S&P
-  description: Second International Workshop on Security and Privacy of Sensing Systems
-  year: 2025
-  link: https://emtechlab.github.io/sensors-security-privacy-workshop/
-  deadline: ["2025-02-08 23:59"]
-  date: May 6
-  comment: Co-located with Sensys at Cyber-Physical Systems and Internet-of-Things Week
-  place: Irvine, USA
-  tags: [SEC, PRIV, SHOP]
-
 - name: ISC
   description: Information Security Conference
   year: 2025
@@ -220,213 +210,24 @@
   place: Wuhan, Hubei, China
   tags: [SEC, CONF]
 
-- name: EDId
-  description: International Workshop on Emerging Digital Identities
+- name: DCS-CI
+  description: International Conference on Design of Cyber-Secure Critical Infrastructure 
   year: 2026
-  link: https://www.ares-conference.eu/edid
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, CRYPTO, SHOP]
+  link: https://dcs-ci.github.io
+  deadline: ["2026-04-13 23:59"]
+  date: Sep 2-3, 2026
+  place: Buford, Georgia, USA
+  tags: [SEC, CONF]
 
-- name: WSDF
-  description: 19th International Workshop on Digital Forensics
+- name: SCP
+  description: Conference on Sociotechnical Cybersecurity and Privacy
   year: 2026
-  link: https://www.ares-conference.eu/wsdf
-  deadline: ["2026-04-15 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: SAFE-EDGE
-  description: Workshop on Security, Availability, and Fault-Tolerance in Edge AI Systems
-  year: 2026
-  link: https://www.ares-conference.eu/safe-edge
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: IWSMA
-  description: Thirteenth International Workshop on Security of Mobile Applications
-  year: 2026
-  link: https://www.ares-conference.eu/iwsma
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: QCLLM
-  description: Workshop on Quantum Computing for Securing Large Language Models
-  year: 2026
-  link: https://www.ares-conference.eu/qcllm
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: ASOD
-  description: Workshop on Advances in Secure Software Deployments
-  year: 2026
-  link: https://www.ares-conference.eu/asod
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: "AI&CCPS"
-  description: 2nd International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security
-  year: 2026
-  link: https://www.ares-conference.eu/aiccps
-  deadline: ["2026-04-15 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: CPRA
-  description: 2nd International Workshop on Cybersecurity and Privacy Risk Assessments
-  year: 2026
-  link: https://www.ares-conference.eu/cpra
-  deadline: ["2026-05-01 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: CSA
-  description: 7th Workshop on Recent Advances in Cyber Situational Awareness and Data-Centric Approaches
-  year: 2026
-  link: https://www.ares-conference.eu/csa
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: CUING
-  description: 10th International Workshop on Cyber Use of Information Hiding
-  year: 2026
-  link: https://www.ares-conference.eu/cuing
-  deadline: ["2026-05-08 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: CyResTrust
-  description: International Workshop on Applied Trust and Cyber Resilience
-  year: 2026
-  link: https://www.ares-conference.eu/cyrestrust
-  deadline: ["2026-05-04 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, CRYPTO, SHOP]
-
-- name: GRASEC
-  description: 7th International Workshop on Graph-based Approaches for CyberSecurity
-  year: 2026
-  link: https://www.ares-conference.eu/grasec
-  deadline: ["2026-05-11 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: IWCC
-  description: 15th International Workshop on Cyber Crime
-  year: 2026
-  link: https://www.ares-conference.eu/iwcc
-  deadline: ["2026-05-11 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: PQ-ReadySec
-  description: International Workshop on Post-Quantum Cybersecurity Readiness and Migration
-  year: 2026
-  link: https://www.ares-conference.eu/pq-readysec
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, CRYPTO, SHOP]
-
-- name: RDGPT
-  description: 2nd International Workshop on Responsible Data Governance, Privacy, and Digital Transformation
-  year: 2026
-  link: https://www.ares-conference.eu/rdgpt
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: SAFER
-  description: Workshop on Sustainable Security And Awareness For Next Generation Infrastructures
-  year: 2026
-  link: https://www.ares-conference.eu/safer
-  deadline: ["2026-05-04 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: SCCS
-  description: First International Workshop on Supply Chain Cyber Security
-  year: 2026
-  link: https://www.ares-conference.eu/sccs
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: SecHealth
-  description: Workshop on Cybersecurity in Healthcare Operations
-  year: 2026
-  link: https://www.ares-conference.eu/sechealth
-  deadline: ["2026-05-15 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: Secdustry
-  description: 5th Workshop on Cybersecurity in Industry 4.0 and Beyond
-  year: 2026
-  link: https://www.ares-conference.eu/secindustry
-  deadline: ["2026-05-05 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: TrustBus
-  description: 23rd International Workshop on Trust, Privacy and Security in the Digital Society
-  year: 2026
-  link: https://www.ares-conference.eu/trustbus
-  deadline: ["2026-05-01 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, SHOP]
-
-- name: SIA
-  description: First Workshop on Security in Aviation
-  year: 2026
-  link: https://www.ares-conference.eu/sia
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, SHOP]
-
-- name: SPETViD
-  description: 3rd International Workshop on Security and/or Privacy Enhancing Technologies for Multimodal Data
-  year: 2026
-  link: https://www.ares-conference.eu/spetvid
-  deadline: ["2026-05-18 23:59"]
-  date: August 24-27
-  place: Linköping, SE
-  tags: [SEC, PRIV, CRYPTO, SHOP]
-
-- name: SAFE-ML
-  description: 2nd International Workshop on Secure, Accountable, and Verifiable Machine Learning
-  year: 2026
-  link: https://conf.researchr.org/home/icst-2026/safe-ml-2026
-  comment: Co-located with ICST
-  deadline: ["2026-02-27 23:59"]
-  date: May 18 - 22
-  place: Daejeon, South Korea
-  tags: [SEC, PRIV, SHOP]
+  link: https://scpconf.eu/
+  deadline: ["2026-05-25 23:59"]
+  comment: Abstract registration required (May 20 AoE).
+  date: September 2-3
+  place: Belval, Luxembourg
+  tags: [SEC, PRIV, CONF]
 
 - name: IFIP SEC
   description: IFIP International Information Security and Privacy Conference
@@ -436,15 +237,6 @@
   date: June 9 - 11
   place: Perth, Australia
   tags: [SEC, CONF]
-
-- name: IFIP WNDSS
-  description: IFIP International Workshop on Network and Distributed Systems Security
-  year: 2025
-  link: https://ifiptc11.org/wg114-events/wg114-workshop
-  deadline: ["2025-01-31 23:59"]
-  date: May 23
-  place: Maribor, Slovenia
-  tags: [SEC, SHOP]
 
 - name: ACISP
   description: Australasian Conference on Information Security and Privacy
@@ -482,16 +274,6 @@
   place: TBD
   tags: [PRIV, CONF]
 
-- name: PLAS
-  year: 2025
-  description: Workshop on Programming Languages and Analysis for Security
-  comment: Co-located with CCS 2025
-  link: https://plas25.github.io/
-  deadline: ["2025-07-04 23:59"]
-  date: October 13
-  place: Taipei, Taiwan
-  tags: [SEC, PRIV, SHOP]
-
 - name: PrivaCI
   description: The Annual Symposium on Applications of Contextual Integrity
   year: 2026
@@ -511,16 +293,6 @@
   date: August 26-28
   place: Ottawa, Canada
   tags: [SEC, PRIV, CONF]
-  
-- name: IFIPSC
-  description: IFIP Summer School on Privacy and Identity Management
-  year: 2026
-  link: https://ifip-summerschool.org/
-  comment: Abstract submission. Once accepted, full papers due July 30. 
-  deadline: ["2026-04-30 23:59"]
-  date: August 10-14
-  place: Leuven, Belgium
-  tags: [PRIV, SHOP]
 
 # Crypto
 
@@ -668,15 +440,6 @@
   date: October 11-15
   place: Antalya, Türkiye
   tags: [CRYPTO, CONF]
-
-- name: LightSEC
-  description: International Workshop on Lightweight Cryptography for Security and Privacy
-  year: 2025
-  date: September 01-03
-  link: https://www.encrypt-on.com/activities/conferences/lightsec-2025/
-  deadline: ["2025-04-18 23:59"]
-  place: Istanbul, Turkiye
-  tags: [SEC, PRIV, SHOP, CRYPTO]
 
 - name: CASCADE
   description: Constructive Approaches for Security Analysis and Design of Embedded Systems
@@ -827,36 +590,6 @@
   date: October 24-26
   place: Bertinoro, Italy
   tags: [SEC, CONF]
-
-- name: ACSW
-  description: Workshop on Automotive Cyber-Security
-  year: 2025
-  comment: Co-Located with IEEE European Symposium on Security and Privacy
-  link: https://acsw.unimore.it/
-  deadline: ["2026-3-12 23:59"]
-  date: July 10
-  place: Lisbon, Portugal
-  tags: [SEC, PRIV, SHOP]
-
-- name: OSVS
-  description: Workshop on Operating Systems and Virtualization Security
-  year: 2025
-  link: https://osvs.pages.dev
-  deadline: ["2025-03-23 23:59"]
-  date: July 04
-  comment: Co-located with IEEE Euro S&P
-  place: Venice, Italy
-  tags: [SEC, SHOP]
-
-- name: IMPACT
-  description: Workshop on Innovation in Metadata Privacy---Analysis and Construction Techniques
-  year: 2025
-  link: https://www.ndss-symposium.org/ndss2025/co-located-events/impact/
-  deadline: ["2025-01-10 23:59"]
-  comment: Co-located with NDSS Symposium
-  date: February 28
-  place: San Diego, California, USA
-  tags: [PRIV, SEC, CRYPTO, SHOP]
 
 - name: CRISIS
   year: 2025
@@ -1788,22 +1521,312 @@
   place: San Francisco, California, USA
   tags: [SEC, PRIV, SHOP]
 
-- name: DCS-CI
-  description: International Conference on Design of Cyber-Secure Critical Infrastructure 
-  year: 2026
-  link: https://dcs-ci.github.io
-  deadline: ["2026-04-13 23:59"]
-  date: Sep 2-3, 2026
-  place: Buford, Georgia, USA
-  tags: [SEC, CONF]
 
-- name: SCP
-  description: Conference on Sociotechnical Cybersecurity and Privacy
-  year: 2026
-  link: https://scpconf.eu/
-  deadline: ["2026-05-25 23:59"]
-  comment: Abstract registration required (May 20 AoE).
-  date: September 2-3
-  place: Belval, Luxembourg
-  tags: [SEC, PRIV, CONF]
+- name: ACSW
+  description: Workshop on Automotive Cyber-Security
+  year: 2025
+  comment: Co-Located with IEEE European Symposium on Security and Privacy
+  link: https://acsw.unimore.it/
+  deadline: ["2026-3-12 23:59"]
+  date: July 10
+  place: Lisbon, Portugal
+  tags: [SEC, PRIV, SHOP]
 
+- name: OSVS
+  description: Workshop on Operating Systems and Virtualization Security
+  year: 2025
+  link: https://osvs.pages.dev
+  deadline: ["2025-03-23 23:59"]
+  date: July 04
+  comment: Co-located with IEEE Euro S&P
+  place: Venice, Italy
+  tags: [SEC, SHOP]
+
+- name: IMPACT
+  description: Workshop on Innovation in Metadata Privacy---Analysis and Construction Techniques
+  year: 2025
+  link: https://www.ndss-symposium.org/ndss2025/co-located-events/impact/
+  deadline: ["2025-01-10 23:59"]
+  comment: Co-located with NDSS Symposium
+  date: February 28
+  place: San Diego, California, USA
+  tags: [PRIV, SEC, CRYPTO, SHOP]
+
+
+- name: EDId
+  description: International Workshop on Emerging Digital Identities
+  year: 2026
+  link: https://www.ares-conference.eu/edid
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: WSDF
+  description: International Workshop on Digital Forensics
+  year: 2026
+  link: https://www.ares-conference.eu/wsdf
+  deadline: ["2026-04-15 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: SAFE-EDGE
+  description: Workshop on Security, Availability, and Fault-Tolerance in Edge AI Systems
+  year: 2026
+  link: https://www.ares-conference.eu/safe-edge
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: IWSMA
+  description: International Workshop on Security of Mobile Applications
+  year: 2026
+  link: https://www.ares-conference.eu/iwsma
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: QCLLM
+  description: Workshop on Quantum Computing for Securing Large Language Models
+  year: 2026
+  link: https://www.ares-conference.eu/qcllm
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: ASOD
+  description: Workshop on Advances in Secure Software Deployments
+  year: 2026
+  link: https://www.ares-conference.eu/asod
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: "AI&CCPS"
+  description: International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security
+  year: 2026
+  link: https://www.ares-conference.eu/aiccps
+  deadline: ["2026-04-15 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: CPRA
+  description: International Workshop on Cybersecurity and Privacy Risk Assessments
+  year: 2026
+  link: https://www.ares-conference.eu/cpra
+  deadline: ["2026-05-01 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: CSA
+  description: Workshop on Recent Advances in Cyber Situational Awareness and Data-Centric Approaches
+  year: 2026
+  link: https://www.ares-conference.eu/csa
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: CUING
+  description: International Workshop on Cyber Use of Information Hiding
+  year: 2026
+  link: https://www.ares-conference.eu/cuing
+  deadline: ["2026-05-08 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: CyResTrust
+  description: International Workshop on Applied Trust and Cyber Resilience
+  year: 2026
+  link: https://www.ares-conference.eu/cyrestrust
+  deadline: ["2026-05-04 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, CRYPTO, SHOP]
+
+- name: GRASEC
+  description: International Workshop on Graph-based Approaches for CyberSecurity
+  year: 2026
+  link: https://www.ares-conference.eu/grasec
+  deadline: ["2026-05-11 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: IWCC
+  description: International Workshop on Cyber Crime
+  year: 2026
+  link: https://www.ares-conference.eu/iwcc
+  deadline: ["2026-05-11 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: PQ-ReadySec
+  description: International Workshop on Post-Quantum Cybersecurity Readiness and Migration
+  year: 2026
+  link: https://www.ares-conference.eu/pq-readysec
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, CRYPTO, SHOP]
+
+- name: RDGPT
+  description: International Workshop on Responsible Data Governance, Privacy, and Digital Transformation
+  year: 2026
+  link: https://www.ares-conference.eu/rdgpt
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: SAFER
+  description: Workshop on Sustainable Security And Awareness For Next Generation Infrastructures
+  year: 2026
+  link: https://www.ares-conference.eu/safer
+  deadline: ["2026-05-04 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: SCCS
+  description: International Workshop on Supply Chain Cyber Security
+  year: 2026
+  link: https://www.ares-conference.eu/sccs
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: SecHealth
+  description: Workshop on Cybersecurity in Healthcare Operations
+  year: 2026
+  link: https://www.ares-conference.eu/sechealth
+  deadline: ["2026-05-15 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: Secdustry
+  description: Workshop on Cybersecurity in Industry 4.0 and Beyond
+  year: 2026
+  link: https://www.ares-conference.eu/secindustry
+  deadline: ["2026-05-05 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: TrustBus
+  description: International Workshop on Trust, Privacy and Security in the Digital Society
+  year: 2026
+  link: https://www.ares-conference.eu/trustbus
+  deadline: ["2026-05-01 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, SHOP]
+
+- name: SIA
+  description: Workshop on Security in Aviation
+  year: 2026
+  link: https://www.ares-conference.eu/sia
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, SHOP]
+
+- name: SPETViD
+  description: International Workshop on Security and/or Privacy Enhancing Technologies for Multimodal Data
+  year: 2026
+  link: https://www.ares-conference.eu/spetvid
+  deadline: ["2026-05-18 23:59"]
+  comment: Co-located with ARES
+  date: August 24-27
+  place: Linköping, SE
+  tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: SAFE-ML
+  description: International Workshop on Secure, Accountable, and Verifiable Machine Learning
+  year: 2026
+  link: https://conf.researchr.org/home/icst-2026/safe-ml-2026
+  comment: Co-located with ICST
+  deadline: ["2026-02-27 23:59"]
+  date: May 18 - 22
+  place: Daejeon, South Korea
+  tags: [SEC, PRIV, SHOP]
+
+- name: LightSEC
+  description: International Workshop on Lightweight Cryptography for Security and Privacy
+  year: 2025
+  date: September 01-03
+  link: https://www.encrypt-on.com/activities/conferences/lightsec-2025/
+  deadline: ["2025-04-18 23:59"]
+  place: Istanbul, Turkiye
+  tags: [SEC, PRIV, SHOP, CRYPTO]
+
+- name: IFIP WNDSS
+  description: IFIP International Workshop on Network and Distributed Systems Security
+  year: 2025
+  link: https://ifiptc11.org/wg114-events/wg114-workshop
+  deadline: ["2025-01-31 23:59"]
+  date: May 23
+  place: Maribor, Slovenia
+  tags: [SEC, SHOP]
+
+- name: Sensors S&P
+  description: International Workshop on Security and Privacy of Sensing Systems
+  year: 2025
+  link: https://emtechlab.github.io/sensors-security-privacy-workshop/
+  deadline: ["2025-02-08 23:59"]
+  date: May 6
+  comment: Co-located with Sensys at Cyber-Physical Systems and Internet-of-Things Week
+  place: Irvine, USA
+  tags: [SEC, PRIV, SHOP]
+
+- name: PLAS
+  year: 2025
+  description: Workshop on Programming Languages and Analysis for Security
+  comment: Co-located with CCS 2025
+  link: https://plas25.github.io/
+  deadline: ["2025-07-04 23:59"]
+  date: October 13
+  place: Taipei, Taiwan
+  tags: [SEC, PRIV, SHOP]
+  
+- name: IFIPSC
+  description: IFIP Summer School on Privacy and Identity Management
+  year: 2026
+  link: https://ifip-summerschool.org/
+  comment: Abstract submission. Once accepted, full papers due July 30. 
+  deadline: ["2026-04-30 23:59"]
+  date: August 10-14
+  place: Leuven, Belgium
+  tags: [PRIV, SHOP]
