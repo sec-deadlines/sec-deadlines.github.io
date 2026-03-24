@@ -65,13 +65,13 @@
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
-  year: 2026
-  link: https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/
+  year: 2027
+  link: https://asiaccs2027.cityu.edu.mo/home/index.html
   deadline:
-    - "2025-08-25 23:59"
-    - "2025-12-12 23:59"
-  date: "June 1-6"
-  place: Bangalore, India
+    - "2026-08-21 23:59"
+    - "2026-12-11 23:59"
+  date: "July 12-16"
+  place: Macau
   tags: [SEC, PRIV, CONF]
 
 - name: CSF
