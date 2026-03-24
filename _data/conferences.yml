@@ -634,12 +634,12 @@
   tags: [SEC, CONF]
   
 - name: SSR
-  year: 2025
-  date: "December 4-5"
+  year: 2026
+  date: "December 13-15"
   description: Security Standardisation Research Conference
-  deadline: ["2025-10-05 23:59"]
-  link: https://www.uni-passau.de/ssr2025/
-  place: Passau, Germany
+  deadline: ["2025-09-15 23:59"]
+  link: https://ssresearch26.umbc.edu/
+  place: Baltimore, MD, USA
   tags: [SEC, CONF, CRYPTO]
 
 # Don't delete just yet, has popped up on off years before https://ieeexplore.ieee.org/xpl/conhome/1843824/all-proceedings
