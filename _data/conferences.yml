@@ -357,11 +357,11 @@
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2025
-  link: https://tcc.iacr.org/2025/
-  deadline: ["2025-05-27 23:59"]
-  date: "December 2-5"
-  place: Aarhus, Denmark
+  year: 2026
+  link: https://tcc.iacr.org/2026/
+  deadline: ["2026-05-19 23:59"]
+  date: "November 10-13"
+  place: New York City, USA
   tags: [CRYPTO, CONF]
 
 - name: PKC
@@ -637,7 +637,7 @@
   year: 2026
   date: "December 13-15"
   description: Security Standardisation Research Conference
-  deadline: ["2025-09-15 23:59"]
+  deadline: ["2026-09-15 23:59"]
   link: https://ssresearch26.umbc.edu/
   place: Baltimore, MD, USA
   tags: [SEC, CONF, CRYPTO]
