@@ -192,13 +192,13 @@
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IMF
-  year: 2025
-  date: "September 16–17"
+  year: 2026
+  date: "September 15–16"
   description: International Conference on IT Security Incident Management and IT Forensics
   link: https://www.imf-conference.org/cfp.html
-  deadline: ["2025-04-28 23:59"]
+  deadline: ["2025-04-20 23:59"]
   timezone: Etc/UTC
-  place: Albstadt, Germany
+  place: Bonn, Germany
   tags: [SEC, CONF]
 
 - name: SciSec
