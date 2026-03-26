@@ -192,13 +192,13 @@
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: IMF
-  year: 2025
-  date: "September 16–17"
+  year: 2026
+  date: "September 15–16"
   description: International Conference on IT Security Incident Management and IT Forensics
   link: https://www.imf-conference.org/cfp.html
-  deadline: ["2025-04-28 23:59"]
+  deadline: ["2025-04-20 23:59"]
   timezone: Etc/UTC
-  place: Albstadt, Germany
+  place: Bonn, Germany
   tags: [SEC, CONF]
 
 - name: SciSec
@@ -316,15 +316,14 @@
   tags: [CRYPTO, CONF, TOP4]
 
 - name: Inscrypt
-  year: 2025
+  year: 2026
   description: International Conference on Information Security and Cryptology
-  link: https://inscrypt2025.xidian.edu.cn/
+  link: https://inscrypt2026.comp.polyu.edu.hk/
   deadline:
     - "2025-04-15 23:59"
     - "2025-06-15 23:59"
-  timezone: Etc/GMT-8
-  date: October 19-21
-  place: Xi'an, China
+  date: November 7-9
+  place: Hong Kong SAR, China
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SAC
@@ -890,11 +889,11 @@
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
-  year: 2025
-  link: https://cns2025.ieee-cns.org/authors/call-papers
-  deadline: ["2025-05-05 23:59"]
-  date: September 08 - 11
-  place: Avignon, France
+  year: 2026
+  link: https://cns2026.ieee-cns.org/
+  deadline: ["2025-05-11 23:59"]
+  date: September 14 - 17
+  place: Newark, DE, USA
   tags: [SEC, PRIV, CONF]
 
 - name: HASP
@@ -1422,11 +1421,11 @@
 
 - name: WICON
   description: EAI International Conference on Wireless Internet
-  year: 2025
-  link: https://wicon.eai-conferences.org/2025/
-  deadline: ["2025-10-20 23:59"]
-  date: December 5
-  place: Istanbul, Turkey
+  year: 2026
+  link: https://wicon.eai-conferences.org/2026/
+  deadline: ["2026-06-01 23:59"]
+  date: December 2-4
+  place: Bratislava, Slovakia
   tags: [SEC, CONF]
 
 - name: ADHOCNETS
