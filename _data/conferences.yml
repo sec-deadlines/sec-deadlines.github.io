@@ -316,15 +316,14 @@
   tags: [CRYPTO, CONF, TOP4]
 
 - name: Inscrypt
-  year: 2025
+  year: 2026
   description: International Conference on Information Security and Cryptology
-  link: https://inscrypt2025.xidian.edu.cn/
+  link: https://inscrypt2026.comp.polyu.edu.hk/
   deadline:
     - "2025-04-15 23:59"
     - "2025-06-15 23:59"
-  timezone: Etc/GMT-8
-  date: October 19-21
-  place: Xi'an, China
+  date: November 7-9
+  place: Hong Kong SAR, China
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SAC
