@@ -1421,11 +1421,11 @@
 
 - name: WICON
   description: EAI International Conference on Wireless Internet
-  year: 2025
-  link: https://wicon.eai-conferences.org/2025/
-  deadline: ["2025-10-20 23:59"]
-  date: December 5
-  place: Istanbul, Turkey
+  year: 2026
+  link: https://wicon.eai-conferences.org/2026/
+  deadline: ["2026-06-01 23:59"]
+  date: December 2-4
+  place: Bratislava, Slovakia
   tags: [SEC, CONF]
 
 - name: ADHOCNETS
