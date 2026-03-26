@@ -890,11 +890,11 @@
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
-  year: 2025
-  link: https://cns2025.ieee-cns.org/authors/call-papers
-  deadline: ["2025-05-05 23:59"]
-  date: September 08 - 11
-  place: Avignon, France
+  year: 2026
+  link: https://cns2026.ieee-cns.org/
+  deadline: ["2025-05-11 23:59"]
+  date: September 14 - 17
+  place: Newark, DE, USA
   tags: [SEC, PRIV, CONF]
 
 - name: HASP
