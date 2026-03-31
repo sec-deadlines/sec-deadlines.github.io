@@ -347,11 +347,12 @@
 
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2025
-  link: https://aftconf.github.io/aft25/CFP.html
-  deadline: ["2025-05-28 23:59"]
-  date: "October 8–10"
-  place: Pittsburgh, PA, USA
+  year: 2026
+  link: https://aft.ifca.ai/aft26/CFP.html
+  deadline: ["2026-05-27 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: "October 6–9"
+  place: London, UK
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: TCC
