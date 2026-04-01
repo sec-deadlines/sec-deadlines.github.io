@@ -267,6 +267,18 @@
   place: Abu Dhabi, UAE
   tags: [SEC, CONF]
 
+- name: SSS
+  description: International Symposium on Stabilization, Safety, and Security of Distributed Systems
+  year: 2026
+  link: https://sss2026.conf.lip6.fr/
+  deadline:
+    - "2026-03-31 23:59"
+    - "2026-05-15 23:59"
+    - "2026-07-15 23:59"
+  date: October 9-11
+  place: Gothenburg, Sweden
+  tags: [SEC, CONF]
+
 # Privacy
 
 - name: PETS
