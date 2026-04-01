@@ -258,6 +258,15 @@
   place: Bologna, IT
   tags: [SEC, CONF]
 
+- name: ICSC
+  description: Intelligent Cybersecurity Conference
+  year: 2026
+  link: https://icsc-conference.org/2026/
+  deadline: ["2026-04-15 23:59"]
+  date: September 15-18
+  place: Abu Dhabi, UAE
+  tags: [SEC, CONF]
+
 # Privacy
 
 - name: PETS
@@ -292,6 +301,15 @@
   comment: Co-located with SAC 2026.
   date: August 26-28
   place: Ottawa, Canada
+  tags: [SEC, PRIV, CONF]
+
+- name: APF
+  description: Annual Privacy Forum
+  year: 2026
+  link: https://privacyforum.eu/callforpapers.html
+  deadline: ["2026-04-15 23:59"]
+  date: September 9-10
+  place: Salzburg, Austria
   tags: [SEC, PRIV, CONF]
 
 # Crypto
