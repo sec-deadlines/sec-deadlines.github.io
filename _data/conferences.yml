@@ -582,12 +582,12 @@
   tags: [SEC, CONF, PRIV]
 
 - name: eCrime
-  year: 2025
-  date: November 4-7
+  year: 2026
+  date: November 2-6
   description: The Symposium on Electronic Crime Research
-  link: https://apwg.org/event/ecrime2025/
-  deadline: ["2025-07-29 23:59"]
-  place: San Diego, CA, USA
+  link: https://apwg.org/events/ecrime2026
+  deadline: ["2025-06-30 23:59"]
+  place: Lisbon, Portugal
   tags: [SEC, PRIV, CONF]
 
 - name: PAM
