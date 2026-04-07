@@ -6,8 +6,14 @@
 - name: Crypto
   tag: CRYPTO
 - name: A*
-  tag: TOP4
+  tag: ASTAR
+- name: A
+  tag: CORE-A
+- name: B
+  tag: CORE-B
 - name: Conference
   tag: CONF
 - name: Workshop
   tag: SHOP
+- name: Journal
+  tag: JRN
