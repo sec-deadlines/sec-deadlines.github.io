@@ -524,7 +524,7 @@
   comment: Abstract deadline September 30 AoE.
   date: April 13-17
   place: Dubai, United Arab Emirates
-  tags: [SEC, CONF, PRIV]
+  tags: [SEC, CONF, PRIV, TOP4]
 
 - name: ATC
   description: ACM SIGOPS Annual Technical Conference
@@ -634,7 +634,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: April 25 - May 1
   place: Dublin, Ireland
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, TOP4]
 
 - name: ASE
   description: IEEE/ACM Automated Software Engineering
@@ -643,7 +643,7 @@
   deadline: ["2026-03-26 23:59"]
   date: October 12 - 16 
   place: Munich, Germany
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, TOP4]
 
 # Change name to FSE, but FSE is already used for the IACR Conference on Fast Software Encryption (FSE)
 - name: ESEC/FSE
@@ -653,7 +653,7 @@
   deadline: ["2026-10-09 23:59"]
   date: July 12 - 16
   place: Shenzhen, China
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, TOP4]
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
