@@ -45,10 +45,12 @@
           <div class="col-xs-12">
             <span class="tagtitle"><b>Select one or more tags to filter</b> (otherwise all deadlines are displayed):</span>
           </div>
+        </div>
+        <div class="row">
           <div class="col-xs-12">
             <form class="form-inline">
               <div class="form-group">
-                <span class="mytitle">&nbsp;&nbsp;Research Domain&nbsp;: </span>
+                <span class="mytitle"><b>Research Domain </b></span>
                 {% for type in site.data.filters.filter1 %}
                 <div class="checkbox">
                   <label>
@@ -59,7 +61,7 @@
               </div>
               <br>
               <div class="form-group">
-                <span class="mytitle">&nbsp;&nbsp;Publication Type&nbsp;&nbsp;&nbsp;: </span>
+                <span class="mytitle"><b>Publication Type</b></span>
                 {% for type in site.data.filters.filter2 %}
                 <div class="checkbox">
                   <label>
@@ -70,7 +72,7 @@
               </div>
               <br>
               <div class="form-group">
-                <span class="mytitle">&nbsp;&nbsp;<a href="https://portal.core.edu.au/conf-ranks/" target="_blank">CORE</a> Ranking&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: </span>
+                <span class="mytitle"><b>Publication Type</b></span>
                 {% for type in site.data.filters.filter3 %}
                 <div class="checkbox">
                   <label>

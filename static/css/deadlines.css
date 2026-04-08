@@ -79,6 +79,13 @@ a:hover, a:focus {
   opacity: 0.5;
 }
 
+.mytitle {
+  display: inline-block;
+  width: 160px;
+  text-align:left;
+  margin-left: 10px;
+}
+
 .timer {
   font-size: 1.5em;
   line-height: 1.25em;
