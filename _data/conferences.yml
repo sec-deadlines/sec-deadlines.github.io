@@ -11,7 +11,7 @@
     - "2025-11-13 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Francisco, California, USA
-  tags: [SEC, PRIV, CONF, TOP4]
+  tags: [SEC, PRIV, CONF, ASTAR]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -24,7 +24,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: November 15-19
   place: The Hague, The Netherlands
-  tags: [SEC, PRIV, CONF, TOP4]
+  tags: [SEC, PRIV, CONF, ASTAR]
 
 - name: USENIX Security
   description: USENIX Security Symposium
@@ -37,7 +37,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: "August 11-13"
   place: Denver, CO, USA
-  tags: [SEC, PRIV, CONF, TOP4]
+  tags: [SEC, PRIV, CONF, ASTAR]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -50,7 +50,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: "February 23-27"
   place: San Diego, CA, USA
-  tags: [SEC, PRIV, CONF, TOP4]
+  tags: [SEC, PRIV, CONF, ASTAR]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
@@ -61,7 +61,7 @@
     - "2026-04-21 23:59"
   date: "September 14-18"
   place: Rome, Italy
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
@@ -72,7 +72,7 @@
     - "2026-12-11 23:59"
   date: "July 12-16"
   place: Macau
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
@@ -82,7 +82,7 @@
   deadline: ["2025-11-20 23:59"]
   date: "July 6 - 10"
   place: Lisbon, Portugal
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-A]
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
@@ -94,7 +94,7 @@
     - "2026-01-29 23:59"
   date: July 26-29
   place: Lisbon, Portugal
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: CANS
   description: International Conference on Cryptology and Network Security
@@ -103,7 +103,7 @@
   deadline: ["2026-06-10 23:59"]
   date: November 23-25
   place: Wollongong, Australia
-  tags: [SEC, CRYPTO, CONF]
+  tags: [SEC, CRYPTO, CONF, CORE-B]
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
@@ -114,7 +114,7 @@
     - "2026-03-03 23:59"
   date: June 30 - July 3
   place: Saarbrücken, Germany
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: IFIP SEC
   description: IFIP International Information Security and Privacy Conference
@@ -123,7 +123,7 @@
   deadline: ["2025-12-19 23:59"]
   date: June 9 - 11
   place: Perth, Australia
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-B]
 
 - name: ISC
   description: Information Security Conference
@@ -141,7 +141,7 @@
   deadline: ["2025-08-01 23:59"]
   date: November 14-17
   place: Guiyang, China
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: FPS
   description: International Symposium on Foundations & Practice of Security
@@ -150,7 +150,7 @@
   deadline: ["2025-09-15 23:59"]
   date: November 25-27
   place: Brest, France
-  tags: [SEC, PRIV, CRYPTO, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF, CORE-B]
 
 - name: SecureComm
   year: 2026
@@ -188,7 +188,7 @@
   comment: Rolling deadline every quarter
   date: TBD
   place: TBD
-  tags: [PRIV, CONF]
+  tags: [PRIV, CONF, CORE-A]
 
 - name: SOUPS
   description: Symposium on Usable Privacy and Security
@@ -198,7 +198,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: August 23-26
   place: Hannover, Germany
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: EuroUSEC
   description: European Symposium on Usable Security
@@ -249,7 +249,7 @@
   timezone: Etc/GMT+8
   date: August 17-20
   place: Santa Barbara, CA, USA
-  tags: [CRYPTO, CONF, TOP4]
+  tags: [CRYPTO, CONF, ASTAR]
 
 - name: Eurocrypt
   description: European Cryptology Conference
@@ -258,7 +258,7 @@
   deadline: ["2025-10-02 23:59"]
   date: May 10-14
   place: Rome, Italy
-  tags: [CRYPTO, CONF, TOP4]
+  tags: [CRYPTO, CONF, ASTAR]
 
 - name: Inscrypt
   year: 2026
@@ -278,7 +278,7 @@
   deadline: ["2026-02-02 23:59", "2026-05-11 23:59"]
   date: August 26-28
   place: Ottawa, ON, Canada
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-B]
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
@@ -288,7 +288,7 @@
   timezone: Etc/GMT
   date: December 8-12
   place: Melbourne, Australia
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-A]
 
 - name: FC
   description: Financial Cryptography and Data Security
@@ -297,7 +297,7 @@
   deadline: ["2025-09-20 23:59"]
   date: March 2–6
   place: St. Kitts
-  tags: [SEC, CRYPTO, CONF]
+  tags: [SEC, CRYPTO, CONF, CORE-A]
 
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
@@ -307,7 +307,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: "October 6–9"
   place: London, UK
-  tags: [SEC, PRIV, CRYPTO, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF, CORE-B]
 
 - name: TCC
   description: Theory of Cryptography Conference
@@ -316,7 +316,7 @@
   deadline: ["2026-05-19 23:59"]
   date: "November 10-13"
   place: New York City, USA
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-B]
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
@@ -325,7 +325,7 @@
   deadline: ["2025-10-24 09:59"]
   date: May 25-28
   place: West Palm Beach, FL, USA
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-B]
 
 - name: CT-RSA
   description: RSA Conference Cryptographers’ Track
@@ -334,7 +334,7 @@
   link: https://conference.wsu.edu/ct-rsa-2026/
   deadline: ["2025-10-24 23:59"]
   place: San Francisco, CA, USA
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-B]
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
@@ -379,7 +379,7 @@
   comment: Rolling deadline every quarter
   date: TBD
   place: TBD
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-B, JRN]
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
@@ -393,18 +393,7 @@
   comment: Rolling deadline every quarter
   date: October 11-15
   place: Antalya, Türkiye
-  tags: [CRYPTO, CONF]
-
-- name: CASCADE
-  description: Constructive Approaches for Security Analysis and Design of Embedded Systems
-  year: 2026
-  link: https://cascade-conference.org/index.html
-  deadline:
-    - "2025-06-27 23:59"
-    - "2025-12-05 23:59"
-  date: March 30 - April 1
-  place: Regensburg, Germany
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, JRN, CORE-A]
 
 - name: C&C
   description: IMA International Conference on Cryptography and Coding
@@ -424,7 +413,7 @@
   deadline: ["2026-04-16 23:59"]
   date: October 11-14
   place: Lancaster, UK
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 - name: SAC
   description: ACM/SIGAPP Symposium On Applied Computing
@@ -442,7 +431,7 @@
   deadline: ["2025-05-30 23:59"]
   date: Dec 9-13
   place: Honolulu, Hawaii, USA
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
@@ -452,7 +441,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: June 22-25
   place: Charlotte, NC, USA
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
@@ -463,7 +452,7 @@
     - "2026-01-23 23:59"
   date: June 22-25
   place: New York, NY
-  tags: [CRYPTO, SEC, CONF]
+  tags: [CRYPTO, SEC, CONF, CORE-B]
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
@@ -474,7 +463,7 @@
     - "2026-02-11 23:59"
   date: July 01-03
   place: Chania, Greece
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-B]
 
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
@@ -495,7 +484,7 @@
   note: "Abstract registration deadline March 2, 2026."
   date: August 24–27
   place: Linköping, Sweden
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
@@ -514,7 +503,7 @@
   deadline: ["2025-03-27 23:59"]
   date: July 28-30
   place: Arlington, Virginia, USA
-  tags: [CRYPTO, SEC, CONF, PRIV]
+  tags: [CRYPTO, SEC, CONF, PRIV, CORE-B]
 
 - name: The Web Conference
   description: International Conference on the World Wide Web
@@ -524,7 +513,7 @@
   comment: Abstract deadline September 30 AoE.
   date: April 13-17
   place: Dubai, United Arab Emirates
-  tags: [SEC, CONF, PRIV, TOP4]
+  tags: [SEC, CONF, PRIV, ASTAR]
 
 - name: ATC
   description: ACM SIGOPS Annual Technical Conference
@@ -533,7 +522,7 @@
   deadline: ["2026-06-10 23:59"]
   date: November 15-18
   place: Shatin, Hong Kong
-  tags: [SEC, CONF, PRIV]
+  tags: [SEC, CONF, PRIV, CORE-A]
 
 - name: eCrime
   year: 2026
@@ -552,7 +541,7 @@
   deadline: ["2025-10-08 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   place: Virtual
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: VehicleSec
   description: USENIX Symposium on Vehicle Security and Privacy
@@ -571,7 +560,7 @@
   deadline: ["2024-08-04 23:59"]
   date: October 24-26
   place: Bertinoro, Italy
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-B]
 
 - name: CRISIS
   year: 2025
@@ -601,7 +590,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: November 3-6
   place: Karlsruhe, Germany
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
@@ -625,6 +614,17 @@
   place: Kharagpur, India
   tags: [SEC, CONF]
 
+- name: CASCADE
+  description: Constructive Approaches for Security Analysis and Design of Embedded Systems
+  year: 2026
+  link: https://cascade-conference.org/index.html
+  deadline:
+    - "2025-06-27 23:59"
+    - "2025-12-05 23:59"
+  date: March 30 - April 1
+  place: Regensburg, Germany
+  tags: [CRYPTO, CONF]
+
 # Software Engineering (Research Track only)
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
@@ -634,7 +634,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: April 25 - May 1
   place: Dublin, Ireland
-  tags: [SEC, CONF, TOP4]
+  tags: [SEC, CONF, ASTAR]
 
 - name: ASE
   description: IEEE/ACM Automated Software Engineering
@@ -643,7 +643,7 @@
   deadline: ["2026-03-26 23:59"]
   date: October 12 - 16 
   place: Munich, Germany
-  tags: [SEC, CONF, TOP4]
+  tags: [SEC, CONF, ASTAR]
 
 # Change name to FSE, but FSE is already used for the IACR Conference on Fast Software Encryption (FSE)
 - name: ESEC/FSE
@@ -653,7 +653,7 @@
   deadline: ["2026-10-09 23:59"]
   date: July 12 - 16
   place: Shenzhen, China
-  tags: [SEC, CONF, TOP4]
+  tags: [SEC, CONF, ASTAR]
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
