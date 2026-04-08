@@ -102,7 +102,3 @@ The timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), th
 [3]: _data/types.yml
 [4]: #deadline-format
 [5]: #timezones
-
-### Search Functionality
-
-A new search feature has been implemented, allowing users to quickly find conferences. This feature leverages the `fuse.js` library for fuzzy-matching, enabling searches by conference name, description, and other relevant details. To ensure the integrity and security of the client-side script, Subresource Integrity (SRI) attributes have been added to the `fuse.js` CDN link.
