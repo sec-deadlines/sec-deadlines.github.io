@@ -118,95 +118,109 @@ $(function() {
   $('.conf-container').append(confs);
 
   // Set checkboxes
-  var conf_type_data = {{ site.data.types | jsonify }};
+  // Read filter data from Jekyll
+  var filter1 = {{ site.data.filters.filter1 | jsonify }};
+  var filter2 = {{ site.data.filters.filter2 | jsonify }};
+  var filter3 = {{ site.data.filters.filter3 | jsonify }};
+
+  // Combine all filters into a single array
   var all_tags = [];
   var toggle_status = {};
-  for (var i = 0; i < conf_type_data.length; i++) {
-    all_tags[i] = conf_type_data[i]['tag'];
-    toggle_status[all_tags[i]] = false;
+
+  function processFilters(filters) {
+    for (var i = 0; i < filters.length; i++) {
+      all_tags.push(filters[i]['tag']);
+      toggle_status[filters[i]['tag']] = false;
+    }
   }
+
+  processFilters(filter1);
+  processFilters(filter2);
+  processFilters(filter3);
+
+  // Retrieve stored preferences
   var tags = store.get('{{ site.domain }}');
   if (tags === undefined) {
-    tags = all_tags;
+    tags = []; // Default to all unchecked
   }
-  for (var i = 0; i < tags.length; i++) {
-    $('#' + tags[i] + '-checkbox').prop('checked', false);
-    toggle_status[tags[i]] = false;
+
+  // Apply stored preferences to checkboxes
+  for (var i = 0; i < all_tags.length; i++) {
+      var tag = all_tags[i];
+      var isChecked = tags.includes(tag); // Check if the tag is stored
+      $('#' + tag + '-checkbox').prop('checked', isChecked);
+      toggle_status[tag] = isChecked;
   }
+
+  // Save updated selection to local storage
   store.set('{{ site.domain }}', tags);
 
-  function update_conf_list() {
-    var query = $('#search-input').val().toLowerCase();
+   
+   
+  // Track selected filters
+  let selectedFilters = {
+    filter1: new Set(),
+    filter2: new Set(),
+    filter3: new Set()
+  };
 
-    var searched_confs = [];
-    if (query.length > 0) {
-        var results = fuse.search(query);
-        searched_confs = results.map(function(result) {
-            return result.item.id;
-        });
-    } else {
-        searched_confs = all_confs_data.map(function(conf) {
-            return conf.id;
-        });
-    }
+  function updateConfList() {
+    $(".conf").each(function () {
+      let conf = $(this);
+      let show = true;
 
-    confs.each(function(i, conf) {
-      var conf = $(conf);
-      var show = false;
-
-      if (searched_confs.indexOf(conf.attr('id')) === -1) {
-          conf.hide();
-          return;
-      }
-
-      // Tag filtering (OR logic)
-      var selected_tags = [];
-      for (var i = 0; i < all_tags.length; i++) {
-        if(toggle_status[all_tags[i]]) {
-          selected_tags.push(all_tags[i]);
-        }
-      }
-
-      var tag_match = false;
-      if (selected_tags.length === 0) {
-        tag_match = true;
-      } else {
-        for (var i = 0; i < selected_tags.length; i++) {
-          if (conf.hasClass(selected_tags[i])) {
-            tag_match = true;
-            break;
+      // Check each filter group
+      Object.keys(selectedFilters).forEach(filterGroup => {
+        if (selectedFilters[filterGroup].size > 0) {
+          let hasTag = false;
+          selectedFilters[filterGroup].forEach(tag => {
+            if (conf.hasClass(tag)) {
+              hasTag = true;
+            }
+          });
+          if (!hasTag) {
+            show = false;
           }
         }
-      }
+      });
 
-      if (tag_match) {
+      // Show or hide based on filter matching
+      if (show) {
         conf.show();
       } else {
-        conf.hide()
+        conf.hide();
       }
     });
   }
-  update_conf_list();
 
-  $('#search-input').on('input', update_conf_list);
+  // Handle checkbox changes
+  $(".filter-checkbox").change(function () {
+    let tag = $(this).attr("id").replace("-checkbox", "");
+    let filterGroup = $(this).data("filter-group");
 
-  // Event handler on checkbox change
-  $('form :checkbox').change(function(e) {
-    var checked = $(this).is(':checked');
-    var tag = $(this).prop('id').slice(0, -9);
-    toggle_status[tag] = checked;
-
-    if (checked == true) {
-      if (tags.indexOf(tag) < 0)
-        tags.push(tag);
+    if ($(this).is(":checked")) {
+      selectedFilters[filterGroup].add(tag);
+    } else {
+      selectedFilters[filterGroup].delete(tag);
     }
-    else {
-      var idx = tags.indexOf(tag);
-      if (idx >= 0)
-        tags.splice(idx, 1);
-    }
-    store.set('{{ site.domain }}', tags);
-    update_conf_list();
+
+    updateConfList();
   });
-});
 
+  // Handle "Clear Filters" button click
+  $("#clear-filters").click(function () {
+    // Uncheck all checkboxes
+    $(".filter-checkbox").prop("checked", false);
+
+    // Reset the selected filters
+    selectedFilters = {
+      filter1: new Set(),
+      filter2: new Set(),
+      filter3: new Set()
+    };
+
+    updateConfList();
+  });
+
+  updateConfList(); // Initial display
+});
