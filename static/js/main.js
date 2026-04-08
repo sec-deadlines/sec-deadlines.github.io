@@ -207,20 +207,5 @@ $(function() {
     updateConfList();
   });
 
-  // Handle "Clear Filters" button click
-  $("#clear-filters").click(function () {
-    // Uncheck all checkboxes
-    $(".filter-checkbox").prop("checked", false);
-
-    // Reset the selected filters
-    selectedFilters = {
-      filter1: new Set(),
-      filter2: new Set(),
-      filter3: new Set()
-    };
-
-    updateConfList();
-  });
-
   updateConfList(); // Initial display
 });
