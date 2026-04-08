@@ -43,27 +43,49 @@
         <hr>
         <div class="row">
           <div class="col-xs-12">
-            <div class="form-group">
-              <input type="text" id="search-input" class="form-control" placeholder="Search for conferences by name, description, etc.">
-            </div>
+            <span class="tagtitle"><b>Select one or more tags to filter</b> (otherwise all deadlines are displayed):</span>
           </div>
-        </div>
-        <div class="row">
           <div class="col-xs-12">
-            <!-- <div class="well"> -->
-              Select one or more tags to filter (otherwise all deadlines are displayed):
-              <form class="form-inline">
-                <div class="form-group">
-                  {% for type in site.data.types %}
-                  <div class="checkbox">
-                    <label>
-                      <input type="checkbox" id="{{ type.tag }}-checkbox" class=""> {{ type.name }}
-                    </label>
-                  </div>
-                  {% endfor %}
+            <form class="form-inline">
+              <div class="form-group">
+                <span class="mytitle">Research Domain: </span>
+                {% for type in site.data.filters.filter1 %}
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" id="{{ type.tag }}-checkbox" class="filter-checkbox" data-filter-group="filter1"> {{ type.name }}
+                  </label>
                 </div>
-              </form>
-            <!-- </div> -->
+                {% endfor %}
+              </div>
+            </form>
+          </div>
+          <div class="col-xs-12">
+            <form class="form-inline">
+              <div class="form-group">
+                <span class="mytitle">Publication Type: </span>
+                {% for type in site.data.filters.filter2 %}
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" id="{{ type.tag }}-checkbox" class="filter-checkbox" data-filter-group="filter2"> {{ type.name }}
+                  </label>
+                </div>
+                {% endfor %}
+              </div>
+            </form>
+          </div>
+          <div class="col-xs-12">
+            <form class="form-inline">
+              <div class="form-group">
+                <span class="mytitle"><a href="https://portal.core.edu.au/conf-ranks/" target="_blank">CORE</a> Ranking: </span>
+                {% for type in site.data.filters.filter3 %}
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" id="{{ type.tag }}-checkbox" class="filter-checkbox" data-filter-group="filter3"> {{ type.name }}
+                  </label>
+                </div>
+                {% endfor %}
+              </div>
+            </form>
           </div>
         </div>
       </div>
