@@ -11,7 +11,7 @@
     - "2025-11-13 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Francisco, California, USA
-  tags: [SEC, PRIV, CONF, ASTAR]
+  tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -24,7 +24,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: November 15-19
   place: The Hague, The Netherlands
-  tags: [SEC, PRIV, CONF, ASTAR]
+  tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: USENIX Security
   description: USENIX Security Symposium
@@ -37,7 +37,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: "August 11-13"
   place: Denver, CO, USA
-  tags: [SEC, PRIV, CONF, ASTAR]
+  tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -49,7 +49,7 @@
     - "2026-08-19 23:59"
   date: "TBD"
   place: TBD
-  tags: [SEC, PRIV, CONF, ASTAR]
+  tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
