@@ -3,33 +3,12 @@
 $(function() {
   deadlineByConf = {};
 
-  var all_confs_data = [];
-  {% for conf in site.data.conferences %}
-  {% assign num_deadlines = conf.deadline.size %}
-  {% assign range_end = conf.deadline.size | minus: 1 %}
-  {% for i in (0..range_end) %}
-  {% assign conf_id = conf.name | append: conf.year | append: '-' | append: i | slugify %}
-  all_confs_data.push({
-    id: '{{ conf_id }}',
-    name: {{ conf.name | jsonify }},
-    description: {{ conf.description | strip_html | strip_newlines | jsonify }},
-    tags: {{ conf.tags | jsonify }},
-    year: '{{ conf.year }}',
-    place: {{ conf.place | jsonify }}
-  });
-  {% endfor %}
-  {% endfor %}
-
-  var fuse = new Fuse(all_confs_data, {
-    keys: ['name', 'description', 'year', 'place'],
-    includeScore: true,
-    threshold: 0.4
-  });
-
   {% for conf in site.data.conferences %}
   // {{ conf.name }} {{ conf.year }}
   {% if conf.deadline[0] == "TBA" %}
-  {% assign conf_id = conf.name | append: conf.year | append: '-0' | slugify %}
+  //{% assign conf_id = conf.name | append: conf.year | append: '-0' | slugify %}
+  {% assign conf_type = conf.tags | join: "-" | slugify %}
+  {% assign conf_id = conf.name | append: conf.year | append: '-0' | append: conf_type | slugify %}
   $('#{{ conf_id }} .timer').html("TBA");
   $('#{{ conf_id }} .deadline-time').html("TBA");
   deadlineByConf["{{ conf_id }}"] = null;
@@ -47,9 +26,9 @@ $(function() {
     rawDeadline = rawDeadline.replace('%y', year).replace('%Y', year - 1);
     // adjust date according to deadline timezone
     {% if conf.timezone %}
-    var deadline = moment.tz(rawDeadline, "{{ conf.timezone }}");
+    var deadline = moment.tz(rawDeadline, "YYYY-M-D HH:mm", "{{ conf.timezone }}");
     {% else %}
-    var deadline = moment.tz(rawDeadline, "Etc/GMT+12"); // Anywhere on Earth
+    var deadline = moment.tz(rawDeadline, "YYYY-M-D HH:mm", "Etc/GMT+12"); // Anywhere on Earth
     {% endif %}
 
     // post-process date
