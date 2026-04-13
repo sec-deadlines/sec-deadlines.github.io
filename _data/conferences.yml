@@ -809,6 +809,17 @@
   place: Montreal, Canada
   tags: [SEC, PRIV, CONF]
 
+- name: RISC
+  year: 2026
+  description: IEEE International Conference on Resilience and Integrated Security for Space and Critical Systems
+  link: https://www.sis.pitt.edu/lersais/conference/risc/2026/call-for-papers/
+  deadline:
+    - "2026-06-01 23:59"
+    - "2026-08-15 23:59"
+  date: "November 4-6"
+  place: San Jose, CA, USA
+  tags: [SEC, CONF]
+
 # Workshops
 
 - name: TRUST-AI
