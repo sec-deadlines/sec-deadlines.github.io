@@ -94,12 +94,8 @@ $(function() {
     var aDiff = aDeadline ? today.diff(aDeadline) : Number.POSITIVE_INFINITY;
     var bDiff = bDeadline ? today.diff(bDeadline) : Number.POSITIVE_INFINITY;
 
-    if (aDiff < 0 && bDiff > 0) {
-      return -1;
-    }
-    if (aDiff > 0 && bDiff < 0) {
-      return 1;
-    }
+    if (aDiff < 0 && bDiff > 0) return -1;
+    if (aDiff > 0 && bDiff < 0) return 1;
     return bDiff - aDiff;
   });
 
@@ -111,12 +107,10 @@ $(function() {
   var filter3 = {{ site.data.filters.filter3 | jsonify }};
 
   var all_tags = [];
-  var toggle_status = {};
 
   function processFilters(filters) {
     for (var i = 0; i < filters.length; i++) {
       all_tags.push(filters[i].tag);
-      toggle_status[filters[i].tag] = false;
     }
   }
 
@@ -124,34 +118,34 @@ $(function() {
   processFilters(filter2);
   processFilters(filter3);
 
-  // Track selected filters
-  var selectedFilters = {
-    filter1: new Set(),
-    filter2: new Set(),
-    filter3: new Set()
-  };
-
-  // Retrieve stored preferences
+  // Restore saved checkbox state
   var tags = store.get('{{ site.domain }}');
   if (!Array.isArray(tags)) {
     tags = [];
   }
 
-  // Apply stored preferences to checkboxes AND selectedFilters
   for (var i = 0; i < all_tags.length; i++) {
     var tag = all_tags[i];
-    var isChecked = tags.includes(tag);
-    var $checkbox = $('#' + tag + '-checkbox');
+    $('#' + tag + '-checkbox').prop('checked', tags.includes(tag));
+  }
 
-    $checkbox.prop('checked', isChecked);
-    toggle_status[tag] = isChecked;
+  function getSelectedFiltersFromDOM() {
+    var selected = {
+      filter1: new Set(),
+      filter2: new Set(),
+      filter3: new Set()
+    };
 
-    if (isChecked) {
-      var filterGroup = $checkbox.data('filter-group');
-      if (filterGroup && selectedFilters[filterGroup]) {
-        selectedFilters[filterGroup].add(tag);
+    $('.filter-checkbox:checked').each(function() {
+      var tag = $(this).attr('id').replace('-checkbox', '');
+      var filterGroup = $(this).data('filter-group');
+
+      if (filterGroup && selected[filterGroup]) {
+        selected[filterGroup].add(tag);
       }
-    }
+    });
+
+    return selected;
   }
 
   function saveSelectedTags() {
@@ -163,6 +157,8 @@ $(function() {
   }
 
   function updateConfList() {
+    var selectedFilters = getSelectedFiltersFromDOM();
+
     $('.conf').each(function() {
       var conf = $(this);
       var show = true;
@@ -185,25 +181,11 @@ $(function() {
         }
       });
 
-      if (show) {
-        conf.show();
-      } else {
-        conf.hide();
-      }
+      conf.toggle(show);
     });
   }
 
-  // Handle checkbox changes
-  $('.filter-checkbox').change(function() {
-    var tag = $(this).attr('id').replace('-checkbox', '');
-    var filterGroup = $(this).data('filter-group');
-
-    if ($(this).is(':checked')) {
-      selectedFilters[filterGroup].add(tag);
-    } else {
-      selectedFilters[filterGroup].delete(tag);
-    }
-
+  $('.filter-checkbox').on('change', function() {
     saveSelectedTags();
     updateConfList();
   });
