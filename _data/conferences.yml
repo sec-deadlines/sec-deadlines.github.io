@@ -554,11 +554,11 @@
 
 - name: NCA
   description: International Symposium on Network Computing and Applications
-  year: 2024
-  link: https://www.nca-ieee.org/2024/index.html
-  deadline: ["2024-08-04 23:59"]
-  date: October 24-26
-  place: Bertinoro, Italy
+  year: 2026
+  link: https://www.nca-ieee.org/2026/index.html
+  deadline: ["2026-06-19 23:59"]
+  date: November 10-13
+  place: Ortigia-Syracuse (Sicily), Italy
   tags: [SEC, CONF, CORE-B]
 
 - name: CRISIS
