@@ -792,12 +792,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: NordSec
-  year: 2025
+  year: 2026
   description: Nordic Conference on Secure IT Systems
-  link: https://nordsec2025.cs.ut.ee/
-  deadline: ["2025-08-17 23:59"]
-  date: "November 12-13"
-  place: Tartu, Estonia
+  link: http://nordsec2026.dk/
+  deadline: ["2026-08-17 23:59"]
+  date: "November 11-12"
+  place: Aarhus, Denmark
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
