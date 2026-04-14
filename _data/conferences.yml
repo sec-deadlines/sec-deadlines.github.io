@@ -571,12 +571,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ProvSec
-  year: 2025
+  year: 2026
   description: International Conference on Provable and Practical Security
-  link: https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
-  deadline: ["2025-05-31 23:59"]
-  date: October 10-12
-  place: Yokohama, Japan
+  link: https://provsec-2026.github.io/Provsec2026-base/
+  deadline: ["2026-05-31 23:59"]
+  date: September 24-26
+  place: Queenstown, New Zealand
   tags: [SEC, PRIV, CONF]
 
 - name: IMC
