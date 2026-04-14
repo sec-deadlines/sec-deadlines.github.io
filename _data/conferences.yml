@@ -661,7 +661,7 @@
   deadline: ["2026-01-29 23:59"]
   date: October 3 - 9
   place: Oakland, CA, USA
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
