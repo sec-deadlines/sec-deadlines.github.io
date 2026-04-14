@@ -554,11 +554,11 @@
 
 - name: NCA
   description: International Symposium on Network Computing and Applications
-  year: 2024
-  link: https://www.nca-ieee.org/2024/index.html
-  deadline: ["2024-08-04 23:59"]
-  date: October 24-26
-  place: Bertinoro, Italy
+  year: 2026
+  link: https://www.nca-ieee.org/2026/index.html
+  deadline: ["2026-06-19 23:59"]
+  date: November 10-13
+  place: Ortigia-Syracuse (Sicily), Italy
   tags: [SEC, CONF, CORE-B]
 
 - name: CRISIS
@@ -571,12 +571,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: ProvSec
-  year: 2025
+  year: 2026
   description: International Conference on Provable and Practical Security
-  link: https://sulab-sever.u-aizu.ac.jp/provsec2025/index.html
-  deadline: ["2025-05-31 23:59"]
-  date: October 10-12
-  place: Yokohama, Japan
+  link: https://provsec-2026.github.io/Provsec2026-base/
+  deadline: ["2026-05-31 23:59"]
+  date: September 24-26
+  place: Queenstown, New Zealand
   tags: [SEC, PRIV, CONF]
 
 - name: IMC
@@ -661,7 +661,7 @@
   deadline: ["2026-01-29 23:59"]
   date: October 3 - 9
   place: Oakland, CA, USA
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, CORE-A]
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
@@ -792,12 +792,12 @@
   tags: [SEC, PRIV, CONF]
 
 - name: NordSec
-  year: 2025
+  year: 2026
   description: Nordic Conference on Secure IT Systems
-  link: https://nordsec2025.cs.ut.ee/
-  deadline: ["2025-08-17 23:59"]
-  date: "November 12-13"
-  place: Tartu, Estonia
+  link: http://nordsec2026.dk/
+  deadline: ["2026-08-17 23:59"]
+  date: "November 11-12"
+  place: Aarhus, Denmark
   tags: [SEC, PRIV, CONF]
 
 - name: SecDev
