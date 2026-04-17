@@ -55,6 +55,7 @@
   description: European Symposium on Research in Computer Security
   year: 2026
   link: https://sites.google.com/di.uniroma1.it/esorics2026/
+  dblp: https://dblp.org/db/conf/esorics/index.html
   deadline:
     - "2026-01-09 23:59"
     - "2026-04-21 23:59"
@@ -66,6 +67,7 @@
   description: ACM Asia Conference on Computer and Communications Security
   year: 2027
   link: https://asiaccs2027.cityu.edu.mo/home/index.html
+  dblp: https://dblp.org/db/conf/asiaccs/index.html
   deadline:
     - "2026-08-21 23:59"
     - "2026-12-11 23:59"
@@ -78,6 +80,7 @@
   year: 2026
   comment: Abstract registration required (1 week before deadline AoE).
   link: https://eurosp2026.ieee-security.org/
+  dblp: https://dblp.org/db/conf/eurosp/index.html
   deadline: ["2025-11-20 23:59"]
   date: "July 6 - 10"
   place: Lisbon, Portugal
@@ -87,6 +90,7 @@
   description: IEEE Computer Security Foundations Symposium
   year: 2026
   link: https://www.ieee-security.org/TC/CSF2026/
+  dblp: https://dblp.org/db/conf/csfw/index.html
   deadline:
     - "2025-07-24 23:59"
     - "2025-10-09 23:59"
@@ -99,6 +103,7 @@
   description: International Conference on Cryptology and Network Security
   year: 2026
   link: https://uow-ic2.github.io/cans2026/index.html
+  dblp: https://dblp.org/db/conf/cans/index.html
   deadline: ["2026-06-10 23:59"]
   date: November 23-25
   place: Wollongong, Australia
@@ -108,6 +113,7 @@
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
   year: 2026
   link: https://wisec26.events.cispa.de/
+  dblp: https://dblp.org/db/conf/wisec/index.html
   deadline:
     - "2025-11-18 23:59"
     - "2026-03-03 23:59"
@@ -119,6 +125,7 @@
   description: IFIP International Information Security and Privacy Conference
   year: 2026
   link: https://ifipsec.org/cfp.html
+  dblp: https://dblp.org/db/conf/sec/index.html
   deadline: ["2025-12-19 23:59"]
   date: June 9 - 11
   place: Perth, Australia
@@ -128,6 +135,7 @@
   description: Information Security Conference
   year: 2025
   link: https://isc25.skku.edu/
+  dblp: https://dblp.org/db/conf/isw/index.html
   deadline: ["2025-06-11 23:59"]
   date: October 20-22
   place: Seoul, South Korea
@@ -137,6 +145,7 @@
   description: International Conference on Trust, Security and Privacy in Computing and Communications
   year: 2025
   link: https://ieee-aiplus-2025.org/trustcom.html
+  dblp: https://dblp.org/db/conf/trustcom/index.html
   deadline: ["2025-08-01 23:59"]
   date: November 14-17
   place: Guiyang, China
@@ -146,6 +155,7 @@
   description: International Symposium on Foundations & Practice of Security
   year: 2025
   link: https://hub.imt-atlantique.fr/fps2025/
+  dblp: https://dblp.org/db/conf/fps/index.html
   deadline: ["2025-09-15 23:59"]
   date: November 25-27
   place: Brest, France
@@ -165,6 +175,7 @@
   description: International Symposium on Stabilization, Safety, and Security of Distributed Systems
   year: 2026
   link: https://sss2026.conf.lip6.fr/
+  dblp: https://dblp.org/db/conf/sss/index.html
   deadline:
     - "2026-03-31 23:59"
     - "2026-05-15 23:59"
@@ -179,6 +190,7 @@
   description: Privacy Enhancing Technologies Symposium
   year: 2027
   link: https://www.petsymposium.org/cfp26.php
+  dblp: https://dblp.org/db/conf/pet/index.html
   deadline:
     - "%Y-05-31 23:59"
     - "%Y-08-31 23:59"
@@ -193,6 +205,7 @@
   description: Symposium on Usable Privacy and Security
   year: 2026
   link: https://soups.page/
+  dblp: https://dblp.org/db/conf/soups/index.html
   deadline: ["2026-02-19 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   date: August 23-26
@@ -203,6 +216,7 @@
   description: European Symposium on Usable Security
   year: 2025
   link: https://eurousec2025.cis.strath.ac.uk/
+  dblp: https://dblp.org/db/conf/eurousec/index.html
   deadline: ["2025-05-09 23:59"]
   comment: Paper registration due May 5th AoE
   date: September 10-September 11
@@ -233,6 +247,7 @@
   description: Annual Privacy Forum
   year: 2026
   link: https://privacyforum.eu/callforpapers.html
+  dblp: https://dblp.org/db/conf/apf/index.html
   deadline: ["2026-04-15 23:59"]
   date: September 9-10
   place: Salzburg, Austria
@@ -244,6 +259,7 @@
   description: International Cryptology Conference
   year: 2026
   link: https://crypto.iacr.org/2026/
+  dblp: https://dblp.org/db/conf/crypto/index.html
   deadline: ["2026-02-12 23:59"]
   timezone: Etc/GMT+8
   date: August 17-20
@@ -254,26 +270,17 @@
   description: European Cryptology Conference
   year: 2026
   link: https://eurocrypt.iacr.org/2026/
+  dblp: https://dblp.org/db/conf/eurocrypt/index.html
   deadline: ["2025-10-02 23:59"]
   date: May 10-14
   place: Rome, Italy
   tags: [CRYPTO, CONF, ASTAR]
 
-- name: Inscrypt
-  year: 2026
-  description: International Conference on Information Security and Cryptology
-  link: https://inscrypt2026.comp.polyu.edu.hk/
-  deadline:
-    - "2025-04-15 23:59"
-    - "2025-06-15 23:59"
-  date: November 7-9
-  place: Hong Kong SAR, China
-  tags: [SEC, PRIV, CRYPTO, CONF]
-
 - name: SAC
   description: Selected Areas in Cryptography
   year: 2026
   link: https://sacworkshop.org/SAC26/
+  dblp: https://dblp.org/db/conf/sacrypt/index.html
   deadline: ["2026-02-02 23:59", "2026-05-11 23:59"]
   date: August 26-28
   place: Ottawa, ON, Canada
@@ -283,6 +290,7 @@
   description: International Conference on the Theory and Application of Cryptology and Information Security
   year: 2026
   link: https://asiacrypt.iacr.org/2026/
+  dblp: https://dblp.org/db/conf/asiacrypt/index.html
   deadline: ["2026-05-22 12:00"]
   timezone: Etc/GMT
   date: December 7-11
@@ -293,6 +301,7 @@
   description: Financial Cryptography and Data Security
   year: 2026
   link: https://fc26.ifca.ai
+  dblp: https://dblp.org/db/conf/fc/index.html
   deadline: ["2025-09-20 23:59"]
   date: March 2–6
   place: St. Kitts
@@ -302,6 +311,7 @@
   description: ACM Conference on Advances in Financial Technologies
   year: 2026
   link: https://aft.ifca.ai/aft26/CFP.html
+  dblp: https://dblp.org/db/conf/aft/index.html
   deadline: ["2026-05-27 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   date: "October 6–9"
@@ -312,6 +322,7 @@
   description: Theory of Cryptography Conference
   year: 2026
   link: https://tcc.iacr.org/2026/
+  dblp: https://dblp.org/db/conf/tcc/index.html
   deadline: ["2026-05-19 23:59"]
   date: "November 10-13"
   place: New York City, USA
@@ -321,6 +332,7 @@
   description: International Conference on Practice and Theory of Public Key Cryptography
   year: 2026
   link: https://pkc.iacr.org/2026/
+  dblp: https://dblp.org/db/conf/pkc/index.html
   deadline: ["2025-10-24 09:59"]
   date: May 25-28
   place: West Palm Beach, FL, USA
@@ -331,6 +343,7 @@
   year: 2026
   date: March 23-26
   link: https://conference.wsu.edu/ct-rsa-2026/
+  dblp: https://dblp.org/db/conf/ctrsa/index.html
   deadline: ["2025-10-24 23:59"]
   place: San Francisco, CA, USA
   tags: [CRYPTO, CONF, CORE-B]
@@ -339,6 +352,7 @@
   description: International Conference on Security and Cryptography
   year: 2026
   link: https://secrypt.scitevents.org
+  dblp: https://dblp.org/db/conf/secrypt/index.html
   deadline:
      - "2026-03-03 23:59"
      - "2026-04-16 23:59"
@@ -350,6 +364,7 @@
   description: International Conference on Cryptography Africa
   year: 2026
   link: https://www.africacrypt2026.tn/
+  dblp: https://dblp.org/db/conf/africacrypt/index.html
   deadline: ["2026-03-01 23:59"]
   date: July 08-10
   place: Hammamet, Tunisia
@@ -360,6 +375,7 @@
   year: 2025
   description: International Conference on Cryptology and Information Security in Latin America
   link: https://ciencias.medellin.unal.edu.co/eventos/latincrypt/
+  dblp: https://dblp.org/db/conf/latincrypt/index.html
   deadline: ["2025-05-16 23:59"]
   comment: Extended submission deadline May 16th 23:59 AoE
   date:  October 1-3
@@ -370,6 +386,7 @@
   description: IACR Transactions on Symmetric Cryptology
   year: 2027
   link: https://tosc.iacr.org/
+  dblp: https://dblp.org/db/journals/tosc/index.html
   deadline:
     - "%Y-03-01 23:59"
     - "%Y-06-01 23:59"
@@ -384,6 +401,7 @@
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
   year: 2026
   link: https://ches.iacr.org/2026/
+  dblp: https://dblp.org/db/journals/tches/index.html
   deadline:
     - "%Y-07-15 23:59"
     - "%Y-10-15 23:59"
@@ -398,6 +416,7 @@
   description: IMA International Conference on Cryptography and Coding
   year: 2026
   link: https://ima.org.uk/28271/20th-ima-international-conference-on-cryptography-and-coding/
+  dblp: https://dblp.org/db/conf/ima/index.html
   deadline: ["2026-07-31 23:59"]
   date: December 15-16
   place: Cirencester, UK
@@ -409,6 +428,7 @@
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2026
   link: https://raid2026.org
+  dblp: https://dblp.org/db/conf/raid/index.html
   deadline: ["2026-04-16 23:59"]
   date: October 11-14
   place: Lancaster, UK
@@ -418,6 +438,7 @@
   description: ACM/SIGAPP Symposium On Applied Computing
   year: 2026
   link: https://www.sigapp.org/sac/sac2026/
+  dblp: https://dblp.org/db/conf/sac/index.html
   deadline: ["2025-10-17 23:59"]
   date: March 23-27
   place: Thessaloniki, Greece
@@ -427,6 +448,7 @@
   description: Annual Computer Security Applications Conference
   year: 2026
   link: https://www.acsac.org/2026/submissions/papers/
+  dblp: https://dblp.org/db/conf/acsac/index.html
   deadline: ["2026-05-26 23:59"]
   date: Dec 7-11
   place: Los Angeles, CA, USA
@@ -436,6 +458,7 @@
   description: The International Conference on Dependable Systems and Networks
   year: 2026
   link: https://dsn2026.github.io/
+  dblp: https://dblp.org/db/conf/dsn/index.html
   deadline: ["2025-12-04 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   date: June 22-25
@@ -446,6 +469,7 @@
   description: International Conference on Applied Cryptography and Network Security
   year: 2026
   link: https://acns2026.github.io/
+  dblp: https://dblp.org/db/conf/acns/index.html
   deadline:
     - "2025-09-25 23:59"
     - "2026-01-23 23:59"
@@ -457,6 +481,7 @@
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
   year: 2026
   link: https://www.dimva.org/dimva2026/
+  dblp: https://dblp.org/db/conf/dimva/index.html
   deadline:
     - "2025-12-03 23:59"
     - "2026-02-11 23:59"
@@ -468,6 +493,7 @@
   description: ACM Symposium on Access Control Models and Technologies
   year: 2026
   link: https://www.sacmat.org/2026/
+  dblp: https://dblp.org/db/conf/sacmat/index.html
   deadline: 
     - "2025-10-27 23:59"
     - "2026-03-06 23:59"
@@ -479,6 +505,7 @@
   description: International Conference on Availability, Reliability and Security
   year: 2026
   link: https://www.ares-conference.eu/
+  dblp: https://dblp.org/db/conf/IEEEares/index.html
   deadline: ["2026-03-09 23:59"]
   note: "Abstract registration deadline March 2, 2026."
   date: August 24–27
@@ -489,6 +516,7 @@
   description: ACM Conference on Data and Application Security and Privacy
   year: 2026
   link: http://www.codaspy.org/2026/
+  dblp: https://dblp.org/db/conf/codaspy/index.html
   deadline: ["2026-01-02 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   date: June 23-25
@@ -499,6 +527,7 @@
   description: Conference on Data and Applications Security and Privacy
   year: 2026
   link: https://dbsec2026.gmu.edu/
+  dblp: https://dblp.org/db/conf/dbsec/index.html
   deadline: ["2025-03-27 23:59"]
   date: July 28-30
   place: Arlington, Virginia, USA
@@ -508,6 +537,7 @@
   description: International Conference on the World Wide Web
   year: 2026
   link: https://www2026.thewebconf.org
+  dblp: https://dblp.org/db/conf/www/index.html
   deadline: ["2025-10-07 23:59"]
   comment: Abstract deadline September 30 AoE.
   date: April 13-17
@@ -518,6 +548,7 @@
   description: ACM SIGOPS Annual Technical Conference
   year: 2026
   link: https://sigops.org/s/conferences/atc/2026/index.html
+  dblp: https://dblp.org/db/conf/usenix/index.html
   deadline: ["2026-06-10 23:59"]
   date: November 15-18
   place: Shatin, Hong Kong
@@ -527,6 +558,7 @@
   year: 2026
   date: November 2-6
   description: The Symposium on Electronic Crime Research
+  dblp: https://dblp.org/db/conf/ecrime/index.html
   link: https://apwg.org/events/ecrime2026
   deadline: ["2026-05-30 23:59"]
   place: Lisbon, Portugal
@@ -536,6 +568,7 @@
   year: 2026
   date: "March 23-25"
   description: Passive and Active Measurement Conference
+  dblp: https://dblp.org/db/conf/pam/index.html
   link: https://pam2026.at/
   deadline: ["2025-10-08 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
@@ -546,6 +579,7 @@
   description: USENIX Symposium on Vehicle Security and Privacy
   year: 2026
   link: https://www.usenix.org/conference/vehiclesec26
+  dblp: https://dblp.org/db/conf/vehiclesec/index.html
   comment: Co-located with USENIX Security 2026
   deadline: ["2026-02-24 23:59"]
   date: August 10-11
@@ -556,6 +590,7 @@
   description: International Symposium on Network Computing and Applications
   year: 2026
   link: https://www.nca-ieee.org/2026/index.html
+  dblp: https://dblp.org/db/conf/nca/index.html
   deadline: ["2026-06-19 23:59"]
   date: November 10-13
   place: Ortigia-Syracuse (Sicily), Italy
@@ -565,6 +600,7 @@
   year: 2025
   description: International Conference on Risks and Security of Internet and Systems
   link: https://crisis2025.uqo.ca
+  dblp: https://dblp.org/db/conf/crisis/index.html
   deadline: ["2025-07-15 23:59"]
   date: October 22-24
   place: Gatineau, Canada
@@ -574,6 +610,7 @@
   year: 2026
   description: International Conference on Provable and Practical Security
   link: https://provsec-2026.github.io/Provsec2026-base/
+  dblp: https://dblp.org/db/conf/provsec/index.html
   deadline: ["2026-05-31 23:59"]
   date: September 24-26
   place: Queenstown, New Zealand
@@ -583,6 +620,7 @@
   year: 2026
   description: ACM Internet Measurement Conference
   link: https://conferences.sigcomm.org/imc/2026/
+  dblp: https://dblp.org/db/conf/imc/index.html
   deadline:
     - "2025-11-20 23:59"
     - "2026-04-29 23:59"
@@ -595,6 +633,7 @@
   description: IEEE International Symposium on Hardware Oriented Security and Trust
   year: 2026
   link: http://www.hostsymposium.org/
+  dblp: https://dblp.org/db/conf/host/index.html
   deadline:
     - "2025-08-26 23:59"
     - "2025-12-08 23:59"
@@ -607,11 +646,24 @@
   description: Asian Hardware Oriented Security and Trust Symposium
   year: 2026
   link: https://www.asianhost.org/2026/
+  dblp: https://dblp.org/db/conf/asianhost/index.html
   deadline: ["2026-07-14 23:59"]
   date: December 11-13
   timezone: Asia/Shanghai
   place: Kharagpur, India
   tags: [SEC, CONF]
+
+- name: Inscrypt
+  year: 2026
+  description: International Conference on Information Security and Cryptology
+  link: https://inscrypt2026.comp.polyu.edu.hk/
+  dblp: https://dblp.org/db/conf/cisc/index.html
+  deadline:
+    - "2025-04-15 23:59"
+    - "2025-06-15 23:59"
+  date: November 7-9
+  place: Hong Kong SAR, China
+  tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: CASCADE
   description: Constructive Approaches for Security Analysis and Design of Embedded Systems
