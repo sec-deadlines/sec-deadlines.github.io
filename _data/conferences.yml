@@ -281,12 +281,12 @@
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
-  year: 2025
-  link: https://asiacrypt.iacr.org/2025/
-  deadline: ["2025-05-16 12:00"]
+  year: 2026
+  link: https://asiacrypt.iacr.org/2026/
+  deadline: ["2026-05-22 12:00"]
   timezone: Etc/GMT
-  date: December 8-12
-  place: Melbourne, Australia
+  date: December 7-11
+  place: Hong Kong, China
   tags: [CRYPTO, CONF, CORE-A]
 
 - name: FC
