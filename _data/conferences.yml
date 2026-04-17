@@ -1977,3 +1977,13 @@
   date: August 10-14
   place: Leuven, Belgium
   tags: [PRIV, SHOP]
+
+- name: PQQS
+  description: ACM Conference on Post-Quantum and Quantum-based Security
+  year: 2026
+  link: https://www.pqqs.org
+  deadline: ["2026-07-26 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: November 02-04
+  place: San Jose, USA
+  tags: [CRYPTO, SEC, CONF]
