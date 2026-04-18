@@ -131,15 +131,16 @@
   place: Perth, Australia
   tags: [SEC, CONF, CORE-B]
 
-- name: ISC
-  description: Information Security Conference
-  year: 2025
-  link: https://isc25.skku.edu/
+- name: ISC 2026
+  description: 29th Information Security Conference
+  year: 2026
+  link: https://isc2026.github.io/
   dblp: https://dblp.org/db/conf/isw/index.html
-  deadline: ["2025-06-11 23:59"]
-  date: October 20-22
-  place: Seoul, South Korea
-  tags: [SEC, PRIV, CONF]
+  deadline: ["2026-06-22 23:59"]
+  comment: Submission deadline 23:59 AoE
+  date: October 28-30
+  place: Rennes, France
+  tags: [CRYPTO, SEC, PRIV, CONF]
 
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
