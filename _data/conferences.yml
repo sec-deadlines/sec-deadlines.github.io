@@ -131,13 +131,12 @@
   place: Perth, Australia
   tags: [SEC, CONF, CORE-B]
 
-- name: ISC 2026
-  description: 29th Information Security Conference
+- name: ISC
+  description: Information Security Conference
   year: 2026
   link: https://isc2026.github.io/
   dblp: https://dblp.org/db/conf/isw/index.html
   deadline: ["2026-06-22 23:59"]
-  comment: Submission deadline 23:59 AoE
   date: October 28-30
   place: Rennes, France
   tags: [CRYPTO, SEC, PRIV, CONF]
