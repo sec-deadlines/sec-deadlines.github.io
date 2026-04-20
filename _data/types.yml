@@ -13,6 +13,10 @@
   tag: CORE-A
 - name: B
   tag: CORE-B
+- name: C
+  tag: CORE-C
+- name: National/Unranked
+  tag: OTHERS
 - name: Conference
   tag: CONF
 - name: Workshop
