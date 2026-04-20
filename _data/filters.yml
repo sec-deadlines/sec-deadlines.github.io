@@ -23,3 +23,7 @@ filter3:
     tag: CORE-A
   - name: B
     tag: CORE-B
+  - name: C
+    tag: CORE-C
+  - name: National/Unranked
+    tag: OTHERS
