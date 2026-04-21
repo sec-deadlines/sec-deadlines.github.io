@@ -1987,4 +1987,13 @@
   date: August 10-14
   place: Leuven, Belgium
   tags: [PRIV, SHOP]
-
+  
+- name: ADND
+  description: Workshop on Active Defense and Deception
+  year: 2026
+  link: https://adnd.work
+  deadline: ["2026-06-10 23:59"]
+  date: September 18
+  comment: Co-located with ESORICS 2026
+  place: Rome, Italy
+  tags: [SEC, SHOP]
