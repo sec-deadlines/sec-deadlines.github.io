@@ -1931,7 +1931,7 @@
   tags: [SEC, PRIV, CRYPTO, SHOP]
 
 - name: AgentCy
-  description: Workshop on Agentic AI for Cybersecurity: Offensive and Defensive Perspectives
+  description: "Workshop on Agentic AI for Cybersecurity: Offensive and Defensive Perspectives"
   year: 2026
   link: https://www.ares-conference.eu/agentcy
   deadline: ["2026-05-10 23:59"]
