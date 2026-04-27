@@ -1,16 +1,16 @@
 # Security and Privacy
 
 - name: S&P (Oakland)
-  year: 2026
-  date: May 18-21
+  year: 2027
+  date: TBA
   description: IEEE Symposium on Security and Privacy
-  link: https://sp2026.ieee-security.org/
+  link: https://sp2027.ieee-security.org/
   dblp: https://dblp.org/db/conf/sp/index.html
   deadline:
-    - "2025-06-05 23:59"
-    - "2025-11-13 23:59"
+    - "2025-06-11 23:59"
+    - "2025-11-17 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
-  place: San Francisco, California, USA
+  place: Montreal, Canada
   tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: CCS
