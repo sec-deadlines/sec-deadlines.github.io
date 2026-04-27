@@ -1,0 +1,29 @@
+filter1:
+  - name: Security
+    tag: SEC
+  - name: Privacy
+    tag: PRIV
+  - name: Crypto
+    tag: CRYPTO
+
+filter2:
+  - name: Conferences
+    tag: CONF
+  - name: Workshops
+    tag: SHOP
+  - name: Journals
+    tag: JRN
+
+filter3:
+  - name: Security Top-4
+    tag: TOP4
+  - name: A*
+    tag: ASTAR
+  - name: A
+    tag: CORE-A
+  - name: B
+    tag: CORE-B
+  - name: C
+    tag: CORE-C
+  - name: National/Unranked
+    tag: OTHERS
