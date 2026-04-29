@@ -1,5 +1,16 @@
 # Security and Privacy
 
+- name: AlligatorCon Europe
+  year: 2026
+  description: Informal gathering of security lizards
+  comment: Invite only - send an email to cfp@alligatorcon.eu to submit a talk, or request an invite
+  link: https://www.alligatorcon.eu/
+  deadline:
+    - "2026-09-30 23:59"
+  date: 1-3 October, 2026
+  place: Krakow, Poland
+  tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
+
 - name: S&P (Oakland)
   year: 2027
   date: TBA
