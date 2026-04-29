@@ -1508,13 +1508,13 @@
 
 - name: HS3
   description: Workshop on Hardware-Supported Software Security
-  year: 2025
-  link: https://hs3-workshop.github.io/
+  year: 2026
+  link: https://hs3-workshop.github.io/2026.html
   deadline:
-    - "2025-06-13 23:59"
-  comment: Co-located with ESORICS 25.
-  date: September 25
-  place: Toulouse, France
+    - "2026-06-19 23:59"
+  comment: Co-located with ESORICS 26.
+  date: September 14
+  place: Rome, Italy
   tags: [SEC, PRIV, SHOP]
 
 - name: CPS-Sec
