@@ -399,7 +399,7 @@
 
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2026
+  year: 2027
   link: https://ches.iacr.org/2026/
   dblp: https://dblp.org/db/journals/tches/index.html
   deadline:
@@ -408,8 +408,8 @@
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: October 11-15
-  place: Antalya, Türkiye
+  date: TBD
+  place: TBD
   tags: [CRYPTO, CONF, JRN, CORE-A]
 
 - name: C&C
