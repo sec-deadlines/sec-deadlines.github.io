@@ -2007,3 +2007,13 @@
   comment: Co-located with ESORICS 2026
   place: Rome, Italy
   tags: [SEC, SHOP, OTHERS]
+
+- name: XR Security
+  description: Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems
+  year: 2026
+  link: https://xrsecurity.github.io/2026/
+  comment: Co-located with MobiCom
+  deadline: ["2026-06-05 23:59"]
+  date: October 30
+  place: Austin, USA
+  tags: [SEC, PRIV, SHOP, OTHERS]
