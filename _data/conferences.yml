@@ -330,12 +330,12 @@
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2026
-  link: https://pkc.iacr.org/2026/
+  year: 2027
+  link: https://pkc.iacr.org/2027/
   dblp: https://dblp.org/db/conf/pkc/index.html
-  deadline: ["2025-10-24 09:59"]
-  date: May 25-28
-  place: West Palm Beach, FL, USA
+  deadline: ["2026-08-03 23:59"]
+  date: March 1-4
+  place: Taipei, Taiwan
   tags: [CRYPTO, CONF, CORE-B]
 
 - name: CT-RSA
