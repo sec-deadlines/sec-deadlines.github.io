@@ -884,6 +884,17 @@
 
 # Workshops
 
+- name: ANUBIS
+  description: Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems
+  year: 2026
+  link: https://superviz.inria.fr/anubis26/
+  deadline:
+    - "2026-06-12 23:59"
+  comment: Co-located with ESORICS 2026.
+  date: September 14-18
+  place: Rome, Italy
+  tags: [SEC, PRIV, SHOP, OTHERS]
+
 - name: TRUST-AI
   description: Workshop on Trustworthy AI for IoMT (Internet of Medical Things)
   year: 2026
