@@ -1259,23 +1259,23 @@
 
 - name: DPM
   description: Data Privacy Management International Workshop
-  comment: Co-located with ESORICS 2025
-  year: 2025
-  link: https://deic.uab.cat/dpm/dpm2025/
-  deadline: ["2025-06-30 23:59"]
-  place: Toulouse, France
-  date: September 25
+  comment: Co-located with ESORICS 2026
+  year: 2026
+  link: https://deic.uab.cat/dpm/dpm2026/
+  deadline: ["2026-06-16 23:59"]
+  place: Rome, Italy
+  date: September 26
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: CBT
   description: International Workshop on Cryptocurrencies and Blockchain Technology
-  comment: Co-located with ESORICS 2025
-  year: 2025
+  comment: Co-located with ESORICS 2026
+  year: 2026
   link: http://cbtworkshop.org/
   deadline:
-    - "2025-06-30 23:59"
-  place: Toulouse, France
-  date: September 25
+    - "2026-06-17 23:59"
+  place: Rome, Italy
+  date: September 26
   tags: [SEC, CRYPTO, SHOP, OTHERS]
 
 - name: CyberHunt
