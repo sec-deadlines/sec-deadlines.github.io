@@ -1262,7 +1262,7 @@
   comment: Co-located with ESORICS 2026
   year: 2026
   link: https://deic.uab.cat/dpm/dpm2026/
-  deadline: ["2025-06-16 23:59"]
+  deadline: ["2026-06-16 23:59"]
   place: Rome, Italy
   date: September 26
   tags: [SEC, PRIV, SHOP, OTHERS]
@@ -1273,7 +1273,7 @@
   year: 2026
   link: http://cbtworkshop.org/
   deadline:
-    - "2025-06-17 23:59"
+    - "2026-06-17 23:59"
   place: Rome, Italy
   date: September 26
   tags: [SEC, CRYPTO, SHOP, OTHERS]
