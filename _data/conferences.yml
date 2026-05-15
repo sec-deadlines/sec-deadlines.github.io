@@ -1618,3 +1618,11 @@
   place: Buford, Georgia, USA
   tags: [SEC, CONF]
 
+- name: WIFS
+  description: 2026 IEEE International Workshop on Information Forensics and Security 
+  year: 2026
+  link: https://wifs2026.utt.fr/
+  deadline: ["2026-07-15 23:59"]
+  date: Dec 7-11, 2026
+  place: Sendai, Japan
+  tags: [SEC, PRIV, SHOP]
