@@ -2027,4 +2027,13 @@
   deadline: ["2026-06-05 23:59"]
   date: October 30
   place: Austin, USA
+  tags: [SEC, PRIV, SHOP, ]
+
+- name: WIFS
+  description: IEEE International Workshop on Information Forensics and Security 
+  year: 2026
+  link: https://wifs2026.utt.fr/
+  deadline: ["2026-07-15 23:59"]
+  date: December 7-11
+  place: Sendai, Japan
   tags: [SEC, PRIV, SHOP, OTHERS]
