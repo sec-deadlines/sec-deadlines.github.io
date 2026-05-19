@@ -2037,3 +2037,13 @@
   date: December 7-11
   place: Sendai, Japan
   tags: [SEC, PRIV, SHOP, OTHERS]
+
+- name: TAKEDOWN
+  description: ACM Technical Analysis and Knowledge Exchange on Disrupting Online Criminal Networks
+  year: 2026
+  link: https://takedown-workshop.com/
+  deadline: ["2026-07-13 23:59"]
+  date: December 7-11
+  place: The Hague, The Netherlands
+  tags: [SEC, SHOP, OTHERS]
+  comment: Co-located with CCS 2026
