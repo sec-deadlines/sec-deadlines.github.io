@@ -2047,3 +2047,13 @@
   place: The Hague, The Netherlands
   tags: [SEC, SHOP, OTHERS]
   comment: Co-located with CCS 2026
+
+- name: CPSIoTSec
+  description: The 8th Joint Workshop on CPS & IoT Security and Privacy 
+  year: 2026
+  link: https://cpsiotsec2026.github.io/
+  deadline: ["2026-06-30 23:59"]
+  date: November 15-19
+  place: The Hague, The Netherlands
+  tags: [SEC, PRIV, SHOP, OTHERS]
+  comment: Co-located with ACM CCS 2026
