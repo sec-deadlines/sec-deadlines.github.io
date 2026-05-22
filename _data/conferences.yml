@@ -1551,13 +1551,13 @@
   tags: [CRYPTO, SEC, SHOP, OTHERS]
 
 - name: HAIPS
-  description: Workshop on Human-Centered AI Privacy and Security
-  year: 2025
+  description: Workshop on Human-Centered Privacy and Security for Language Models
+  year: 2026
   link: https://haips.com
-  deadline: ["2025-06-20 23:59"]
-  comment: Co-located with ACM CCS 2025
-  date: October 17
-  place: Taipei, Taiwan
+  deadline: ["2026-06-23 23:59"]
+  comment: Co-located with COLM 2026
+  date: October 9
+  place: San Francisco, CA, USA
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: RICSS
