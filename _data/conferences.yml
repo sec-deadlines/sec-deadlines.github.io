@@ -1541,13 +1541,13 @@
 
 - name: OPTIMIST
   description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
-  year: 2025
-  link: https://optimist-ose.org/ches25
+  year: 2026
+  link: https://optimist-ose.org/ches26
   deadline:
-    - "2025-07-14 23:59"
-  comment: Co-located with CHES 25.
-  date: September 14
-  place: Kuala Lumpur, Malaysia
+    - "2026-06-21 23:59"
+  comment: Co-located with CHES 26.
+  date: October 11
+  place: Antalya, Türkiye
   tags: [CRYPTO, SEC, SHOP, OTHERS]
 
 - name: HAIPS
