@@ -477,14 +477,14 @@
 
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
-  year: 2026
-  link: https://acns2026.github.io/
+  year: 2027
+  link: https://acns2027.isg.rhul.ac.uk/
   dblp: https://dblp.org/db/conf/acns/index.html
   deadline:
-    - "2025-09-25 23:59"
-    - "2026-01-23 23:59"
-  date: June 22-25
-  place: New York, NY
+    - "2026-09-24 23:59"
+    - "2027-01-21 23:59"
+  date: June 28 - July 1
+  place: Royal Holloway, University of London, Egham, UK
   tags: [CRYPTO, SEC, CONF, CORE-B]
 
 - name: DIMVA
