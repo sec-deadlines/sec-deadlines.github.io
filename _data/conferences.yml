@@ -972,7 +972,7 @@
 - name: CPSIoTSec
   description: The Joint Workshop on CPS & IoT Security and Privacy
   year: 2026
-  link: https://cpsiotsec2026.github.io/
+  link: https://sites.google.com/view/cpsiotsec2026
   deadline: ["2026-06-30 23:59"]
   comment: In conjunction with ACM CCS 2026
   date: November 15-19
