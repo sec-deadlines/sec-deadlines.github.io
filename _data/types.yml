@@ -5,9 +5,21 @@
   tag: PRIV
 - name: Crypto
   tag: CRYPTO
-- name: A*
+- name: Security Top-4
   tag: TOP4
+- name: A*
+  tag: ASTAR
+- name: A
+  tag: CORE-A
+- name: B
+  tag: CORE-B
+- name: C
+  tag: CORE-C
+- name: National/Unranked
+  tag: OTHERS
 - name: Conference
   tag: CONF
 - name: Workshop
   tag: SHOP
+- name: Journal
+  tag: JRN
