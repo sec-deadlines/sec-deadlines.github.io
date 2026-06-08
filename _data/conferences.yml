@@ -1,14 +1,5 @@
 # Security and Privacy
 
-- name: ICETCS
-  description: 3rd International Conference on Emerging Trends in Cybersecurity
-  year: 2026
-  link: https://ritechs.org/conferences/ICETCS2026
-  deadline: ["2026-07-31 23:59"]  # Paper Submission Deadline
-  date: October 12-13
-  place: Genoa, Italy
-  tags: [SEC, CYBER, IOT, HARDWARE, CLOUD, BLOCKCHAIN, CONF]
-
 - name: S&P (Oakland)
   year: 2027
   date: TBA
@@ -889,6 +880,15 @@
     - "2026-08-15 23:59"
   date: "November 4-6"
   place: San Jose, CA, USA
+  tags: [SEC, CONF, OTHERS]
+
+- name: ICETCS
+  description: International Conference on Emerging Trends in Cybersecurity
+  year: 2026
+  link: https://ritechs.org/conferences/ICETCS2026
+  deadline: ["2026-07-31 23:59"]
+  date: October 12-13
+  place: Genoa, Italy
   tags: [SEC, CONF, OTHERS]
 
 # Workshops
