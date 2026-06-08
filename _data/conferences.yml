@@ -197,8 +197,8 @@
     - "%Y-11-30 23:59"
     - "%y-02-28 23:59"
   comment: Rolling deadline every quarter
-  date: TBA
-  place: TBA (Europe)
+  date: July 19-24
+  place: Delft, Netherlands
   tags: [PRIV, CONF, CORE-A]
 
 - name: SOUPS
