@@ -534,7 +534,7 @@
   tags: [CRYPTO, SEC, CONF, PRIV, OTHERS]
 
 - name: DBSec
-  description: Conference on Data and Applications Security and Privacy
+  description: IFIP WG 11.3 Conference on Data and Applications Security and Privacy
   year: 2026
   link: https://dbsec2026.gmu.edu/
   dblp: https://dblp.org/db/conf/dbsec/index.html
@@ -1237,12 +1237,12 @@
 
 - name: SECAI
   description: Workshop on Security and Artificial Intelligance
-  year: 2024
-  link: https://sites.google.com/view/secai2024
-  deadline: ["2024-06-29 23:59"]
-  comment: Co-located with ESORICS 2024
-  date: September 16-20
-  place: Bydgoszcz, Poland
+  year: 2026
+  link: https://sites.google.com/view/secai2026
+  deadline: ["2024-06-17 23:59"]
+  comment: Co-located with ESORICS 2026
+  date: September 17-18
+  place: Rome, Italy
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: ASHES
