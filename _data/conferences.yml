@@ -2056,3 +2056,13 @@
   place: The Hague, The Netherlands
   tags: [SEC, SHOP, OTHERS]
   comment: Co-located with CCS 2026
+
+- name: RASE
+  description: Workshop on Reliable and trustworthy Automated Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/home/ase-2026/rase-2026
+  comment: Co-located with ASE 2026
+  deadline: ["2026-07-24 23:59"]
+  date: October 12-16
+  place: Munich, Germany
+  tags: [SEC, SHOP, OTHERS]
