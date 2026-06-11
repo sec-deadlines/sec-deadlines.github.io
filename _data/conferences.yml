@@ -607,13 +607,13 @@
   tags: [SEC, CONF, CORE-B]
 
 - name: CRISIS
-  year: 2025
+  year: 2026
   description: International Conference on Risks and Security of Internet and Systems
-  link: https://crisis2025.uqo.ca
+  link: https://sites.google.com/view/crisis26
   dblp: https://dblp.org/db/conf/crisis/index.html
-  deadline: ["2025-07-15 23:59"]
-  date: October 22-24
-  place: Gatineau, Canada
+  deadline: ["2026-07-15 23:59"]
+  date: November 25-27
+  place: Rabat, Morocco
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: ProvSec
