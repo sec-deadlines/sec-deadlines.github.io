@@ -1970,14 +1970,15 @@
   place: Daejeon, South Korea
   tags: [SEC, PRIV, SHOP, OTHERS]
 
-- name: LightSEC
+- name: LightSec
   description: International Workshop on Lightweight Cryptography for Security and Privacy
-  year: 2025
-  date: September 01-03
-  link: https://www.encrypt-on.com/activities/conferences/lightsec-2025/
-  deadline: ["2025-04-18 23:59"]
-  place: Istanbul, Turkiye
-  tags: [SEC, PRIV, SHOP, OTHERS, CRYPTO]
+  year: 2026
+  link: https://lightsec2026.com/
+  dblp: https://dblp.org/db/conf/lightsec/index.html
+  deadline: ["2026-06-19 23:59"] # must be a list
+  date: October 11
+  place: Antalya, TR
+  tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
 - name: IFIP WNDSS
   description: IFIP International Workshop on Network and Distributed Systems Security
