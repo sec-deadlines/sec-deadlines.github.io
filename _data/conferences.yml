@@ -1972,11 +1972,11 @@
 
 - name: LightSEC
   description: International Workshop on Lightweight Cryptography for Security and Privacy
-  year: 2025
-  date: September 01-03
-  link: https://www.encrypt-on.com/activities/conferences/lightsec-2025/
-  deadline: ["2025-04-18 23:59"]
-  place: Istanbul, Turkiye
+  year: 2026
+  date: October 11
+  link: https://lightsec2026.com/
+  deadline: ["2026-06-19 23:59"]
+  place: Antalya, Turkiye
   tags: [SEC, PRIV, SHOP, OTHERS, CRYPTO]
 
 - name: IFIP WNDSS
