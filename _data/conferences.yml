@@ -898,9 +898,9 @@
   year: 2026
   link: https://superviz.inria.fr/anubis26/
   deadline:
-    - "2026-06-12 23:59"
+    - "2026-06-26 23:59"
   comment: Co-located with ESORICS 2026.
-  date: September 14-18
+  date: September 18
   place: Rome, Italy
   tags: [SEC, PRIV, SHOP, OTHERS]
 
