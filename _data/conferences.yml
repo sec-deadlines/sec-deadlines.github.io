@@ -1071,12 +1071,13 @@
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
-  year: 2025
-  link: http://jianying.space/WPES2025/
-  deadline: ["2025-07-07 23:59"]
+  year: 2026
+  link: https://wpes2026.github.io/
+  dblp: https://dblp.org/db/conf/wpes/index.html
+  deadline: ["2026-07-17 23:59"]
   comment: In conjunction with ACM CCS
-  date: October 13
-  place: Taipei, Taiwan
+  date: November 16
+  place: The Hague, The Netherlands
   tags: [PRIV, SHOP, OTHERS]
 
 - name: NSPW
