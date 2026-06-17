@@ -1079,6 +1079,17 @@
   place: Taipei, Taiwan
   tags: [PRIV, SHOP, OTHERS]
 
+- name: WPES
+  description: Workshop on Privacy in the Electronic Society
+  year: 2026
+  link: https://wpes2026.github.io/
+  dblp: https://dblp.org/db/conf/wpes/index.html
+  deadline: ["2026-07-17 23:59"]
+  comment: In conjunction with ACM CCS
+  date: November 16
+  place: The Hague, The Netherlands
+  tags: [PRIV, SHOP, OTHERS]
+
 - name: NSPW
   description: New Security Paradigms Workshop
   year: 2026
