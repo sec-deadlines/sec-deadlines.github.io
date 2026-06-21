@@ -902,6 +902,17 @@
   place: Genoa, Italy
   tags: [SEC, CONF, OTHERS]
 
+- name: uASC
+  description: Microarchitecture Security Conference
+  year: 2027
+  link: https://uasc.cc
+  deadline:
+    - "2026-07-28 23:59"
+    - "2026-10-27 23:59"
+  date: February 3-4
+  place: Amsterdam, Netherlands
+  tags: [SEC, PRIV, CONF, CRYPTO]
+
 # Workshops
 
 - name: ANUBIS
@@ -2078,14 +2089,3 @@
   date: October 12-16
   place: Munich, Germany
   tags: [SEC, SHOP, OTHERS]
-
-- name: uASC
-  description: Microarchitecture Security Conference
-  year: 2027
-  link: https://uasc.cc
-  deadline:
-    - "2026-07-28 23:59"
-    - "2026-10-27 23:59"
-  date: February 3-4
-  place: Amsterdam, Netherlands
-  tags: [SEC, PRIV, CONF, CRYPTO]
