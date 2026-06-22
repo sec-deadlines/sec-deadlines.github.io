@@ -446,12 +446,12 @@
 
 - name: SAC
   description: ACM/SIGAPP Symposium On Applied Computing
-  year: 2026
-  link: https://www.sigapp.org/sac/sac2026/
+  year: 2027
+  link: https://www.sigapp.org/sac/sac2027
   dblp: https://dblp.org/db/conf/sac/index.html
-  deadline: ["2025-10-17 23:59"]
-  date: March 23-27
-  place: Thessaloniki, Greece
+  deadline: ["2026-10-02 23:59"]
+  date: April 5-9
+  place: Gwangju, South Korea
   tags: [SEC, CONF, OTHERS]
 
 - name: ACSAC
