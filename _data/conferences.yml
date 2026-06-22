@@ -902,17 +902,6 @@
   place: Genoa, Italy
   tags: [SEC, CONF, OTHERS]
 
-- name: uASC
-  description: Microarchitecture Security Conference
-  year: 2027
-  link: https://uasc.cc
-  deadline:
-    - "2026-07-28 23:59"
-    - "2026-10-27 23:59"
-  date: February 3-4
-  place: Amsterdam, Netherlands
-  tags: [SEC, PRIV, CONF, CRYPTO]
-
 # Workshops
 
 - name: ANUBIS
@@ -1499,15 +1488,6 @@
   place: Lisbon, Portugal
   tags: [SEC, PRIV, SHOP, OTHERS]
 
-- name: Crypto Valley Conference
-  description: Crypto Valley Conference on Blockchain Technology 2025
-  year: 2025
-  link: https://cryptovalleyconference.com/call-for-papers
-  deadline: ["2025-03-13 23:59"]
-  date: June 5-6
-  place: Rotkreuz, Switzerland
-  tags: [SEC, PRIV, CRYPTO, CONF]
-
 - name: ACM SaT-CPS
   description: ACM Workshop on Secure and Trustworthy Cyber Physical Systems
   year: 2026
@@ -1540,13 +1520,13 @@
 
 - name: uASC
   description: Microarchitecture Security Conference
-  year: 2026
+  year: 2027
   link: https://uasc.cc
   deadline:
-    - "2025-07-15 23:59"
-    - "2025-11-04 23:59"
-  date: February 3
-  place: Leuven, Belgium
+    - "2026-07-28 23:59"
+    - "2026-10-27 23:59"
+  date: February 3-4
+  place: Amsterdam, Netherlands
   tags: [SEC, PRIV, CONF, CRYPTO]
 
 - name: HS3
