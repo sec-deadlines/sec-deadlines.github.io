@@ -903,6 +903,16 @@
   tags: [SEC, CONF, OTHERS]
 
 # Workshops
+- name: HumSec
+  description: Workshop on Human-Targeted Cyber Threats and Defenses
+  year: 2026
+  link: https://humsec26.github.io/
+  deadline: ["2026-07-10 23:59"]
+  date: September 18
+  comment: Co-located with ESORICS 2026
+  place: Rome, Italy
+  tags: [SEC, SHOP, OTHERS]
+
 
 - name: ANUBIS
   description: Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems
