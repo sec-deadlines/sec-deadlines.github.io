@@ -400,7 +400,7 @@
 - name: CHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
   year: 2027
-  link: https://ches.iacr.org/2026/
+  link: https://ches.iacr.org/2027/
   dblp: https://dblp.org/db/journals/tches/index.html
   deadline:
     - "%Y-07-15 23:59"
