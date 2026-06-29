@@ -268,12 +268,12 @@
 
 - name: Eurocrypt
   description: European Cryptology Conference
-  year: 2026
-  link: https://eurocrypt.iacr.org/2026/
+  year: 2027
+  link: https://eurocrypt.iacr.org/2027/
   dblp: https://dblp.org/db/conf/eurocrypt/index.html
-  deadline: ["2025-10-02 23:59"]
-  date: May 10-14
-  place: Rome, Italy
+  deadline: ["2025-09-17 23:59"]
+  date: April 11-15
+  place: Eindhoven, Netherlands
   tags: [CRYPTO, CONF, ASTAR]
 
 - name: SAC
