@@ -271,7 +271,7 @@
   year: 2027
   link: https://eurocrypt.iacr.org/2027/
   dblp: https://dblp.org/db/conf/eurocrypt/index.html
-  deadline: ["2025-09-17 23:59"]
+  deadline: ["2026-09-17 23:59"]
   date: April 11-15
   place: Eindhoven, Netherlands
   tags: [CRYPTO, CONF, ASTAR]
