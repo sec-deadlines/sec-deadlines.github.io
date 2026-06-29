@@ -677,13 +677,13 @@
 
 - name: CASCADE
   description: Constructive Approaches for Security Analysis and Design of Embedded Systems
-  year: 2026
-  link: https://cascade-conference.org/index.html
+  year: 2027
+  link: https://cascade-conference.org/
   deadline:
-    - "2025-06-27 23:59"
-    - "2025-12-05 23:59"
-  date: March 30 - April 1
-  place: Regensburg, Germany
+    - "2026-07-03 23:59"
+    - "2026-11-10 23:59"
+  date: April 4-7
+  place: Heilbronn, Germany
   tags: [CRYPTO, CONF, OTHERS]
 
 # Software Engineering (Research Track only)
