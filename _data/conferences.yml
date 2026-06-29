@@ -641,14 +641,14 @@
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
-  year: 2026
-  link: http://www.hostsymposium.org/
+  year: 2027
+  link: https://host.conferences.computer.org/2027/
   dblp: https://dblp.org/db/conf/host/index.html
   deadline:
-    - "2025-08-26 23:59"
-    - "2025-12-08 23:59"
+    - "2026-07-23 11:59"
+    - "2026-11-08 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
-  date: May 4-7
+  date: May 3-6
   place: Washington DC, USA
   tags: [SEC, CONF, OTHERS]
 
