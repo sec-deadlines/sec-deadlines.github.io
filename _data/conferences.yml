@@ -686,6 +686,16 @@
   place: Heilbronn, Germany
   tags: [CRYPTO, CONF, OTHERS]
 
+- name: DSC
+  description: IEEE Conference on Dependable and Secure Computing
+  year: 2026
+  link: https://attend.ieee.org/dsc-2025/dsc-2026/
+  deadline: ["2026-07-15 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: October 9-11
+  place: NYC, USA
+  tags: [SEC, CONF, OTHERS]
+
 # Software Engineering (Research Track only)
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
