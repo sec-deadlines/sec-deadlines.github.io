@@ -299,12 +299,12 @@
 
 - name: FC
   description: Financial Cryptography and Data Security
-  year: 2026
-  link: https://fc26.ifca.ai
+  year: 2027
+  link: https://fc27.ifca.ai/
   dblp: https://dblp.org/db/conf/fc/index.html
-  deadline: ["2025-09-20 23:59"]
-  date: March 2–6
-  place: St. Kitts
+  deadline: ["2026-09-17 23:59"]
+  date: February 8–12
+  place: Barbados
   tags: [SEC, CRYPTO, CONF, CORE-A]
 
 - name: AFT
