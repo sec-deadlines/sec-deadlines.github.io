@@ -88,15 +88,15 @@
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2026
-  link: https://www.ieee-security.org/TC/CSF2026/
+  year: 2027
+  link: https://www.ieee-security.org/TC/CSF2027/
   dblp: https://dblp.org/db/conf/csfw/index.html
   deadline:
-    - "2025-07-24 23:59"
-    - "2025-10-09 23:59"
-    - "2026-01-29 23:59"
-  date: July 26-29
-  place: Lisbon, Portugal
+    - "2026-08-08 23:59"
+    - "2026-10-15 23:59"
+    - "2027-01-28 23:59"
+  date: TBA
+  place: Tokyo, Japan
   tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: CANS
