@@ -689,7 +689,7 @@
 - name: DSC
   description: IEEE Conference on Dependable and Secure Computing
   year: 2026
-  link: https://attend.ieee.org/dsc-2025/dsc-2026/
+  link: https://attend.ieee.org/dsc/
   deadline: ["2026-07-15 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   date: October 9-11
