@@ -543,15 +543,15 @@
   place: Arlington, Virginia, USA
   tags: [CRYPTO, SEC, CONF, PRIV, CORE-B]
 
-- name: The Web Conference
-  description: International Conference on the World Wide Web
-  year: 2026
-  link: https://www2026.thewebconf.org
+- name: WWW
+  description: The ACM Web Conference
+  year: 2027
+  link: https://acmweb2027.org/
   dblp: https://dblp.org/db/conf/www/index.html
-  deadline: ["2025-10-07 23:59"]
-  comment: Abstract deadline September 30 AoE.
-  date: April 13-17
-  place: Dubai, United Arab Emirates
+  deadline: ["2026-10-18 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: May 10-14
+  place: Dublin, Ireland
   tags: [SEC, CONF, PRIV, ASTAR]
 
 - name: ATC
