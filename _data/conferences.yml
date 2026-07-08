@@ -917,8 +917,9 @@
   year: 2026 
   link: https://ispec2026.github.io/
   dblp: https://dblp.org/db/conf/ispec/index
-  deadline: ["2017-07-26 23:59"] # must be a list
-  deadline: ["2017-08-07 23:59"] # must be a list
+  deadline:
+    - "2026-07-01 23:59"
+    - "2026-08-07 23:59"
   date: November 6-8, 2026
   place: Xi'an, China
   tags: [SEC, PRIV, CONF, CORE-C]
