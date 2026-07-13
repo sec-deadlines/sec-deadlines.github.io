@@ -1,14 +1,4 @@
 # Security and Privacy
-- name: SECITC
-  description: International Conference on Security for Information Technology and Communications
-  year: 2026
-  link: https://secitc.eu/
-  dblp: https://dblp.uni-trier.de/db/conf/secitc/index.html
-  deadline: ["2026-09-07 23:59"] # must be a list
-  date: November 12-13
-  place: Bucharest, Romania
-  tags: [SEC, CRYPTO, CONF]
-
 - name: S&P (Oakland)
   year: 2027
   date: TBA
@@ -933,6 +923,17 @@
   place: Xi'an, China
   tags: [SEC, PRIV, CONF, CORE-C]
 
+- name: SECITC
+  description: International Conference on Security for Information Technology and Communications
+  year: 2026
+  link: https://secitc.eu/
+  dblp: https://dblp.uni-trier.de/db/conf/secitc/index.html
+  deadline: ["2026-09-07 23:59"] # must be a list
+  timezone: UTC
+  date: November 12-13
+  place: Bucharest, Romania
+  tags: [SEC, CRYPTO, CONF, OTHERS]
+
 # Workshops
 - name: HumSec
   description: Workshop on Human-Targeted Cyber Threats and Defenses
@@ -943,8 +944,6 @@
   comment: Co-located with ESORICS 2026
   place: Rome, Italy
   tags: [SEC, SHOP, OTHERS]
-
-
 
 - name: ANUBIS
   description: Assessment with New methodologies, Unified Benchmarks, and environments, of Intrusion detection and response Systems
