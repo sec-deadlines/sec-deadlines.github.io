@@ -1,4 +1,13 @@
 # Security and Privacy
+- name: SECITC
+  description: International Conference on Security for Information Technology and Communications
+  year: 2026
+  link: https://secitc.eu/
+  dblp: https://dblp.uni-trier.de/db/conf/secitc/index.html
+  deadline: ["2026-09-07 23:59"] # must be a list
+  date: November 12-13
+  place: Bucharest, Romania
+  tags: [SEC, CRYPTO, CONF]
 
 - name: S&P (Oakland)
   year: 2027
