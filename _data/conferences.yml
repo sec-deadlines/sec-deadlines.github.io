@@ -1101,13 +1101,13 @@
   tags: [SEC, SHOP, OTHERS]
 
 - name: ARTMAN
-  description: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN system
-  year: 2025
+  description: Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems
+  year: 2026
   link: https://artman-workshop.gitlab.io/
-  deadline: ["2025-07-03 23:59"]
-  comment: In conjunction with CCS
-  date: October 17
-  place: Taipei, Taiwan
+  deadline: ["2025-08-31 23:59"]
+  comment: In conjunction with ACSAC
+  date: December 8
+  place: Los Angeles, CA, USA
   tags: [SEC, SHOP, OTHERS]
 
 - name: DeFi
