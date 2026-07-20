@@ -1110,6 +1110,16 @@
   place: Taipei, Taiwan
   tags: [SEC, SHOP, OTHERS]
 
+- name: DeFi
+  description: Workshop on Decentralized Finance and Security
+  year: 2026
+  link: https://defiwork.shop/
+  deadline: ["2025-08-07 23:59"]
+  comment: In conjunction with ACM CCS
+  date: November 15-19
+  place: The Hague, Netherlands
+  tags: [SEC, CRYPTO, SHOP, OTHERS]
+
 - name: WPES
   description: Workshop on Privacy in the Electronic Society
   year: 2026
