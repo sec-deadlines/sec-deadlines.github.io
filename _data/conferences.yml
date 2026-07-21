@@ -1634,13 +1634,13 @@
   tags: [SEC, SHOP, OTHERS]
 
 - name: B4TI
-  description: Workshop on Blockchain for Decentralized Trust and Digital Identity
-  year: 2025
-  link: https://bcca-conference.org/2025/Workshops/b4ti.php
-  deadline: ["2025-07-30 23:59"]
-  comment: Co-located with BCCA 2025
-  date: October 14-17
-  place: Dubrovnik, Croatia
+  description: International Workshop on Blockchain for Decentralized Trust and Digital Identity
+  year: 2026
+  link: https://bcca-conference.org/2026/Workshops/b4ti.php
+  deadline: ["2026-08-31 23:59"]
+  comment: Co-located with BCCA 2026
+  date: November 16-20
+  place: Barcelona, Spain
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
 - name: SURE
