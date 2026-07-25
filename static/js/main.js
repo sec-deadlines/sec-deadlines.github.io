@@ -101,47 +101,98 @@ $(function() {
 
   $('.conf-container').append(confs);
 
-  // Read filter data from Jekyll
-  var filter1 = {{ site.data.filters.filter1 | jsonify }};
-  var filter2 = {{ site.data.filters.filter2 | jsonify }};
-  var filter3 = {{ site.data.filters.filter3 | jsonify }};
+  var domGroupKey = { filter1: 'domain', filter2: 'type', filter3: 'rank' };
+  var filterGroups = {
+    domain: {{ site.data.filters.filter1 | jsonify }},
+    type: {{ site.data.filters.filter2 | jsonify }},
+    rank: {{ site.data.filters.filter3 | jsonify }}
+  };
 
-  var all_tags = [];
+  var all_tags = Object.keys(filterGroups)
+    .reduce(function(acc, key) { return acc.concat(filterGroups[key]); }, [])
+    .map(function(item) { return item.tag; });
 
-  function processFilters(filters) {
-    for (var i = 0; i < filters.length; i++) {
-      all_tags.push(filters[i].tag);
-    }
+  var nameToTag = {};
+  var tagToName = {};
+  Object.keys(filterGroups).forEach(function(group) {
+    filterGroups[group].forEach(function(item) {
+      nameToTag[item.name] = item.tag;
+      tagToName[item.tag] = item.name;
+    });
+  });
+
+  function addUnique(array, value) {
+    if (array.indexOf(value) === -1) array.push(value);
   }
 
-  processFilters(filter1);
-  processFilters(filter2);
-  processFilters(filter3);
+  function getQueryParamParts(name) {  // URLSearchParams but for IE9
+    function decodeQueryComponent(value) {
+      value = value.replace(/\+/g, ' ');
+      try { return decodeURIComponent(value); }
+      catch (e) { return value; }
+    }
 
-  // Restore saved checkbox state
-  var tags = store.get('{{ site.domain }}');
-  if (!Array.isArray(tags)) {
-    tags = [];
+    var pairs = window.location.search.slice(1).split('&');
+
+    for (var i = 0; i < pairs.length; i++) {
+      var pair = pairs[i].split('=');
+      var key = pair.shift();
+
+      if (decodeQueryComponent(key) === name) {
+        return pair.join('=').split(',').map(decodeQueryComponent);
+      }
+    }
+
+    return null;
+  }
+
+  function readSelectionFromUrl() {
+    var found = false;
+    var selected = { domain: [], type: [], rank: [] };
+    Object.keys(filterGroups).forEach(function(group) {
+      var names = getQueryParamParts(group);
+      if (names === null) return;
+
+      found = true;
+
+      names.forEach(function(name) {
+        var tag = nameToTag[name];
+        if (tag) addUnique(selected[group], tag);
+      });
+    });
+    return found ? selected : null;
+  }
+
+  var initialSelection = readSelectionFromUrl();
+  var initialTags;
+  if (initialSelection) {
+    initialTags = [];
+    Object.keys(initialSelection).forEach(function(group) {
+      initialSelection[group].forEach(function(tag) {
+        initialTags.push(tag);
+      });
+    });
+  } else {
+    initialTags = store.get('{{ site.domain }}');
+    if (!Array.isArray(initialTags)) {
+      initialTags = [];
+    }
   }
 
   for (var i = 0; i < all_tags.length; i++) {
     var tag = all_tags[i];
-    $('#' + tag + '-checkbox').prop('checked', tags.includes(tag));
+    $('#' + tag + '-checkbox').prop('checked', initialTags.indexOf(tag) !== -1);
   }
 
   function getSelectedFiltersFromDOM() {
-    var selected = {
-      filter1: new Set(),
-      filter2: new Set(),
-      filter3: new Set()
-    };
+    var selected = { domain: [], type: [], rank: [] };
 
     $('.filter-checkbox:checked').each(function() {
       var tag = $(this).attr('id').replace('-checkbox', '');
-      var filterGroup = $(this).data('filter-group');
+      var filterGroup = domGroupKey[$(this).data('filter-group')];
 
       if (filterGroup && selected[filterGroup]) {
-        selected[filterGroup].add(tag);
+        addUnique(selected[filterGroup], tag);
       }
     });
 
@@ -156,6 +207,36 @@ $(function() {
     store.set('{{ site.domain }}', selectedTags);
   }
 
+  function updateUrlFromSelection() {
+    var selected = getSelectedFiltersFromDOM();
+    var queryParts = [];
+
+    Object.keys(filterGroups).forEach(function(group) {
+      var encodedNames = [];
+
+      selected[group].forEach(function(tag) {
+        var name = tagToName[tag];
+        if (name) encodedNames.push(encodeURIComponent(name));
+      });
+
+      if (encodedNames.length > 0) {
+        queryParts.push(
+          encodeURIComponent(group) + '=' + encodedNames.join(',')
+        );
+      }
+    });
+
+    var query = queryParts.join('&');
+    var newUrl =
+      window.location.pathname +
+      (query ? '?' + query : '') +
+      window.location.hash;
+
+    if (window.history && window.history.replaceState) {  // IE9 won't support
+      window.history.replaceState(null, '', newUrl);
+    }
+  }
+
   function updateConfList() {
     var selectedFilters = getSelectedFiltersFromDOM();
 
@@ -166,7 +247,7 @@ $(function() {
       Object.keys(selectedFilters).forEach(function(filterGroup) {
         if (!show) return;
 
-        if (selectedFilters[filterGroup].size > 0) {
+        if (selectedFilters[filterGroup].length > 0) {
           var hasTag = false;
 
           selectedFilters[filterGroup].forEach(function(tag) {
@@ -188,7 +269,11 @@ $(function() {
   $('.filter-checkbox').on('change', function() {
     saveSelectedTags();
     updateConfList();
+    updateUrlFromSelection();
   });
 
+  // Apply the initial selection, persist it to the store so it survives a
+  // bare-URL revisit, and sync the URL to reflect the current filters.
   updateConfList();
+  updateUrlFromSelection();
 });
