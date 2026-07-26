@@ -274,6 +274,7 @@ $(function() {
 
   // Apply the initial selection, persist it to the store so it survives a
   // bare-URL revisit, and sync the URL to reflect the current filters.
+  if (initialSelection) saveSelectedTags();
   updateConfList();
   updateUrlFromSelection();
 });
