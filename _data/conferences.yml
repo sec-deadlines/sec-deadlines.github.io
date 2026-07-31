@@ -332,7 +332,7 @@
   year: 2027
   link: https://pkc.iacr.org/2027/
   dblp: https://dblp.org/db/conf/pkc/index.html
-  deadline: ["2026-08-03 23:59"]
+  deadline: ["2026-08-16 23:59"]
   date: March 1-4
   place: Taipei, Taiwan
   tags: [CRYPTO, CONF, CORE-B]
