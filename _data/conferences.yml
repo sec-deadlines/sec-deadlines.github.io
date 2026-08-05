@@ -384,7 +384,7 @@
 - name: FSE
   description: IACR Transactions on Symmetric Cryptology
   year: 2027
-  link: https://tosc.iacr.org/
+  link: https://fse.iacr.org/2027/
   dblp: https://dblp.org/db/journals/tosc/index.html
   deadline:
     - "%Y-03-01 23:59"
@@ -392,8 +392,8 @@
     - "%Y-09-01 23:59"
     - "%Y-11-23 23:59"
   comment: Rolling deadline every quarter
-  date: TBD
-  place: TBD
+  date: May 24-28
+  place: Maastricht, Netherlands
   tags: [CRYPTO, CONF, CORE-B, JRN]
 
 - name: CHES
@@ -407,8 +407,8 @@
     - "%y-01-15 23:59"
     - "%y-04-15 23:59"
   comment: Rolling deadline every quarter
-  date: TBD
-  place: TBD
+  date: September 6–9
+  place: Cancún, Mexico
   tags: [CRYPTO, CONF, JRN, CORE-A]
 
 - name: C&C
