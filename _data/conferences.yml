@@ -76,11 +76,10 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2026
-  comment: Abstract registration required (1 week before deadline AoE).
-  link: https://eurosp2026.ieee-security.org/
+  year: 2027
+  link: https://eurosp2027.ieee-security.org/
   dblp: https://dblp.org/db/conf/eurosp/index.html
-  deadline: ["2025-11-20 23:59"]
+  deadline: ["2026-11-20 23:59"]
   date: "July 6 - 10"
   place: Lisbon, Portugal
   tags: [SEC, PRIV, CONF, CORE-A]
@@ -728,8 +727,8 @@
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
   year: 2027
   link: https://conf.researchr.org/home/issta-2027
-  deadline: ["2026-01-11 23:59"]
-  comment: Abstract registration deadline January 8 (AoE).
+  deadline: ["2027-01-11 23:59"]
+  comment: Mandatory abstract submission deadline January 8, 2027 (AoE).
   date: September 7 - 10
   place: Singapore
   tags: [SEC, CONF, CORE-A]
@@ -1755,10 +1754,10 @@
 
 - name: ACSW
   description: Workshop on Automotive Cyber-Security
-  year: 2025
+  year: 2026
   comment: Co-Located with IEEE European Symposium on Security and Privacy
   link: https://acsw.unimore.it/
-  deadline: ["2026-3-12 23:59"]
+  deadline: ["2026-03-19 23:59"]
   date: July 10
   place: Lisbon, Portugal
   tags: [SEC, PRIV, SHOP, OTHERS]
