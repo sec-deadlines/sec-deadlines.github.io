@@ -726,11 +726,12 @@
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2026
-  link: https://conf.researchr.org/home/issta-2026
-  deadline: ["2026-01-29 23:59"]
-  date: October 3 - 9
-  place: Oakland, CA, USA
+  year: 2027
+  link: https://conf.researchr.org/home/issta-2027
+  deadline: ["2026-01-11 23:59"]
+  comment: Abstract registration deadline January 8 (AoE).
+  date: September 7 - 10
+  place: Singapore
   tags: [SEC, CONF, CORE-A]
 
 # Others, less frequently updated
