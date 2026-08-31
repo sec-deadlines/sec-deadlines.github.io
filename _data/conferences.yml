@@ -605,6 +605,15 @@
   place: Baltimore, USA
   tags: [SEC, PRIV, CONF, OTHERS]
 
+- name: SAIS
+  description: USENIX Conference on Secure Agentic-AI Systems
+  year: 2027
+  link: https://www.usenix.org/conference/sais27
+  deadline: ["2027-02-04 23:59"]
+  date: June 7–8
+  place: Santa Clara, CA, USA
+  tags: [SEC, PRIV, CONF, OTHERS]
+
 - name: NCA
   description: International Symposium on Network Computing and Applications
   year: 2026
