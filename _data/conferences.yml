@@ -1,4 +1,17 @@
 # Security and Privacy
+
+- name: SACMAT
+  description: ACM Symposium on Access Control Models and Technologies
+  year: 2027
+  link: https://www.sacmat.org/2027/
+  dblp: https://dblp.org/db/conf/sacmat/index.html
+  deadline: 
+    - "2026-10-30 23:59"
+    - "2027-02-12 23:59"
+  date: July 19-21
+  place: Durham, England, United Kingdom
+  tags: [CRYPTO, SEC, CONF, PRIV, CORE-C]
+  
 - name: S&P (Oakland)
   year: 2027
   date: May 17-20
