@@ -715,6 +715,16 @@
   place: NYC, USA
   tags: [SEC, CONF, OTHERS]
 
+- name: ISDFS
+  description: International Symposium on Digital Forensics and Security
+  year: 2027
+  link: https://www.isdfs.org/2027/
+  dblp: https://dblp.org/db/conf/isdfs/index.html
+  deadline: ["2027-01-31 23:59"]
+  date: March 25-26
+  place: San Jose, CA, USA
+  tags: [SEC, PRIV, CONF, OTHERS]
+
 # Software Engineering (Research Track only)
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
