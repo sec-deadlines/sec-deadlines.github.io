@@ -77,13 +77,13 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2026
+  year: 2027
   comment: Abstract registration required (1 week before deadline AoE).
-  link: https://eurosp2026.ieee-security.org/
+  link: https://eurosp2027.ieee-security.org/
   dblp: https://dblp.org/db/conf/eurosp/index.html
-  deadline: ["2025-11-20 23:59"]
-  date: "July 6 - 10"
-  place: Lisbon, Portugal
+  deadline: ["2026-12-02 23:59"]
+  date: "July 5 - 9"
+  place: Madrid, Spain
   tags: [SEC, PRIV, CONF, CORE-A]
   
 - name: CSF
