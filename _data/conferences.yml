@@ -1203,13 +1203,13 @@
 
 - name: SpaceSec
   description: Workshop on the Security of Space and Satellite Systems
-  year: 2026
+  year: 2027
   link: https://spacesec.info/
   comment: Co-located with NDSS Symposium
   deadline:
-    - "2025-11-16 23:59"
-  date: February 23
-  place: San Diego, California, USA
+    - "2026-12-06 23:59"
+  date: March 22-26
+  place: Seoul, South Korea
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
 - name: MADWeb
