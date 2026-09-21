@@ -1,5 +1,16 @@
 # Security and Privacy
   
+- name: HUNTCON
+  description: European Threat Hunting Conference
+  year: 2027
+  link: https://huntcon.fr
+  deadline:
+    - "2026-11-30 23:59"
+  timezone: Europe/Paris
+  date: March 4-5
+  place: Nanterre, France
+  tags: [SEC, CONF, OTHERS]
+
 - name: S&P (Oakland)
   year: 2027
   date: May 17-20
