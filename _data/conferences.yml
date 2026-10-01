@@ -245,13 +245,12 @@
 
 - name: PST
   description: Annual International Conference on Privacy, Security, and Trust
-  year: 2026
-  link: https://pstnet.ca/pst2026
+  year: 2027
+  link: https://pstnet.ca/pst2027
   dblp: https://dblp.org/db/conf/pst/index.html
-  deadline: ["2026-04-28 23:59"]
-  comment: Co-located with SAC 2026.
-  date: August 26-28
-  place: Ottawa, Canada
+  deadline: ["2027-04-10 23:59"]
+  date: August 25-27
+  place: Sheffield, UK
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: APF
