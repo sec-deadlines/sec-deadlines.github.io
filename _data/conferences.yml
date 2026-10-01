@@ -535,13 +535,13 @@
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
-  year: 2026
-  link: http://www.codaspy.org/2026/
+  year: 2027
+  link: http://www.codaspy.org/2027/
   dblp: https://dblp.org/db/conf/codaspy/index.html
-  deadline: ["2026-01-02 23:59"]
+  deadline: ["2026-11-23 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
-  date: June 23-25
-  place: Frankfurt am Main, Germany
+  date: June 14-17
+  place: Fort Collins, CO, USA
   tags: [CRYPTO, SEC, CONF, PRIV, OTHERS]
 
 - name: DBSec
