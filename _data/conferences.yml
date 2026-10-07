@@ -360,14 +360,14 @@
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
-  year: 2026
+  year: 2027
   link: https://secrypt.scitevents.org
   dblp: https://dblp.org/db/conf/secrypt/index.html
   deadline:
-     - "2026-03-03 23:59"
-     - "2026-04-16 23:59"
-  date: July 16-18
-  place: Porto, Portugal
+     - "2027-02-16 23:59"
+     - "2027-03-25 23:59"
+  date: July 20-22
+  place: Rome, Italy
   tags: [SEC, CRYPTO, CONF, CORE-C]
 
 - name: AfricaCrypt
