@@ -422,6 +422,15 @@
   place: Cancún, Mexico
   tags: [CRYPTO, CONF, JRN, CORE-A]
 
+- name: CiC
+  description: IACR Communications in Cryptology
+  year: 2026
+  link: https://cic.iacr.org/page/callforpapers
+  deadline: ["2026-10-26 23:59"]
+  timezone: Etc/GMT+12
+  comment: "Volume 3, Issue 4; journal submission round"
+  tags: [CRYPTO, JRN]
+
 - name: C&C
   description: IMA International Conference on Cryptography and Coding
   year: 2026
