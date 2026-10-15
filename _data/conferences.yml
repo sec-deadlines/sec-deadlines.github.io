@@ -609,13 +609,15 @@
 
 - name: VehicleSec
   description: USENIX Symposium on Vehicle Security and Privacy
-  year: 2026
-  link: https://www.usenix.org/conference/vehiclesec26
+  year: 2027
+  link: https://www.usenix.org/conference/vehiclesec27
   dblp: https://dblp.org/db/conf/vehiclesec/index.html
-  comment: Co-located with USENIX Security 2026
-  deadline: ["2026-02-24 23:59"]
-  date: August 10-11
-  place: Baltimore, USA
+  comment: Co-located with USENIX Security 2027
+  deadline:
+    - "2026-12-15 23:59"
+    - "2027-03-11 23:59"
+  date: August 9-10
+  place: Denver, CO, USA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: SAIS
