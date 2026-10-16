@@ -660,16 +660,15 @@
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: IMC
-  year: 2026
+  year: 2027
   description: ACM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2026/
+  link: https://conferences.sigcomm.org/imc/2027/
   dblp: https://dblp.org/db/conf/imc/index.html
   deadline:
-    - "2025-11-20 23:59"
-    - "2026-04-29 23:59"
+    - "2026-11-17 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
-  date: November 3-6
-  place: Karlsruhe, Germany
+  date: October 25-29
+  place: Atlanta, GA, USA
   tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: HOST
