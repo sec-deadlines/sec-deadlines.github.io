@@ -597,12 +597,12 @@
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: PAM
-  year: 2026
-  date: "March 23-25"
+  year: 2027
+  date: "March 22-24"
   description: Passive and Active Measurement Conference
   dblp: https://dblp.org/db/conf/pam/index.html
-  link: https://pam2026.at/
-  deadline: ["2025-10-08 23:59"]
+  link: https://pam2027.furg.br/
+  deadline: ["2026-11-06 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   place: Virtual
   tags: [SEC, PRIV, CONF, CORE-B]
