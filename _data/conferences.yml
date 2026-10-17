@@ -512,13 +512,14 @@
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
   year: 2026
-  link: https://www.dimva.org/dimva2026/
+  link: https://www.dimva.org/dimva2027/
   dblp: https://dblp.org/db/conf/dimva/index.html
   deadline:
-    - "2025-12-03 23:59"
-    - "2026-02-11 23:59"
-  date: July 01-03
-  place: Chania, Greece
+    - "2026-12-10 23:59"
+    - "2027-02-18 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: June 30 - July 2
+  place: Enschede, The Netherlands
   tags: [SEC, CONF, CORE-B]
 
 - name: SACMAT
