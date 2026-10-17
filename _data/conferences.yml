@@ -511,7 +511,7 @@
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2026
+  year: 2027
   link: https://www.dimva.org/dimva2027/
   dblp: https://dblp.org/db/conf/dimva/index.html
   deadline:
