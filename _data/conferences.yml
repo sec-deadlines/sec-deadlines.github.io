@@ -1,4 +1,15 @@
 # Security and Privacy
+
+- name: PrivaCI
+  year: 2027
+  date: June 10-11
+  description: The 9th Annual PrivaCI symposiumm 
+  link: https://privaci.info/symposium/2027/cfp.html
+  deadline: 
+      - "2027-03-05 23:59"
+      - "2027-03-12 23:59"
+  place: Quebec, Canada
+  tags: [PRIV, CONF]
   
 - name: S&P (Oakland)
   year: 2027
