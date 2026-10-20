@@ -1568,11 +1568,11 @@
 
 - name: WEIS
   description: Workshop on the Economics of Information Security
-  year: 2025
-  link: http://kmlabcw.iis.u-tokyo.ac.jp/weis/2025/
-  deadline: ["2025-01-31 23:59"]
-  date: June 23-25
-  place: Tokyo, Japan
+  year: 2027
+  link: https://weis2027.econinfosec.org/
+  deadline: ["2027-01-21 23:59"]
+  date: June 16-17 or June 30-July 1 (tentative)
+  place: Munich, Germany
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: SeRIM
