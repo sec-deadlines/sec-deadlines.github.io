@@ -123,12 +123,12 @@
 
 - name: IFIP SEC
   description: IFIP International Information Security and Privacy Conference
-  year: 2026
+  year: 2027
   link: https://ifipsec.org/cfp.html
   dblp: https://dblp.org/db/conf/sec/index.html
-  deadline: ["2025-12-19 23:59"]
-  date: June 9 - 11
-  place: Perth, Australia
+  deadline: ["2026-12-15 23:59"]
+  date: June 14 - 16
+  place: Linköping, Sweden
   tags: [SEC, CONF, CORE-B]
 
 - name: ISC
