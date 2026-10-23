@@ -162,13 +162,15 @@
   tags: [SEC, PRIV, CRYPTO, CONF, CORE-B]
 
 - name: SecureComm
-  year: 2026
-  date: July 21-24
-  description: International Conference on Security and Privacy in Communication Networks
-  link: https://securecomm.eai-conferences.org/2026/
+  year: 2027
+  date: October 15-18
+  description: EAI International Conference on Security and Privacy in Communication Networks​
+  link: https://securecomm.eai-conferences.org/2027/
   dblp: https://dblp.org/db/conf/securecomm/index.html
-  deadline: ["2026-01-15 23:59"]
-  place: Lancaster, United Kingdom
+  deadline:
+    - "2027-02-01 23:59"
+    - "2027-04-15 23:59"
+  place: Hefei, China
   tags: [SEC, CONF, CORE-C]
 
 - name: SSS
