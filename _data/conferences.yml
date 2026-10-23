@@ -372,12 +372,12 @@
 
 - name: AfricaCrypt
   description: International Conference on Cryptography Africa
-  year: 2026
-  link: https://www.africacrypt2026.tn/
+  year: 2027
+  link: https://africacrypt2027.ci/call-for-papers
   dblp: https://dblp.org/db/conf/africacrypt/index.html
-  deadline: ["2026-03-01 23:59"]
-  date: July 08-10
-  place: Hammamet, Tunisia
+  deadline: ["2027-01-15 23:59"]
+  date: July 7-9
+  place: "Abidjan, Côte d'Ivoire"
   tags: [CRYPTO, CONF, OTHERS]
 
 # Don't delete Latincrypt since it is often once every few years
