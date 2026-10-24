@@ -238,11 +238,11 @@
   
 - name: PrivaCI
   description: The Annual Symposium on Applications of Contextual Integrity
-  year: 2026
-  link: https://privaci.info/symposium/2026/cfp.html
-  deadline: ["2026-02-13 23:59"]
-  date: June 24-25
-  place: Urbana-Champaign, USA
+  year: 2027
+  link: https://privaci.info/symposium/2027/cfp.html
+  deadline: ["2027-03-05 23:59"]
+  date: June 10-11
+  place: Quebec City, Canada
   tags: [PRIV, CONF, OTHERS]
 
 - name: PST
