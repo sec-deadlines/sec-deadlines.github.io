@@ -1521,12 +1521,12 @@
 
 - name: PQCrypto
   description: International Conference on Post-Quantum Cryptography
-  year: 2026
-  link: https://pqcrypto2026.irisa.fr/
-  deadline: ["2025-11-07 23:59"]
-  comment: Initial submission with abstract required Oct 31st.
-  date: April 14-16
-  place: Saint-Malo, France
+  year: 2027
+  link: https://pqcrypto2027.ca/
+  deadline: ["2026-11-24 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: May 12-14
+  place: Waterloo, Canada
   tags: [CRYPTO, CONF]
 
 - name: WAITI
