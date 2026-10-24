@@ -873,11 +873,11 @@
 
 - name: ITASEC
   description: Italian Conference on Cybersecurity
-  year: 2025
+  year: 2027
   link: https://itasec.it/
-  deadline: ["2024-12-09 23:59"]
-  date: February 3-8
-  place: Bologna, IT
+  deadline: ["2026-10-30 23:59"]
+  date: February 8-12
+  place: Siena, Tuscany, Italy
   tags: [SEC, CONF, OTHERS]
 
 - name: ICSC
