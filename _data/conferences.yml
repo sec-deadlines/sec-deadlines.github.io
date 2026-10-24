@@ -815,11 +815,11 @@
 
 - name: NSS-SocialSec
   description: International Conference on Network and System Security and International Symposium on Security and Privacy in Social Networks and Big Data
-  year: 2024
-  link: http://nsclab.org/nss-socialsec2024/index.html
-  deadline: ["2024-07-01 23:59"]
-  date: Nov 20-22
-  place: Abu Dhabi, UAE
+  year: 2026
+  link: https://nsclab.org/nss2026/
+  deadline: ["2026-09-30 23:59"]
+  date: October 30 - November 1
+  place: Hangzhou, China
   tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: IMF
