@@ -2191,3 +2191,12 @@
   place: Los Angeles, California
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
+- name: MarCaS
+  description: IEEE LCN Special Track on Maritime Communication and Security
+  year: 2027
+  comment: In conjunction with IEEE LCN 2027
+  link: https://www.lcn-marcas.org
+  deadline: ["2027-05-02 23:59"]
+  date: October 18-21
+  place: Daytona Beach, FL, USA
+  tags: [SEC, PRIV, CONF, OTHERS]
