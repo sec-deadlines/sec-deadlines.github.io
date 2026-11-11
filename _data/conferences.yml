@@ -2201,7 +2201,7 @@
   place: Daytona Beach, FL, USA
   tags: [SEC, CONF, OTHERS]
 
-  - name: SPAIML
+- name: SPAIML
   description: 2nd International Workshop on Security and Privacy-Preserving AI/ML
   year: 2027
   comment: In conjunction with ACM TRUST 2027.
