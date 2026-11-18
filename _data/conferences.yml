@@ -755,11 +755,11 @@
 
 - name: ASE
   description: IEEE/ACM Automated Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/ase-2026
-  deadline: ["2026-03-26 23:59"]
-  date: October 12 - 16 
-  place: Munich, Germany
+  year: 2027
+  link: https://conf.researchr.org/home/ase-2027
+  deadline: ["2027-03-10 23:59"]
+  date: October 24 - 28 
+  place: El Paso, Texas, United States
   tags: [SEC, CONF, ASTAR]
 
 # Change name to FSE, but FSE is already used for the IACR Conference on Fast Software Encryption (FSE)
