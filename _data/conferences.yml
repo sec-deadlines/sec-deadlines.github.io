@@ -745,12 +745,12 @@
 # Software Engineering (Research Track only)
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
-  year: 2027
-  link: https://conf.researchr.org/home/icse-2027
-  deadline: ["2026-06-30 23:59"]
+  year: 2028
+  link: https://conf.researchr.org/home/icse-2028
+  deadline: ["2027-07-01 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
-  date: April 25 - May 1
-  place: Dublin, Ireland
+  date: April 29 - May 7
+  place: Hawaii, USA
   tags: [SEC, CONF, ASTAR]
 
 - name: ASE
