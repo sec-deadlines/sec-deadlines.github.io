@@ -2210,3 +2210,14 @@
   date: March 7-9
   place: Washington, D.C., USA
   tags: [SEC, PRIV, SHOP, OTHERS]
+
+- name: ADIoT
+  description: The International Conference on Attacks and Defenses for Internet-of-Things
+  year: 2026
+  link: https://adiot.sptagelab.org/2026/
+  deadline: ["2026-11-21 23:59"]
+  timezone: Asia/Shanghai
+  date: December 18-20
+  place: Hangzhou, China
+  tags: [SEC, CONF, OTHERS]
+
