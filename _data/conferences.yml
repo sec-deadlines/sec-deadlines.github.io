@@ -2085,11 +2085,11 @@
 
 - name: IFIP WNDSS
   description: IFIP International Workshop on Network and Distributed Systems Security
-  year: 2025
+  year: 2027
   link: https://ifiptc11.org/wg114-events/wg114-workshop
-  deadline: ["2025-01-31 23:59"]
-  date: May 23
-  place: Maribor, Slovenia
+  deadline: ["2026-12-22 23:59"]
+  date: June 15-16
+  place: Linköping, Sweden
   tags: [SEC, SHOP, OTHERS]
 
 - name: Sensors S&P
