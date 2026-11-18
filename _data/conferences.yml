@@ -1297,14 +1297,14 @@
 
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
-  year: 2026
-  link: https://www.usenix.org/conference/woot26/call-for-papers
-  comment: Co-located with USENIX Security; up-and-coming track deadline is Mar 3 (cycle-2)
+  year: 2027
+  link: https://www.usenix.org/conference/woot27/call-for-papers
+  comment: Co-located with USENIX Security
   deadline: 
-    - "2025-12-12 23:59"
-    - "2026-03-03 23:59"
-  date: August 10–11
-  place: Baltimore, MD, USA
+    - "2026-12-17 23:59"
+    - "2027-03-02 23:59"
+  date: August 9–10
+  place: Denver, CO, USA
   tags: [SEC, PRIV, CRYPTO, CONF]
 
 - name: SafeThings
