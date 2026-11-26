@@ -1264,13 +1264,13 @@
 
 - name: LAST-X
   description: Workshop on LLM Assisted Security and Trust Exploration
-  year: 2026
-  link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-last-x/
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/submissions/cfp-last-x/
   comment: Co-located with NDSS Symposium
   deadline:
-    - "2025-12-10 23:59"
-  date: February 27
-  place: San Diego, California, USA
+    - "2026-12-15 23:59"
+  date: March 22-26
+  place: Seoul, South Korea
   tags: [SEC, SHOP, OTHERS]
 
 - name: USEC
@@ -1286,14 +1286,36 @@
 
 - name: PRISM
   description: Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment
-  year: 2026
-  link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-prism/
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/submissions/cfp-prism/
   comment: Co-located with NDSS Symposium
   deadline:
-    - "2025-12-15 23:59"
-  date: February 23
-  place: San Diego, California, USA
+    - "2027-01-08 23:59"
+  date: March 22
+  place: Seoul, South Korea
   tags: [SEC, PRIV, SHOP, OTHERS]
+
+- name: SafeOSE
+  description: Workshop on Security, Privacy, and Trust in Open-Source Ecosystems and Standards
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/submissions/cfp-safeose/
+  comment: Co-located with NDSS Symposium
+  deadline:
+    - "2026-12-10 23:59"
+  date: March 22
+  place: Seoul, South Korea
+  tags: [SEC, PRIV, SHOP, OTHERS]
+
+- name: STALA
+  description: Workshop on Security Testing and Assurance for LLMs and Agents
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/submissions/cfp-stala/
+  comment: Co-located with NDSS Symposium
+  deadline:
+    - "2026-12-11 23:59"
+  date: March 22
+  place: Seoul, South Korea
+  tags: [SEC, SHOP, OTHERS]
 
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
