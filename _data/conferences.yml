@@ -581,12 +581,12 @@
 
 - name: ATC
   description: ACM SIGOPS Annual Technical Conference
-  year: 2026
-  link: https://sigops.org/s/conferences/atc/2026/index.html
+  year: 2027
+  link: https://atc.sigops.org/2027/
   dblp: https://dblp.org/db/conf/usenix/index.html
-  deadline: ["2026-06-10 23:59"]
-  date: November 15-18
-  place: Shatin, Hong Kong
+  deadline: ["2027-01-19 23:59"]
+  date: June 28 - July 1
+  place: Rennes, France
   tags: [SEC, CONF, PRIV, CORE-A]
 
 - name: eCrime
