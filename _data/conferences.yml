@@ -2146,12 +2146,12 @@
   
 - name: ADND
   description: Workshop on Active Defense and Deception
-  year: 2026
+  year: 2027
   link: https://adnd.work
-  deadline: ["2026-06-25 23:59"]
-  date: September 18
-  comment: Co-located with ESORICS 2026
-  place: Rome, Italy
+  deadline: ["2027-02-27 23:59"]
+  date: July 9
+  comment: Co-located with IEEE EuroS&P 2027
+  place: Madrid, Spain
   tags: [SEC, SHOP, OTHERS]
 
 - name: XR Security
